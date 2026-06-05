@@ -25,6 +25,7 @@ console.log(`Processing ${candidates.length} candidates...`);
 
 const updatedCandidates = candidates.map(c => {
   let vehicles = '';
+  let jewelry = '';
   let land = '';
   let immovableAssetsDetails = {
     agricultural: '',
@@ -44,6 +45,35 @@ const updatedCandidates = candidates.map(c => {
         // Extract vehicles
         if (rawData.movable_assets && rawData.movable_assets["Motor Vehicles (details of make, etc.)"]) {
           vehicles = cleanValue(rawData.movable_assets["Motor Vehicles (details of make, etc.)"].self);
+        }
+
+        // Extract jewelry
+        if (rawData.movable_assets && rawData.movable_assets["Jewellery (give details weight value)"]) {
+          let rawJewelry = cleanValue(rawData.movable_assets["Jewellery (give details weight value)"].self);
+          if (rawJewelry) {
+            let cleaned = rawJewelry.replace(/(?:Rs\.?\/?-?\s*)?[\d,.]+\s*(?:Lacs?\+?|Crores?\+?|Cr|Lakhs?|Lakh|Thou\+?|Thousand\+?)\b/gi, '');
+            cleaned = cleaned.replace(/(?:Rs\.?\/?-?\s*)[\d,.]+\b/gi, '');
+            cleaned = cleaned.replace(/\b\d{5,}\b/g, ''); 
+            cleaned = cleaned.replace(/\b\d{1,3}(?:,\d{2,3})+\b/g, '');
+
+            const regex = /((?:\d+[.,]?\d*\s*(?:grams?|gms?|kg|soverigns?|sovereigns?|ct|carrots?|carats?)\s*)?(?:gold|silver|diamond|platinum|jeweller[a-z]*|jewel|vairam|thangam)\s*(?:\d+[.,]?\d*\s*(?:grams?|gms?|kg|soverigns?|sovereigns?|ct|carrots?|carats?))?)/gi;
+            const matches = cleaned.match(regex);
+            
+            if (matches) {
+              jewelry = matches.map((m, i) => {
+                let text = m.trim().replace(/,/g, '');
+                let materialMatch = text.match(/(gold|silver|diamond|platinum|jeweller[a-z]*|jewel)/i);
+                let material = materialMatch ? materialMatch[0].toUpperCase() : 'JEWELRY';
+                
+                let weightMatch = text.match(/(\d+[.,]?\d*)\s*(grams?|gms?|kg|soverigns?|sovereigns?|ct|carrots?|carats?)/i);
+                let weight = weightMatch ? `${weightMatch[1]}${weightMatch[2].toLowerCase()}` : '';
+                
+                return weight ? `${i + 1}. ${material} - ${weight}` : `${i + 1}. ${material}`;
+              }).join(' ');
+            } else {
+              jewelry = rawJewelry;
+            }
+          }
         }
 
         // Extract land & properties
@@ -91,6 +121,7 @@ const updatedCandidates = candidates.map(c => {
   return {
     ...c,
     vehicles: vehicles || 'Nil',
+    jewelry: jewelry || 'Nil',
     land: land || 'Nil',
     immovableAssetsDetails,
     pendingCasesDetails

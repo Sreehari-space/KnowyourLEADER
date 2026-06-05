@@ -189,19 +189,39 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
   };
 
   const formatLandData = (rawText?: string) => {
-    if (!rawText || rawText.toLowerCase() === 'nil') return 'Nil';
+    if (!rawText || rawText.toLowerCase() === 'nil') return lang === 'en' ? 'Nil' : 'ஏதுமில்லை';
     const entries = rawText.split(/(?:Thou\+|Lacs\+|Crore\+|Crores\+)/i);
     const parsed = entries.map(entry => {
       if (!entry.trim()) return null;
       const totalAreaMatch = entry.match(/Total Area\s+([^\s]+\s+[a-zA-Z.]+)/i);
       const area = totalAreaMatch ? totalAreaMatch[1] : '';
       let location = entry.split(/Total Area/i)[0].trim();
+      
+      // Remove leading junk
       location = location.replace(/^\s*[\d,]+\s*/, '').replace(/^[A-Za-z0-9.]+:\s*/, '').trim();
+      
+      // Strip survey, plot, block, ward numbers
+      location = location.replace(/\b(?:S\.?F\.?\s*No\.?|S\.?No\.?|Plot\s*No\.?|Block\s*No\.?|Ward\s*No\.?|TS\s*No\.?|Patta\s*No\.?).*$/i, '');
+      
+      // Clean up trailing commas, hyphens, and spaces
+      location = location.replace(/[,-\s]+$/, '').trim();
+      
       if (!location) return null;
       return area ? `${location} (Area: ${area})` : location;
     }).filter(Boolean);
+    
     if (parsed.length === 0) return rawText;
-    return parsed.join(' • ');
+    
+    return (
+      <span className="flex flex-col space-y-1 mt-1">
+        {parsed.map((item, index) => (
+          <span key={index} className="block leading-snug">
+            <span className="font-bold opacity-70 mr-1">{index + 1}.</span>
+            {item}
+          </span>
+        ))}
+      </span>
+    );
   };
 
   return (
@@ -461,15 +481,14 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                         {candidate.land ? formatLandData(candidate.land) : (lang === 'en' ? 'Nil' : 'ஏதுமில்லை')}
                       </p>
                     </div>
-                    
-                    {candidate.jewelry && candidate.jewelry !== 'Nil' && (
-                      <div className="bg-indigo-50/50 rounded-xl p-4 border border-indigo-100">
-                        <h4 className="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-2 flex items-center space-x-2">
-                          <span>💎</span> <span>{lang === 'en' ? 'Jewelry & Gold' : 'நகைகள்'}</span>
-                        </h4>
-                        <p className="text-sm text-indigo-900 font-semibold leading-relaxed">{candidate.jewelry}</p>
-                      </div>
-                    )}
+                    <div className="bg-indigo-50/50 rounded-xl p-4 border border-indigo-100">
+                      <h4 className="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-2 flex items-center space-x-2">
+                        <span>💎</span> <span>{lang === 'en' ? 'Jewelry & Gold' : 'நகைகள்'}</span>
+                      </h4>
+                      <p className="text-sm text-indigo-900 font-semibold leading-relaxed">
+                        {candidate.jewelry && candidate.jewelry !== 'Nil' ? candidate.jewelry : (lang === 'en' ? 'Nil' : 'ஏதுமில்லை')}
+                      </p>
+                    </div>
                   </div>
                   
                   <div className="space-y-6 relative z-10 mt-6">
@@ -652,14 +671,14 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                   </div>
                   
                   {/* Jewelry */}
-                  {candidate.jewelry && candidate.jewelry !== 'Nil' && (
-                    <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs md:col-span-2">
-                      <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
-                        <span>💎</span> <span>{lang === 'en' ? 'Jewelry & Gold' : '\u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bcd'}</span>
-                      </p>
-                      <p className="text-sm font-semibold text-slate-800 leading-snug">{candidate.jewelry}</p>
-                    </div>
-                  )}
+                  <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs md:col-span-2">
+                    <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
+                      <span>💎</span> <span>{lang === 'en' ? 'Jewelry & Gold' : '\u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bcd'}</span>
+                    </p>
+                    <p className="text-sm font-semibold text-slate-800 leading-snug">
+                      {candidate.jewelry && candidate.jewelry !== 'Nil' ? candidate.jewelry : (lang === 'en' ? 'Nil' : 'ஏதுமில்லை')}
+                    </p>
+                  </div>
                 </div>
 
                 {/* Criminal Record */}
