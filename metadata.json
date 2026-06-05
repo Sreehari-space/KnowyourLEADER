@@ -1,0 +1,6 @@
+{
+  "name": "TN Election Affidavits",
+  "description": "An interactive, highly transparent candidate affidavit and asset portal for the 2026 Tamil Nadu election, accessible for all age groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

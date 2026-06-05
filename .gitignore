@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+source/
+*.xlsx
+*.csv
+verification_report.json
+missing_data.txt

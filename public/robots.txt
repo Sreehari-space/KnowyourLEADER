@@ -1,0 +1,12 @@
+# High-Performance Search Crawling Rules for TN Election Affidavit Explorer
+# Optimized for Googlebot region-weighting and deep-link index matches.
+
+User-agent: *
+Allow: /
+Allow: /party/*
+Allow: /candidate/*
+Allow: /dashboard
+Allow: /compare
+# Host & Sitemap specification
+Host: https://knowyourleader.in
+Sitemap: https://knowyourleader.in/sitemap.xml
