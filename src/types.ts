@@ -60,9 +60,6 @@ export interface Candidate {
   cartoonImage: string | null;
   jsonFile: string;
   sourceJsonFile: string;
-  partyColor?: string;
-  elected?: boolean;
-  photoUrl?: string;
   vehicles?: string;
   land?: string;
   immovableAssetsDetails?: ImmovableAssetsDetails;
