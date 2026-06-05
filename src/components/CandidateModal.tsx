@@ -176,21 +176,16 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
   const formatVehicleData = (rawText?: string) => {
     if (!rawText || rawText.toLowerCase() === 'nil' || rawText === 'Not Applicable') return lang === 'en' ? 'None Declared' : 'ஏதுமில்லை';
     
-    // Attempt to strip out license plates
-    let cleaned = rawText.replace(/[A-Z]{2}\s?-?\d{1,2}\s?-?[A-Z]{1,2}\s?-?\d{1,4}/g, '');
+    let cleaned = rawText.replace(/[A-Z]{2}\s?-?\d{1,2}\s?-?[A-Z]{1,2}\s?-?\d{1,4}/gi, '');
+    cleaned = cleaned.replace(/\b[\d,.]+\b/g, '  ');
+    cleaned = cleaned.replace(/\b(?:Thou\+|Lacs?\+?|Crores?\+?|Cr|Lakhs?|Lakh|Rs\.?)(?:\s|$)/gi, '  ');
+    cleaned = cleaned.replace(/\*?\(?Value Not Given\)?/gi, '  ');
+    cleaned = cleaned.replace(/Purchase Date.*?(?=\s|[A-Z]|$)/i, '  ');
+    cleaned = cleaned.replace(/Value\s*\d*/gi, '  ');
     
-    // Strip out prices/values including Thou+
-    cleaned = cleaned.replace(/(?:Rs\.?\s*)?[\d,.]+\s*(?:Lacs?\+?|Crores?\+?|Cr|Lakhs?|Lakh|Thou\+?)?/gi, '');
+    let vehicles = cleaned.split(/\s{2,}/).map(s => s.replace(/[-*0:;+]+/g, '').trim()).filter(s => s.length > 2);
     
-    // Strip out specific phrases
-    cleaned = cleaned.replace(/\*?\(?Value Not Given\)?/gi, '');
-    cleaned = cleaned.replace(/Purchase Date.*$/i, '');
-    cleaned = cleaned.replace(/Value\s+\d+/gi, '');
-    
-    // Clean up extra spaces, hyphens, and weird dangling characters
-    cleaned = cleaned.replace(/[-*0:;]+/g, ' ').replace(/\s{2,}/g, ' ').trim();
-    
-    return cleaned || (lang === 'en' ? 'None Declared' : 'ஏதுமில்லை');
+    return vehicles.length > 0 ? vehicles.join(' • ') : (lang === 'en' ? 'None Declared' : 'ஏதுமில்லை');
   };
 
   const formatLandData = (rawText?: string) => {
