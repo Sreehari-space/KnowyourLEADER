@@ -209,19 +209,6 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
     return parsed.join(' • ');
   };
 
-  const formatLandData = (rawText?: string, district?: string) => {
-    if (!rawText || rawText.toLowerCase() === 'nil' || rawText === 'Not Applicable') return lang === 'en' ? 'No land declared' : 'நிலம் ஏதுமில்லை';
-    
-    // Match something like "Total Area 5 acre" or "Area 1200 sq ft"
-    const match = rawText.match(/(?:Total Area|Area)\s*([\d.]+\s*(?:acres?|sq\s*ft|sq|cents?|hectares?))/i);
-    if (match && match[1]) {
-      const d = district || 'candidate\'s';
-      return lang === 'en' ? `Total of ${match[1].trim()} in ${d} district` : `${d} மாவட்டத்தில் மொத்தம் ${match[1].trim()}`;
-    }
-    
-    return lang === 'en' ? 'Area details unavailable' : 'நிலத்தின் அளவு விவரங்கள் இல்லை';
-  };
-
   return (
     <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm flex items-center justify-center z-50 md:p-6 overflow-hidden animate-fade-in print:p-0 print:bg-white" id="cand-modal-container">
       <div 
