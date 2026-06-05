@@ -4,6 +4,7 @@
  */
 
 import React, { useEffect } from 'react';
+import { Helmet } from 'react-helmet-async';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import MetricsDashboard from '../components/MetricsDashboard';
 import { TRANSLATIONS } from '../data/translations';
@@ -15,15 +16,26 @@ interface DashboardProps {
 }
 
 export default function Dashboard({ candidates, lang, fontSize }: DashboardProps) {
-  useEffect(() => {
-    document.title = lang === 'en'
-      ? 'Electoral Analytics Dashboard | KnowyourLeader'
-      : 'புள்ளிவிவரத் தரவு | KnowyourLeader';
-  }, [lang]);
+  const pageTitle = lang === 'en'
+    ? 'Electoral Analytics Dashboard | KnowyourLeader'
+    : 'புள்ளிவிவரத் தரவு | KnowyourLeader';
+  const pageDesc = lang === 'en' 
+    ? 'Data-driven visual insights on candidate net worth, education profiles, and criminal record distributions.'
+    : 'வேட்பாளர்களின் சொத்துக்கள் மற்றும் கிரிமினல் வழக்குகளின் புள்ளிவிவர தரவு.';
 
   return (
-    <main className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
-      <MetricsDashboard candidates={candidates} lang={lang} fontSize={fontSize} />
-    </main>
+    <>
+      <Helmet>
+        <title>{pageTitle}</title>
+        <meta name="description" content={pageDesc} />
+        <link rel="canonical" href="https://knowyourleader.in/dashboard" />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDesc} />
+        <meta property="og:url" content="https://knowyourleader.in/dashboard" />
+      </Helmet>
+      <main className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
+        <MetricsDashboard candidates={candidates} lang={lang} fontSize={fontSize} />
+      </main>
+    </>
   );
 }

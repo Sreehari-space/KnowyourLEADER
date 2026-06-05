@@ -5,6 +5,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import { TRANSLATIONS } from '../data/translations';
 import CandidateCard from '../components/CandidateCard';
@@ -112,8 +113,19 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
   const allPartiesList = Array.from(new Set(candidates.map(c => c.party)));
   const activeFilterCount = [filterParty !== 'ALL', filterEducation !== 'ALL', filterCriminal !== 'ALL'].filter(Boolean).length;
 
+  const pageTitle = lang === 'en' ? 'Affidavit Directory - KnowyourLeader' : 'பிரமாணப் பத்திரப் பட்டியல் - KnowyourLeader';
+  const pageDescription = lang === 'en' ? 'Explore and filter the complete database of candidate declarations, net worth, and criminal cases.' : 'வேட்பாளர்களின் சொத்துக்கள் மற்றும் கிரிமினல் வழக்குகளின் முழுமையான தரவுத்தளத்தை ஆராயுங்கள்.';
+
   return (
     <div className="w-full">
+      <Helmet>
+        <title>{pageTitle}</title>
+        <meta name="description" content={pageDescription} />
+        <link rel="canonical" href="https://knowyourleader.in/affidavits" />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:url" content="https://knowyourleader.in/affidavits" />
+      </Helmet>
       <main className="max-w-7xl mx-auto px-4 md:px-8 pt-10 pb-16 min-h-[80vh] space-y-10">
         <div className="space-y-8 animate-fade-in">
           {/* Header & Search */}

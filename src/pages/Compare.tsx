@@ -5,6 +5,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import ComparisonView from '../components/ComparisonView';
 
@@ -22,12 +23,12 @@ export default function Compare({ candidates, lang, fontSize }: CompareProps) {
   const [compareLeftId, setCompareLeftId] = useState<string>('');
   const [compareRightId, setCompareRightId] = useState<string>('');
 
-  useEffect(() => {
-    document.title = lang === 'en'
-      ? 'Candidate Comparison | KnowyourLeader'
-      : 'வேட்பாளர் ஒப்பீடு | KnowyourLeader';
-  }, [lang]);
-
+  const pageTitle = lang === 'en'
+    ? 'Candidate Comparison | KnowyourLeader'
+    : 'வேட்பாளர் ஒப்பீடு | KnowyourLeader';
+  const pageDesc = lang === 'en'
+    ? 'Side-by-side comparison of candidate profiles, assets, and liabilities.'
+    : 'வேட்பாளர்களின் சொத்துக்கள் மற்றும் கடன்களின் நேரடி ஒப்பீடு.';
   useEffect(() => {
     let newLeftId = leftParam || compareLeftId;
     let newRightId = rightParam || compareRightId;
@@ -57,16 +58,26 @@ export default function Compare({ candidates, lang, fontSize }: CompareProps) {
   };
 
   return (
-    <main className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
-      <ComparisonView
-        candidates={candidates}
-        lang={lang}
-        fontSize={fontSize}
-        selectedLeftId={compareLeftId}
-        selectedRightId={compareRightId}
-        onChangeLeft={handleLeftChange}
-        onChangeRight={handleRightChange}
-      />
-    </main>
+    <>
+      <Helmet>
+        <title>{pageTitle}</title>
+        <meta name="description" content={pageDesc} />
+        <link rel="canonical" href="https://knowyourleader.in/compare" />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDesc} />
+        <meta property="og:url" content="https://knowyourleader.in/compare" />
+      </Helmet>
+      <main className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
+        <ComparisonView
+          candidates={candidates}
+          lang={lang}
+          fontSize={fontSize}
+          selectedLeftId={compareLeftId}
+          selectedRightId={compareRightId}
+          onChangeLeft={handleLeftChange}
+          onChangeRight={handleRightChange}
+        />
+      </main>
+    </>
   );
 }

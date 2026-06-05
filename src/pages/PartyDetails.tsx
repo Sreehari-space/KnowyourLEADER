@@ -1,11 +1,11 @@
 import React from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import CandidateCard from '../components/CandidateCard';
 import { FORMAT_CURRENCY } from '../data/candidates';
 import { ArrowLeft, Users, Landmark, ShieldAlert, Trophy } from 'lucide-react';
 import { TRANSLATIONS } from '../data/translations';
-
 interface PartyDetailsProps {
   candidates: Candidate[];
   lang: LanguageSetting;
@@ -37,9 +37,23 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
     }
   };
 
+  const pageTitle = `${partyKey} Candidates & Assets 2026 | KnowyourLeader`;
+  const pageDescription = lang === 'en' 
+    ? `View ${partyCandidates.length} candidate declarations for ${partyKey}. Total declared assets: ${FORMAT_CURRENCY(totalAssets, lang)}.` 
+    : `${partyKey} கட்சியின் வேட்பாளர்கள் மற்றும் சொத்து விவரங்கள்.`;
+
   return (
-    <main className={`max-w-7xl mx-auto px-4 md:px-8 py-8 sm:py-12 min-h-[70vh] animate-fade-in ${getGlobalFontSizeClass()}`}>
-      {/* Back Button */}
+    <>
+      <Helmet>
+        <title>{pageTitle}</title>
+        <meta name="description" content={pageDescription} />
+        <link rel="canonical" href={`https://knowyourleader.in/party/${partyKey}`} />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:url" content={`https://knowyourleader.in/party/${partyKey}`} />
+      </Helmet>
+      <main className={`max-w-7xl mx-auto px-4 md:px-8 py-8 sm:py-12 min-h-[70vh] animate-fade-in ${getGlobalFontSizeClass()}`}>
+        {/* Back Button */}
       <button 
         onClick={() => navigate(-1)}
         className="mb-8 flex items-center space-x-2 text-neutral-500 hover:text-neutral-900 transition-colors font-bold text-sm"
@@ -125,5 +139,6 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
         )}
       </div>
     </main>
+    </>
   );
 }

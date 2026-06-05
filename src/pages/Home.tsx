@@ -5,6 +5,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import { FORMAT_CURRENCY } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
@@ -68,99 +69,57 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
 
 
 
-  // Dynamic SEO
-  useEffect(() => {
-    let title = '';
-    let description = '';
-    let keywords = '';
-    let canonical = 'https://knowyourleader.in';
-    let schemaJson: any = null;
-    const url = new URL(window.location.href);
+  // Dynamic SEO values
+  let pageTitle = '';
+  let pageDescription = '';
+  let pageKeywords = '';
+  let canonicalUrl = 'https://knowyourleader.in';
+  let schemaJson: any = null;
 
-    if (activeDetailedCandidate) {
-      const cName = activeDetailedCandidate.name;
-      const cParty = activeDetailedCandidate.party;
-      const cConst = activeDetailedCandidate.constituency.split('(')[0]?.trim() || activeDetailedCandidate.constituency;
-      const cWorth = activeDetailedCandidate.netWorth;
-      let cWorthStr = activeDetailedCandidate.netWorthFormatted;
-      const cCases = activeDetailedCandidate.caseCount;
+  if (activeDetailedCandidate) {
+    const cName = activeDetailedCandidate.name;
+    const cParty = activeDetailedCandidate.party;
+    const cConst = activeDetailedCandidate.constituency.split('(')[0]?.trim() || activeDetailedCandidate.constituency;
+    const cWorth = activeDetailedCandidate.netWorth;
+    let cWorthStr = activeDetailedCandidate.netWorthFormatted;
+    const cCases = activeDetailedCandidate.caseCount;
 
-      url.searchParams.set('candidate', activeDetailedCandidate.id);
-      url.searchParams.delete('tab');
-      canonical = `https://knowyourleader.in/?candidate=${activeDetailedCandidate.id}`;
+    canonicalUrl = `https://knowyourleader.in/?candidate=${activeDetailedCandidate.id}`;
 
-      if (lang === 'en') {
-        title = `${cName} (${cParty}) - Net Worth, Assets & Criminal Cases | KnowyourLeader`;
-        description = `View verified ECI Form 26 self-declarations for ${cName} (${cParty}), candidate in ${cConst}, Tamil Nadu. Net Worth: ${cWorthStr}, Pending Cases: ${cCases}.`;
-        keywords = `${cName} net worth, ${cName} assets, ${cName} criminal cases, ${cName} affidavit`;
-      } else {
-        title = `${cName} (${cParty}) - சொத்து மதிப்பு & நிலுவை வழக்குகள் | KnowyourLeader`;
-        description = `${cConst} தொகுதி வேட்பாளர் ${cName} (${cParty}) அவர்களின் சொத்து விவரங்கள் மற்றும் ${cCases} நிலுவையில் கிரிமினல் வழக்குகள்.`;
-        keywords = `${cName} சொத்துக்கள் 2026, ${cName} கிரிமினல் வழக்கு`;
-      }
-
-      schemaJson = {
-        "@context": "https://schema.org",
-        "@type": "Person",
-        "name": cName,
-        "jobTitle": "Political Candidate for Legislative Assembly",
-        "memberOf": { "@type": "Organization", "name": cParty },
-        "description": description,
-        "mainEntityOfPage": canonical,
-      };
+    if (lang === 'en') {
+      pageTitle = `${cName} (${cParty}) - Net Worth, Assets & Criminal Cases | KnowyourLeader`;
+      pageDescription = `View verified ECI Form 26 self-declarations for ${cName} (${cParty}), candidate in ${cConst}, Tamil Nadu. Net Worth: ${cWorthStr}, Pending Cases: ${cCases}.`;
+      pageKeywords = `${cName} net worth, ${cName} assets, ${cName} criminal cases, ${cName} affidavit`;
     } else {
-      url.searchParams.delete('candidate');
-      canonical = 'https://knowyourleader.in';
-      title = lang === 'en'
-        ? 'KnowyourLeader — Tamil Nadu Candidate Transparency Portal 2026'
-        : 'KnowyourLeader — தமிழ்நாடு வேட்பாளர் வெளிப்படைத்தன்மை தளம் 2026';
-      description = t.appSubtitle;
-      keywords = 'Tamil Nadu election 2026, candidate affidavits, political assets database';
+      pageTitle = `${cName} (${cParty}) - சொத்து மதிப்பு & நிலுவை வழக்குகள் | KnowyourLeader`;
+      pageDescription = `${cConst} தொகுதி வேட்பாளர் ${cName} (${cParty}) அவர்களின் சொத்து விவரங்கள் மற்றும் ${cCases} நிலுவையில் கிரிமினல் வழக்குகள்.`;
+      pageKeywords = `${cName} சொத்துக்கள் 2026, ${cName} கிரிமினல் வழக்கு`;
     }
 
-    window.history.replaceState({}, '', url.toString());
-    document.title = title;
-
-    const syncMeta = (selector: string, attr: string, value: string) => {
-      let node = document.querySelector(selector);
-      if (node) { node.setAttribute(attr, value); }
-      else {
-        const el = document.createElement('meta');
-        if (selector.startsWith('meta[name=')) el.setAttribute('name', selector.slice(10, -1));
-        else if (selector.startsWith('meta[property=')) el.setAttribute('property', selector.slice(14, -1));
-        el.setAttribute(attr, value);
-        document.head.appendChild(el);
-      }
+    schemaJson = {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": cName,
+      "jobTitle": "Political Candidate for Legislative Assembly",
+      "memberOf": { "@type": "Organization", "name": cParty },
+      "description": pageDescription,
+      "mainEntityOfPage": canonicalUrl,
     };
-
-    syncMeta('meta[name="description"]', 'content', description);
-    syncMeta('meta[name="keywords"]', 'content', keywords);
-    syncMeta('meta[property="og:title"]', 'content', title);
-    syncMeta('meta[property="og:description"]', 'content', description);
-    syncMeta('meta[property="og:url"]', 'content', url.toString());
-    syncMeta('meta[property="twitter:title"]', 'content', title);
-    syncMeta('meta[property="twitter:description"]', 'content', description);
-
-    let linkCanonical = document.querySelector('link[rel="canonical"]');
-    if (linkCanonical) linkCanonical.setAttribute('href', canonical);
-    else {
-      const link = document.createElement('link');
-      link.setAttribute('rel', 'canonical');
-      link.setAttribute('href', canonical);
-      document.head.appendChild(link);
-    }
-
-    let schemaNode = document.getElementById('seo-schema');
-    if (schemaNode) {
-      schemaNode.innerHTML = JSON.stringify(schemaJson || {
-        "@context": "https://schema.org",
-        "@type": "WebApplication",
-        "name": "KnowyourLeader",
-        "description": "Public transparency portal for Tamil Nadu candidate data.",
-        "areaServed": "Tamil Nadu, India"
-      }, null, 2);
-    }
-  }, [activeDetailedCandidate, lang]);
+  } else {
+    canonicalUrl = 'https://knowyourleader.in';
+    pageTitle = lang === 'en'
+      ? 'KnowyourLeader — Tamil Nadu Candidate Transparency Portal 2026'
+      : 'KnowyourLeader — தமிழ்நாடு வேட்பாளர் வெளிப்படைத்தன்மை தளம் 2026';
+    pageDescription = t.appSubtitle;
+    pageKeywords = 'Tamil Nadu election 2026, candidate affidavits, political assets database';
+    schemaJson = {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "KnowyourLeader",
+      "description": "Public transparency portal for Tamil Nadu candidate data.",
+      "areaServed": "Tamil Nadu, India"
+    };
+  }
 
   // Handlers
   const handleSaveCandidate = (newCand: Candidate) => {
@@ -211,6 +170,20 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
 
   return (
     <div className="w-full">
+      <Helmet>
+        <title>{pageTitle}</title>
+        <meta name="description" content={pageDescription} />
+        <meta name="keywords" content={pageKeywords} />
+        <link rel="canonical" href={canonicalUrl} />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:url" content={canonicalUrl} />
+        <meta property="twitter:title" content={pageTitle} />
+        <meta property="twitter:description" content={pageDescription} />
+        <script type="application/ld+json">
+          {JSON.stringify(schemaJson)}
+        </script>
+      </Helmet>
 
       {/* ===== HERO SECTION ===== */}
       <header className="hero-section-wrapper px-4 md:px-8 max-w-7xl mx-auto select-none pt-8 sm:pt-16 pb-4 sm:pb-10">
