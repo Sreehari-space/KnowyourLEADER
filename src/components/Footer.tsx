@@ -16,7 +16,9 @@ export default function Footer({ lang }: FooterProps) {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#050505] text-neutral-400 select-none border-t border-white/5 relative overflow-hidden" id="site-footer">
+    <footer>
+      <div className="hidden sm:block">
+        <footer className="bg-[#050505] text-neutral-400 select-none border-t border-white/5 relative overflow-hidden" id="site-footer">
       
       {/* Subtle Background Glow */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-4xl h-px bg-gradient-to-r from-transparent via-white/20 to-transparent"></div>
@@ -139,6 +141,22 @@ export default function Footer({ lang }: FooterProps) {
             </a>
           </div>
         </div>
+      </div>
+        </footer>
+      </div>
+
+      {/* Mobile footer */}
+      <div className="m-footer-override sm:hidden border-t border-neutral-200 bg-[#FCFBF9]">
+        <div className="m-footer-links">
+          <a href="/affidavits">{lang === 'en' ? 'Directory' : 'பட்டியல்'}</a>
+          <a href="/dashboard">{lang === 'en' ? 'Dashboard' : 'டாஷ்போர்டு'}</a>
+          <a href="/compare">{lang === 'en' ? 'Compare' : 'ஒப்பிடு'}</a>
+        </div>
+        <p className="m-footer-legal">
+          {lang === 'en'
+            ? 'Data sourced from ECI Form 26 affidavits. Not affiliated with any political party or government body.'
+            : 'தரவு ECI படிவம் 26 உறுதிமொழிகளிலிருந்து. எந்த அரசியல் கட்சியுடனும் தொடர்பில்லை.'}
+        </p>
       </div>
     </footer>
   );

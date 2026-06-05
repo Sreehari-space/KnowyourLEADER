@@ -10,6 +10,7 @@ import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import { FORMAT_CURRENCY } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
 import CandidateCard from '../components/CandidateCard';
+import MobileCandidateRow from '../components/MobileCandidateRow';
 import CandidateModal from '../components/CandidateModal';
 import ConstituencyMap from '../components/ConstituencyMap';
 import { ErrorBoundary } from '../components/ErrorBoundary';
@@ -43,6 +44,30 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
   const [filterCriminal, setFilterCriminal] = useState<'ALL' | 'CLEAN' | 'HAS_CASES'>('ALL');
   const [sortBy, setSortBy] = useState<'name' | 'assets_high' | 'assets_low' | 'cases_high' | 'age'>('name');
   const [showFilters, setShowFilters] = useState(false);
+
+  // Mobile: sticky search visibility
+  const [stickyVisible, setStickyVisible] = useState(false);
+
+  // Mobile: constituency sheet
+  const [sheetCandidate, setSheetCandidate] = useState<Candidate | null>(null);
+
+  // Mobile: expanded card id
+  const [expandedCardId, setExpandedCardId] = useState<string | null>(null);
+
+  // Mobile: active party filter chip
+  const [mobilePartyFilter, setMobilePartyFilter] = useState<string>('ALL');
+
+  // Scroll listener for sticky search
+  useEffect(() => {
+    const onScroll = () => {
+      const hero = document.querySelector('.hero-section-wrapper');
+      if (!hero) return;
+      const { bottom } = hero.getBoundingClientRect();
+      setStickyVisible(bottom < 0);
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
 
   // Compare
 
@@ -137,6 +162,32 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
     .sort((a, b) => b.netWorth - a.netWorth)
     .slice(0, 20);
 
+  // Mobile party filter data — derived from candidates
+  const partyStats = React.useMemo(() => {
+    const map: Record<string, { seats: number; color: string }> = {};
+    candidates.forEach(c => {
+      if (c.elected !== true && c.isWinner !== true) return;
+      if (!map[c.party]) map[c.party] = { seats: 0, color: c.partyColor || '#888' };
+      map[c.party].seats++;
+    });
+    return Object.entries(map)
+      .sort((a, b) => b[1].seats - a[1].seats)
+      .slice(0, 7)
+      .map(([code, val]) => ({ code, ...val }));
+  }, [candidates]);
+
+  // Mobile filtered top candidates
+  const mobileTopCandidates = React.useMemo(() => {
+    let list = topCandidates;
+    if (mobilePartyFilter !== 'ALL') {
+      list = candidates
+        .filter(c => c.party === mobilePartyFilter)
+        .sort((a, b) => b.netWorth - a.netWorth)
+        .slice(0, 20);
+    }
+    return list;
+  }, [topCandidates, candidates, mobilePartyFilter]);
+
   // Stats for ticker
   const totalNetWorth = candidates.reduce((s, c) => s + c.netWorth, 0);
   const totalCases = candidates.reduce((s, c) => s + c.caseCount, 0);
@@ -184,6 +235,24 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
           {JSON.stringify(schemaJson)}
         </script>
       </Helmet>
+
+      {/* Mobile sticky search — appears after hero scrolls out */}
+      <div className={`m-sticky-search sm:hidden ${stickyVisible ? 'visible' : ''}`}>
+        <form onSubmit={handleSearchSubmit} className="m-sticky-search-inner">
+          <Search className="w-4 h-4 text-neutral-400 flex-shrink-0" />
+          <input
+            className="m-sticky-search-input"
+            placeholder={lang === 'en' ? 'Search candidate or constituency…' : 'பெயர் அல்லது தொகுதி தேடவும்…'}
+            value={searchQuery}
+            onChange={e => setSearchQuery(e.target.value)}
+          />
+          {searchQuery && (
+            <button type="button" onClick={() => setSearchQuery('')}>
+              <X className="w-3.5 h-3.5 text-neutral-400" />
+            </button>
+          )}
+        </form>
+      </div>
 
       {/* ===== HERO SECTION ===== */}
       <header className="hero-section-wrapper px-4 md:px-8 max-w-7xl mx-auto select-none pt-8 sm:pt-16 pb-4 sm:pb-10">
@@ -256,8 +325,8 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
           ))}
         </div>
 
-        {/* Stats Ticker */}
-        <div className="max-w-3xl mx-auto mt-6 sm:mt-10">
+        {/* Stats Ticker — desktop (sm and up) */}
+        <div className="hidden sm:block max-w-3xl mx-auto mt-6 sm:mt-10">
           <div className="flex items-center justify-start sm:justify-center flex-nowrap overflow-x-auto pb-2 sm:pb-0 gap-3 sm:gap-6 text-[10px] sm:text-xs font-mono font-bold text-neutral-400 tracking-tight scrollbar-hide px-4 whitespace-nowrap">
             <div className="flex items-center space-x-1.5 shrink-0">
               <Users className="w-3.5 h-3.5 text-neutral-400" />
@@ -276,8 +345,38 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
           </div>
         </div>
 
+        {/* Stats Bar — mobile only */}
+        <div className="m-stats-scroll sm:hidden mt-4">
+          <div className="m-stat-chip">
+            <span className="m-stat-value">4023</span>
+            <span className="m-stat-label">{lang === 'en' ? 'Candidates' : 'வேட்பாளர்'}</span>
+          </div>
+          <div className="m-stat-chip">
+            <span className="m-stat-value">234</span>
+            <span className="m-stat-label">{lang === 'en' ? 'Constituencies' : 'தொகுதிகள்'}</span>
+          </div>
+          <div className="m-stat-chip">
+            <span className="m-stat-value">{totalCases.toLocaleString()}</span>
+            <span className="m-stat-label">{lang === 'en' ? 'Cases Filed' : 'வழக்குகள்'}</span>
+          </div>
+          <div className="m-stat-chip">
+            <span className="m-stat-value">{cleanCount}</span>
+            <span className="m-stat-label">{lang === 'en' ? 'Clean Record' : 'தூய பதிவு'}</span>
+          </div>
+        </div>
+
+        {/* Mobile: single CTA button below stats */}
+        <div className="sm:hidden px-4 mt-4">
+          <button
+            onClick={() => document.getElementById('main-content')?.scrollIntoView({ behavior: 'smooth' })}
+            className="w-full py-3.5 bg-neutral-900 text-white font-bold text-sm rounded-2xl tracking-wide"
+          >
+            {lang === 'en' ? 'Explore Candidates →' : 'வேட்பாளர்களை ஆராயுங்கள் →'}
+          </button>
+        </div>
+
         {/* Scroll CTA */}
-        <div className="text-center mt-6 sm:mt-8">
+        <div className="hidden sm:block text-center mt-6 sm:mt-8">
           <button
             onClick={() => document.getElementById('main-content')?.scrollIntoView({ behavior: 'smooth' })}
             className="text-neutral-400 hover:text-neutral-600 transition-colors cursor-pointer animate-gentle-bounce inline-flex flex-col items-center space-y-1"
@@ -288,12 +387,71 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
         </div>
       </header>
 
+      {/* Mobile: map instruction banner */}
+      <div className="m-map-banner sm:hidden">
+        <span className="m-pulse-dot" />
+        <span className="font-sans text-sm">
+          {lang === 'en' ? 'Tap any constituency to explore' : 'எந்த தொகுதியையும் தட்டி ஆராயுங்கள்'}
+        </span>
+      </div>
+
       {/* ===== CONSTITUENCY MAP ===== */}
       <ConstituencyMap
         lang={lang}
         candidates={candidates}
         onConstituencyClick={handleConstituencyClick}
-        onSelectCandidate={setActiveDetailedCandidate}
+        onSelectCandidate={(c) => {
+          if (window.innerWidth <= 480) {
+            setSheetCandidate(c);
+          } else {
+            setActiveDetailedCandidate(c);
+          }
+        }}
+      />
+
+      {/* Mobile: party legend scroll */}
+      <div className="m-party-legend sm:hidden">
+        {partyStats.map(p => (
+          <div key={p.code} className="m-party-chip">
+            <span className="m-party-swatch" style={{ background: p.color }} />
+            <span className="m-party-code">{p.code}</span>
+            <span className="m-party-seats">{p.seats}</span>
+          </div>
+        ))}
+      </div>
+
+      {/* Mobile: constituency bottom sheet */}
+      <div
+        className={`m-bottom-sheet sm:hidden ${sheetCandidate ? 'open' : ''}`}
+        role="dialog"
+        aria-modal="true"
+      >
+        <div className="m-sheet-handle" />
+        {sheetCandidate && (
+          <>
+            <span className="m-sheet-eyebrow">{sheetCandidate.constituency}</span>
+            <span className="m-sheet-winner">{sheetCandidate.name}</span>
+            <span
+              className="m-sheet-party"
+              style={{ color: sheetCandidate.partyColor }}
+            >
+              {sheetCandidate.party}
+            </span>
+            <button
+              className="m-sheet-cta"
+              onClick={() => {
+                setActiveDetailedCandidate(sheetCandidate);
+                setSheetCandidate(null);
+              }}
+            >
+              {lang === 'en' ? 'View Full Profile →' : 'முழு விவரம் காண்க →'}
+            </button>
+          </>
+        )}
+      </div>
+      <div
+        className={`m-sheet-overlay sm:hidden ${sheetCandidate ? 'open' : ''}`}
+        onClick={() => setSheetCandidate(null)}
       />
 
       {/* ===== MAIN CONTENT ===== */}
@@ -333,8 +491,8 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
               </form>
             </div>
 
-            {/* Results count */}
-            <div className="flex items-center justify-between max-w-4xl mx-auto px-1">
+            {/* Results count — desktop */}
+            <div className="hidden sm:flex items-center justify-between max-w-4xl mx-auto px-1">
               <h3 className="text-xl sm:text-2xl font-display font-black text-neutral-900 tracking-tight">
                 {lang === 'en' ? 'Top 20 Declared Candidates' : 'முதல் 20 அறிவிக்கப்பட்ட வேட்பாளர்கள்'}
               </h3>
@@ -346,8 +504,48 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
               </button>
             </div>
 
-            {/* Candidate Grid */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {/* Mobile section header */}
+            <div className="m-section-header sm:hidden">
+              <div>
+                <span className="m-section-title">
+                  {lang === 'en' ? '2026 Winners' : '2026 வெற்றியாளர்கள்'}
+                </span>
+                <span className="m-section-sub">
+                  {lang === 'en' ? 'Tap card for affidavit details' : 'அலுவல் விவரம் காண தட்டவும்'}
+                </span>
+              </div>
+              <button className="m-view-all-btn" onClick={() => navigate('/affidavits')}>
+                {lang === 'en' ? 'See All →' : 'அனைத்தும் →'}
+              </button>
+            </div>
+
+            {/* Mobile party filter chips */}
+            <div className="m-filter-chips sm:hidden">
+              <button
+                className={`m-filter-chip ${mobilePartyFilter === 'ALL' ? 'active' : ''}`}
+                onClick={() => setMobilePartyFilter('ALL')}
+              >
+                {lang === 'en' ? 'All' : 'அனைத்தும்'}
+              </button>
+              {partyStats.map(p => (
+                <button
+                  key={p.code}
+                  className={`m-filter-chip ${mobilePartyFilter === p.code ? 'active' : ''}`}
+                  onClick={() => setMobilePartyFilter(p.code)}
+                >
+                  <span
+                    style={{
+                      width: 7, height: 7, borderRadius: '50%',
+                      background: p.color, display: 'inline-block', flexShrink: 0
+                    }}
+                  />
+                  {p.code}
+                </button>
+              ))}
+            </div>
+
+            {/* Desktop candidate grid — unchanged */}
+            <div className="hidden sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {topCandidates.map((cand) => (
                 <CandidateCard
                   key={cand.id}
@@ -360,13 +558,48 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
                 />
               ))}
             </div>
+
+            {/* Mobile candidate list */}
+            <div className="sm:hidden">
+              {mobileTopCandidates.map((cand) => (
+                <MobileCandidateRow
+                  key={cand.id}
+                  candidate={cand}
+                  lang={lang}
+                  expanded={expandedCardId === cand.id}
+                  onToggle={() => setExpandedCardId(
+                    expandedCardId === cand.id ? null : cand.id
+                  )}
+                  onViewProfile={() => setActiveDetailedCandidate(cand)}
+                />
+              ))}
+            </div>
             
-            <div className="text-center pt-8">
+            {/* Directory CTA — desktop */}
+            <div className="hidden sm:block text-center pt-8">
               <button
                 onClick={() => navigate('/affidavits')}
                 className="px-8 py-4 bg-white border border-neutral-200 hover:border-indigo-200 text-neutral-800 hover:text-indigo-600 font-extrabold text-sm rounded-2xl shadow-sm hover:shadow-md transition-all cursor-pointer inline-flex items-center space-x-2"
               >
                 <span>{lang === 'en' ? 'Explore Full Directory' : 'முழு பட்டியலையும் ஆராயுங்கள்'}</span>
+              </button>
+            </div>
+
+            {/* Directory CTA — mobile */}
+            <div className="m-directory-cta sm:hidden">
+              <span className="m-dir-eyebrow">
+                {lang === 'en' ? 'All 234 constituencies' : '234 தொகுதிகள்'}
+              </span>
+              <p className="m-dir-title">
+                {lang === 'en' ? 'Explore Full Directory' : 'முழு பட்டியல்'}
+              </p>
+              <p className="m-dir-sub">
+                {lang === 'en'
+                  ? 'Assets · Criminal cases · Education · Past terms'
+                  : 'சொத்துக்கள் · வழக்குகள் · கல்வி · கடந்த பதவிகள்'}
+              </p>
+              <button className="m-dir-btn" onClick={() => navigate('/affidavits')}>
+                {lang === 'en' ? 'Open Directory →' : 'பட்டியல் திறக்கவும் →'}
               </button>
             </div>
           </div>
