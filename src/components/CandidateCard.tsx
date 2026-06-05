@@ -204,12 +204,12 @@ export default function CandidateCard({
         onClick={() => onOpenDetails(candidate)}
       >
         {/* Left Side: Photo & Party Block */}
-        <div className="w-[110px] shrink-0 relative overflow-hidden flex flex-col items-center justify-center p-3 bg-neutral-50">
+        <div className="w-[110px] shrink-0 relative overflow-hidden flex flex-col items-center justify-center p-3 bg-white">
           {getPartyFlagUrl(candidate.party) && (
             <img 
               src={getPartyFlagUrl(candidate.party)!}
               alt={candidate.party}
-              className="absolute inset-0 w-full h-full object-contain opacity-[0.12] pointer-events-none"
+              className="absolute inset-0 w-full h-full object-cover opacity-80 pointer-events-none"
             />
           )}
           <div className={`w-16 h-16 rounded-full overflow-hidden border-[3px] shadow-md relative z-10 flex items-center justify-center text-xl font-bold bg-white ${partyStyle.text}`} style={{ borderColor: getPartyColor(candidate.party) }}>
@@ -219,25 +219,25 @@ export default function CandidateCard({
               candidate.name.charAt(0)
             )}
           </div>
-          <div className="relative z-10 mt-2 px-2 py-0.5 rounded text-[9px] font-black tracking-widest uppercase shadow-sm truncate max-w-full text-center text-white" style={{ backgroundColor: getPartyColor(candidate.party) }}>
+          <div className="relative z-10 mt-1 px-2 py-0.5 rounded text-[9px] font-black tracking-widest uppercase shadow-sm truncate max-w-full text-center text-white" style={{ backgroundColor: getPartyColor(candidate.party) }}>
             {candidate.party}
           </div>
         </div>
 
         {/* Right Side: Info & Stats */}
         <div className="flex-1 flex flex-col justify-center p-3.5 bg-gradient-to-r from-white to-neutral-50/50 min-w-0">
-          <div className="flex items-center space-x-1 mb-1 text-neutral-400">
+          <div className="flex items-center space-x-1 mb-0.5 text-neutral-400">
             <MapPin className="w-2.5 h-2.5 shrink-0" />
             <span className="text-[9px] font-mono font-bold tracking-widest uppercase truncate">
               {constituencyClean}
             </span>
           </div>
-          <h3 className="text-sm font-display font-black text-neutral-900 leading-tight truncate mb-2.5">
+          <h3 className="text-sm font-display font-black text-neutral-900 leading-tight truncate mb-1.5">
             {candidate.name}
           </h3>
           
-          <div className="flex flex-col space-y-1.5">
-            <div className="flex items-center justify-between bg-neutral-50 rounded-lg p-1.5 border border-neutral-100">
+          <div className="flex flex-col space-y-1">
+            <div className="flex items-center justify-between bg-neutral-50 rounded-lg p-1 border border-neutral-100">
               <div className="flex items-center space-x-1.5">
                 <Landmark className="w-3 h-3 text-emerald-600" />
                 <span className="text-[10px] font-mono font-black text-neutral-800 truncate" title={candidate.netWorthFormatted}>
@@ -246,7 +246,7 @@ export default function CandidateCard({
               </div>
             </div>
             
-            <div className={`flex items-center justify-between rounded-lg p-1.5 border ${candidate.caseCount > 0 ? 'bg-rose-50 border-rose-100' : 'bg-teal-50 border-teal-100'}`}>
+            <div className={`flex items-center justify-between rounded-lg p-1 border ${candidate.caseCount > 0 ? 'bg-rose-50 border-rose-100' : 'bg-teal-50 border-teal-100'}`}>
               <div className="flex items-center space-x-1.5">
                 {candidate.caseCount > 0 ? (
                   <AlertCircle className="w-3 h-3 text-rose-600 shrink-0" />

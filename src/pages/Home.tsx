@@ -296,18 +296,18 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
 
         {/* Stats Ticker */}
         <div className="max-w-3xl mx-auto mt-6 sm:mt-10">
-          <div className="flex items-center justify-start sm:justify-center flex-nowrap overflow-x-auto pb-2 sm:pb-0 gap-3 sm:gap-6 text-[10px] sm:text-xs font-mono font-bold text-neutral-400 tracking-tight scrollbar-hide px-4 whitespace-nowrap">
-            <div className="flex items-center space-x-1.5 shrink-0">
+          <div className="flex items-center justify-start sm:justify-center flex-nowrap overflow-x-auto pb-2 sm:pb-0 gap-2 sm:gap-4 text-[10px] sm:text-xs font-mono font-bold text-neutral-400 tracking-tight scrollbar-hide px-4 whitespace-nowrap">
+            <div className="flex items-center space-x-1 shrink-0">
               <Users className="w-3.5 h-3.5 text-neutral-400" />
               <span>4023 {lang === 'en' ? 'candidates' : 'வேட்பாளர்கள்'}</span>
             </div>
             <span className="w-1 h-1 rounded-full bg-neutral-300 shrink-0" />
-            <div className="flex items-center space-x-1.5 shrink-0">
+            <div className="flex items-center space-x-1 shrink-0">
               <Landmark className="w-3.5 h-3.5 text-neutral-400" />
               <span>{FORMAT_CURRENCY(totalNetWorth, lang)} {lang === 'en' ? 'Declared' : 'சொத்து'}</span>
             </div>
             <span className="w-1 h-1 rounded-full bg-neutral-300 shrink-0" />
-            <div className="flex items-center space-x-1.5 shrink-0">
+            <div className="flex items-center space-x-1 shrink-0">
               <ShieldAlert className="w-3.5 h-3.5 text-neutral-400" />
               <span>{totalCases} {lang === 'en' ? 'Cases' : 'வழக்குகள்'}</span>
             </div>

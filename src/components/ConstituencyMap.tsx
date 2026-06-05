@@ -151,6 +151,7 @@ function normalizeConstName(name: string): string {
 
 export default function ConstituencyMap({ lang, candidates, onConstituencyClick, onSelectCandidate }: ConstituencyMapProps) {
   const [geoData, setGeoData] = useState<GeoJSONData | null>(null);
+  const [resultsData, setResultsData] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
   const [tooltip, setTooltip] = useState<TooltipData | null>(null);
   const [hoveredAC, setHoveredAC] = useState<number | null>(null);
@@ -179,16 +180,19 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
     return map;
   }, [candidates]);
 
-  // Load GeoJSON data
+  // Load GeoJSON data and Results
   useEffect(() => {
-    fetch('/tn_ac_2021_constituencies.geojson')
-      .then(res => res.json())
-      .then((data: GeoJSONData) => {
-        setGeoData(data);
+    Promise.all([
+      fetch('/tn_ac_2021_constituencies.geojson').then(res => res.json()),
+      fetch('/results.json').then(res => res.json())
+    ])
+      .then(([geo, resData]) => {
+        setGeoData(geo);
+        setResultsData(resData);
         setLoading(false);
       })
       .catch(err => {
-        console.error('Failed to load GeoJSON:', err);
+        console.error("Error loading map data:", err);
         setLoading(false);
       });
   }, []);
@@ -349,17 +353,29 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
   // Party legend with seat counts (winners only)
   const legendEntries = useMemo(() => {
     const partySeats = new Map<string, number>();
-    paths.forEach(p => {
-      if (p.party) {
-        const shortName = getPartyShortName(p.party);
-        partySeats.set(shortName, (partySeats.get(shortName) || 0) + 1);
-      }
-    });
+    
+    if (resultsData.length > 0) {
+      resultsData.forEach(result => {
+        const party = result.winner?.party;
+        if (party) {
+          const shortName = getPartyShortName(party);
+          partySeats.set(shortName, (partySeats.get(shortName) || 0) + 1);
+        }
+      });
+    } else {
+      paths.forEach(p => {
+        if (p.party) {
+          const shortName = getPartyShortName(p.party);
+          partySeats.set(shortName, (partySeats.get(shortName) || 0) + 1);
+        }
+      });
+    }
+    
     // Sort by seat count descending
     return Array.from(partySeats.entries())
       .sort((a, b) => b[1] - a[1])
       .map(([name, seats]) => ({ name, seats, color: getPartyFill(name) }));
-  }, [paths]);
+  }, [paths, resultsData]);
 
   // Mobile floating badges: only constituencies with candidates
   const mobileBadges = useMemo(() => {
@@ -470,9 +486,9 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
               </div>
             )}
 
-            {/* Mobile: Compact Party Legend — bottom-left, minimal */}
+            {/* Mobile: Compact Party Legend — positioned directly above the interaction hint */}
             {isMobile && legendEntries.length > 0 && (
-              <div className="absolute bottom-14 left-3 z-20 bg-white/70 backdrop-blur-sm border border-neutral-200/40 rounded-lg px-2 py-1.5 shadow-sm max-w-[55%]">
+              <div className="absolute bottom-14 right-3 z-20 bg-white/70 backdrop-blur-sm border border-neutral-200/40 rounded-lg px-2 py-1.5 shadow-sm max-w-[55%]">
                 <div className="flex flex-wrap gap-x-2 gap-y-0.5">
                   {legendEntries.slice(0, 5).map((entry) => (
                     <span key={entry.name} className="inline-flex items-center space-x-0.5">
