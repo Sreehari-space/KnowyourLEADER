@@ -486,25 +486,37 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
               </div>
             )}
 
-            {/* Mobile: Compact Party Legend — positioned directly above the interaction hint */}
-            {isMobile && legendEntries.length > 0 && (
-              <div className="absolute bottom-14 right-3 z-20 bg-white/70 backdrop-blur-sm border border-neutral-200/40 rounded-lg px-2 py-1.5 shadow-sm max-w-[55%]">
-                <div className="flex flex-wrap gap-x-2 gap-y-0.5">
-                  {legendEntries.slice(0, 5).map((entry) => (
-                    <span key={entry.name} className="inline-flex items-center space-x-0.5">
-                      <span className="w-1.5 h-1.5 rounded-full shrink-0" style={{ backgroundColor: entry.color }} />
-                      <span className="text-[7px] font-bold text-neutral-500">{entry.name} {entry.seats}</span>
-                    </span>
-                  ))}
+            {/* Mobile Top-Left Floating Elements */}
+            {isMobile && (
+              <div className="absolute top-3 left-3 flex flex-col items-start space-y-2 z-20 pointer-events-none max-w-[85%]">
+                {/* Mobile: Compact Party Legend */}
+                {legendEntries.length > 0 && (
+                  <div className="bg-white/95 backdrop-blur-md border border-neutral-200/80 rounded-full px-3 py-1.5 shadow-sm inline-block">
+                    <div className="flex flex-wrap gap-x-2.5 gap-y-0.5">
+                      {legendEntries.slice(0, 5).map((entry) => (
+                        <span key={entry.name} className="inline-flex items-center space-x-1">
+                          <span className="w-1.5 h-1.5 rounded-full shrink-0" style={{ backgroundColor: entry.color }} />
+                          <span className="text-[8px] font-bold text-neutral-600 tracking-tight">{entry.name} {entry.seats}</span>
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                {/* Mobile Interaction hint */}
+                <div className="flex items-center space-x-1.5 text-[9px] font-mono font-medium text-neutral-400 bg-white/95 backdrop-blur-md px-3 py-1.5 rounded-full border border-neutral-200/80 shadow-sm inline-block">
+                  <MousePointerClick className="w-2.5 h-2.5 inline-block mr-1 -mt-0.5" />
+                  <span>{lang === 'en' ? 'Tap a badge to see details' : '\u0bb5\u0bbf\u0bb5\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bbe\u0ba3 \u0baa\u0bc7\u0b9f\u0bcd\u0b9c\u0bc8 \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0b95'}</span>
                 </div>
               </div>
             )}
 
-            {/* Interaction hint */}
-            <div className="absolute bottom-3 right-3 flex items-center space-x-1.5 text-[10px] font-mono text-neutral-400 bg-white/80 backdrop-blur-sm px-2.5 py-1.5 rounded-lg border border-neutral-200/60">
-              <MousePointerClick className="w-3 h-3" />
-              <span>{lang === 'en' ? (isMobile ? 'Tap a badge to see details' : 'Hover or click a constituency') : (isMobile ? 'விவரங்கள் காண பேட்ஜை தட்டுக' : 'தொகுதியின் மீது சுட்டியை நகர்த்தவும்')}</span>
-            </div>
+            {/* Desktop Interaction hint */}
+            {!isMobile && (
+              <div className="absolute bottom-3 right-3 flex items-center space-x-1.5 text-[10px] font-mono text-neutral-400 bg-white/80 backdrop-blur-sm px-2.5 py-1.5 rounded-lg border border-neutral-200/60 z-20">
+                <MousePointerClick className="w-3 h-3" />
+                <span>{lang === 'en' ? 'Hover or click a constituency' : '\u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc8 \u0ba8\u0b95\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd'}</span>
+              </div>
+            )}
 
             {/* Mobile Floating Candidate Card */}
             {isMobile && selectedDetail && selectedDetail.candidates.length > 0 && (

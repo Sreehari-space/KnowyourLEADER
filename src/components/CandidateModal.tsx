@@ -7,6 +7,7 @@ import React, { useState } from 'react';
 import { Candidate, FontSizeSetting } from '../types';
 import { TRANSLATIONS } from '../data/translations';
 import { X, ShieldCheck, ShieldAlert, FileText, Sparkles, Printer, ArrowRight, Share2, Check, AlertTriangle, Send, Info, User, Landmark, Scale, Briefcase, GraduationCap, Building, Map } from 'lucide-react';
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip as RechartsTooltip, Legend, ResponsiveContainer } from 'recharts';
 
 interface CandidateModalProps {
   candidate: Candidate;
@@ -141,14 +142,6 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
       .replace('{liabilities}', candidate.liabilitiesFormatted)
       .replace('{networth}', candidate.netWorthFormatted);
 
-    const extraInfo = [];
-    if (candidate.vehicles && candidate.vehicles !== 'Nil') extraInfo.push(`Vehicles: ${candidate.vehicles}`);
-    if (candidate.land && candidate.land !== 'Nil') extraInfo.push(`Land: ${candidate.land}`);
-    
-    if (extraInfo.length > 0) {
-      text += ` (${extraInfo.join('. ')})`;
-    }
-
     return text;
   };
 
@@ -183,20 +176,37 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
   const formatVehicleData = (rawText?: string) => {
     if (!rawText || rawText.toLowerCase() === 'nil' || rawText === 'Not Applicable') return lang === 'en' ? 'None Declared' : 'ஏதுமில்லை';
     
-    // Attempt to strip out license plates (e.g., TN 37 DB 2216, KA-05-ND-5977, TN37DB2216)
+    // Attempt to strip out license plates
     let cleaned = rawText.replace(/[A-Z]{2}\s?-?\d{1,2}\s?-?[A-Z]{1,2}\s?-?\d{1,4}/g, '');
     
-    // Attempt to strip out prices/values (e.g., 1,30,000, 1 Lacs+, 0.00, Rs. 1000)
-    cleaned = cleaned.replace(/(?:Rs\.?\s*)?[\d,.]+\s*(?:Lacs?\+?|Crores?\+?|Cr|Lakhs?|Lakh)?/gi, '');
+    // Strip out prices/values including Thou+
+    cleaned = cleaned.replace(/(?:Rs\.?\s*)?[\d,.]+\s*(?:Lacs?\+?|Crores?\+?|Cr|Lakhs?|Lakh|Thou\+?)?/gi, '');
     
     // Strip out specific phrases
     cleaned = cleaned.replace(/\*?\(?Value Not Given\)?/gi, '');
     cleaned = cleaned.replace(/Purchase Date.*$/i, '');
+    cleaned = cleaned.replace(/Value\s+\d+/gi, '');
     
     // Clean up extra spaces, hyphens, and weird dangling characters
     cleaned = cleaned.replace(/[-*0:;]+/g, ' ').replace(/\s{2,}/g, ' ').trim();
     
-    return cleaned || (lang === 'en' ? 'Vehicle details unavailable' : 'வாகன விவரங்கள் இல்லை');
+    return cleaned || (lang === 'en' ? 'None Declared' : 'ஏதுமில்லை');
+  };
+
+  const formatLandData = (rawText?: string) => {
+    if (!rawText || rawText.toLowerCase() === 'nil') return 'Nil';
+    const entries = rawText.split(/(?:Thou\+|Lacs\+|Crore\+|Crores\+)/i);
+    const parsed = entries.map(entry => {
+      if (!entry.trim()) return null;
+      const totalAreaMatch = entry.match(/Total Area\s+([^\s]+\s+[a-zA-Z.]+)/i);
+      const area = totalAreaMatch ? totalAreaMatch[1] : '';
+      let location = entry.split(/Total Area/i)[0].trim();
+      location = location.replace(/^\s*[\d,]+\s*/, '').replace(/^[A-Za-z0-9.]+:\s*/, '').trim();
+      if (!location) return null;
+      return area ? `${location} (Area: ${area})` : location;
+    }).filter(Boolean);
+    if (parsed.length === 0) return rawText;
+    return parsed.join(' • ');
   };
 
   const formatLandData = (rawText?: string, district?: string) => {
@@ -449,7 +459,38 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                     <span>{t.easyReadTitle}</span>
                   </h3>
                   
-                  <div className="space-y-6 relative z-10">
+                  <div className="prose prose-indigo max-w-none prose-p:leading-relaxed text-indigo-900/80 font-medium">
+                    <p>{getEasyReadText().replace('{name}', candidate.name)}</p>
+                  </div>
+                  
+                  <div className="mt-6 space-y-4">
+                    <div className="bg-indigo-50/50 rounded-xl p-4 border border-indigo-100">
+                      <h4 className="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-2 flex items-center space-x-2">
+                        <span>🚗</span> <span>{lang === 'en' ? 'Vehicles' : 'மோட்டார் வாகனங்கள்'}</span>
+                      </h4>
+                      <p className="text-sm text-indigo-900 font-semibold leading-relaxed">{formatVehicleData(candidate.vehicles)}</p>
+                    </div>
+
+                    <div className="bg-indigo-50/50 rounded-xl p-4 border border-indigo-100">
+                      <h4 className="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-2 flex items-center space-x-2">
+                        <Map className="w-3 h-3 text-indigo-500" /> <span>{lang === 'en' ? 'Land & Properties' : 'ரியல் எஸ்டேட்'}</span>
+                      </h4>
+                      <p className="text-sm text-indigo-900 font-semibold leading-relaxed">
+                        {candidate.land ? formatLandData(candidate.land) : (lang === 'en' ? 'Nil' : 'ஏதுமில்லை')}
+                      </p>
+                    </div>
+                    
+                    {candidate.jewelry && candidate.jewelry !== 'Nil' && (
+                      <div className="bg-indigo-50/50 rounded-xl p-4 border border-indigo-100">
+                        <h4 className="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-2 flex items-center space-x-2">
+                          <span>💎</span> <span>{lang === 'en' ? 'Jewelry & Gold' : 'நகைகள்'}</span>
+                        </h4>
+                        <p className="text-sm text-indigo-900 font-semibold leading-relaxed">{candidate.jewelry}</p>
+                      </div>
+                    )}
+                  </div>
+                  
+                  <div className="space-y-6 relative z-10 mt-6">
                     <p className="text-lg text-slate-800 leading-relaxed font-medium bg-slate-50/80 p-5 rounded-2xl border border-slate-100">
                       {t.easyReadAgeEdu
                         .replace('{name}', candidate.name)
@@ -566,7 +607,7 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                       <div className="w-full">
                         <h4 className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4 flex items-center space-x-2">
                           <Map className="w-4 h-4 text-teal-600" />
-                          <span>{lang === 'en' ? 'Real Estate Portfolio' : 'ரியல் எஸ்டேட் போர்ட்ஃபோலியோ'}</span>
+                          <span>{lang === 'en' ? 'Real Estate Portfolio' : '\u0bb0\u0bbf\u0baf\u0bb2\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0bb2\u0bbf\u0baf\u0bcb'}</span>
                         </h4>
                         
                         {candidate.immovableAssetsDetails ? (
@@ -574,41 +615,41 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                             {candidate.immovableAssetsDetails.agricultural && candidate.immovableAssetsDetails.agricultural !== 'Nil' && (
                               <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
                                 <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
-                                  🌾 {lang === 'en' ? 'Agricultural Land' : 'விவசாய நிலம்'}
+                                  🌾 {lang === 'en' ? 'Agricultural Land' : '\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0ba8\u0bbf\u0bb2\u0bae\u0bcd'}
                                 </span>
-                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{candidate.immovableAssetsDetails.agricultural}</p>
+                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{formatLandData(candidate.immovableAssetsDetails.agricultural)}</p>
                               </div>
                             )}
                             {candidate.immovableAssetsDetails.nonAgricultural && candidate.immovableAssetsDetails.nonAgricultural !== 'Nil' && (
                               <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
                                 <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
-                                  🏗️ {lang === 'en' ? 'Non-Agricultural Land' : 'விவசாயம் அல்லாத நிலம்'}
+                                  🏗️ {lang === 'en' ? 'Non-Agricultural Land' : '\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bae\u0bcd'}
                                 </span>
-                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{candidate.immovableAssetsDetails.nonAgricultural}</p>
+                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{formatLandData(candidate.immovableAssetsDetails.nonAgricultural)}</p>
                               </div>
                             )}
                             {candidate.immovableAssetsDetails.commercial && candidate.immovableAssetsDetails.commercial !== 'Nil' && (
                               <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
                                 <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
-                                  🏢 {lang === 'en' ? 'Commercial Buildings' : 'வணிக கட்டிடங்கள்'}
+                                  🏢 {lang === 'en' ? 'Commercial Buildings' : '\u0bb5\u0ba3\u0bbf\u0b95 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd'}
                                 </span>
-                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{candidate.immovableAssetsDetails.commercial}</p>
+                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{formatLandData(candidate.immovableAssetsDetails.commercial)}</p>
                               </div>
                             )}
                             {candidate.immovableAssetsDetails.residential && candidate.immovableAssetsDetails.residential !== 'Nil' && (
                               <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
                                 <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
-                                  🏠 {lang === 'en' ? 'Residential Buildings' : 'குடியிருப்பு கட்டிடங்கள்'}
+                                  🏠 {lang === 'en' ? 'Residential Buildings' : '\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd'}
                                 </span>
-                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{candidate.immovableAssetsDetails.residential}</p>
+                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{formatLandData(candidate.immovableAssetsDetails.residential)}</p>
                               </div>
                             )}
                             {candidate.immovableAssetsDetails.others && candidate.immovableAssetsDetails.others !== 'Nil' && (
                               <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
                                 <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
-                                  📦 {lang === 'en' ? 'Other Assets' : 'பிற சொத்துக்கள்'}
+                                  📦 {lang === 'en' ? 'Other Assets' : '\u0baa\u0bbf\u0bb1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd'}
                                 </span>
-                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{candidate.immovableAssetsDetails.others}</p>
+                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{formatLandData(candidate.immovableAssetsDetails.others)}</p>
                               </div>
                             )}
                             {(!candidate.immovableAssetsDetails.agricultural || candidate.immovableAssetsDetails.agricultural === 'Nil') &&
@@ -616,17 +657,27 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                              (!candidate.immovableAssetsDetails.commercial || candidate.immovableAssetsDetails.commercial === 'Nil') &&
                              (!candidate.immovableAssetsDetails.residential || candidate.immovableAssetsDetails.residential === 'Nil') &&
                              (!candidate.immovableAssetsDetails.others || candidate.immovableAssetsDetails.others === 'Nil') && (
-                              <p className="text-sm text-teal-700 italic">{lang === 'en' ? 'No real estate properties declared.' : 'எந்த ரியல் எஸ்டேட் சொத்துகளும் அறிவிக்கப்படவில்லை.'}</p>
+                              <p className="text-sm text-teal-700 italic">{lang === 'en' ? 'Nil' : '\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8'}</p>
                             )}
                           </div>
                         ) : (
                           <p className="text-sm text-teal-700 mt-2 leading-relaxed">
-                            {formatLandData(candidate.land, candidate.district?.[lang])}
+                            {formatLandData(candidate.land)}
                           </p>
                         )}
                       </div>
                     </div>
                   </div>
+                  
+                  {/* Jewelry */}
+                  {candidate.jewelry && candidate.jewelry !== 'Nil' && (
+                    <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs md:col-span-2">
+                      <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
+                        <span>💎</span> <span>{lang === 'en' ? 'Jewelry & Gold' : '\u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bcd'}</span>
+                      </p>
+                      <p className="text-sm font-semibold text-slate-800 leading-snug">{candidate.jewelry}</p>
+                    </div>
+                  )}
                 </div>
 
                 {/* Criminal Record */}
@@ -727,18 +778,40 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                 </div>
 
                 {/* Tax History */}
-                {candidate.taxYears && candidate.taxYears.length > 0 && (
+                {((candidate.taxYears && candidate.taxYears.length > 0) || (candidate.taxYearsSpouse && candidate.taxYearsSpouse.length > 0) || (candidate.taxYearsDependent && candidate.taxYearsDependent.length > 0)) && (
                   <div className="pt-4 pb-8">
                     <h3 className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-4">
-                      {lang === 'en' ? 'Recent Tax Filings' : 'வரி வரலாறு'}
+                      {lang === 'en' ? 'Income Tax Filings' : '\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9 \u0bb5\u0bb0\u0bbf'}
                     </h3>
-                    <div className="flex overflow-x-auto space-x-3 pb-2 scrollbar-hide">
-                      {candidate.taxYears.map((tax, idx) => (
-                        <div key={idx} className="bg-white border border-slate-200 p-4 rounded-2xl min-w-[120px] shrink-0 text-center shadow-xs">
-                          <span className="text-[10px] font-bold text-slate-500 mb-1 block uppercase">{tax.year}</span>
-                          <span className="font-mono text-slate-800 font-bold text-lg">₹{(tax.amount / 100000).toFixed(2)}L</span>
-                        </div>
-                      ))}
+                    <div className="bg-white border border-slate-200 rounded-2xl p-4 shadow-xs">
+                      <div className="h-64 w-full">
+                        <ResponsiveContainer width="100%" height="100%">
+                          <BarChart
+                            data={
+                              (candidate.taxYears || []).map((t, i) => {
+                                const spouseTax = candidate.taxYearsSpouse?.[i]?.amount || 0;
+                                const depTax = candidate.taxYearsDependent?.[i]?.amount || 0;
+                                return {
+                                  name: t.year,
+                                  Self: parseFloat((t.amount / 100000).toFixed(2)),
+                                  ...(spouseTax > 0 && { Spouse: parseFloat((spouseTax / 100000).toFixed(2)) }),
+                                  ...(depTax > 0 && { Dependent: parseFloat((depTax / 100000).toFixed(2)) })
+                                };
+                              })
+                            }
+                            margin={{ top: 10, right: 10, left: -20, bottom: 0 }}
+                          >
+                            <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
+                            <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} dy={10} />
+                            <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} tickFormatter={(val) => `\u20B9${val}L`} />
+                            <RechartsTooltip cursor={{ fill: '#f1f5f9' }} contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1)' }} formatter={(val) => [`\u20B9${val} Lakhs`]} />
+                            <Legend wrapperStyle={{ fontSize: '11px', paddingTop: '10px' }} />
+                            <Bar dataKey="Self" fill="#4f46e5" radius={[4, 4, 0, 0]} barSize={20} />
+                            {(candidate.taxYearsSpouse && candidate.taxYearsSpouse.length > 0) && <Bar dataKey="Spouse" fill="#ec4899" radius={[4, 4, 0, 0]} barSize={20} />}
+                            {(candidate.taxYearsDependent && candidate.taxYearsDependent.length > 0) && <Bar dataKey="Dependent" fill="#14b8a6" radius={[4, 4, 0, 0]} barSize={20} />}
+                          </BarChart>
+                        </ResponsiveContainer>
+                      </div>
                     </div>
                   </div>
                 )}

@@ -62,8 +62,11 @@ export interface Candidate {
   sourceJsonFile: string;
   vehicles?: string;
   land?: string;
+  jewelry?: string;
   immovableAssetsDetails?: ImmovableAssetsDetails;
   pendingCasesDetails?: PendingCase[];
+  taxYearsSpouse?: TaxYear[];
+  taxYearsDependent?: TaxYear[];
   isWinner?: boolean;
   isRunnerUp?: boolean;
   votes?: number;
