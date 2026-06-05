@@ -190,7 +190,7 @@ export default function CandidateCard({
         <div className={`w-[110px] shrink-0 relative overflow-hidden flex flex-col items-center justify-center p-3 ${partyStyle.bg}`}>
           {getPartyFlagUrl(candidate.party) && (
             <div 
-              className="absolute inset-0 z-0 bg-no-repeat bg-center bg-cover opacity-20" 
+              className="absolute inset-0 z-0 bg-no-repeat bg-center bg-cover opacity-40" 
               style={{ backgroundImage: `url('${getPartyFlagUrl(candidate.party)}')` }} 
             />
           )}

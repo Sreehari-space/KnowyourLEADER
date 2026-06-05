@@ -189,7 +189,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
       <header className="hero-section-wrapper px-4 md:px-8 max-w-7xl mx-auto select-none pt-8 sm:pt-16 pb-4 sm:pb-10">
         {/* Hero Title */}
         <div className="text-center animate-slide-up">
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-[3.5rem] leading-[1.1] m-0 p-0 select-none">
+          <h1 className="hero-title text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-[3.5rem] leading-[1.1] m-0 p-0 select-none">
             {lang === 'en' ? (
               <span className="font-serif italic font-light text-neutral-800">
                 Do you really know{" "}
@@ -221,7 +221,14 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
           {heroFigures.map((fig, idx) => (
             <div
               key={fig.key}
-              onClick={() => navigate(`/party/${fig.party}`)}
+              onClick={() => {
+                // Mobile: toggle color reveal; Desktop: navigate to party page
+                if (window.innerWidth < 640) {
+                  setActiveHero(activeHero === fig.key ? null : fig.key);
+                } else {
+                  navigate(`/party/${fig.party}`);
+                }
+              }}
               className={`hero-figure-item relative group transition-transform duration-500 hover:scale-110 hover:z-50 origin-bottom ${fig.offset} ${
                 activeHero === fig.key ? 'scale-110 z-50' : `z-${fig.zBase}`
               }`}
@@ -254,6 +261,36 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
               />
             </div>
           ))}
+        </div>
+
+        {/* Mobile: Search bar + "You have the right to know" below figures */}
+        <div className="sm:hidden mt-6 space-y-5 px-1">
+          <div className="text-center space-y-3">
+            <h2 className="font-serif italic font-normal text-slate-800 text-xl leading-tight tracking-tight">
+              {lang === 'en' ? 'You have the right to know' : 'உங்களுக்குத் தெரிந்துகொள்ள உரிமை உண்டு'}
+            </h2>
+            <p className="font-sans font-normal text-neutral-600 text-xs leading-relaxed max-w-xs mx-auto">
+              {lang === 'en'
+                ? 'This archive exists because we deserve to know what our representative declared before we elected them.'
+                : 'தேர்தலில் நாம் வாக்களிக்கும் முன், நமது பிரதிநிதிகள் சமர்ப்பித்த சுயவிவரங்களை அறியும் உரிமை நமக்கு உள்ளது.'}
+            </p>
+          </div>
+          <form onSubmit={handleSearchSubmit} className="relative max-w-md mx-auto shadow-xs">
+            <input
+              type="text"
+              className="w-full bg-[#dbe0e3] border border-neutral-800 rounded-full pl-8 pr-14 py-3.5 font-semibold text-neutral-800 placeholder:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-neutral-900/10 text-sm transition-all"
+              placeholder={lang === 'en' ? 'Search candidate, constituency or party...' : 'வேட்பாளர் பெயர், தொகுதி, அல்லது கட்சி தேடவும்...'}
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
+            <button
+              type="submit"
+              className="absolute right-2 top-1.5 w-10 h-10 bg-neutral-900 rounded-full flex items-center justify-center shadow-sm active:scale-95 transition-transform cursor-pointer"
+              title={lang === 'en' ? 'Search' : 'தேடு'}
+            >
+              <Search className="w-4 h-4 text-white" />
+            </button>
+          </form>
         </div>
 
         {/* Stats Ticker */}
@@ -299,8 +336,8 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
       {/* ===== MAIN CONTENT ===== */}
       <main className="max-w-7xl mx-auto px-4 md:px-8 pt-4 pb-10 sm:py-10 min-h-[60vh] space-y-10" id="main-content">
           <div className="space-y-8 animate-fade-in" id="affidavit-list-module">
-            {/* Editorial Header + Search */}
-            <div className="w-full max-w-4xl mx-auto py-6 sm:py-10 space-y-8 select-none">
+            {/* Editorial Header + Search (Desktop only — mobile version is in hero) */}
+            <div className="w-full max-w-4xl mx-auto py-6 sm:py-10 space-y-8 select-none hidden sm:block">
               
               {/* Title & Subtitle */}
               <div className="text-center space-y-4 px-2">
@@ -310,7 +347,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
                 <p className="font-sans font-normal text-neutral-700 text-sm sm:text-lg md:text-[1.35rem] leading-relaxed max-w-3xl mx-auto tracking-normal">
                   {lang === 'en' 
                     ? 'This archive exists because we deserve to know what our representative declared before we elected them.' 
-                    : 'தேர்தலில் நாம் வாக்களிக்கும் முன், நமது பிரதிநிதிகள் சமர்ப்பித்த சுயவிவரங்களை அறியும் உரிமை நமக்கு உள்ளது என்பதாலேயே இந்தத் தளம் இயங்குகிறது.'}
+                    : 'தேர்தலில் நாம் வாக்களிக்கும் முன், நமது பிரதிநிதிகள் சமர்ப்பித்த சுயவிவரங்களை அறியும் உரிமை நமக்கு உள்ளது என்பதால் இந்த தளம் இயங்குகிறது.'}
                 </p>
               </div>
 

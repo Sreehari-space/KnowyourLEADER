@@ -470,6 +470,30 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
               </div>
             )}
 
+            {/* Mobile: Party Seats Legend inside map */}
+            {isMobile && legendEntries.length > 0 && (
+              <div className="absolute top-3 left-3 right-3 z-20 bg-white/80 backdrop-blur-sm border border-neutral-200/60 rounded-xl p-2.5 shadow-sm">
+                <h4 className="text-[8px] font-mono font-bold text-neutral-400 uppercase tracking-widest mb-1.5">
+                  {lang === 'en' ? 'Seats Won' : 'வென்ற இடங்கள்'}
+                </h4>
+                <div className="flex flex-wrap gap-1">
+                  {legendEntries.slice(0, 8).map((entry) => (
+                    <div
+                      key={entry.name}
+                      className="flex items-center space-x-1 bg-neutral-50/80 border border-neutral-100/60 rounded px-1.5 py-0.5"
+                    >
+                      <div
+                        className="w-2 h-2 rounded-sm shrink-0"
+                        style={{ backgroundColor: entry.color }}
+                      />
+                      <span className="text-[8px] font-bold text-neutral-600">{entry.name}</span>
+                      <span className="text-[8px] font-mono font-bold text-neutral-400">{entry.seats}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
             {/* Interaction hint */}
             <div className="absolute bottom-3 right-3 flex items-center space-x-1.5 text-[10px] font-mono text-neutral-400 bg-white/80 backdrop-blur-sm px-2.5 py-1.5 rounded-lg border border-neutral-200/60">
               <MousePointerClick className="w-3 h-3" />
@@ -679,7 +703,7 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
 
             {/* Party Color Legend */}
             {legendEntries.length > 0 && (
-              <div className="bg-white border border-neutral-200/60 rounded-2xl p-4 shadow-[0_2px_8px_rgba(0,0,0,0.01)]">
+              <div className="hidden sm:block bg-white border border-neutral-200/60 rounded-2xl p-4 shadow-[0_2px_8px_rgba(0,0,0,0.01)]">
                 <h4 className="text-[10px] font-mono font-bold text-neutral-400 uppercase tracking-widest mb-3">
                   {lang === 'en' ? 'Party Seats Won' : 'கட்சி வாரியாக இடங்கள்'}
                 </h4>
