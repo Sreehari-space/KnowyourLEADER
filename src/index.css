@@ -208,24 +208,28 @@ html {
   }
 }
 
-/* Mobile: V-shape hero character layout */
+/* Mobile: V-shape hero character layout via different heights */
 @media (max-width: 639px) {
   .hero-figures-container {
-    height: 180px;
+    height: 220px;
     position: relative;
     align-items: flex-end;
+    gap: 0;
+    overflow: hidden;
+    padding-bottom: 0;
   }
   .hero-figure-item {
     position: relative;
+    transform: none !important;
   }
-  /* Outer figures pushed down more, inner figures up, center at top = V shape */
-  .hero-figure-item:nth-child(1) { transform: translateY(50px); }
-  .hero-figure-item:nth-child(2) { transform: translateY(30px); }
-  .hero-figure-item:nth-child(3) { transform: translateY(12px); }
-  .hero-figure-item:nth-child(4) { transform: translateY(0); }
-  .hero-figure-item:nth-child(5) { transform: translateY(12px); }
-  .hero-figure-item:nth-child(6) { transform: translateY(30px); }
-  .hero-figure-item:nth-child(7) { transform: translateY(50px); }
+  /* V-shape: center figure tallest, edges shortest */
+  .hero-figure-item:nth-child(1) img { height: 100px !important; }
+  .hero-figure-item:nth-child(2) img { height: 130px !important; }
+  .hero-figure-item:nth-child(3) img { height: 165px !important; }
+  .hero-figure-item:nth-child(4) img { height: 200px !important; }
+  .hero-figure-item:nth-child(5) img { height: 165px !important; }
+  .hero-figure-item:nth-child(6) img { height: 130px !important; }
+  .hero-figure-item:nth-child(7) img { height: 100px !important; }
 }
 
 /* Hero name badge that appears on hover */

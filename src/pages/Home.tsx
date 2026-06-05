@@ -263,33 +263,34 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
           ))}
         </div>
 
-        {/* Mobile: Search bar + "You have the right to know" below figures */}
-        <div className="sm:hidden mt-6 space-y-5 px-1">
-          <div className="text-center space-y-3">
-            <h2 className="font-serif italic font-normal text-slate-800 text-xl leading-tight tracking-tight">
-              {lang === 'en' ? 'You have the right to know' : 'உங்களுக்குத் தெரிந்துகொள்ள உரிமை உண்டு'}
-            </h2>
-            <p className="font-sans font-normal text-neutral-600 text-xs leading-relaxed max-w-xs mx-auto">
-              {lang === 'en'
-                ? 'This archive exists because we deserve to know what our representative declared before we elected them.'
-                : 'தேர்தலில் நாம் வாக்களிக்கும் முன், நமது பிரதிநிதிகள் சமர்ப்பித்த சுயவிவரங்களை அறியும் உரிமை நமக்கு உள்ளது.'}
-            </p>
-          </div>
-          <form onSubmit={handleSearchSubmit} className="relative max-w-md mx-auto shadow-xs">
-            <input
-              type="text"
-              className="w-full bg-[#dbe0e3] border border-neutral-800 rounded-full pl-8 pr-14 py-3.5 font-semibold text-neutral-800 placeholder:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-neutral-900/10 text-sm transition-all"
-              placeholder={lang === 'en' ? 'Search candidate, constituency or party...' : 'வேட்பாளர் பெயர், தொகுதி, அல்லது கட்சி தேடவும்...'}
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-            />
-            <button
-              type="submit"
-              className="absolute right-2 top-1.5 w-10 h-10 bg-neutral-900 rounded-full flex items-center justify-center shadow-sm active:scale-95 transition-transform cursor-pointer"
-              title={lang === 'en' ? 'Search' : 'தேடு'}
-            >
-              <Search className="w-4 h-4 text-white" />
-            </button>
+        {/* Mobile: Minimal search bar below figures */}
+        <div className="sm:hidden mt-4 px-4">
+          <form onSubmit={handleSearchSubmit} className="relative max-w-sm mx-auto">
+            <div className="flex items-center bg-white/90 backdrop-blur-md border border-neutral-200 rounded-2xl px-4 py-2.5 shadow-[0_2px_12px_rgba(0,0,0,0.06)]">
+              <Search className="w-4 h-4 text-neutral-400 shrink-0" />
+              <input
+                type="text"
+                className="flex-1 bg-transparent border-none outline-none ml-3 text-sm font-medium text-neutral-800 placeholder:text-neutral-400"
+                placeholder={lang === 'en' ? 'Search candidates...' : 'வேட்பாளர் தேடு...'}
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+              />
+              {searchQuery && (
+                <button
+                  type="button"
+                  onClick={() => setSearchQuery('')}
+                  className="w-5 h-5 rounded-full bg-neutral-100 flex items-center justify-center text-neutral-400 mr-1"
+                >
+                  <X className="w-3 h-3" />
+                </button>
+              )}
+              <button
+                type="submit"
+                className="w-8 h-8 bg-neutral-900 rounded-xl flex items-center justify-center active:scale-90 transition-transform shrink-0"
+              >
+                <Search className="w-3.5 h-3.5 text-white" />
+              </button>
+            </div>
           </form>
         </div>
 

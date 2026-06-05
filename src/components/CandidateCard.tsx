@@ -145,6 +145,23 @@ export default function CandidateCard({
     };
   };
 
+  const getPartyColor = (partyName: string): string => {
+    const p = partyName?.toUpperCase() || '';
+    if (p === 'TVK' || p.includes('TAMILAGA VETTRI') || p.includes('VETTRI KAZHAGAM')) return '#7C3AED';
+    if (p === 'DMK' || p.includes('DRAVIDA MUNNETRA KAZHAGAM')) return '#DC2626';
+    if (p === 'AIADMK' || p.includes('ALL INDIA ANNA DRAVIDA')) return '#059669';
+    if (p === 'BJP' || p.includes('BHARATIYA JANATA')) return '#D97706';
+    if (p === 'INC' || p.includes('INDIAN NATIONAL CONGRESS')) return '#2563EB';
+    if (p === 'NTK' || p.includes('NAAM TAMILAR')) return '#EAB308';
+    if (p === 'VCK' || p.includes('VIDUTHALAI CHIRUTHAIGAL')) return '#7E22CE';
+    if (p === 'PMK' || p.includes('PATTALI MAKKAL')) return '#CA8A04';
+    if (p === 'CPI(M)' || p === 'CPIM' || p.includes('COMMUNIST PARTY OF INDIA (MARXIST)')) return '#B91C1C';
+    if (p === 'CPI' || p.includes('COMMUNIST PARTY OF INDIA')) return '#991B1B';
+    if (p === 'DMDK' || p.includes('DESIYA MURPOKKU')) return '#0E7490';
+    if (p === 'IND' || p === 'INDEPENDENT') return '#6B7280';
+    return '#94A3B8';
+  };
+
   const getPartyFlagUrl = (partyName: string) => {
     const p = partyName?.toUpperCase() || '';
     if (p === 'IND' || p === 'INDEPENDENT') return null;
@@ -187,21 +204,22 @@ export default function CandidateCard({
         onClick={() => onOpenDetails(candidate)}
       >
         {/* Left Side: Photo & Party Block */}
-        <div className={`w-[110px] shrink-0 relative overflow-hidden flex flex-col items-center justify-center p-3 ${partyStyle.bg}`}>
+        <div className="w-[110px] shrink-0 relative overflow-hidden flex flex-col items-center justify-center p-3 bg-neutral-50">
           {getPartyFlagUrl(candidate.party) && (
-            <div 
-              className="absolute inset-0 z-0 bg-no-repeat bg-center bg-cover opacity-40" 
-              style={{ backgroundImage: `url('${getPartyFlagUrl(candidate.party)}')` }} 
+            <img 
+              src={getPartyFlagUrl(candidate.party)!}
+              alt={candidate.party}
+              className="absolute inset-0 w-full h-full object-contain opacity-[0.12] pointer-events-none"
             />
           )}
-          <div className={`w-16 h-16 rounded-full overflow-hidden border-2 border-white shadow-md relative z-10 flex items-center justify-center text-xl font-bold bg-white ${partyStyle.text}`}>
+          <div className={`w-16 h-16 rounded-full overflow-hidden border-[3px] shadow-md relative z-10 flex items-center justify-center text-xl font-bold bg-white ${partyStyle.text}`} style={{ borderColor: getPartyColor(candidate.party) }}>
             {candidate.photo ? (
               <img src={candidate.photo.replace('images/', '/candidates/')} alt={candidate.name} className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
             ) : (
               candidate.name.charAt(0)
             )}
           </div>
-          <div className="relative z-10 mt-2 bg-white/90 backdrop-blur-sm px-2 py-0.5 rounded text-[9px] font-black tracking-widest uppercase text-neutral-900 shadow-sm truncate max-w-full text-center">
+          <div className="relative z-10 mt-2 px-2 py-0.5 rounded text-[9px] font-black tracking-widest uppercase shadow-sm truncate max-w-full text-center text-white" style={{ backgroundColor: getPartyColor(candidate.party) }}>
             {candidate.party}
           </div>
         </div>

@@ -470,25 +470,15 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
               </div>
             )}
 
-            {/* Mobile: Party Seats Legend inside map */}
+            {/* Mobile: Compact Party Legend — bottom-left, minimal */}
             {isMobile && legendEntries.length > 0 && (
-              <div className="absolute top-3 left-3 right-3 z-20 bg-white/80 backdrop-blur-sm border border-neutral-200/60 rounded-xl p-2.5 shadow-sm">
-                <h4 className="text-[8px] font-mono font-bold text-neutral-400 uppercase tracking-widest mb-1.5">
-                  {lang === 'en' ? 'Seats Won' : 'வென்ற இடங்கள்'}
-                </h4>
-                <div className="flex flex-wrap gap-1">
-                  {legendEntries.slice(0, 8).map((entry) => (
-                    <div
-                      key={entry.name}
-                      className="flex items-center space-x-1 bg-neutral-50/80 border border-neutral-100/60 rounded px-1.5 py-0.5"
-                    >
-                      <div
-                        className="w-2 h-2 rounded-sm shrink-0"
-                        style={{ backgroundColor: entry.color }}
-                      />
-                      <span className="text-[8px] font-bold text-neutral-600">{entry.name}</span>
-                      <span className="text-[8px] font-mono font-bold text-neutral-400">{entry.seats}</span>
-                    </div>
+              <div className="absolute bottom-14 left-3 z-20 bg-white/70 backdrop-blur-sm border border-neutral-200/40 rounded-lg px-2 py-1.5 shadow-sm max-w-[55%]">
+                <div className="flex flex-wrap gap-x-2 gap-y-0.5">
+                  {legendEntries.slice(0, 5).map((entry) => (
+                    <span key={entry.name} className="inline-flex items-center space-x-0.5">
+                      <span className="w-1.5 h-1.5 rounded-full shrink-0" style={{ backgroundColor: entry.color }} />
+                      <span className="text-[7px] font-bold text-neutral-500">{entry.name} {entry.seats}</span>
+                    </span>
                   ))}
                 </div>
               </div>
