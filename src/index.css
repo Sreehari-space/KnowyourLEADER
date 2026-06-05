@@ -208,10 +208,10 @@ html {
   }
 }
 
-/* Mobile: V-shape hero character layout */
+/* Mobile: Horizontal flat hero character layout */
 @media (max-width: 639px) {
   .hero-figures-container {
-    height: 190px;
+    height: 180px;
     position: relative;
     align-items: flex-end;
     gap: 0;
@@ -220,19 +220,11 @@ html {
   }
   .hero-figure-item {
     position: relative;
-    transform: none;
+    transform: none !important;
   }
   .hero-figure-item img {
-    height: 140px !important;
+    height: 160px !important;
   }
-  /* V-shape: center figure highest (translateY 0), outer ones lowest = ^ shape */
-  .hero-figure-item:nth-child(1) { transform: translateY(45px); }
-  .hero-figure-item:nth-child(2) { transform: translateY(30px); }
-  .hero-figure-item:nth-child(3) { transform: translateY(15px); }
-  .hero-figure-item:nth-child(4) { transform: translateY(0); }
-  .hero-figure-item:nth-child(5) { transform: translateY(15px); }
-  .hero-figure-item:nth-child(6) { transform: translateY(30px); }
-  .hero-figure-item:nth-child(7) { transform: translateY(45px); }
 }
 
 /* Hero name badge that appears on hover */
