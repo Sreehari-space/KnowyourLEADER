@@ -121,10 +121,10 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
       <Helmet>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDescription} />
-        <link rel="canonical" href="https://knowyourleader.in/affidavits" />
+        <link rel="canonical" href="https://know-your-leader.pages.dev/affidavits" />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={pageDescription} />
-        <meta property="og:url" content="https://knowyourleader.in/affidavits" />
+        <meta property="og:url" content="https://know-your-leader.pages.dev/affidavits" />
       </Helmet>
       <main className="max-w-7xl mx-auto px-4 md:px-8 pt-10 pb-16 min-h-[80vh] space-y-10">
         <div className="space-y-8 animate-fade-in">

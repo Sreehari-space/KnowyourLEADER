@@ -47,10 +47,10 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
       <Helmet>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDescription} />
-        <link rel="canonical" href={`https://knowyourleader.in/party/${partyKey}`} />
+        <link rel="canonical" href={`https://know-your-leader.pages.dev/party/${partyKey}`} />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={pageDescription} />
-        <meta property="og:url" content={`https://knowyourleader.in/party/${partyKey}`} />
+        <meta property="og:url" content={`https://know-your-leader.pages.dev/party/${partyKey}`} />
       </Helmet>
       <main className={`max-w-7xl mx-auto px-4 md:px-8 py-8 sm:py-12 min-h-[70vh] animate-fade-in ${getGlobalFontSizeClass()}`}>
         {/* Back Button */}

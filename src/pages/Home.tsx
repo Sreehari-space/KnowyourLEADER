@@ -73,7 +73,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
   let pageTitle = '';
   let pageDescription = '';
   let pageKeywords = '';
-  let canonicalUrl = 'https://knowyourleader.in';
+  let canonicalUrl = 'https://know-your-leader.pages.dev';
   let schemaJson: any = null;
 
   if (activeDetailedCandidate) {
@@ -84,7 +84,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
     let cWorthStr = activeDetailedCandidate.netWorthFormatted;
     const cCases = activeDetailedCandidate.caseCount;
 
-    canonicalUrl = `https://knowyourleader.in/?candidate=${activeDetailedCandidate.id}`;
+    canonicalUrl = `https://know-your-leader.pages.dev/?candidate=${activeDetailedCandidate.id}`;
 
     if (lang === 'en') {
       pageTitle = `${cName} (${cParty}) - Net Worth, Assets & Criminal Cases | KnowyourLeader`;
@@ -106,7 +106,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
       "mainEntityOfPage": canonicalUrl,
     };
   } else {
-    canonicalUrl = 'https://knowyourleader.in';
+    canonicalUrl = 'https://know-your-leader.pages.dev';
     pageTitle = lang === 'en'
       ? 'KnowyourLeader — Tamil Nadu Candidate Transparency Portal 2026'
       : 'KnowyourLeader — தமிழ்நாடு வேட்பாளர் வெளிப்படைத்தன்மை தளம் 2026';

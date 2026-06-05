@@ -8,5 +8,5 @@ Allow: /candidate/*
 Allow: /dashboard
 Allow: /compare
 # Host & Sitemap specification
-Host: https://knowyourleader.in
-Sitemap: https://knowyourleader.in/sitemap.xml
+Host: https://know-your-leader.pages.dev
+Sitemap: https://know-your-leader.pages.dev/sitemap.xml

@@ -62,10 +62,10 @@ export default function Compare({ candidates, lang, fontSize }: CompareProps) {
       <Helmet>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDesc} />
-        <link rel="canonical" href="https://knowyourleader.in/compare" />
+        <link rel="canonical" href="https://know-your-leader.pages.dev/compare" />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={pageDesc} />
-        <meta property="og:url" content="https://knowyourleader.in/compare" />
+        <meta property="og:url" content="https://know-your-leader.pages.dev/compare" />
       </Helmet>
       <main className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
         <ComparisonView
