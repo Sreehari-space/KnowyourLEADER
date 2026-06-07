@@ -56,22 +56,34 @@ const updatedCandidates = candidates.map(c => {
             cleaned = cleaned.replace(/\b\d{5,}\b/g, ''); 
             cleaned = cleaned.replace(/\b\d{1,3}(?:,\d{2,3})+\b/g, '');
 
-            const regex = /((?:\d+[.,]?\d*\s*(?:grams?|gms?|kg|soverigns?|sovereigns?|ct|carrots?|carats?)\s*)?(?:gold|silver|diamond|platinum|jeweller[a-z]*|jewel|vairam|thangam)\s*(?:\d+[.,]?\d*\s*(?:grams?|gms?|kg|soverigns?|sovereigns?|ct|carrots?|carats?))?)/gi;
+            cleaned = cleaned.replace(/[,-]/g, ' ');
+            cleaned = cleaned.replace(/\bof\b/gi, ' ');
+            cleaned = cleaned.replace(/\band\b/gi, ' ');
+            cleaned = cleaned.replace(/\bitems?\b/gi, ' ');
+            cleaned = cleaned.replace(/\barticles?\b/gi, ' ');
+            cleaned = cleaned.replace(/\b(gold|silver|diamond|platinum)\s+(?:jeweller[a-z]*|jewelry|jewels?)\b/gi, '$1');
+
+            const regex = /((?:\d+[.,]?\d*\s*(?:grams?|gms?|kg|soverigns?|sovereigns?|ct|carrots?|carats?|pounds?|pouns?)\s*)?(?:gold|silver|diamond|platinum|jeweller[a-z]*|jewel|vairam|thangam)\s*(?:\d+[.,]?\d*\s*(?:grams?|gms?|kg|soverigns?|sovereigns?|ct|carrots?|carats?|pounds?|pouns?))?)/gi;
             const matches = cleaned.match(regex);
             
             if (matches) {
               jewelry = matches.map((m, i) => {
-                let text = m.trim().replace(/,/g, '');
+                let text = m.trim();
                 let materialMatch = text.match(/(gold|silver|diamond|platinum|jeweller[a-z]*|jewel)/i);
                 let material = materialMatch ? materialMatch[0].toUpperCase() : 'JEWELRY';
                 
-                let weightMatch = text.match(/(\d+[.,]?\d*)\s*(grams?|gms?|kg|soverigns?|sovereigns?|ct|carrots?|carats?)/i);
+                let weightMatch = text.match(/(\d+[.,]?\d*)\s*(grams?|gms?|kg|soverigns?|sovereigns?|ct|carrots?|carats?|pounds?|pouns?)/i);
                 let weight = weightMatch ? `${weightMatch[1]}${weightMatch[2].toLowerCase()}` : '';
                 
                 return weight ? `${i + 1}. ${material} - ${weight}` : `${i + 1}. ${material}`;
               }).join(' ');
             } else {
-              jewelry = rawJewelry;
+              let fallbackMatch = cleaned.match(/(\d+[.,]?\d*)\s*(grams?|gms?|kg|soverigns?|sovereigns?|ct|carrots?|carats?|pounds?|pouns?)/i);
+              if (fallbackMatch) {
+                jewelry = `1. JEWELRY - ${fallbackMatch[1]}${fallbackMatch[2].toLowerCase()}`;
+              } else {
+                jewelry = rawJewelry;
+              }
             }
           }
         }

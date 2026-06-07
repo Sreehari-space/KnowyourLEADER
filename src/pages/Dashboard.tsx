@@ -3,8 +3,10 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useEffect } from 'react';
+import React, { useEffect, useRef } from 'react';
 import { Helmet } from 'react-helmet-async';
+import { gsap } from 'gsap';
+import { useGSAP } from '@gsap/react';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import MetricsDashboard from '../components/MetricsDashboard';
 import { TRANSLATIONS } from '../data/translations';
@@ -16,6 +18,11 @@ interface DashboardProps {
 }
 
 export default function Dashboard({ candidates, lang, fontSize }: DashboardProps) {
+  const containerRef = useRef<HTMLElement>(null);
+  useGSAP(() => {
+    gsap.fromTo(containerRef.current, { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.6, ease: 'power2.out' });
+  }, { scope: containerRef });
+
   const pageTitle = lang === 'en'
     ? 'Electoral Analytics Dashboard | KnowyourLeader'
     : 'புள்ளிவிவரத் தரவு | KnowyourLeader';
@@ -33,7 +40,7 @@ export default function Dashboard({ candidates, lang, fontSize }: DashboardProps
         <meta property="og:description" content={pageDesc} />
         <meta property="og:url" content="https://know-your-leader.pages.dev/dashboard" />
       </Helmet>
-      <main className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
+      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
         <MetricsDashboard candidates={candidates} lang={lang} fontSize={fontSize} />
       </main>
     </>

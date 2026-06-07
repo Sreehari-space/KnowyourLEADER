@@ -3,13 +3,15 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
+import { gsap } from 'gsap';
+import { useGSAP } from '@gsap/react';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import { TRANSLATIONS } from '../data/translations';
 import CandidateCard from '../components/CandidateCard';
-import CandidateModal from '../components/CandidateModal';
+import AnimatedCandidateModal from '../components/AnimatedCandidateModal';
 import { 
   Search, 
   ArrowUpDown, 
@@ -29,6 +31,29 @@ interface AffidavitsProps {
 export default function Affidavits({ candidates, lang, fontSize }: AffidavitsProps) {
   const navigate = useNavigate();
   const location = useLocation();
+  const containerRef = useRef<HTMLDivElement>(null);
+  const headerRef = useRef<HTMLDivElement>(null);
+  const gridRef = useRef<HTMLDivElement>(null);
+
+  useGSAP(() => {
+    // Header entrance
+    if (headerRef.current) {
+      gsap.fromTo(headerRef.current.children, 
+        { y: 30, opacity: 0 }, 
+        { y: 0, opacity: 1, duration: 0.6, stagger: 0.1, ease: 'power3.out' }
+      );
+    }
+  }, { scope: containerRef });
+
+  // Grid update stagger
+  useGSAP(() => {
+    if (gridRef.current && gridRef.current.children.length > 0) {
+      gsap.fromTo(gridRef.current.children,
+        { y: 30, opacity: 0 },
+        { y: 0, opacity: 1, duration: 0.4, stagger: 0.05, ease: 'power2.out', clearProps: 'all' }
+      );
+    }
+  }, { dependencies: [currentPage, searchQuery, filterParty, filterEducation, filterCriminal, sortBy], scope: containerRef });
 
   // Filters
   const [searchQuery, setSearchQuery] = useState('');
@@ -117,7 +142,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
   const pageDescription = lang === 'en' ? 'Explore and filter the complete database of candidate declarations, net worth, and criminal cases.' : 'வேட்பாளர்களின் சொத்துக்கள் மற்றும் கிரிமினல் வழக்குகளின் முழுமையான தரவுத்தளத்தை ஆராயுங்கள்.';
 
   return (
-    <div className="w-full">
+    <div ref={containerRef} className="w-full">
       <Helmet>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDescription} />
@@ -127,9 +152,9 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
         <meta property="og:url" content="https://know-your-leader.pages.dev/affidavits" />
       </Helmet>
       <main className="max-w-7xl mx-auto px-4 md:px-8 pt-10 pb-16 min-h-[80vh] space-y-10">
-        <div className="space-y-8 animate-fade-in">
+        <div className="space-y-8">
           {/* Header & Search */}
-          <div className="w-full max-w-4xl mx-auto space-y-8 select-none">
+          <div ref={headerRef} className="w-full max-w-4xl mx-auto space-y-8 select-none">
             
             <div className="text-center space-y-4">
               <h1 className="font-serif italic font-normal text-slate-800 text-3xl sm:text-5xl leading-tight tracking-tight">
@@ -279,7 +304,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
             </div>
           ) : (
             <div className="space-y-10">
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div ref={gridRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {paginatedCandidates.map((cand) => (
                   <CandidateCard
                     key={cand.id}
@@ -322,7 +347,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
 
       {/* ===== CANDIDATE MODAL ===== */}
       {activeDetailedCandidate && (
-        <CandidateModal
+        <AnimatedCandidateModal
           candidate={activeDetailedCandidate}
           lang={lang}
           fontSize={fontSize}

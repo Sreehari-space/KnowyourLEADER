@@ -1,5 +1,7 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
+import { gsap } from 'gsap';
+import { useGSAP } from '@gsap/react';
 import { Helmet } from 'react-helmet-async';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import CandidateCard from '../components/CandidateCard';
@@ -16,6 +18,23 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
   const { partyId } = useParams<{ partyId: string }>();
   const navigate = useNavigate();
   const t = TRANSLATIONS[lang];
+  const containerRef = useRef<HTMLElement>(null);
+  const headerRef = useRef<HTMLDivElement>(null);
+  const gridRef = useRef<HTMLDivElement>(null);
+
+  useGSAP(() => {
+    const tl = gsap.timeline();
+    if (headerRef.current) {
+      tl.fromTo(headerRef.current, { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5, ease: 'power2.out' });
+    }
+    if (gridRef.current && gridRef.current.children.length > 0) {
+      tl.fromTo(gridRef.current.children, 
+        { y: 30, opacity: 0 }, 
+        { y: 0, opacity: 1, duration: 0.4, stagger: 0.05, ease: 'power2.out' },
+        '-=0.2'
+      );
+    }
+  }, { scope: containerRef });
 
   // Map partyId if we need custom names, otherwise just use it
   const partyKey = partyId?.toUpperCase() || '';
@@ -52,7 +71,7 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
         <meta property="og:description" content={pageDescription} />
         <meta property="og:url" content={`https://know-your-leader.pages.dev/party/${partyKey}`} />
       </Helmet>
-      <main className={`max-w-7xl mx-auto px-4 md:px-8 py-8 sm:py-12 min-h-[70vh] animate-fade-in ${getGlobalFontSizeClass()}`}>
+      <main ref={containerRef} className={`max-w-7xl mx-auto px-4 md:px-8 py-8 sm:py-12 min-h-[70vh] ${getGlobalFontSizeClass()}`}>
         {/* Back Button */}
       <button 
         onClick={() => navigate(-1)}
@@ -63,7 +82,7 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
       </button>
 
       {/* Header Section */}
-      <div className="bg-white rounded-3xl p-6 sm:p-10 border border-neutral-200/60 shadow-sm mb-10">
+      <div ref={headerRef} className="bg-white rounded-3xl p-6 sm:p-10 border border-neutral-200/60 shadow-sm mb-10" style={{ opacity: 0 }}>
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-6">
           <div>
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight text-neutral-900 mb-2 uppercase">
@@ -123,7 +142,7 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
              </p>
            </div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div ref={gridRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {partyCandidates.map((cand) => (
               <CandidateCard
                 key={cand.id}

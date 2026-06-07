@@ -3,8 +3,10 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useSearchParams } from 'react-router-dom';
+import { gsap } from 'gsap';
+import { useGSAP } from '@gsap/react';
 import { Helmet } from 'react-helmet-async';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import ComparisonView from '../components/ComparisonView';
@@ -16,6 +18,11 @@ interface CompareProps {
 }
 
 export default function Compare({ candidates, lang, fontSize }: CompareProps) {
+  const containerRef = useRef<HTMLElement>(null);
+  useGSAP(() => {
+    gsap.fromTo(containerRef.current, { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.6, ease: 'power2.out' });
+  }, { scope: containerRef });
+
   const [searchParams, setSearchParams] = useSearchParams();
   const leftParam = searchParams.get('left');
   const rightParam = searchParams.get('right');
@@ -67,7 +74,7 @@ export default function Compare({ candidates, lang, fontSize }: CompareProps) {
         <meta property="og:description" content={pageDesc} />
         <meta property="og:url" content="https://know-your-leader.pages.dev/compare" />
       </Helmet>
-      <main className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
+      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
         <ComparisonView
           candidates={candidates}
           lang={lang}

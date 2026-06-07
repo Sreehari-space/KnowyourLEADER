@@ -3,14 +3,16 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
+import { gsap } from 'gsap';
+import { useGSAP } from '@gsap/react';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import { FORMAT_CURRENCY } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
 import CandidateCard from '../components/CandidateCard';
-import CandidateModal from '../components/CandidateModal';
+import AnimatedCandidateModal from '../components/AnimatedCandidateModal';
 import ConstituencyMap from '../components/ConstituencyMap';
 import { ErrorBoundary } from '../components/ErrorBoundary';
 import { 
@@ -35,6 +37,30 @@ interface HomeProps {
 
 export default function Home({ candidates, lang, fontSize }: HomeProps) {
   const navigate = useNavigate();
+  const containerRef = useRef<HTMLDivElement>(null);
+  const mainContentRef = useRef<HTMLElement>(null);
+  const candidateGridRef = useRef<HTMLDivElement>(null);
+
+  useGSAP(() => {
+    const tl = gsap.timeline();
+    tl.fromTo('.hero-title', { y: 30, opacity: 0 }, { y: 0, opacity: 1, duration: 0.8, ease: 'power3.out' });
+    tl.fromTo('.hero-figure-item', { y: 50, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5, stagger: 0.1, ease: 'back.out(1.5)' }, '-=0.4');
+    tl.fromTo('.stats-ticker', { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5 }, '-=0.2');
+
+    if (mainContentRef.current) {
+      gsap.fromTo('.main-header-text', 
+        { y: 30, opacity: 0 },
+        { y: 0, opacity: 1, duration: 0.8, ease: 'power3.out', scrollTrigger: { trigger: mainContentRef.current, start: 'top 80%' } }
+      );
+    }
+    
+    if (candidateGridRef.current) {
+      gsap.fromTo(candidateGridRef.current.children,
+        { y: 40, opacity: 0 },
+        { y: 0, opacity: 1, duration: 0.5, stagger: 0.1, ease: 'power2.out', scrollTrigger: { trigger: candidateGridRef.current, start: 'top 85%' } }
+      );
+    }
+  }, { scope: containerRef });
 
   // Filters
   const [searchQuery, setSearchQuery] = useState('');
@@ -169,7 +195,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
   };
 
   return (
-    <div className="w-full">
+    <div ref={containerRef} className="w-full">
       <Helmet>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDescription} />
@@ -188,7 +214,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
       {/* ===== HERO SECTION ===== */}
       <header className="hero-section-wrapper px-4 md:px-8 max-w-7xl mx-auto select-none pt-8 sm:pt-16 pb-4 sm:pb-10">
         {/* Hero Title */}
-        <div className="text-center animate-slide-up">
+        <div className="text-center">
           <h1 className="hero-title text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-[3.5rem] leading-[1.1] m-0 p-0 select-none">
             {lang === 'en' ? (
               <span className="font-serif italic font-light text-neutral-800">
@@ -295,7 +321,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
         </div>
 
         {/* Stats Ticker */}
-        <div className="max-w-3xl mx-auto mt-6 sm:mt-10">
+        <div className="stats-ticker max-w-3xl mx-auto mt-6 sm:mt-10">
           <div className="flex items-center justify-center flex-nowrap overflow-x-auto pb-2 sm:pb-0 gap-2 sm:gap-4 text-[10px] sm:text-xs font-mono font-bold text-neutral-400 tracking-tight scrollbar-hide px-4 whitespace-nowrap">
             <div className="flex items-center space-x-1 shrink-0">
               <Users className="w-3.5 h-3.5 text-neutral-400" />
@@ -335,10 +361,10 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
       />
 
       {/* ===== MAIN CONTENT ===== */}
-      <main className="max-w-7xl mx-auto px-4 md:px-8 pt-4 pb-10 sm:py-10 min-h-[60vh] space-y-10" id="main-content">
-          <div className="space-y-8 animate-fade-in" id="affidavit-list-module">
+      <main ref={mainContentRef} className="max-w-7xl mx-auto px-4 md:px-8 pt-4 pb-10 sm:py-10 min-h-[60vh] space-y-10" id="main-content">
+          <div className="space-y-8" id="affidavit-list-module">
             {/* Editorial Header + Search (Desktop only — mobile version is in hero) */}
-            <div className="w-full max-w-4xl mx-auto py-6 sm:py-10 space-y-8 select-none hidden sm:block">
+            <div className="main-header-text w-full max-w-4xl mx-auto py-6 sm:py-10 space-y-8 select-none hidden sm:block">
               
               {/* Title & Subtitle */}
               <div className="text-center space-y-4 px-2">
@@ -385,7 +411,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
             </div>
 
             {/* Candidate Grid */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div ref={candidateGridRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {topCandidates.map((cand) => (
                 <CandidateCard
                   key={cand.id}
@@ -416,7 +442,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
           fallbackMessage={lang === 'en' ? 'There was an issue rendering this candidate profile.' : 'இந்த வேட்பாளர் விவரத்தை காட்டுவதில் சிக்கல் ஏற்பட்டது.'}
           onRecover={() => setActiveDetailedCandidate(null)}
         >
-          <CandidateModal
+          <AnimatedCandidateModal
             candidate={activeDetailedCandidate}
             lang={lang}
             fontSize={fontSize}

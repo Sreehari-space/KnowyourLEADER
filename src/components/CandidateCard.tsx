@@ -3,7 +3,8 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React from 'react';
+import React, { useRef } from 'react';
+import { gsap } from 'gsap';
 import { Candidate, FontSizeSetting } from '../types';
 import { TRANSLATIONS } from '../data/translations';
 import { ShieldCheck, GraduationCap, Landmark, ArrowRight, AlertCircle, Briefcase, MapPin, Scale, Eye, Plus } from 'lucide-react';
@@ -27,6 +28,15 @@ export default function CandidateCard({
   isComparing
 }: CandidateCardProps) {
   const t = TRANSLATIONS[lang];
+  const desktopCardRef = useRef<HTMLDivElement>(null);
+  const mobileCardRef = useRef<HTMLDivElement>(null);
+
+  const handleMouseEnter = (ref: React.RefObject<HTMLDivElement>) => {
+    if (ref.current) gsap.to(ref.current, { y: -8, scale: 1.02, duration: 0.4, ease: 'back.out(2)' });
+  };
+  const handleMouseLeave = (ref: React.RefObject<HTMLDivElement>) => {
+    if (ref.current) gsap.to(ref.current, { y: 0, scale: 1, duration: 0.4, ease: 'power2.out' });
+  };
 
   // Upgraded Party Styles with richer gradients and softer shadows
   const getPartyStyles = (partyName: string) => {
@@ -200,8 +210,11 @@ export default function CandidateCard({
     <div className="h-full w-full">
       {/* ================= MOBILE LAYOUT (Compact Horizontal) ================= */}
       <div 
-        className={`sm:hidden group relative bg-white rounded-2xl overflow-hidden border border-neutral-100 shadow-sm active:scale-[0.98] transition-all duration-300 flex flex-row cursor-pointer ${partyStyle.glow}`}
+        ref={mobileCardRef}
+        className={`sm:hidden group relative bg-white rounded-2xl overflow-hidden border border-neutral-100 shadow-sm cursor-pointer ${partyStyle.glow}`}
         onClick={() => onOpenDetails(candidate)}
+        onMouseEnter={() => handleMouseEnter(mobileCardRef)}
+        onMouseLeave={() => handleMouseLeave(mobileCardRef)}
       >
         {/* Left Side: Photo & Party Block */}
         <div className="w-[110px] shrink-0 relative overflow-hidden flex flex-col items-center justify-center p-3 bg-white">
@@ -275,8 +288,11 @@ export default function CandidateCard({
 
       {/* ================= DESKTOP LAYOUT (Full Vertical Card) ================= */}
       <div 
-        className={`hidden sm:flex group relative bg-white rounded-3xl overflow-hidden border border-neutral-100 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:-translate-y-2 transition-all duration-500 flex-col h-full cursor-pointer ${partyStyle.glow}`}
+        ref={desktopCardRef}
+        className={`hidden sm:flex group relative bg-white rounded-3xl overflow-hidden border border-neutral-100 shadow-[0_4px_20px_rgba(0,0,0,0.04)] flex-col h-full cursor-pointer ${partyStyle.glow}`}
         onClick={() => onOpenDetails(candidate)}
+        onMouseEnter={() => handleMouseEnter(desktopCardRef)}
+        onMouseLeave={() => handleMouseLeave(desktopCardRef)}
       >
         
         {/* Premium Top Banner with Glass & Gradients */}

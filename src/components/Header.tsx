@@ -3,8 +3,10 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import { gsap } from 'gsap';
+import { useGSAP } from '@gsap/react';
 import { LayoutGrid, BarChart3, GitCompare, Globe, Baseline, Menu, X, ChevronDown } from 'lucide-react';
 import { FontSizeSetting, LanguageSetting } from '../types';
 
@@ -22,6 +24,11 @@ export default function Header({
   onFontSizeChange
 }: HeaderProps) {
   const location = useLocation();
+  const headerRef = useRef<HTMLElement>(null);
+
+  useGSAP(() => {
+    gsap.fromTo(headerRef.current, { y: '-100%' }, { y: '0%', duration: 0.6, ease: 'power3.out' });
+  }, { scope: headerRef });
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
@@ -69,6 +76,7 @@ export default function Header({
 
   return (
     <header
+      ref={headerRef}
       className={`site-header sticky top-0 z-40 w-full select-none transition-all duration-300 ${
         isScrolled
           ? 'bg-white/85 backdrop-blur-xl border-b border-neutral-200/60 shadow-[0_1px_12px_rgba(0,0,0,0.03)]'

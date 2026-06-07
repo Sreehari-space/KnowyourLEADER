@@ -4,6 +4,8 @@
  */
 
 import React, { useState, useEffect, useMemo, useRef, useCallback } from 'react';
+import { gsap } from 'gsap';
+import { useGSAP } from '@gsap/react';
 import { LanguageSetting, Candidate } from '../types';
 import { MapPin, Loader, MousePointerClick, ShieldAlert, ShieldCheck, Landmark, Users, Trophy, X } from 'lucide-react';
 import { FORMAT_CURRENCY } from '../data/candidates';
@@ -159,6 +161,13 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
   const [isMobile, setIsMobile] = useState(false);
   const svgRef = useRef<SVGSVGElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
+  const sectionRef = useRef<HTMLElement>(null);
+
+  useGSAP(() => {
+    if (!loading && sectionRef.current) {
+      gsap.fromTo(sectionRef.current, { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.6, ease: 'power2.out', scrollTrigger: { trigger: sectionRef.current, start: 'top 80%' } });
+    }
+  }, { dependencies: [loading], scope: sectionRef });
 
   // Detect mobile
   useEffect(() => {
@@ -405,7 +414,7 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
   if (!geoData) return null;
 
   return (
-    <section className="py-12 sm:py-16 map-section" id="constituency-map">
+    <section ref={sectionRef} className="py-12 sm:py-16 map-section" id="constituency-map">
       <div className="max-w-7xl mx-auto px-4 md:px-8">
         {/* Section Header */}
         <div className="text-center space-y-3 mb-10">

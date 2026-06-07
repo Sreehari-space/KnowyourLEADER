@@ -3,8 +3,10 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React from 'react';
+import React, { useRef } from 'react';
 import { Link } from 'react-router-dom';
+import { gsap } from 'gsap';
+import { useGSAP } from '@gsap/react';
 import { LanguageSetting } from '../types';
 import { FolderLock, LayoutGrid, BarChart3, GitCompare, ArrowUpRight, Github, Twitter, Mail } from 'lucide-react';
 
@@ -14,9 +16,19 @@ interface FooterProps {
 
 export default function Footer({ lang }: FooterProps) {
   const currentYear = new Date().getFullYear();
+  const footerRef = useRef<HTMLElement>(null);
+
+  useGSAP(() => {
+    if (footerRef.current) {
+      gsap.fromTo(footerRef.current, 
+        { opacity: 0, y: 30 }, 
+        { opacity: 1, y: 0, duration: 0.6, ease: 'power2.out', scrollTrigger: { trigger: footerRef.current, start: 'top 95%' } }
+      );
+    }
+  }, { scope: footerRef });
 
   return (
-    <footer className="bg-[#050505] text-neutral-400 select-none border-t border-white/5 relative overflow-hidden" id="site-footer">
+    <footer ref={footerRef} className="bg-[#050505] text-neutral-400 select-none border-t border-white/5 relative overflow-hidden" id="site-footer">
       
       {/* Subtle Background Glow */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-4xl h-px bg-gradient-to-r from-transparent via-white/20 to-transparent"></div>
