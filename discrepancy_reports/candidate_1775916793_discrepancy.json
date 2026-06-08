@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916793",
+    "candidate_name": "English Translation)",
+    "candidate_name_json": null,
+    "age": "67",
+    "party": "English Translation)",
+    "constituency": "English Translation)",
+    "pan": "LUFPS5065P",
+    "phone": "7645748556",
+    "email": "nil (tamil text / english translation)",
+    "address": "English Translation)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "English Translation)",
+    "profession": "English Translation)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 900000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 900000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

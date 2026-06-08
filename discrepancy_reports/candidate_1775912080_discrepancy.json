@@ -1,0 +1,363 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912080",
+    "candidate_name": "P. Murugesan",
+    "candidate_name_json": "MURUGESAN. P",
+    "age": "43",
+    "party": "தமிழக வெற்றிக்கழகம்",
+    "constituency": "179, Viralimalai, Tamil Nadu",
+    "pan": "EKVPP6384R",
+    "phone": "9842023824",
+    "email": "NIL",
+    "address": "13, Kallath Street, Thayinipatti, Vilathupatti Post, Illupur Taluk, Pudukkottai District - 622101",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10வது புனித ஆரோக்கிய அன்னை மேல்நிலைப்பள்ளி, கீரனூர் (1998), 12வது TELC ஆண்கள் மேல்நிலைப்பள்ளி, புதுக்கோட்டை (2000)",
+    "profession": "விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5818458.99,
+    "total_liabilities_xls": 705364.22,
+    "net_worth_xls": 5113094.77,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "50,000 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Canara Bank, Keeranur Branch 9,996 9 Thou+ Pudukkottai District Central Cooperative Bank Ltd Keeranur Br 1,377 1 Thou+ IOB, Narthamala, Br 13,291 13 Thou+ CUB, Keeranur Br 6,689 6 Thou+",
+        "spouse": "IOB, Narthamalai Br 10,959 10 Thou+ Canara Bank, Keeranur Branch 7,546 7 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Tata 407 TN 55 BT 2310, 2018 10,60,000 10 Lacs+ Tata Sumo Victa TN 55 W 0199,2010 7,00,000 7 Lacs+ TN 55 BU 8879, 2020 6,90,000 6 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "10 gm gold 10,93,600 10 Lacs+ 1/2 Kgs Silver 1,25,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Tayinipatti Village Sy No.83/1,83/3,33/4,33/5,85/7 Total Area 3.25 Acres Built Up Area Whether Inherited N Purchase Date 2005-05-20 Purchase Cost 30000.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Sriram Finance, Pudukkottai (Vehicle Loan ) 4,87,064 4 Lacs+ Muthoot Finance ,Keeranur (jewel loan) 2,18,300 2 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Punishment for theft (IPC Section-379)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "360/2022, Keeranur Police Station, Pudukkottai",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "379",
+          "other_details": "Section 5 of Explosive Substances Act, Section 9(B)(1)(b) of the Indian Explosive Act, Section 21(1) of MM Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 58,18,458 ~58 Lacs+",
+    "Liabilities:": "Rs 7,05,364 ~7 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2005 for ₹30,000 (CII Indexed Cost: ₹96,410) is declared at highly inflated value of ₹2,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Overvalued (Parking Illicit Funds)",
+      "description": "10.0g gold declared at ₹1,093,600 (Implied rate: ₹109,360/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹4,274,555) does not match declared total assets (₹5,818,458). Difference: ₹1,543,903"
+    }
+  ]
+}

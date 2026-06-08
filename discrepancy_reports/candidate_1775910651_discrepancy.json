@@ -1,0 +1,385 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910651",
+    "candidate_name": "Najeer Raja",
+    "candidate_name_json": "NAZEER RAJA. G",
+    "age": "NIL",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "No. 132 Dindigul Assembly Constituency, Tamil Nadu",
+    "pan": "AFPPN0715D",
+    "phone": "9842125786",
+    "email": "britenazeer@gmail.com",
+    "address": "B, Bharathi Hostel Road, Indira Nagar, Dindigul 624003",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Tenth Standard, Government Higher Secondary School, Vathalagundu, Dindigul - 1995",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 19632239.0,
+    "total_liabilities_xls": 7852150.0,
+    "net_worth_xls": 11780089.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "30,000 30 Thou+",
+        "spouse": "5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank Neruji Nagar Br Dindigul 2,44,538 2 Lacs+ Indian bank Rangarajapuram Br Chennai 7,375 7 Thou+ Indian Overseas bank Dindigul 2,572 2 Thou+ ICICI Bank Dindigul Br 6,133 6 Thou+ Cooperative Bank Head Br Dindigul 5,000 5 Thou+ Central Cooperative Bank Head Br Dindigul 3,000 3 Thou+ Union bank of India Virukampakkam Br Chennai 10,454 10 Thou+ Axis Bank Ltd Salairoad Br Dindigul 3,25,000 3 Lacs+",
+        "spouse": "Indian Bank Kudal Nagar Br Madurai 1,000 1 Thou+ State Bank of India ACB Nagal Nagar Br Dindigul 167 1 Hund+ Central Cooperative Bank Dindigul 0 Axis Bank Ltd Salairoad Br Dindigul 25,500 25 Thou+",
+        "huf": "Nil",
+        "dependent1": "State Bank of India Dindigul Town Br 465 4 Hund+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Madurai Shanthinagar Post Office RD 1,500 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "Madurai Shanthinagar Post Office RD Selvamagal Scheme 1,21,738 1 Lacs+",
+        "dependent2": "Madurai Shanthi Nagar Post office Selvamagal Scheme 1,21,390 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Mahindra Bolero Pikup, TN 74 AV 7814, 2019 9,00,000 9 Lacs+ Mahindra Bolero Pikup, TN 79 F 3646, 2019 9,50,000 9 Lacs+ Maruti Suzuki EECO, TN 57 BV 6385, 2020 5,85,000 5 Lacs+ Ford Eco Sport, TN 58 BC 5585, 2020 9,85,000 9 Lacs+ Suzuki Access 125 CC-Two Wheeler, TN 57 BP 1542, 2022 1,05,000 1 Lacs+ Suzuki Access 125 CC, TN 59 CH 1968, 2020 55,000 55 Thou+ Suzuki Access 125 11 CC-Two Wheeler, TN 59 CJ 5409, 2021 60,000 60 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "70 sovereign Gold Jewel 70,00,000 70 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Dindigul Aathur Taluk, Chinnalapatti, Kalikampatti Village Sur No 79/8, 79/9A, Plot No 71 Total Area 1800 sq ft Built Up Area Whether Inherited N Purchase Date 2026-02-09 Purchase Cost 325000.00 Development Cost 0.00 3,25,000 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Dindigul Nagalnayakkanpatti Bharathi Hostel Road. TS No. 1689, Door No. : 22/32, New Door No. : 34B Total Area 1470 sq ft Built Up Area 1470sqft Whether Inherited N Purchase Date 2012-03-30 Purchase Cost 910000.00 Development Cost 5000000.00 80,00,000 80 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "TruHome Finance Limited, Madurai Branch - Home Loan 46,35,169 46 Lacs+ Indian Bank, Nehruji Nagar Branch, Dindigul Business Loan 6,74,349 6 Lacs+ Indian Bank, Nehruji Nagar Branch, Dindigul Gold Loan 2,02,000 2 Lacs+ Indian Overseas Bank, Dindigul Port Branch, Dindigul gold loan 9,28,000 9 Lacs+ Indian Overseas Bank, Dindigul Port Branch, Dindigul Gold Loan 11,90,000 11 Lacs+ Bajaj Finance Dindigul Branch Personal Loan 2,22,632 2 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 6,35,270 | 2024 - 2025: Rs 7,19,780 | 2023 - 2024: Rs 5,24,540 | 2022 - 2023: Rs 6,23,400 | 2021 - 2022: Rs 5,14,340"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "Crime No. 344/2022; STC No. 1993/2022 (Crime No. 403/2022); STC No. 1992/2022 (Crime No. 404/2022)",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "2 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "2 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No. 344/ 2022, Dindigul Town North Police Station, Dindigul",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No. 403/ 2022, Dindigul Town North Police Station, Dindigul",
+          "case_no": "STC No. 1993/ 2022",
+          "court": "J.M. II, Dindigul",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283, 341",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "28 Jul 2022",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No. 404/ 2022, Dindigul Town North Police Station, Dindigul",
+          "case_no": "STC No. 1992/ 2022",
+          "court": "J.M. II, Dindigul",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 4A(1a), 4B TN Open Place Prevention of Disfigurement Act 1959",
+          "charges_framed": "Yes",
+          "charges_date": "28 Jul 2022",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,98,75,832 ~1 Crore+",
+    "Liabilities:": "Rs 78,52,150 ~78 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2012 for ₹910,000 (CII Indexed Cost: ₹1,710,800) is declared at highly inflated value of ₹8,000,000."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹16,750,170) does not match declared total assets (₹19,875,832). Difference: ₹3,125,662"
+    }
+  ]
+}

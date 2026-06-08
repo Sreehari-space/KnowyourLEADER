@@ -1,0 +1,348 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916565",
+    "candidate_name": "Jiyavudeen. A",
+    "candidate_name_json": "ZIAUDEEN A J",
+    "age": "47",
+    "party": "Independent",
+    "constituency": "176 Pattukkottai, Tamil Nadu",
+    "pan": "AAUPZ6007C",
+    "phone": "8072113070",
+    "email": "ajgziaudeen@gmail.com",
+    "address": "17, Hospital Street, Adirampattinam, Pattukkottai Taluk, Thanjavur District, Tamil Nadu",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "9th Standard (Kathir Mohideen Boys Higher Secondary School, 1995)",
+    "profession": "Business and Social Services"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1607030.0,
+    "total_liabilities_xls": 1151547.0,
+    "net_worth_xls": 455483.0,
+    "cash_xls": 125000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,25,000 1 Lacs+",
+        "spouse": "50,000 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Adirampattinam Branch 2,000 2 Thou+ Canara Bank Adiram Pattinam Branch 35,397 35 Thou+",
+        "spouse": "Indian Bank Adiram Pattinam Branch 1,500 1 Thou+ Canara Bank Adiram Pattinam Branch 3,133 3 Thou+",
+        "huf": "Nil",
+        "dependent1": "Indian Bank Adiram Pattinam Branch 5,000 5 Thou+",
+        "dependent2": "Indian Bank Adiram Pattinam Branch 2,000 2 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Honda Activa Motor Cycle TN-49-DX-4322 90,000 90 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "23gm Gold 3,00,000 3 Lacs+",
+        "spouse": "77gm Gold 10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Canara Bank Gold Loan 2,08,547 2 Lacs+",
+      "spouse": "Canara Bank Gold Loan 2,88,000 2 Lacs+ Canara Bank Gold Loan 6,55,000 6 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 2,17,099"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Crime No. 0352/2013, CC. No. 111/2018, Pattukkottai Judicial Magistrate Court, IPC Sections 147, 148, 324, 341, 379, 506(2) - When went for public issue",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Voluntarily causing hurt by dangerous weapons or means (IPC Section-324)",
+        "1 charges related to Punishment for theft (IPC Section-379)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "0352/2023, Adirampattinam PS",
+          "case_no": "CC No.111/2018",
+          "court": "Pattukottai Criminal Justice Arbitration Court",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 324, 341, 379, 506(2)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "25 Apr 2023",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 16,14,030 ~16 Lacs+",
+    "Liabilities:": "Rs 11,51,547 ~11 Lacs+"
+  },
+  "discrepancies": []
+}

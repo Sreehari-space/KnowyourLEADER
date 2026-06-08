@@ -1,0 +1,328 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904366",
+    "candidate_name": "Selvi. T. Abirami",
+    "candidate_name_json": "ABIRAMI. D",
+    "age": "25",
+    "party": "நாம் தமிழர் கட்சி",
+    "constituency": "22, Virugambakkam Assembly Constituency, Tamil Nadu",
+    "pan": "DWNPA7051R",
+    "phone": "9361019913",
+    "email": "abiramidhanabalan05@gmail.com",
+    "address": "Door No. 37, Sathyamurthy Street, Devaraj Nagar, Saligramam, Chennai-93",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Com. (2022) - Ethiraj College for Women, Chennai",
+    "profession": "தனியார் வேலை"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1373500.0,
+    "total_liabilities_xls": 590000.0,
+    "net_worth_xls": 783500.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "HDFC Bank 25,000 25 Thou+ Kotak Mahindra 10,000 10 Thou+ IOB 1,500 1 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Maruthi Suzuki TN 02 BT 8595 6,67,000 6 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "10 gm Gold 1,20,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "HDFC Bank Personal Loan 60,000 60 Thou+ IDFC Vehicle Loan 5,30,000 5 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 8,73,500 ~8 Lacs+",
+    "Liabilities:": "Rs 5,90,000 ~5 Lacs+"
+  },
+  "discrepancies": []
+}

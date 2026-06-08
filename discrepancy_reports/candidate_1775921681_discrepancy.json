@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921681",
+    "candidate_name": "Mayilkumar.Mu",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent",
+    "constituency": "87, Sankagiri",
+    "pan": "DDTPM5543R",
+    "phone": "9597757278",
+    "email": "mmmayilkumar@gmail.com",
+    "address": "2-445, Morambugadu, Pappampadi Village, Omalur Taluk, Salem District 636306",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A., B.Ed., M.Com. (10th – 1996 Government Higher Secondary School, Chinnappampatti; 12th – 2001 Government Higher Secondary School, Chinnappampatti; B.A - 2006 Political Science, Annamalai University (DDE); B.A - 2011 English, Vinayaka Mission University (DDE); B.Ed - 2012 Tamil Nadu Teachers Education University; M.A - 2016 English, Alagappa University (DDE); M.A – 2025 Political Science, Madurai Kamaraj University (DDE); M.Com – 2011 Banking and Insurance Management, Annamalai University (DDE))",
+    "profession": "Individual agricultural wage laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2211127.72,
+    "total_liabilities_xls": 215000.0,
+    "net_worth_xls": 1996127.72,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

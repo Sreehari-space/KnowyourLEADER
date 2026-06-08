@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920161",
+    "candidate_name": "Vishnu Murthy",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Independent",
+    "constituency": "113, Tiruppur North Assembly, Tamil Nadu",
+    "pan": "AJAPV9328B",
+    "phone": "9843260501",
+    "email": "NIL",
+    "address": "1, 2nd Cross Street, Muruganandapuram, Tiruppur City, Tiruppur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Seventh standard, Nanjappa Government Higher Secondary School, Tiruppur, completed in 1993",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1254700.0,
+    "total_liabilities_xls": 65000.0,
+    "net_worth_xls": 1189700.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

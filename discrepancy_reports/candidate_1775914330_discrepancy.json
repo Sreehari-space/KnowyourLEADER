@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914330",
+    "candidate_name": "P.வெங்கடேசன்",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "தமிழக வாழ்வுரிமைக் கட்சி",
+    "constituency": "ஆற்காடு",
+    "pan": "ALPPV6722N",
+    "phone": "9566818960",
+    "email": "venkateshvalar11@gmail.com",
+    "address": "நெ.33A, அண்ணா நகர்-3, வேலூர் மெயின் ரோடு, ஆற்காடு நகரம், ஆற்காடு வட்டம், பின்கோடு-632503, இராணிப்பேட்டை மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5-ம் வகுப்பு தேர்ச்சி",
+    "profession": "கல் உடைக்கும் கூலி தொழிலாளர் தலைவர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10271000.0,
+    "total_liabilities_xls": 1045000.0,
+    "net_worth_xls": 9226000.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

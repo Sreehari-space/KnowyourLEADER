@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905156",
+    "candidate_name": "C. Ezhumalai",
+    "candidate_name_json": null,
+    "age": "67",
+    "party": "Bharatiya Janata Party",
+    "constituency": "66-Polur Assembly Constituency, Tamil Nadu",
+    "pan": "AAAPE1280G",
+    "phone": "7010204019",
+    "email": "cezhumalai978@gmail.com",
+    "address": "No. 351A, Pillaiyar Kovil Street, Kuppam Village, Narasingapuram Post, Cheyyar Taluk, Tiruvannamalai District - 606902",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A., (History) 2005 - Alagappa University, Karaikudi",
+    "profession": "Agriculture, Real Estate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 75015694.0,
+    "total_liabilities_xls": 18500000.0,
+    "net_worth_xls": 56515694.0,
+    "cash_xls": 251034.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (5 case(s))",
+    "case_numbers_xls": "647/2006; 274/2016; 420/2024; 397/2023; 693/2024",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916396",
+    "candidate_name": "o Benjamin",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "Tamizhaga Vaazhvurimai Katchi",
+    "constituency": "118 Coimbatore North Assembly Constituency",
+    "pan": "AOWPR8149F",
+    "phone": "9894290998",
+    "email": "kasthurisekar78@g.mail.com",
+    "address": "Door No 18, Ex-Servicemen Colony, Lali Road, Coimbatore South Taluk, Coimbatore-641003",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard, Government Higher Secondary School, Seeranaickenpalayam (1994)",
+    "profession": "Daily wage farmer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 243077.0,
+    "total_liabilities_xls": 49200.0,
+    "net_worth_xls": 193877.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909065",
+    "candidate_name": "C.Raja Sing",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "BHAUJAN SAMAJ PARTY",
+    "constituency": "231 Colachai, Tamil Nadu",
+    "pan": "NIL",
+    "phone": "7339565373",
+    "email": "rajasingh220331@gmail.com",
+    "address": "8-11 Lakshmipuram Kallu Koottam KARIYAVILAI PANDARA VILAI COLACHAI",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10+2 Devasam Higher Secondary School Mondy kadu, BA Tamilnadu Open University",
+    "profession": "Home appliances sales"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4271264.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 4271264.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

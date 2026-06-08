@@ -1,0 +1,359 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918847",
+    "candidate_name": "S.Venkatesan",
+    "candidate_name_json": "P.VENKATESAN",
+    "age": "43",
+    "party": "Independent Candidate",
+    "constituency": "Ponneri Assembly Constituency",
+    "pan": "ARLPV1643A",
+    "phone": "9791089241",
+    "email": "NIL",
+    "address": "No. 73, Perumal Kovil Street, Natham, Panchetti, Tiruvallur District-601204",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Not Available",
+    "profession": "Security work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4338.0,
+    "total_liabilities_xls": 40140.0,
+    "net_worth_xls": 35802.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "15,000 15 Thou+",
+        "spouse": "10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank, Arcot Branch, A/c.No. 500 5 Hund+ Indian Overseas Arcot, A/c.No 700 7 Hund+ State bank of india Arcot Saving A/c.No. 800 8 Hund+ Bank account opened on 02/04/2026 for election expenses only Punjab National Bank, Arcot Branch Savings 15,000 15 Thou+",
+        "spouse": "Tamilnadu Mercantile Bank Ltd., Arcot Branch, Saving A/c.No. 10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Indian Bank, Arcot Branch, A/c.No. saving ac 10,000 10 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TVS Renacan Bike Reg.No. TN73AB 9454 Model:2018 69,000 69 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Bajaj Ape Load Auto Reg.No. TN73A C 7836 Model: 2019 2,40,000 2 Lacs+ Maruthi Swift Car Reg.No. TN67B G5135 Model: 2023 5,50,000 5 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold 5 Pound 40 g 4,00,000 4 Lacs+ Silver anklet 100 g 20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Kathiyawadi Village Plot No.579/3 Total Area acre 0.73 cent Built Up Area Whether Inherited N Purchase Date 2019-04-22 Purchase Cost 88000.00 Development Cost 0.00 7,50,000 7 Lacs+",
+        "spouse": "Kathiyawadi Village Plot No. 578/5, 564/94 Total Area acre 1.99 cent Built Up Area Whether Inherited N Purchase Date 2023-11-01 Purchase Cost 796000.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Melvisharam Plot No.64/10 1000 sq. ft. Plot No. 2A Commercial Shop Total Area 1000 sq.ft Built Up Area Whether Inherited N Purchase Date 2009-07-27 Purchase Cost 88295.00 Development Cost 1500000.00 20,00,000 20 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Plot No. 180, Ground Floor, House, Tkadu City Total Area 2210 sq.ft Built Up Area 221.0 sq.ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 311831.00 Development Cost 0.00 40,00,000 40 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Indian Bank, Arcot Branch Jewelry Loan 45,000 45 Thou+",
+      "spouse": "IDFC Bank Vellore Account No. Business Loan 9,00,000 9 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Sundaram Finance Vellore 4,50,000 4 Lacs+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Mortgage Loan Mr. Vasudevan Shop 1,00,000 1 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,10,71,000 ~1 Crore+",
+    "Liabilities:": "Rs 14,95,000 ~14 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2019 for ₹88,000 (CII Indexed Cost: ₹114,491) is declared at highly inflated value of ₹750,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Commercial Buildings purchased in 2009 for ₹88,295 (CII Indexed Cost: ₹224,317) is declared at highly inflated value of ₹2,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "180.0g gold declared at ₹400,000 (Implied rate: ₹2,222/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹10,494,005) does not match declared total assets (₹11,071,000). Difference: ₹576,995"
+    }
+  ]
+}

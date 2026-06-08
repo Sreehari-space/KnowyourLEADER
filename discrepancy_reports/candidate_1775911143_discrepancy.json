@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911143",
+    "candidate_name": "அ.கங்காசேகர்",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "மக்கள் சக்தி கட்சி",
+    "constituency": "79, சங்கராபுரம், தமிழ்நாடு",
+    "pan": "BBPPG4003A",
+    "phone": "9003677340",
+    "email": "gangasekar.a@gmail.com",
+    "address": "9, உடையார் தெரு, அம்மாப்பேட்டை கிராமம் வடக்கனந்தல் அஞ்சல் சின்னசேலம் வட்டம் கள்ளக்குறிச்சி மாவட்டம் - 606207",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "பனிரெண்டாம் வகுப்பு, அரசு மேல்நிலைப்பள்ளி வடக்கனந்தல், 1999-2000",
+    "profession": "தனி நபர் மனு தட்டச்சர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1735048.0,
+    "total_liabilities_xls": 460000.0,
+    "net_worth_xls": 1275048.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912663",
+    "candidate_name": "Vijaya Lakshmi Chinnasamy",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "97- Komarapalayam Assembly Constituency",
+    "pan": "AWFPV7807H",
+    "phone": "7010012002",
+    "email": "viji06pv@gmail.com",
+    "address": "Door No: 7A, Sundaram Nagar, Komarapalayam, Komarapalayam Taluk, Namakkal District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard - KRNG Higher Secondary School, Coimbatore, 1990; 12th Standard - KRNG Higher Secondary School, Coimbatore, 1992",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8511500.0,
+    "total_liabilities_xls": 1108730.0,
+    "net_worth_xls": 7402770.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

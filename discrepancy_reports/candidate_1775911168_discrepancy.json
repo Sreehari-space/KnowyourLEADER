@@ -1,0 +1,432 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911168",
+    "candidate_name": "KAVIYARASAN",
+    "candidate_name_json": "KAVIARASAN. T.T",
+    "age": "33",
+    "party": "Tamizhaga Vazhvurimai Katchi",
+    "constituency": "81, Gangavalli (SC), Tamil Nadu",
+    "pan": "LNPPK1432D",
+    "phone": "7339569589",
+    "email": "ptkavi97917@gmail.com",
+    "address": "91, Ambedkar Street, Thedavoor, Gangavalli, Attur, Salem-636116",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "12th Std, CSI Higher Secondary School, Salem, 2011",
+    "profession": "Real Estate Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 571466.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 571466.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "15,000 15 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "2,000 2 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI, Fort Main Road, Salem 1,466 1 Thou+ Karur Vysya Bank, Shevapet Branch 15,000 15 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Canara Bank, Thedayur Branch 0",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Dio Two Wheelers, Tn 30 BP 3472, 2019 55,000 55 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "16 Gms Gold 2,40,000 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "40 Gms Gold 6,00,000 6 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Survey No. 684/18, Thedavur Village Total Area 600 Sq ft Built Up Area 600 Sq ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 3,00,000 3 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Canara Bank, Cow Loan 90,000 90 Thou+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (6 case(s))",
+    "case_numbers_xls": "Crime No.93/2017; Crime No.297/2018; Crime No.382/2018; Crime No.38/2023; Crime No.204/2024; Crime No.306/2025",
+    "criminal_cases_json": {
+      "count": "6",
+      "summary": "Number of Criminal Cases:6",
+      "ipc_charges": [
+        "1 charges related to Attempt to murder (IPC Section-307)",
+        "1 charges related to Voluntarily causing hurt by dangerous weapons or means (IPC Section-324)",
+        "3 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Punishment for Rioting (IPC Section-147)",
+        "2 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)",
+        "1 charges related to Mischief causing damage to the amount of fifty rupees (IPC Section-427)",
+        "1 charges related to Punishment for wrongful Confinement (IPC Section-342)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No. 93/2017 Asthampatti P.S, Salem District, Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 151 Code of Criminal Procedure",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No. 297/2018 Vadamadurai P.S, Dindigul District, Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 341, 307",
+          "other_details": "Section 4 Tamilnadu Property ( Prevention of Damage and Loss) Act 1992",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No. 382/2018 Ammapettai P.S, Salem District, Tamil Nadu",
+          "case_no": "STC 3030/2021",
+          "court": "Criminal Judicial Magistrate Court 5, Salem",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 188",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "02 Nov 2020",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Crime No. 38/2023 Vellanur P.S, Pudukottai District, Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "283, 427",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Crime No. 204/2024, Kichipalayam P.S, Salem District, Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294(b), 341, 342, 323, 324, 506(ii)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Crime No. 306/2025 Salem Town P.S, Salem District, Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 4(1) Tamilnadu Open Places (Prevention of Disfigurement) Act 1959",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 12,28,466 ~12 Lacs+",
+    "Liabilities:": "Rs 90,000 ~90 Thou+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "56.0g gold declared at ₹240,000 (Implied rate: ₹4,286/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

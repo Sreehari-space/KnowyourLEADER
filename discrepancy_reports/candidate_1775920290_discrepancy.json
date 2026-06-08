@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920290",
+    "candidate_name": "Dr. S. Dakshinamurthy",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Independent",
+    "constituency": "183, Aranthangi Assembly Constituency, Tamil Nadu",
+    "pan": "ASGPD8787P",
+    "phone": "9159969415",
+    "email": "padma_pr25@yahoo.com.in",
+    "address": "Door No. 44, Rukmani Road, Kalakshetra Colony, Besant Nagar, Chennai-90",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MBBS - Government Thanjavur Medical College - 2006 TN DR.MGR Medical University; DDVL - Government Stanley Medical College, TN DR.MGR Medical University",
+    "profession": "Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5914340.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 5914340.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

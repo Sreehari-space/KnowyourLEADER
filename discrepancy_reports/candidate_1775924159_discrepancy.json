@@ -1,0 +1,341 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924159",
+    "candidate_name": "Mr.BALU P.M.",
+    "candidate_name_json": "BALU. P.M.",
+    "age": "41",
+    "party": "INDIVIDUAL",
+    "constituency": "Kinathukadavu, Tamil Nadu",
+    "pan": "ASBPB3284C",
+    "phone": "7760600148",
+    "email": "baluletterbox@gmail.com",
+    "address": "18, BodiPalayam, Seerappalayam, Coimbatore Dist- 641 105.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "MBA-MASTER OF BUSINESS ADMINISTRATION (2010, Karpagam Engineering college)",
+    "profession": "SALARIED"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2253971.0,
+    "total_liabilities_xls": 985000.0,
+    "net_worth_xls": 1268971.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "20,000 20 Thou+",
+        "spouse": "10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "ICIC Bank Trichy road Branch, Coimbatore SB A/c 20,071 20 Thou+ Indian Bank KMCH, Sitra Branch 100 1 Hund+ ndian overseas bank, Cross but road, Gandhipuram Branch 5,000 5 Thou+",
+        "spouse": "ICICI, Malumichamp atti Branch 400 4 Hund+ SBI Chettipalayam Branch 400 4 Hund+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "TVS IQUBE TN37EB3846 Year 2025 1,38,000 1 Lacs+ Honda Pleasure TN37 DJ 7490 Year 2020 40,000 40 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "20 Grams Sovereigns Of Gold & Diamond Bangle 2,80,000 2 Lacs+",
+        "spouse": "50 Gram Sovereigns Of Gold 7,40,000 7 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Chettipalayam Village, Madukkarai SRO S.F.No.300/1 Total Area 1200 Sqft Built Up Area 800 Sqft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 0*(Value Not Given)",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Indian Bank P.N.Palayam Branch Personal Loan 4,00,000 4 Lacs+ ICICI Bank Malumichamp atti Branch Jewell loan 5,85,000 5 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 7,16,780 | 2024 - 2025: Rs 7,04,080 | 2023 - 2024: Rs 6,23,697 | 2022 - 2023: Rs 3,45,850 | 2021 - 2022: Rs 0"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 22,53,971 ~22 Lacs+",
+    "Liabilities:": "Rs 9,85,000 ~9 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹1,208,075) does not match declared total assets (₹2,253,971). Difference: ₹1,045,896"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915249",
+    "candidate_name": "Dilip.C.S",
+    "candidate_name_json": "DILIP C S",
+    "age": "33",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "94, Namakkal Assembly Constituency, Tamil Nadu",
+    "pan": "CFAPD8968R",
+    "phone": "9626858585",
+    "email": "dilip69996@gmail.com",
+    "address": "4, 4 Square Apartment, Sublane, Tiruchengode Road, Namakkal Taluk, Namakkal District-637001, Tamilnadu",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Com., PSG Arts College, Coimbatore, Bharathiar University, Passed Out Year-2014",
+    "profession": "Transports and Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 53161739.0,
+    "total_liabilities_xls": 17554000.0,
+    "net_worth_xls": 35607739.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "5,00,000 5 Lacs+",
+        "spouse": "3,50,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "2,50,000 2 Lacs+",
+        "dependent2": "2,00,000 2 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "HDFC Trichy road Br 18,19,263 18 Lacs+ Canara Bank , Trichy Road Br 25,000 25 Thou+ Bandhan Bank Sale Road Br 20,00,000 20 Lacs+ City Union Bank, Thuriyur Road Branch (election) 0",
+        "spouse": "HDFC Trichy Road Br 50,000 50 Thou+ Federal Bank, Namakkal 2,500 2 Thou+",
+        "huf": "Nil",
+        "dependent1": "HDFC, Namakkal Main Br 3,00,000 3 Lacs+ Canara Bank, Marurpatty Br 20,000 20 Thou+",
+        "dependent2": "HDFC, Namakkal Main Br 1,00,000 1 Lacs+ KVB Namakkala Br 50,000 50 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Sri Vangalamman Logistics 42,63,060 42 Lacs+ Olive Voyages 31,00,000 31 Lacs+ Fusion Ink Studio 10,00,000 10 Lacs+ Go Gadgets 7,00,000 7 Lacs+",
+        "spouse": "Fusion Ink Studio 20,00,000 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Sri Vangalamman Logistics 27,92,000 27 Lacs+",
+        "dependent2": "ARL Logistics 0*(Value Not Given) Go Gadgets 3,00,000 3 Lacs+",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC policy 20,344 20 Thou+ LIC policy 13,861 13 Thou+ LIC policy 24,020 24 Thou+ Tata AIA 3,00,000 3 Lacs+ Tata AIA 1,34,123 1 Lacs+",
+        "spouse": "Tata AIA 3,19,568 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Tata AIA 41,800 41 Thou+ LIC Policy 8,715 8 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Ashok Leyland LPG Tanker UP 70 FT 9322 42,00,000 42 Lacs+ Ashok Leyland LPG Tanker UP 70 FT 9320 42,00,000 42 Lacs+ Honda Activa TN 28 AJ 8777 50,000 50 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "TATA Safari TN 88 P 0909 20,00,000 20 Lacs+ Bharat Benz 4028tt Open Tractor KA 51 AH 8065 37,02,970 37 Lacs+ Bharat Benz 4028tt Open Tractor KA 51 AH 806 38,64,700 38 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "824 gm gold 1,06,30,000 1 Crore+",
+        "spouse": "160 gm gold 20,60,000 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "300 gm gold 38,62,500 38 Lacs+",
+        "dependent2": "120 gm gold 15,45,000 15 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Gopisettyapalayam Nambiyar Village SY no.979/5,6,7 Total Area 5.70 Acre Built Up Area Whether Inherited N Purchase Date 2025-12-11 Purchase Cost 8648000.00 Development Cost 0.00 90,00,000 90 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Puliyar Village, Tenkasi Municiplity Tenkasi District Sy No.349-Ward E Block 006 Municipal Total Area 00.63.54 Cent Built Up Area Whether Inherited N Purchase Date 2026-02-12 Purchase Cost 685000.00 Development Cost 0.00 9,00,000 9 Lacs+ Puliyar Village, Tenkasi Municiplity Tenkasi District SY No.368 Block 007, Municipl No.10 Total Area 1.3193 Cent Built Up Area Whether Inherited N Purchase Date 2020-02-12 Purchase Cost 1420000.00 Development Cost 0.00 16,00,000 16 Lacs+ Puliyar Village, Tenkasi Municiplity Tenkasi District Sy No. 3Ward E Block 007 Municipal No.10 Total Area 1,39.22 Cent Built Up Area Whether Inherited N Purchase Date 2026-02-12 Purchase Cost 1500000.00 Development Cost 0.00 18,00,000 18 Lacs+",
+        "spouse": "Namakkal District , Senthamanga Taluk Talambalam Village SY No.168/2B,168/2B1 Plot No.46,49,50 Total Area 3600 sq.ft Built Up Area Whether Inherited N Purchase Date 2023-03-05 Purchase Cost 242000.00 Development Cost 0.00 3,00,000 3 Lacs+ Namakkal District , Senthamanga Taluk Talambalam Village SY No.223/2A1,223/2A2C PlotNos No.4 Total Area 2000 sq.ft Built Up Area Whether Inherited N Purchase Date 2025-03-06 Purchase Cost 501000.00 Development Cost 0.00 6,00,000 6 Lacs+ Namakkal District , Senthamanga Taluk Talambalam Village , Plot No.5 Total Area 2000 sq.ft Built Up Area Whether Inherited N Purchase Date 2025-03-06 Purchase Cost 501000.00 Development Cost 0.00 6,00,000 6 Lacs+ Namakkal District , Senthamanga Taluk Talambalam Village , Plot No.6 Total Area 2000 sq.ft Built Up Area Whether Inherited N Purchase Date 2025-03-06 Purchase Cost 501000.00 Development Cost 0.00 6,00,000 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Pallipalaiyam , PUdupalaiyam Agraharam Village SY No.9/1U Total Area 0.23 sq.ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 10,00,000 10 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Namakkal Thiruchengode Road Pillaiyar Kovil Street 146/4 A Block 4 T.S No.19/4B Total Area 614 sq.ft Built Up Area 614 sq.ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 443000.00 Development Cost 2500000.00 50,00,000 50 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Canara Bank Trichy Road Br ( Jewel Loan) 29,99,000 29 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Canara Bank Trichy Road Br ( Jewel Loan 10,55,000 10 Lacs+",
+      "dependent2": "anara Bank Trichy Road Br ( Jewel Loan) 14,00,000 14 Lacs+ YES Bank Salem Road Br Commercial Loan 8,04,117 8 Lacs+ YES Bank Salem Road Br Commercial Loan 10,18,499 10 Lacs+",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Hand Loan from Ranjith 1,35,00,000 1 Crore+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,95,710 | 2023 - 2024: Rs 3,98,310 | 2022 - 2023: Rs 9,57,090 | 2021 - 2022: Rs 10,66,370 | 2020 - 2021: Rs 23,88,160"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 7,83,120 | 2023 - 2024: Rs 7,40,670 | 2022 - 2023: Rs 7,06,370 | 2021 - 2022: Rs 6,22,330 | 2020 - 2021: Rs 5,06,260"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,94,820 | 2023 - 2024: Rs 6,87,540 | 2022 - 2023: Rs 4,96,790 | 2021 - 2022: Rs 4,77,940 | 2020 - 2021: Rs 4,70,790"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,91,250 | 2023 - 2024: Rs 6,67,110 | 2022 - 2023: Rs 4,73,980 | 2021 - 2022: Rs 4,63,900 | 2020 - 2021: Rs 4,44,300"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 7,81,99,424 ~7 Crore+",
+    "Liabilities:": "Rs 2,07,76,616 ~2 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹34,849,535, but 5-year family income is only ₹14,432,810. Unexplained wealth discrepancy of ₹20,416,725."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1404.0g gold declared at ₹12,690,000 (Implied rate: ₹9,038/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹53,803,535) does not match declared total assets (₹78,199,424). Difference: ₹24,395,889"
+    }
+  ]
+}

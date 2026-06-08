@@ -1,0 +1,381 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911602",
+    "candidate_name": "S. Raja",
+    "candidate_name_json": "RAJA.S",
+    "age": "46",
+    "party": "VANCHIT BAHUJAN AAGHADI",
+    "constituency": "002 Ponneri Assembly Constituency",
+    "pan": "CFDPR7461A",
+    "phone": "9789535596",
+    "email": "janjikran@gmail.com",
+    "address": "No. 175, Peravallur Village, Panchetti Post - 601 204, Ponneri Taluk, Tiruvallur District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "M.A. Tamil, Government Arts College, Chennai (2004); L.LB, Ambedkar Law College, Tirupati (2007); M.Phil., Tamil, University, Taramani, Chennai (2008); Ph.D., Tamil, Government Arts College, Chennai (2015)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6970762.45,
+    "total_liabilities_xls": 3000000.0,
+    "net_worth_xls": 3970762.45,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,000 10 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Bank of India Ponneri Branch 1,02,262 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "37,850 37 Thou+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TVS Jupiter Model 2017 30,000 30 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Thachur 1 Andarkuppam Village 356/1A10 Plot No 20 Singapore Estate Phase III Total Area 5230 Sqft Built Up Area 1763 Sqft Whether Inherited N Purchase Date 2025-09-19 Purchase Cost 6828500.00 Development Cost 0.00 0*(Value Not Given)",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Truehome Finance 30,00,000 30 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "Cr.No.260/2010; Cr.No.120/2016; Cr.No.309/2016",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr No 260/2010 Ponneri E1, Police Station, Ponneri.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Cog. Date- 29.05.2010",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Cr No 120/2016 Thiruppalaivanam E2, Police Station, Thiruppalaivanam",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Cog. Date- 20.09.2016",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Cr No 309/2016 Ponneri E1, Police Station, Ponneri.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Cog. Date- 29.06.2016",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 70,08,612 ~70 Lacs+",
+    "Liabilities:": "Rs 30,00,000 ~30 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Undervaluation",
+      "description": "Self Residential Buildings purchased in 2025 for ₹6,828,500 (CII Indexed Cost: ₹6,828,500) is severely undervalued at ₹0 (potential duty evasion)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹142,262) does not match declared total assets (₹7,008,612). Difference: ₹6,866,350"
+    }
+  ]
+}

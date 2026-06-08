@@ -1,0 +1,399 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918299",
+    "candidate_name": "D. Gurusamy",
+    "candidate_name_json": "GURUSAMY.T",
+    "age": "54",
+    "party": "Independent",
+    "constituency": "208, Tiruchuli, Tamil Nadu",
+    "pan": "IFCPU3587D",
+    "phone": "6382184085",
+    "email": "NIL",
+    "address": "27, Thirumalaipuram, Thoppalakkarai (Post), Suthambam Panchayat, Aruppukottai Taluk",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "6th Standard",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 29138000.0,
+    "total_liabilities_xls": 1455000.0,
+    "net_worth_xls": 27683000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,00,000 1 Lacs+",
+        "spouse": "25,000 25 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "BOI Manayasal 1,20,000 1 Lacs+ SBI 5,000 5 Thou+ CO DPBA 2,000 2 Thou+ Pederal 5,000 5 Thou+",
+        "spouse": "BOI 25,000 25 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Post office 6,000 6 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TN67CX 0259 1,00,000 1 Lacs+ Bolero TN67 BW 0761 2018 9,00,000 9 Lacs+",
+        "spouse": "15 Pound 120 gram 15,00,000 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "10 Pound 80 gram 10,00,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Thirumalai puram 971382A 113/2F Total Area 10 acre 21 cent Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 1000000.00 Development Cost 0.00 50,00,000 50 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "thummusaimb 454 /1Q 454/1r Total Area 7 cent Built Up Area Whether Inherited N Purchase Date 2026-00-00 Purchase Cost 700000.00 Development Cost 0.00 7,50,000 7 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "dumusanpatti 68/4B2 Total Area 21 cent Built Up Area 10 cent Whether Inherited N Purchase Date 2020-00-00 Purchase Cost 4500000.00 Development Cost 1500000.00 1,75,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Dhirumalai puram 113/2F2 Total Area 13 1/2 cent Built Up Area 3 centr Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 140000.00 Development Cost 2000000.00 22,00,000 22 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Co operative bank 1,60,000 1 Lacs+ ICI bank 3,60,000 3 Lacs+ Gold loan 6,50,000 6 Lacs+ Gold loan 1,85,000 1 Lacs+",
+      "spouse": "Crop loan 1,00,000 1 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr.NO: 101/2014, SPL-LOUVE SPC-03 11/2015 SC-ST-Case, US/147,148 324, 294(B),323 307 (IPE) 3(1) Rs (1)",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "1 charges related to Voluntarily causing hurt by dangerous weapons or means (IPC Section-324)",
+        "1 charges related to Attempt to murder (IPC Section-307)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr-NO 101/2014",
+          "case_no": "11/2025",
+          "court": "SPL Court",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294B, 323",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "01 Oct 2014",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "M Rediyarpatti PS",
+          "case_no": "Nil",
+          "court": "SPC of SC-ST Court",
+          "law_type": "IPC",
+          "ipc_sections": "324, 307",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Viruthunagar Dist.",
+          "case_no": "Nil",
+          "court": "Sr villiputhur Court",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section- 3(1) TNPP Sec- 3(1), Rs(G)",
+          "charges_framed": "Yes",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,91,38,000 ~2 Crore+",
+    "Liabilities:": "Rs 14,55,000 ~14 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹28,066,000, but 5-year family income is only ₹0. Unexplained wealth discrepancy of ₹28,066,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Commercial Buildings purchased in 2020 for ₹4,500,000 (CII Indexed Cost: ₹5,621,262) is declared at highly inflated value of ₹17,500,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "160.0g gold declared at ₹1,000,000 (Implied rate: ₹6,250/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

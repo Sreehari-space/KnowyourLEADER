@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915398",
+    "candidate_name": "Brahman",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Independent",
+    "constituency": "185-Tiruppathur Assembly Constituency, Tamil Nadu",
+    "pan": "ஏதுமில்லை/NONE",
+    "phone": "8508051817",
+    "email": "ஏதுமில்லை / none",
+    "address": "33, Markandeyanpatti village, Vaiyakalathur Post, Tiruppathur Taluk, Sivagangai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Sixth standard. Government School, S. Velangudi, 1982",
+    "profession": "Agricultural daily wage labor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 33500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 33500.0,
+    "cash_xls": 500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

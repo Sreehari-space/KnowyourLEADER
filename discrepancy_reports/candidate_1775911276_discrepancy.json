@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911276",
+    "candidate_name": "G. Senthil Mallar",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "212, Mudukulathur Assembly Constituency, Tamil Nadu",
+    "pan": "HCOPS6762Q",
+    "phone": "8778816947",
+    "email": "pandiyarnad@gmail.com",
+    "address": "3, North Street, Kechchilapuram Village, Kalangarapatti Post, Kovilpatti Taluk, Thoothukudi District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A., History, 1999-2001 academic year, PTM College, Melaneelithanallur, Tirunelveli District, Manonmaniam Sundaranar University.",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2167000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2167000.0,
+    "cash_xls": 2000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "Crime No.19/2022 (C.C No.1211/2022) - Sections: 153, 505(2) IPC; Crime No.379/2024 (C.C No.321/2025) - Sections: 196, 352, 296(b) 223 BNS; Crime No.47/2025 (STC No.2551/2025) - Sections: 192, 353(2) BNS; Crime No.22/2024 (C.C No.451/2025) - Sections: 192, 196(1), 353(2)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

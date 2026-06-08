@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918213",
+    "candidate_name": "சி.தனபால்",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "சுயேட்சை வேட்பாளர்",
+    "constituency": "அந்தியூர்",
+    "pan": "APIPD0406J",
+    "phone": "9659948599",
+    "email": "chinnasamy98@gmail.com",
+    "address": "54, Pudhu Veethi, T.N. Palayam, Gobichettipalayam Taluk, Erode District, Tamil Nadu - 638506",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "2016",
+    "profession": "தனிநபர் வழக்குரைஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2850000.0,
+    "total_liabilities_xls": 900000.0,
+    "net_worth_xls": 1950000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

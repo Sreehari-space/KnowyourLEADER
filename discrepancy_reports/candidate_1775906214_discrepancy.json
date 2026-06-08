@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906214",
+    "candidate_name": "Rajapu Nisha Ja",
+    "candidate_name_json": null,
+    "age": "25",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "102 Kangayam Assembly Constituency, Tiruppur District, Tamil Nadu",
+    "pan": "EIZPR5429B",
+    "phone": "7904403457",
+    "email": "nisha3092000@gmail.com",
+    "address": "Door No. 33, Sarojini Nagar, LIC Colony Extension, Selvapuram, Coimbatore-641026",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "2018 HSC 12th standard Vivekananda Higher Secondary School, Muthur; 2016 SSLC 10th standard Global Higher Secondary School, Kangayam",
+    "profession": "Self-employed partner Ifzan Enterprises (Home Interior Works)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10736019.0,
+    "total_liabilities_xls": 3490047.0,
+    "net_worth_xls": 7245972.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

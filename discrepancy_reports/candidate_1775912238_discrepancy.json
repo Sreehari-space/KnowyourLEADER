@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912238",
+    "candidate_name": "Shaheen Fathima",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "Tamilaga Valvurimai Katchi",
+    "constituency": "191, Madurai North, Tamil Nadu",
+    "pan": "JINPS8976M",
+    "phone": "6382246542",
+    "email": "shahinthariq94@gmail.com",
+    "address": "K. No. 54 A-11 B B Kulam, Main Road, B B Kulam Madurai North, Tallakulam, Madurai-625002",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard (Tamil Nadu State Board, 2009), 12th standard (Tamil Nadu State Board, 2011), B.Sc. Chemistry (Waqf Board College, 2014)",
+    "profession": "Self-employment, Managing Director TTT Groups"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7919050.0,
+    "total_liabilities_xls": 20200000.0,
+    "net_worth_xls": 12280950.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

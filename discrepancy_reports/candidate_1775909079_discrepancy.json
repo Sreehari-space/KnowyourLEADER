@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909079",
+    "candidate_name": "R. Sridhar",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "Ponneri Assembly Constituency",
+    "pan": "BGHPS1792K",
+    "phone": "9380511511",
+    "email": "ponsridar@gmail.com",
+    "address": "No.1, S.E. No. Nagar Main Road, Thachur Village, Ponneri Taluk, Tiruvallur - 601204",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Law - Central Law College, Salem - 1990-1995",
+    "profession": "Lawyer, Director - Fourlands Traders Private Ltd"
+  },
+  "financial_summary": {
+    "total_assets_xls": 16370000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 16370000.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

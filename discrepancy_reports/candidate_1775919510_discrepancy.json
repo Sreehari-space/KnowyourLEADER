@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919510",
+    "candidate_name": "S Ramesh",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Independent",
+    "constituency": "81 Gangavalli (SC)",
+    "pan": "BTRPR2394K",
+    "phone": "9159532429",
+    "email": "NIL",
+    "address": "55, AD Colony Street, Govindampalayam, Thalaivasal Taluk, Salem District 636101",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Health InsActor, Sri Venakateshwara Institute of Medical Science, Kazhudur 2021",
+    "profession": "Individual agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 438959.0,
+    "total_liabilities_xls": 72087.0,
+    "net_worth_xls": 366872.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

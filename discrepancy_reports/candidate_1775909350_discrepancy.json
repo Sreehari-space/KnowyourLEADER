@@ -1,0 +1,404 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909350",
+    "candidate_name": "T. Chandrakandiban",
+    "candidate_name_json": "D.CHANDRAKANDEEBAN",
+    "age": "42",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "177, Peravurani Assembly Constituency",
+    "pan": "AKFPC2990J",
+    "phone": "6382236356",
+    "email": "ajsenthil0@gmail.com",
+    "address": "தஞ்சாவூர் மாவட்டம், பட்டுக்கோட்டை வட்டம், குறிச்சி, வடக்கு தெரு, கதவு எண். 2/66 / Thanjavur District, Pattukkottai Taluk, Kurichi, North Street, Door No. 2/66",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "12th standard not passed, Government Boys Higher Secondary School, Pattukkottai – 28.02.2003",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 145098268.23,
+    "total_liabilities_xls": 3950730.98,
+    "net_worth_xls": 141147537.25,
+    "cash_xls": 80000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "40,000 40 Thou+",
+        "spouse": "40,000 40 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Axis Bank Pattukottai Br SB 8,258.23 8 Thou+ Karur Vysya Bank Pattukottai Br SB 2,010 2 Thou+ Election Purpose Bank of India Bank Pattukottai Br 1,000 1 Thou+",
+        "spouse": "Indian Bank Pattukottai Br SB 2,000 2 Thou+ Axis Bank Pattukottai Br SB 5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 40 pawn 40,00,000 40 Lacs+",
+        "spouse": "Gold 120 Pawn 1,20,00,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Kurichi Village Sur No 172/20B, 207/5, 208/4, 235/6, 172/19 Total Area Ac 03 Cent 67 Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 65,00,000 65 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Kurichi Village Sur No 173/13 Total Area 12271 sq ft Built Up Area 1200 sq ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 5000000.00 64,00,000 64 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Axis Bank Pattukottai Br Loan 5,63,500 5 Lacs+ Axis Bank Pattukottai Br Loan 11,10,500 11 Lacs+ Axis Bank Pattukottai Br 9,97,000 9 Lacs+ TBS Bank Loan Kondikulam Br 9,88,645.86 9 Lacs+ TBS Bank Loan Kondikulam Br 2,91,085.12 2 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "C.C.No.264/2010; Crime No. 1234/2020; Crime No. 467/2021; CC: 586/2025",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Forgery for purpose of cheating (IPC Section-468)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)",
+        "1 charges related to Punishment for cheating by personation (IPC Section-419)",
+        "1 charges related to Punishment for forgery (IPC Section-465)",
+        "1 charges related to Using as genuine a forged document or electronic record (IPC Section-471)",
+        "1 charges related to Mischief causing damage to the amount of fifty rupees (IPC Section-427)",
+        "1 charges related to Punishment for assault or criminal force otherwise than on grave provocation (IPC Section-352)",
+        "1 charges related to Punishment for house-trespass (IPC Section-448)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No 09/2009 Thiruvarur District , District Crime Br",
+          "case_no": "C.C.No.264/2010",
+          "court": "Criminal Judge Thiruthuraipoondi",
+          "law_type": "IPC",
+          "ipc_sections": "120B, 419, 420, 465, 468, 471",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "28 Apr 2010",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Tanjavur District Vaatathikottai PS Crime No 1234/2020",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "294B, 427, 506(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Tanjavur District Vaatathikottai P S Crime No 467/2021",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "294B, 352, 448, 506(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Pttukottai Town Police Station Crime no 371/2024",
+          "case_no": "CC : 586/2025",
+          "court": "Criminal Arbitration Court, Pattukottai",
+          "law_type": "IPC",
+          "ipc_sections": "332C, 296B, 131A, 118(1), 351(3)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,89,98,268 ~2 Crore+",
+    "Liabilities:": "Rs 39,50,730.98 ~39 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹28,426,758, but 5-year family income is only ₹0. Unexplained wealth discrepancy of ₹28,426,758."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

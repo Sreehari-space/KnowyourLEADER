@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904486",
+    "candidate_name": "P.L. Sundaram",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Communist Party of India",
+    "constituency": "107 Bhavanisagar (SC) - Tamil Nadu",
+    "pan": "IBDPS0452J",
+    "phone": "9443872827",
+    "email": "bavanisagarcpi@gmail.com",
+    "address": "44, Panaiyampalli (Po), Punjai Puliyampatti - 638459",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "IX STD, KVK Higher Secondary School, Punjai Puliyampatti- 638459.",
+    "profession": "Social worker, Communist Party of India"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2338895.72,
+    "total_liabilities_xls": 500000.0,
+    "net_worth_xls": 1838895.72,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "FIR No.0258/2024, BNS SEC.191(1) 351(1) - வாதிக்கு கொலை மிரட்டல் விடுத்ததாக குற்றச்சாட்டு / Accused of threatening the plaintiff with murder; FIR No.53/2025, BNS SEC.126(2) 189(2) - சட்டவிரோதமாக ஒன்று கூடி, தடுத்துவைத்ததாக / Unlawfully assembled and detained",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

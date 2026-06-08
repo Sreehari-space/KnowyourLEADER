@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921506",
+    "candidate_name": "Mr. K. Pavunthurai",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "Independent",
+    "constituency": "Kovilpatti - 218 Assembly Constituency",
+    "pan": "COHPK9962G",
+    "phone": "9994691711",
+    "email": "ponu.durai@gmail.com",
+    "address": "3, Kanthari Amman Kovil Street, Usilankulam, Kovilpatti Taluk, Thoothukudi District-628952",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Twelfth grade (VPKP Government Higher Secondary School)-2011, B.A (Political Science) - (Centre for Distance education) 2025",
+    "profession": "Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3339560.0,
+    "total_liabilities_xls": 20190.0,
+    "net_worth_xls": 3319370.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

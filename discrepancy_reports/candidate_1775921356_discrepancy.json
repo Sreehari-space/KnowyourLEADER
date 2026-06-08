@@ -1,0 +1,401 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921356",
+    "candidate_name": "Shankar Thi",
+    "candidate_name_json": "T. SANKAR",
+    "age": "40",
+    "party": "Independent",
+    "constituency": "227 Nanguneri Legislative Assembly Constituency, Tamil Nadu",
+    "pan": "DXWPS1152R",
+    "phone": "9865555568",
+    "email": "deepasankardeepasankar@gmail.com",
+    "address": "Door No. 65, Mahadevan Street, Nanguneri, Nanguneri Taluk, Tirunelveli District 627 108, Tamil Nadu",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th standard private (2003), 11th standard Shankar Reddy Government Higher Secondary School (discontinued 2004)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 11580935.0,
+    "total_liabilities_xls": 3291511.0,
+    "net_worth_xls": 8289424.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "HDFC Bank TVL ac no 40,000 40 Thou+ SBI Bank Samathanpuram 2,000 2 Thou+ Indian Bank Palayan Fort A/No 2,000 2 Thou+ Canar Bank, Rahmatnagar, A/No 50,000 50 Thou+ ESAI Finance Palayan Fort, A/No 10,000 10 Thou+ Canara Bank Palayan Fort A/No 2,000 2 Thou+ Bank of India Nanguneri 50,000 50 Thou+ Tamil Nadu Grama Bank K.D.Sinagar A/No 15,000 15 Thou+ AXIS Bank, KTC Nagar, A/No. 1,80,000 1 Lacs+ IOB Bank, Nanguneri A/No. 50,000 50 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Sukanya Samridhi Yojana 1,10,000 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Yamaha TN72BL3007 2019 50,000 50 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "320 gram 41,60,000 41 Lacs+",
+        "spouse": "320 gram 41,60,000 41 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Uthumalai Survey No. 417 Total Area 18 cent Built Up Area Whether Inherited N Purchase Date 2025-08-12 Purchase Cost 739935.00 Development Cost 0.00 7,39,935 7 Lacs+ K.T.C. Nagar. Survey No.67/14/1A Total Area 6 cent Built Up Area Whether Inherited N Purchase Date 2020-11-04 Purchase Cost 1800000.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "AXIS Bank KTC Nagar, personal Loan 2,54,644 2 Lacs+ AXIS Bank KTC Nagar, personal Loan 36,867 36 Thou+ IOB Bank, Nanguneri Jewelry Loan 15,00,000 15 Lacs+ Tamil Nadu Grama Bank K.D.Sinagar. Jewelry Loan 5,00,000 5 Lacs+ Tamil Nadu Grama Bank K.D.Sinagar. Jewelry Loan 10,00,000 10 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "1389/2020 பாளையங்கோட்டை காவல் நிலையம், பாளையங்கோட்டை / 1389/2020 Palayamkottai Police Station, Palayamkottai; 347/2024, பாளையங்கோட்டை காவல் நிலையம் பாளையங்கோட்டை / 347/2024, Palayamkottai Police Station, Palayamkottai; 646/2021, பாளையங்கோட்டை காவல் நிலையம் பாளையங்கோட்டை / 646/2021, Palayamkottai Police Station, Palayamkottai; 423/2020 புதுகோட்டை காவல் நிலையம். புதுக்கோட்டை / 423/2020 Pudukkottai Police Station, Pudukkottai",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "2 charges related to Voluntarily causing hurt by dangerous weapons or means (IPC Section-324)",
+        "1 charges related to Punishment for murder (IPC Section-302)",
+        "1 charges related to Hrbouring offender (IPC Section-212)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Every member of unlawful assembly guilty of offence committed in prosecution of common object (IPC Section-149)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)",
+        "1 charges related to Acts done by several persons in furtherance of common intention (IPC Section-34)",
+        "1 charges related to Punishment for wrongful Confinement (IPC Section-342)",
+        "1 charges related to Abettor present when offence is committed (IPC Section-114)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "1389/2020 Palayankottai Police Station, Palayankottai",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "294B, 324, 506(i)",
+          "other_details": "P Card, TNPHW Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "347/2024, Palayamkottai Police Station Palayamkottai",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "294B, 324, 506(ii)",
+          "other_details": "Section 4 of TNPHW Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "646/2021, Palayamkottai Police Station Palayamkottai",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294B, 302, 506(2) 109, 149, 120B, 212, 34, 342, 114",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "423/2020 Pudukottai Police Station. Pudukottai",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "294B, 323, 506(ii)",
+          "other_details": "269/19,",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,16,90,935 ~1 Crore+",
+    "Liabilities:": "Rs 32,91,511 ~32 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹9,329,935) does not match declared total assets (₹11,690,935). Difference: ₹2,361,000"
+    }
+  ]
+}

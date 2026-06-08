@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917978",
+    "candidate_name": "Danuneelan.C",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "Independent",
+    "constituency": "229, Kanyakumari, Tamil Nadu",
+    "pan": "AWMPT2930L",
+    "phone": "9043282593",
+    "email": "thilaksns4617@gmail.com",
+    "address": "115, Pillaiyar Kovil Street, Kulasekarapuram Post, Kanyakumari District - 629 403",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th",
+    "profession": "Individual driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4124000.0,
+    "total_liabilities_xls": 1426620.0,
+    "net_worth_xls": 2697380.0,
+    "cash_xls": 2000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,495 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919481",
+    "candidate_name": "A. Nareshkumar",
+    "candidate_name_json": "A. NARESHKUMAR",
+    "age": "42",
+    "party": "Independent Candidate",
+    "constituency": "Ranipet Assembly Constituency",
+    "pan": "APAPN2617M",
+    "phone": "9791856792",
+    "email": "nareshkaari007@gmail.com",
+    "address": "5, Labor School Street, Ranipet, Walajapet Taluk, Pincode-632401, Ranipet District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "7th standard pass, Government High School, Karai, Ranipet",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 11997832.6,
+    "total_liabilities_xls": 1195000.0,
+    "net_worth_xls": 10802832.6,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "25,000 25 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "5,000 5 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "The Ranipet Town Cooperative Bank 549 5 Hund+ Canara Bank Ranipet 88,198 88 Thou+ Canara Bank Ranipet 19,977 19 Thou+ Indian Overseas Bank Ranipet 10,981 10 Thou+ Indian Overseas Bank Ranipet 0 AU Small Finance Bank Ranipet 8,295 8 Thou+ Central Bnnk of India Ranipet 12,319 12 Thou+ Union Bank of India Ranipet 0 SBI Ranipet 112 1 Hund+ SBI Ranipet 3,36,687 3 Lacs+ SBI Ranipet 65,279 65 Thou+ SBI Ranipet 10,01,430 10 Lacs+ For Election Expenditure SBI Ranipet 5,000 5 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Canara Bank Ranipet 1,841 1 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Earth Movers JCB TN73Q8301 29,00,000 29 Lacs+ HGV Eicher TN73Q9247 16,00,000 16 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "10Sovereign Gold 8,00,000 8 Lacs+ 120gm Silver 24,000 24 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "45 Sovereign Gold 36,00,000 36 Lacs+ 360 gm Silver 72,000 72 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Eranthangal Village S No. 250/5D Total Area 0.21 Cent Built Up Area Whether Inherited N Purchase Date 2024-07-29 Purchase Cost 42000.00 Development Cost 0.00 1,00,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Karai Village S No. 352/1 Total Area 0.61 Cent Built Up Area Whether Inherited N Purchase Date 1979-01-01 Purchase Cost 8000.00 Development Cost 0.00 2,00,000 2 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "House Karai Village Nagarpula 64/1 Total Area 3087 1/2 sqft Built Up Area 1750 Char Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 4500000.00 Development Cost 0.00 50,00,000 50 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "SBI Ranipet JewelLoan 9,55,000 9 Lacs+ Canara Bank Ranipet 2,40,000 2 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 6,90,690"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (10 case(s))",
+    "case_numbers_xls": "1. 235/2018 Ranipet PS FIR Stage; 2. 489/2011 Ranipet PS FIR Stage; 3. 166/2025 Walajapet PS FIR Stage; 4. 338/2023 Ranipet PS Charge Sheet Stage; 5. 30/2019 Tiruvalam PS Trial Stage; 6. 494/2020 Sipcot PS FIR Stage; 7. 361/2017 Sipcot PS FIR Stage; 8. 290/2017 Sipcot PS FIR Stage; 9. 286/2017 Sipcot PS Charge Sheet Stage; 10. 232/2017 Sipcot PS Charge Sheet Stage",
+    "criminal_cases_json": {
+      "count": "10",
+      "summary": "Number of Criminal Cases:10",
+      "ipc_charges": [
+        "2 charges related to Punishment for theft (IPC Section-379)",
+        "2 charges related to Mischief by injury to works of irrigation or by wrongfully diverting water (IPC Section-430)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Voluntarily causing hurt on provocation (IPC Section-334)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "235/2018 Ranipet PS",
+          "case_no": "CC No. 53/2023",
+          "court": "Katpadi JM",
+          "law_type": "IPC",
+          "ipc_sections": "294b, 323, 334, 506(ii)",
+          "other_details": "Section 4 of TNPHW Act",
+          "charges_framed": "Yes",
+          "charges_date": "17 Mar 2023",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "489/2011 Ranipet PS",
+          "case_no": "CC No. 7/2024",
+          "court": "Ranipet Munsif Cum JM",
+          "law_type": "IPC",
+          "ipc_sections": "294b, 506(i)",
+          "other_details": "Section 4 of TNPHW Act",
+          "charges_framed": "Yes",
+          "charges_date": "26 Apr 2024",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "166/2025 Walajapet PS",
+          "case_no": "CC No. 250/2025",
+          "court": "Ranipet Munsif Cum JM",
+          "law_type": "IPC",
+          "ipc_sections": "379, 430",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "23 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "338/2023 Ranipet PS",
+          "case_no": "CC No. 195/2025",
+          "court": "Ranipet JM",
+          "law_type": "IPC",
+          "ipc_sections": "379, 430",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "22 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "30/2019 Tiruvalam PS Trial Sheet",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "494/2020 Sipcot PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "361/2017 Sipcot PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "290/2017 Sipcot PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "286/2017 Sipcot PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "232/2017 Sipcot PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,58,76,673 ~1 Crore+",
+    "Liabilities:": "Rs 11,95,000 ~11 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹11,676,846, but 5-year family income is only ₹690,690. Unexplained wealth discrepancy of ₹10,986,156."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "920.0g gold declared at ₹800,000 (Implied rate: ₹870/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹3,806,841 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹12,631,846) does not match declared total assets (₹15,876,673). Difference: ₹3,244,827"
+    }
+  ]
+}

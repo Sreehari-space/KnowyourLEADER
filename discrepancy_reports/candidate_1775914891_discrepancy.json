@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914891",
+    "candidate_name": "P.S.J. Chegu Abdul Kadar",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Independent",
+    "constituency": "Tiruchendur",
+    "pan": "ERLPS6424N",
+    "phone": "9600438916",
+    "email": "peyas.shaik@gmail.com",
+    "address": "32B, Kurukku Theru, Kayalpattinam-628204, Tiruchendur Circle",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Commerce, Sadakathullah Appa College, Tirunelveli, 1991",
+    "profession": "Individual private business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2577500.0,
+    "total_liabilities_xls": 435000.0,
+    "net_worth_xls": 2142500.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

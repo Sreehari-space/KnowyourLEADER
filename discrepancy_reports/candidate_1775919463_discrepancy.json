@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919463",
+    "candidate_name": "R.Dhanapal",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent",
+    "constituency": "112 Avinashi (SC), Tamil Nadu",
+    "pan": "CJFPD8269Q",
+    "phone": "9524559035",
+    "email": "dhanabal.r99@gmail.com",
+    "address": "5, Samiyappan Compound, Kaniyampoondi, Avinashi Taluk, Tiruppur District, Tamil Nadu - 641663",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th - Sri Ramakrishna Vidyalaya Higher Secondary School, Tiruppayathurai, Trichy District - 639 115, Year of completion 1999",
+    "profession": "Garment company employee"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1002546.0,
+    "total_liabilities_xls": 280000.0,
+    "net_worth_xls": 722546.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

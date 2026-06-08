@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915699",
+    "candidate_name": "J. Jayashankar (ஜெ. ஜெயசங்கர்)",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Independent (சுயேட்சை)",
+    "constituency": "45-Keezhvaithinan Kuppam (Reserved), Tamil Nadu (45-கீழ்வைத்தினான்குப்பம் (தனி), தமிழ்நாடு)",
+    "pan": "BZVPJ0870J",
+    "phone": "7868821619",
+    "email": "none (இல்லை)",
+    "address": "Door No:2, Anjukam Nagar, Vaduganthangal Village and Post, K.V. Kuppam Circle, Vellore District, Tamil Nadu 632204 (கதவு எண்:2, அஞ்சுதம் நகர், வடுகந்தாங்கள் கிராமம் மற்றும் அஞ்சல் கீ.வா.குப்பம் வட்டம், வேலூர் மாவட்டம், தமிழ் நாடு 632204)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Govt. School Pillandhipattu (பத்தாம் வகுப்பு, அரசு பள்ளி பில்லாந்திப்பட்டு)",
+    "profession": "Self-employment (சுய தொழில்)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 55000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 55000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

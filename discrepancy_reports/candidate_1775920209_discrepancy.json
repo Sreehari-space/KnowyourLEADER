@@ -1,0 +1,379 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920209",
+    "candidate_name": "A. Sivan",
+    "candidate_name_json": "SARAVANAN. A.",
+    "age": "34",
+    "party": "Independent",
+    "constituency": "59, Dharmapuri",
+    "pan": "ETLPS8058C",
+    "phone": "9952871688",
+    "email": "n.a.siva1991@gmail.com",
+    "address": "143, Gandhi Nagar, Narthampatti Village and Post, Nallampalli Taluk, Dharmapuri District - 636804",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Diploma in Information Technology (Muthayammal Polytechnic College, Rasipuram, Namakkal District, 2011)",
+    "profession": "Private Sector Employee"
+  },
+  "financial_summary": {
+    "total_assets_xls": 927000.0,
+    "total_liabilities_xls": 410000.0,
+    "net_worth_xls": 517000.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "2,00,000 2 Lacs+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "ICICI Br:Dharmapuri SB 31.03.26 5,000 5 Thou+ IDBI Br:Dharmapuri SB 31.03.26 3,000 3 Thou+ BOI Br:Dharmapuri SB 31.03.26 1,000 1 Thou+ Union Bank of India Br:Dharmapuri SB 31.03.26 1,529 1 Thou+ UCO Br:Dharmapuri SB 26-03-31. 708 7 Hund+",
+        "spouse": "UCO Br:Dharmapuri SB 558 5 Hund+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Jeeva Press 37,71,000 37 Lacs+",
+        "spouse": "Jeeva Press 50% 37,71,000 37 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TN 29 CB 6678 Honda CB 350RS, 2023 2,65,000 2 Lacs+ Car Mahindra EV BE 6 Pack II TN 29 CH 3242, 2025 26,00,000 26 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "50 Grams 4,70,000 4 Lacs+",
+        "spouse": "60 Grams 5,50,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "1.Pappinaykkanhalli 98/10,98/11 Total Area 0.71 Acre Built Up Area Whether Inherited N Purchase Date 2010-10-05 Purchase Cost 4050.00 2.Somanahalli 330/4,331/4 331/3 Total Area 0.40 Area Built Up Area Whether Inherited N Purchase Date 2021-02-22 Purchase Cost 400000. 3Pappanaykkanhalli 460/1,463/2 0.02 Arce 2020-12-21 2341000.00 Total Area Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,02,00,000 1 Crore+",
+        "spouse": "Adagapadi 504/1A6 Total Area 0.90 Acer Built Up Area Whether Inherited N Purchase Date 2020-07-06 Purchase Cost 270000.00 Development Cost 0.00 45,00,000 45 Lacs+ Adagapadi 376/1B Total Area 1.00 Acer Built Up Area Whether Inherited N Purchase Date 2019-04-12 Purchase Cost 300000.00 Development Cost 0.00 75,00,000 75 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Pappinayak kanaalli 117/2 Sivamani Nagar Land 18-19 Total Area 2755Sq.ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 100000.00 Development Cost 0.00 15,00,000 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "1 Pappinayakana Alli 98/10,98/11 2100 Sqft 300 Sq.ft 2.Pappinayakkanalli Mettu Street Natham Total Area 915 Sq.ft Built Up Area 1800 Sq.ft 2021-10-28 1000000.00 Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 10,00,000 10 Lacs+ Pappinayakkan Alli, Mettu Street, Natham 1/7 SHARE Total Area 900SQFT Built Up Area 900 Sq.ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,00,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Union Bank of India Car Loan 31.03.26 14,26,846 14 Lacs+",
+      "spouse": "UCO Bank Jewell Loan 4,00,000 4 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,98,560 | 2023 - 2024: Rs 4,95,960 | 2022 - 2023: Rs 4,92,560 | 2021 - 2022: Rs 4,95,720 | 2020 - 2021: Rs 4,82,350"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2023 - 2024",
+      "income": "2023 - 2024: Rs 4,88,260 | 2022 - 2023: Rs 4,74,710"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "228/2014 Dharmapuri City B1 Police Sation",
+          "case_no": "CC 500201/2015",
+          "court": "Judicial Magistrate No 1",
+          "law_type": "IPC",
+          "ipc_sections": "155A, 505(A) 188",
+          "other_details": "Section -125 The Representation of the Peoples Act.",
+          "charges_framed": "Yes",
+          "charges_date": "28 Mar 2014",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,65,38,795 ~3 Crore+",
+    "Liabilities:": "Rs 18,26,846 ~18 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹24,505,159, but 5-year family income is only ₹3,428,120. Unexplained wealth discrepancy of ₹21,077,039."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2010 for ₹4,050 (CII Indexed Cost: ₹9,119) is declared at highly inflated value of ₹10,200,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Agricultural Land purchased in 2020 for ₹270,000 (CII Indexed Cost: ₹337,276) is declared at highly inflated value of ₹4,500,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "110.0g gold declared at ₹1,020,000 (Implied rate: ₹9,273/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹26,332,005) does not match declared total assets (₹36,538,795). Difference: ₹10,206,790"
+    }
+  ]
+}

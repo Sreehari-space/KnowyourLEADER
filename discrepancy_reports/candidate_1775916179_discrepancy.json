@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916179",
+    "candidate_name": "K.A. Manoharan",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "Tamil Telugu Dravida Munnetra Ottrumai Kazhagam",
+    "constituency": "54, Veppanapalli, Tamil Nadu",
+    "pan": "CSEPM9174P",
+    "phone": "6374208480",
+    "email": "manoharanka1577@gmail.com",
+    "address": "63A, Kurkambatti Village, Sunchalnatham Post, Pennagaram Taluk, Dharmapuri District, Pincode - 636810",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Government Higher Secondary School, Eriyur, Dharmapuri District (1994)",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2390000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2390000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

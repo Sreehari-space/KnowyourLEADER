@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915553",
+    "candidate_name": "S.ARUL",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "Independent candidate",
+    "constituency": "88 Salem West Constituency, Tamilnadu",
+    "pan": "DGHPA7385E",
+    "phone": "9025750861",
+    "email": "NIL",
+    "address": "91, Kombupalayam, Nadayanur, Karur 639 113, Tamilnadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BA (History) - discontinue, Thanthonimalai government college, Karur",
+    "profession": "welder"
+  },
+  "financial_summary": {
+    "total_assets_xls": 121730.0,
+    "total_liabilities_xls": 89500.0,
+    "net_worth_xls": 32230.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

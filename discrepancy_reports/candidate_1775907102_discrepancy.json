@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907102",
+    "candidate_name": "S.S. SIVASANKAR",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "DRAVIDA MUNNETRA KAZHAGAM (DMK)",
+    "constituency": "148. KUNNAM CONSTITUENCY",
+    "pan": "ALLPS6015M",
+    "phone": "9443142600",
+    "email": "kunnam148@gmail.com",
+    "address": "No.3, Kalaingar Illam, Rajaji Nagar Post, Ariyalur TK & DT, Tamil Nadu, Pincode : 621713.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., Annamalai University, Chidambaram, 1991, Qualified",
+    "profession": "Agriculturist, Consultant of Electrical Engineering, Books and article Writer, Social and Charitable works etc"
+  },
+  "financial_summary": {
+    "total_assets_xls": 814043696.54,
+    "total_liabilities_xls": 15610917.19,
+    "net_worth_xls": 798432779.3499999,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "FIR No. 1285/2020, Case No. CRLMP NO.192/2025; FIR No. 1278/2020, Case No. CRLMP NO.7281/2024; FIR No. 568/2020, Case No. STC/338/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

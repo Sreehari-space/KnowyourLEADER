@@ -1,0 +1,347 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919849",
+    "candidate_name": "Moorthy",
+    "candidate_name_json": "MOORTHY P",
+    "age": "42",
+    "party": "Independent",
+    "constituency": "No-9, Madavaram Assembly Constituency",
+    "pan": "FMWPM7882P",
+    "phone": "9710157882",
+    "email": "NIL",
+    "address": "No:2-42, Anna Street, Kottaimedu colony, (CholavaramPost) Chennai 600 067",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "NOT APPLICABLE",
+    "profession": "DRIVER"
+  },
+  "financial_summary": {
+    "total_assets_xls": 20600.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 20600.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "36,151 36 Thou+",
+        "spouse": "64,666 64 Thou+",
+        "huf": "60,537 60 Thou+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Bank of India, Iyer bungalow SB 1,03,019.99 1 Lacs+ Indian Overseas Bank Secretariat Chennai SB 32,76,787.26 32 Lacs+ Indian Overseas Bank K Puthur SB 70,861.87 70 Thou+ Indus Ind Bank, Iyer Bungalow SB 36,058 36 Thou+ Canara Bank Iyer Bungalow SB 1,13,03,905.50 1 Crore+ Bharath State Bank Thallagulam SB 49,92,527 49 Lacs+ Indian Bank Oomachikulam Sb 25,49,933 25 Lacs+",
+        "spouse": "Canara Bank Iyer Bungalow SB 3,48,869.64 3 Lacs+ Indian Overseas bank K Puthur SB 1,68,588.95 1 Lacs+ Indus Ind Bank Iyer Bungalow SB 2,12,316.71 2 Lacs+ Bharath State Bank Thalagulam Sb 3,68,751.99 3 Lacs+",
+        "huf": "Bharath State Bank Thalagulam SB 7,69,694.50 7 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Lease Advance Thiru PM Thiyanesh 5,00,000 5 Lacs+ Rental Advance Thiru Vebugopal 50,000 50 Thou+",
+        "huf": "Mrs V Chellamal 3,75,000 3 Lacs+ Mrs L Usha 1,02,500 1 Lacs+ Mr P Lakshmanan 1,02,500 1 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Ambassador car TN 59 P 2244 6,701 6 Thou+ New Ford Endeavour Titanium TN 59 CE 2244, YOP 2019 39,85,527 39 Lacs+",
+        "spouse": "Vento car TN-59 AS 2244 80,849 80 Thou+ Innova car TN-59 CM 5000, YOP 2020 29,91,291 29 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 75 Gram 1,15,000 1 Lacs+",
+        "spouse": "Gold 1123.600 Gram 21,35,122 21 Lacs+ Silver 4.526kg 95,000 95 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Cellphone 8,888 8 Thou+ (Income Tax Refund 2007- 2008 77,297 77 Thou+ (Income Tax Refund 2024-2025 8,67,088 8 Lacs+ Security Deposit 84,000 84 Thou+ Home Appliances Reimbursement 2,19,445 2 Lacs+",
+        "spouse": "Furniture 4,942 4 Thou+ House hold Articles 2,54,000 2 Lacs+ TV and Stabilizer 1,29,700 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Vellichanatham Village Sur no 36/1A, 36/1B, 36/2 Total Area 1.07 Acre Built Up Area Whether Inherited N Purchase Date 2002-11-21 Purchase Cost 87000.00 Development Cost 0.00 5,35,272 5 Lacs+ Vellichanatham Village Sur No 83/8, 83/10, 83.11 Total Area 1.53 Acre Built Up Area Whether Inherited N Purchase Date 2005-08-24 Purchase Cost 144265.00 Development Cost 0.00 7,66,224 7 Lacs+ Vellichanatham Village Sur No 21/12 Total Area 0.34 Acre Built Up Area Whether Inherited N Purchase Date 2003-03-28 Purchase Cost 34000.00 Development Cost 0.00 1,70,068 1 Lacs+ Vellichanatham Village Sur No 21/12 Total Area 0.34 Acre Built Up Area Whether Inherited N Purchase Date 2003-03-28 Purchase Cost 34000.00 Development Cost 0.00 1,70,068 1 Lacs+ Vellichanatham Village Sur No 143/7 143/4B 143/13A 37/7 47/7B 100/2A 10/4 10/5 17/7 21/12 Total Area 4.11 Acre Built Up Area Whether Inherited Y Purchase Date 2004-01-21 Purchase Cost 0.00 Development Cost 0.00 73,91,664 73 Lacs+ Vellichanatham Village Sur No 37/6B, 37/7 Total Area 1.42 Acre Built Up Area Whether Inherited N Purchase Date 2009-10-09 Purchase Cost 688332.00 Development Cost 0.00 62,74,375 62 Lacs+ Mallaipatti Village Sur no 6/1A 6/1C 8/2 Total Area 3.61 Acre Built Up Area Whether Inherited N Purchase Date 1993-08-06 Purchase Cost 40000.00 Development Cost 0.00 18,05,361 18 Lacs+ Mallaipatti Village Sur no 6/1A 6/1C 8/2 Total Area 3.61 Acre Built Up Area Whether Inherited N Purchase Date 2008-07-09 Purchase Cost 114370.00 Development Cost 0.00 18,05,361 18 Lacs+ Mallaipatti Village Sur no 17/2C Total Area 0.72 Acre Built Up Area Whether Inherited N Purchase Date 2003-07-11 Purchase Cost 14000.00 Development Cost 0.00 3,60,072 3 Lacs+ Mallaipatti Village Sur no 7/2 Total Area 1.44 Acre Built Up Area Whether Inherited N Purchase Date 2003-05-11 Purchase Cost 31000.00 Development Cost 0.00 7,20,144 7 Lacs+ Maalaipatti Village Sur No 1/2B, 7/1B, 7/4 Total Area 3.56 Acre Built Up Area Whether Inherited N Purchase Date 2010-02-25 Purchase Cost 116570.00 Development Cost 0.00 17,80,356 17 Lacs+ Mettupatti Village S No 251, 250/4 Total Area 5.72 Acre Built Up Area Whether Inherited N Purchase Date 2007-06-28 Purchase Cost 381850.00 Development Cost 0.00 28,60,472 28 Lacs+ Mettupatti Village S No 250/1, 250/2 Total Area 0.45 Acre Built Up Area Whether Inherited N Purchase Date 2007-06-28 Purchase Cost 30570.00 Development Cost 0.00 2,25,023 2 Lacs+ Mettupatti Village 251, 252/1B, 252/2B Total Area 4.23 Built Up Area Whether Inherited N Purchase Date 2007-03-14 Purchase Cost 235540.00 Development Cost 0.00 21,15,272 21 Lacs+ Mettu Patti Village Sur No 252/1A, 252/2A Total Area 1.21 Acre Built Up Area Whether Inherited N Purchase Date 2007-03-14 Purchase Cost 40025.00 Development Cost 0.00 6,05,000 6 Lacs+ Mettu Patti Village Sur No 251 Total Area 1 Acre Built Up Area Whether Inherited N Purchase Date 2007-03-14 Purchase Cost 68310.00 Development Cost 0.00 5,00,100 5 Lacs+ Mettu Patti Village Sur No 257/2A 257/2B 257/281 257/2B2 Total Area 2.71 Acre Built Up Area Whether Inherited Y Purchase Date 2013-01-31 Purchase Cost 100425.00 Development Cost 0.00 13,55,000 13 Lacs+ Mettupatti Village Sur no 256/1, 256/2 Total Area 0.97 Built Up Area Whether Inherited Y Purchase Date 2013-01-31 Purchase Cost 66615.00 Development Cost 0.00 4,85,097 4 Lacs+ Mettu Patti Village Sur No 250/3, 250/4A Total Area 1.94 Built Up Area Whether Inherited Y Purchase Date 2013-01-31 Purchase Cost 130625.00 Development Cost 0.00 9,70,000 9 Lacs+ Mettu Patti Village Sur 261/1 Total Area 3.26 Built Up Area Whether Inherited Y Purchase Date 2013-01-31 Purchase Cost 337000.00 Development Cost 0.00 16,30,652 16 Lacs+ Manikampatti Village Sur no 15/1C 15/2B, 26/1, 26/2, 30 Total Area 8.32 Built Up Area Whether Inherited N Purchase Date 2007-08-27 Purchase Cost 319470.00 Development Cost 0.00 41,60,110 41 Lacs+ Manikampatti Village Sur No 28 Total Area 0.96 cent Built Up Area Whether Inherited N Purchase Date 2007-03-14 Purchase Cost 27105.00 Development Cost 0.00 4,80,000 4 Lacs+ Manikampatti Village Sur No 314/2, 316 Total Area 0.65 cent Built Up Area Whether Inherited N Purchase Date 2008-04-17 Purchase Cost 30825.00 Development Cost 0.00 3,25,080 3 Lacs+ Manikampatti Village Sur No 294/1A Total Area 2.24 Built Up Area Whether Inherited N Purchase Date 2008-04-17 Purchase Cost 81965.00 Development Cost 0.00 11,20,000 11 Lacs+ Manikampatti Village Sur No 291/1, 292/1, 294/2A, 294/2B, 294/1B, 315/1, 315/2, 316 Total Area 13.34 Built Up Area Whether Inherited N Purchase Date 2008-04-17 Purchase Cost 521550.00 Development Cost 0.00 66,70,090 66 Lacs+ Manikampatti Village Sur No 13/1 Total Area 4.37 Built Up Area Whether Inherited N Purchase Date 2008-06-13 Purchase Cost 190650.00 Development Cost 0.00 21,85,437 21 Lacs+ Manikampatti Village Sur No 293/3B, 292/2, 289 Total Area 0.77.50 Built Up Area Whether Inherited N Purchase Date 2009-02-11 Purchase Cost 33620.00 Development Cost 0.00 3,87,570 3 Lacs+ Manikampatti Village Sur No 27, 29/2 Total Area 2.18 Built Up Area Whether Inherited N Purchase Date 2010-03-15 Purchase Cost 95940.00 Development Cost 0.00 10,90,206 10 Lacs+ Manikampatti Village Sur No 13/2B, 13/2C, 14/1B, 14/1C, 14/2B, 14/2C, 15/1A, 15/1B, 15/2A Total Area 5.77 Built Up Area Whether Inherited Y Purchase Date 2013-01-31 Purchase Cost 289055.00 Development Cost 0.00 28,85,339 28 Lacs+ Manikampatti Village Sur No 13/2A, 14/1A, 14/2A Total Area 2.93 Built Up Area Whether Inherited Y Purchase Date 2003-01-31 Purchase Cost 127675.00 Development Cost 0.00 14,65,293 14 Lacs+ Sathiravallalapatti Village Sur no 90/3 Total Area 1.50 Built Up Area Whether Inherited N Purchase Date 2007-08-20 Purchase Cost 52460.00 Development Cost 0.00 7,50,150 7 Lacs+ Sathiravallalapatti Village Sur No 98/5 Total Area 0.94 Built Up Area Whether Inherited N Purchase Date 2007-09-10 Purchase Cost 32893.00 Development Cost 0.00 4,70,094 4 Lacs+ Sathiravallalapatti Village Sur No 98/1 Total Area 2.25 Built Up Area Whether Inherited N Purchase Date 2007-09-10 Purchase Cost 78570.00 Development Cost 0.00 11,25,225 11 Lacs+ Sathiravallalapatti Village Sur No 91/4 Total Area 3.21 Built Up Area Whether Inherited N Purchase Date 2007-09-03 Purchase Cost 112073.00 Development Cost 0.00 16,05,321 16 Lacs+ Sathiravallalapatti Village Sur No 91/5 Total Area 0.84 Built Up Area Whether Inherited N Purchase Date 2007-08-20 Purchase Cost 29312.00 Development Cost 0.00 4,20,084 4 Lacs+ Sathiravallalapatti Village Sur No 98/4 Total Area 0.85 Built Up Area Whether Inherited N Purchase Date 2007-09-10 Purchase Cost 29679.00 Development Cost 0.00 4,25,085 4 Lacs+ Sathiravallalapatti Village Sur No 91/3 Total Area 2.78 Built Up Area Whether Inherited N Purchase Date 2007-09-10 Purchase Cost 166732.00 Development Cost 0.00 13,90,556 13 Lacs+ Pallamedu Village Sur No 133/1, 133/2, 133/3, 133/4, 133/5,133/6, 130/1, 130/2B, 130/3, 131/2, 131/4 Total Area 4.40 Built Up Area Whether Inherited N Purchase Date 2009-02-11 Purchase Cost 414750.00 Development Cost 0.00 24,21,510 24 Lacs+ Aadhanur Village Sur No 340/1, 341/1 Total Area 7.93 Built Up Area Whether Inherited N Purchase Date 2010-07-12 Purchase Cost 233555.00 Development Cost 0.00 39,65,000 39 Lacs+ Errampatti Village Sur No 110/6B, 110/6A, 110/7, 111/1, 111/2, 112/2F Total Area 3.37 Built Up Area Whether Inherited N Purchase Date 2014-02-19 Purchase Cost 489030.00 Development Cost 0.00 16,87,022 16 Lacs+ Errampatti Village Sur No 109/1, 109/2, 109/3, 109/4 Total Area 4.24 Built Up Area Whether Inherited N Purchase Date 2013-08-06 Purchase Cost 527080.00 Development Cost 0.00 21,22,544 21 Lacs+ Errampatti Village Sur No 129/1, 131/F, 131/H, 137/4A2,103/1B Total Area 4.31 Built Up Area Whether Inherited N Purchase Date 2014-07-16 Purchase Cost 516925.00 Development Cost 0.00 21,57,613 21 Lacs+ Kodimangalam Village Sur no 39/5A1A Total Area 0.35 Built Up Area Whether Inherited N Purchase Date 2019-08-28 Purchase Cost 194640.00 Development Cost 0.00 2,11,827 2 Lacs+ Kodimangalam Village Sur no 60/1B Total Area 0.34.25 Built Up Area Whether Inherited N Purchase Date 2019-12-11 Purchase Cost 452827.00 Development Cost 0.00 6,21,638 6 Lacs+ Kodimangalam Village Sur no 38/6B, 38/5 Total Area 0.84 Built Up Area Whether Inherited N Purchase Date 2019-08-28 Purchase Cost 1399330.00 Development Cost 0.00 15,24,600 15 Lacs+ Kodimangalam Village Sur no 39/2, 39/6 Total Area 1.48 Built Up Area Whether Inherited N Purchase Date 2019-08-28 Purchase Cost 1561250.00 Development Cost 0.00 17,01,260 17 Lacs+ Kodimangalam Village Sur no 60/4A, 5A, 6A, 7A Total Area 1.33 Built Up Area Whether Inherited N Purchase Date 2019-08-28 Purchase Cost 2215190.00 Development Cost 0.00 24,13,950 24 Lacs+ Kodimangalam Village Sur no 61/2 Total Area 0.10.75 Built Up Area Whether Inherited N Purchase Date 2020-02-12 Purchase Cost 364594.00 Development Cost 0.00 4,01,053 4 Lacs+ Kodimangalam Village Sur no 61/C, 61/2 Total Area 0.05.25 Built Up Area Whether Inherited N Purchase Date 2020-02-12 Purchase Cost 178322.00 Development Cost 0.00 1,96,154 1 Lacs+ Veerapandi village 1 bit Sur no 72/7B1B1 Total Area 1.00 Built Up Area Whether Inherited N Purchase Date 2019-06-27 Purchase Cost 411150.00 Development Cost 0.00 6,05,000 6 Lacs+ Veerapandi village 1 bit Sur no 72/7B2A Total Area 0.50 Built Up Area Whether Inherited N Purchase Date 2019-06-27 Purchase Cost 205750.00 Development Cost 0.00 3,02,500 3 Lacs+ Veerapandi village 1 bit Sur no 72/18 Total Area 1.00 Built Up Area Whether Inherited N Purchase Date 2019-06-27 Purchase Cost 411150.00 Development Cost 0.00 6,05,000 6 Lacs+ Veerapandi village 1 bit Sur no 72/19 Total Area 0.84 Built Up Area Whether Inherited N Purchase Date 2019-06-27 Purchase Cost 345400.00 Development Cost 0.00 5,08,200 5 Lacs+ Veerapandi village 1 bit Sur no 72/7B1A Total Area 2.84 Built Up Area Whether Inherited N Purchase Date 2019-10-23 Purchase Cost 1166800.00 Development Cost 0.00 17,18,200 17 Lacs+ Veerapandi village 1 bit Sur no Total Area 72/14 Built Up Area 3.00 Whether Inherited N Purchase Date 2017-09-11 Purchase Cost 1172365.00 Development Cost 0.00 18,15,000 18 Lacs+ Veerapandi village 1 bit Sur no 72/7B1C Total Area 2.85 Built Up Area Whether Inherited N Purchase Date 2019-06-27 Purchase Cost 1170880.00 Development Cost 0.00 17,24,250 17 Lacs+ Veerapandi village 2 bit Sur no 41/7 Total Area 0.47 Built Up Area Whether Inherited N Purchase Date 2019-06-27 Purchase Cost 177750.00 Development Cost 0.00 2,58,500 2 Lacs+ Veerapandi village Sur no 30/1A Total Area 0.75 Built Up Area Whether Inherited N Purchase Date 2017-06-30 Purchase Cost 208380.00 Development Cost 0.00 3,75,225 3 Lacs+",
+        "spouse": "Malaipatti 7/5, Area: 0.84 Acre, Dop: 2003-08-01 Cop: Rs 20000/- Malaipatti 7/6A,7/7, 7/6B, Area: 2.52 Acre, DOP: 2003-08-01, Cop : Rs 55000/- Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 16,80,336 16 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "1) Vellichanatham Village 47/10A 2) Siruthur village 139/2A1, 3) Siruthur Village 139/2A1, 4) Siruthur Village 139/2A1, 5) Siruthur Village 139/2A1, Siruthur Village 139/2A1, Siruthur Village 139/2A1 Area: 1192.50 sq ft, 3492 sq ft, 3440 sq ft, 3399 sq ft, 2880 sq ft, 1857 sq ft, 1768 sq ft DOP: 2002-11-29, 2018-12-14, 2018-12-14, 2018-12-14, 2018-12-14, 2019-04-29, 2019-04-29 COP: Rs 21000/-, Rs 911205/-, Rs 897600/-, Rs 887130/-, Rs 751705/- Rs 484815/-, Rs 412475/- Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,19,08,028 1 Crore+",
+        "spouse": "Nil",
+        "huf": "1) Siruthur Village 139/2A1, 2) Siruthur Village 139/2A1, Siruthur Village 139/2A1 Area: 1358 sq ft, 1768 sq ft, 1192 sq ft DOP: 2019-04-29, 2019-04-29, 2019-04-29, COP: Rs 354760/-, Rs 461610/-, Rs 311390/- Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 30,22,600 30 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "1) Velichanatham Village 47/7B, 47/10B., 2) Mugaper East Chennai E2/6 Area: 6424.51 sq ft, 728 sq ft BuildUp Area: GF 2700 sq ft FF 2000 sq ft., 728 sq ft DOP: 2004-04-21, 2009-06-15 COP: Rs 126404/-., Rs 747205/- Investment (1): Rs 6538950/- Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 94,14,675 94 Lacs+",
+        "spouse": "Ezhil Nagar Iyer banglow Madurai 369/1, 369/14 Total Area 3750 sq ft Built Up Area 2700 sq ft Whether Inherited N Purchase Date 1999-02-19 Purchase Cost 130000.00 Development Cost 1800000.00 44,25,000 44 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "House Loan Bharath State Bank 31,66,467 31 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "P Moorthy 3,75,000 3 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Sri Gomathi Shankar Constructions Pvt Limited Lease Amount 1,00,000 1 Lacs+ Sankara Blue Metal Lease amount 5,00,000 5 Lacs+ Sri Gomathi Shankar Constructions Pvt Limited Lease Amount 1,00,000 1 Lacs+ East Chennai E2/6 Rental Advance Thirumathy Maragatham 60,000 60 Thou+ Other responsibity DMK Part 2026 Election fund 25,00,000 25 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Fund 2019-2020 71,24,210 71 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 16,94,750 | 2023 - 2024: Rs 45,97,880 | 2022 - 2023: Rs 37,31,650 | 2021 - 2022: Rs 1,47,80,010 | 2020 - 2021: Rs 16,80,600"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 13,14,520 | 2023 - 2024: Rs 12,80,690 | 2022 - 2023: Rs 16,27,120 | 2021 - 2022: Rs 10,62,390 | 2020 - 2021: Rs 10,93,500"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 89,490 | 2023 - 2024: Rs 1,00,480 | 2022 - 2023: Rs 1,17,600 | 2021 - 2022: Rs 1,17,600 | 2020 - 2021: Rs 2,27,600"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 15,38,15,423 ~15 Crore+",
+    "Liabilities:": "Rs 1,39,25,677 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1198.6g gold declared at ₹2,250,122 (Implied rate: ₹1,877/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹31,367,518) does not match declared total assets (₹153,815,423). Difference: ₹122,447,905"
+    }
+  ]
+}

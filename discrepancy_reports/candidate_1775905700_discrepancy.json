@@ -1,0 +1,404 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905700",
+    "candidate_name": "T. Sivakumar",
+    "candidate_name_json": "SIVAKUMAR. T",
+    "age": "51",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Kolachel",
+    "pan": "GOPPS8210M",
+    "phone": "9443178006",
+    "email": "sakthisivakumar66@gmail.com",
+    "address": "111-1 Unnankulam, Vellisandai B Village, Kalkulam Taluk, Saral Anjal, Kanyakumari District, Tamil Nadu",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.A., L.L.B. Bangalore University, 2003",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 112289376.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 112289376.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "15,000 15 Thou+",
+        "spouse": "4,000 4 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Tamilnadu Mercantile Bank 11,000 11 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Innova Car TN75Z6006 7,00,000 7 Lacs+ Toyota Glanza TN75AT7006 3,50,000 3 Lacs+ Motor Cycle TN75AS5006 50,000 50 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "14 Pawan 14,00,000 14 Lacs+",
+        "spouse": "105 Pawan 1,07,00,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "4 Pawan 4,00,000 4 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Vellichanthai B Village Re.Sy:860/3 Total Area 25 Cents Built Up Area Whether Inherited N Purchase Date 2015-09-05 Purchase Cost 424939.00 Development Cost 0.00 4,24,939 4 Lacs+ Vellichanthai B Village Re.Sy:859/14 Total Area 13.5 Cents Built Up Area Whether Inherited N Purchase Date 2023-10-27 Purchase Cost 229686.00 Development Cost 0.00 2,29,686 2 Lacs+ Vellichanthai B Village Re.Sy:134/11 Total Area 10 Cents Built Up Area Whether Inherited N Purchase Date 2023-03-09 Purchase Cost 118000.00 Development Cost 0.00 1,18,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Vellichanthai B Re.Sy:859/(D.No:1/111-1) Total Area 4.5 Cents Built Up Area Whether Inherited N Purchase Date 2012-01-01 Purchase Cost 1650000.00 Development Cost 0.00 16,50,000 16 Lacs+ Vellichanthai B Re.Sy:860/1(Building D.No:1/96/4) Total Area 12 Cents Built Up Area Whether Inherited N Purchase Date 2008-11-19 Purchase Cost 336751.00 Development Cost 0.00 3,36,751 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Vellichanthai B Re.Sy:859/(D.No:1/111-1) Total Area 4.5 Cents Built Up Area 1710 Sq Ft Whether Inherited N Purchase Date 2012-01-01 Purchase Cost 1650000.00 Development Cost 0.00 16,50,000 16 Lacs+ Vellichanthai B Re.Sy:860/1(Building D.No:1/96/4) Total Area 12 Cents Built Up Area Whether Inherited N Purchase Date 2008-11-19 Purchase Cost 336751.00 Development Cost 0.00 3,36,751 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "குற்றஎண் 613/2025, 45/26 / English Translation: Crime No. 613/2025, 45/26; STC NO:181/2026; STC NO:122/2026; குற்றஎண் 587/2025, 636/2026 / English Translation: Crime No. 587/2025, 636/2026; STC NO:11/2026; STC NO:14/2026; குற்றஎண் 579/2025 / English Translation: Crime No. 579/2025; STC NO:5/2026",
+    "criminal_cases_json": {
+      "count": "5",
+      "summary": "Number of Criminal Cases:5",
+      "ipc_charges": [
+        "3 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "3 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No:613/2025 Eraniel Police Station",
+          "case_no": "STC NO:181/2016",
+          "court": "Judicial Magistrate Court, Eraniel",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No:45/26 Eraniel Police Station",
+          "case_no": "STC NO:122/2026",
+          "court": "Judicial Magistrate Court, Eraniel",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No:587/2025 Eraniel Police Station",
+          "case_no": "STC NO:11/2026",
+          "court": "Judicial Magistrate Court, Eraniel",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Crime No:636/26 Eraniel Police Station",
+          "case_no": "STC NO:14/2026",
+          "court": "Judicial Magistrate Court, Eraniel",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Crime No:579/2025 Eraniel Police Station",
+          "case_no": "STC NO:5/2026",
+          "court": "Judicial Magistrate Court, Eraniel",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,63,89,376 ~1 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹16,954,939, but 5-year family income is only ₹0. Unexplained wealth discrepancy of ₹16,954,939."
+    }
+  ]
+}

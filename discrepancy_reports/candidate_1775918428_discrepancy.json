@@ -1,0 +1,385 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918428",
+    "candidate_name": "E. Saravanan",
+    "candidate_name_json": "E. RAJA",
+    "age": "28",
+    "party": "Independent",
+    "constituency": "219-Sankarankovil, Tamil Nadu",
+    "pan": "ATIPI5726J",
+    "phone": "9578148909",
+    "email": "saravananinasi97@gmail.com",
+    "address": "54, Vadakkutheru, Meenthulli, Keelanelithanallur, Sankarankovil Taluk, Tenkasi District - 627953",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "SSLC-SRI M MURTHY HSS TIRUNELVELI - 2012, HSC - SRI M MURTHY HSS TIRUNELVELI - 2014, DIP. IN CIVIL ENGINEERING., - R.V.REHA POLYTECHNIC COLLEGE, PARUVAKKUDI-2017",
+    "profession": "Wage laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 25000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 25000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "20,000 20 Thou+",
+        "spouse": "15,000 15 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "State Bank of India Tenkasi Branch Savings Account 04.04.2026. 4,171 4 Thou+ IDPI Bank No. - Tenkasi Branch Savings Account 04.04.2026. 5,208.67 5 Thou+ Canara Bank Tenkasi Branch Savings Account No 04.04.2026 15,02,446 15 Lacs+ Tirunelveli District Central Cooperative Bank Tenkasi Branch Savings Account 04.04.2026 5,660 5 Thou+ Tamil Nadu Grama Bank Melakaram Branch Savings Account No 04.04.2026 11,983 11 Thou+ Bank Tenkasi Branch Account No.04.04.2026 40,90,574 40 Lacs+ Equitas Small Finance Tenkasi Branch Savings Account No 04.04.2026 5,660 5 Thou+ Indian , MLAs-Hostel Branch Chennai Salary Account No 04.04.2026 1,07,908.88 1 Lacs+ Fedaral Gu Tenkasi Branch Savings Account No 04.04.2026 25,40,570 25 Lacs+ State Bank of India Sankarankovil Branch Savings Account No. 04.04.2026. 5,881 5 Thou+ Tamil Nadu Mercantile Bank bank account opened only for election expenses. Vasudevanallur Branch Account No. 04-04-2026 20,000 20 Thou+ Indian Bank, MLA sHostel Branch Recurring Deposit Account No. Dated-04.04.2026 70,040 70 Thou+",
+        "spouse": "Federal Bank Tenkasi Branch Savings Account No.Date. 04.04.2026 252.54 2 Hund+ Federal Bank Tenkasi Branch Current Account No. Date. 04.04.2026 1,814 1 Thou+ Tamil Nadu Grama Bank Tenkasi Branch Account No. Date 04.04.2026 253 2 Hund+ IDBI 4) Bank Tenkasi Branch Savings Account No. Date 04.04.2026 1,08,087 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "IDBI Bank Tenkasi Branch Savings Account No. Date 04.04.2026 18,350 18 Thou+",
+        "dependent2": "IDBI Bank Tenkasi Branch Savings Account No.Date 04.04.2026 16,776 16 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy No Date 16.08.2019 Amount invested till 1,71,495 1 Lacs+ IDBI Fedaral Policy No. 22-07-2016 2,00,000 2 Lacs+ SBI Life Insurance (New) Plan-Smarat Scholar Policy 20-10-2025 5 year 5,00,000 5 Lacs+ SBI Life Insurance (New) Plan- Smart Scholar Policy No. 5 years from 20-10-2021 to 20-10-2025 Investment amount 5,00,000 5 Lacs+ SBI Life Insurance (New) Plan- Smart Scholar Policy No 20-10-2021 Amount invested for 5 years till 20-10-2025 5,00,000 5 Lacs+ FEDERAL BANK. Home Loan Secure Insurance Policy No. 13-08-2025 nvestment amount 57,207 57 Thou+ FEDERAL BANK. Home Loan Secure Insurance Policy No. Date: 13-08-2025 Invested Amount: 75,550 75 Thou+ FEDERAL BANK. Policy No. Date: 13-08-2025; Invested Amount 1,00,000 1 Lacs+ LIC. Policy No. Period: From 28.03.2021 to 28.03.2025; Invested Amount 2,98,470 2 Lacs+ The New India Assurance Co. Ltd., Bharat Griha Raksha Policy. Policy No. Commencement Date: 06.05.2021; Invested Amount 16,756 16 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Inneva Hicross Hybrid TN79-P0219 Purchased Year 2024 Purchased Amount 3800000 Current Estimate 20,00,000 20 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "100 grams of gold jewelry 13,50,000 13 Lacs+",
+        "spouse": "200 grams of gold jewelry 27,00,000 27 Lacs+",
+        "huf": "Nil",
+        "dependent1": "50 grams of gold jewelry 6,75,000 6 Lacs+",
+        "dependent2": "50 grams of gold jewelry 6,75,000 6 Lacs+",
+        "dependent3": "100 grams of gold jewelry 13,00,000 13 Lacs+"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Tenkasi District Tenkasi Village Iron Poison Survey 1161/2 Total Area 0.13 acre Built Up Area Whether Inherited N Purchase Date 1998-03-18 Purchase Cost 20150.00 Development Cost 0.00 19,50,000 19 Lacs+ Tenkasi District Tenkasi Village a) Iron Poison 1150/1 b) Iron Poison Survey 1144/161d c) Iron Poison Survey 1144/1A1 A Total Area 1.330 acre off 0.66 1/2 Built Up Area Whether Inherited N Purchase Date 0199-08-12 Purchase Cost 35000.00 Development Cost 0.00 66,50,000 66 Lacs+ Tenkasi District Ilanji Village a) Ayan Nanjai 1228/2 b) Ayan Nanjai Survey 1229/1B Total Area 0.47 acre Built Up Area Whether Inherited N Purchase Date 2006-06-09 Purchase Cost 51700.00 Development Cost 0.00 25,00,000 25 Lacs+ Tenkasi District Ilanji Village Ayan Nanjai 9 1236/2 Total Area 0.24 acre Built Up Area Whether Inherited N Purchase Date 2006-06-09 Purchase Cost 25200.00 Development Cost 0.00 12,00,000 12 Lacs+ Tirunelveli District Palaingottai Thiruvannathapuram Village Ayan Nanjai Survey Nos. 17/3A and 17/3B Total Area 0.50 acre Built Up Area Whether Inherited N Purchase Date 2017-08-10 Purchase Cost 170000.00 Development Cost 0.00 25,00,000 25 Lacs+ Tenkasi District Tenkasi Village Municipality Elkai-under A.S. No. 1148/1, 1149/2,565, 1149/2,53, 1149/7 T.S.No.138,149, 151 Total Area 0.87 acre Built Up Area Whether Inherited Y Purchase Date 2025-11-05 Purchase Cost 0.00 Development Cost 0.00 16,73,642 16 Lacs+ Tenkasi District Tenkasi Registration District, Pattapattu Village A.S. No. 221/4, 223/3 Total Area 0.64 acre Built Up Area Whether Inherited N Purchase Date 2025-07-17 Purchase Cost 128570.00 Development Cost 0.00 1,28,000 1 Lacs+ Tenkasi District Kallurani Village Punchai 295/1A Total Area 0.30 acre Built Up Area Whether Inherited N Purchase Date 2021-09-30 Purchase Cost 950000.00 Development Cost 0.00 14,63,000 14 Lacs+ Tenkasi District Kalalurani Village Punjai Survey No-296/9h, 296/9F, 296/9D, 296/9E, 296/8A, 296/8E, Public footpath passing through Total Area Built Up Area Whether Inherited N Purchase Date 2023-08-04 Purchase Cost 1000.00 Development Cost 0.00 1,500 1 Thou+",
+        "spouse": "Tenkasi District Tenkasi Municipality & Village A.P.S. No.1173/1, 1173/4, 1178/3 Total Area 0.30 acre Built Up Area Whether Inherited N Purchase Date 2023-04-19 Purchase Cost 227286.00 Development Cost 0.00 2,30,501 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Tenkasi District Kallurani Village a) Original Punchai 296/10 A1 b) Original Punchai 296/10 A1 c) Original Punchai 296/11A Total Area 3648 sq.ft 653.4 sq.ft 16987 sq.ft Built Up Area Whether Inherited N Purchase Date 2011-08-04 Purchase Cost 370000.00 Development Cost 0.00 50,00,000 50 Lacs+ Tenkasi District Kallurani Village Ayan Punchai 296/10A2 Total Area 18295 sq.ft Built Up Area Whether Inherited N Purchase Date 2012-03-29 Purchase Cost 356400.00 Development Cost 0.00 42,00,000 42 Lacs+ Tenkasi District Kallurani Village Ayan Punchai 296/11B Total Area 15681 sq.ft Built Up Area Whether Inherited N Purchase Date 2012-03-29 Purchase Cost 299150.00 Development Cost 0.00 36,00,000 36 Lacs+ Tenkasi District Mattalambarai Village Ayan Punchai Survey 339/1 Total Area 1385.sq.ft Built Up Area Whether Inherited Y Purchase Date 0201-01-05 Purchase Cost 0.00 Development Cost 0.00 7,00,000 7 Lacs+",
+        "spouse": "Tenkasi District is bounded by the old survey numbers- 1173/2,3,5, 1174/1. 1171/2,7 which are included in the Tenkasi Municipality. Total Area 18.51 sq,ft Built Up Area Whether Inherited N Purchase Date 2024-09-11 Purchase Cost 11500.00 Development Cost 0.00 12,200 12 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Tenkasi District Melakaram Town Panchayat Elkaik Kutpatta & Village Survey No. 4/6.4/5 Total Area 6969.6 sq.ft Built Up Area Whether Inherited N Purchase Date 2023-03-16 Purchase Cost 0.00 Development Cost 0.00 26,00,000 26 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Tenkasi District Tenkasi Municipality) Survey No. 1)1002/3. 2)1002/3 Donation settlement date : 15.12.2011 06.01.2021 Total Area 1) 2047.32 sq ft 2) 653.25 sq ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 8000000.00 1,45,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "1. Tenkasi District Tenkasi Village A.N.Survey 1002/4A1 Tenkasi Municipality 20th Ward New Door No.307 Total Area 471.55 sq,ft Built Up Area 645.8 s.qft Whether Inherited N Purchase Date 2015-11-23 Purchase Cost 44495.00 Development Cost 0.00 30,00,000 30 Lacs+ Tenkasi District. Melakaram Village 86/4A, 86/4B, 86/4C Melakaram Town Panchayat 3rd Ward Door Numbers 10A, 10B, 10C, 10D, 10E, 10F, 10G, 10H Total Area 5847.6 sq.ft Built Up Area 6706 sq.ft Whether Inherited N Purchase Date 2021-01-16 Purchase Cost 0.00 Development Cost 4000000.00 75,00,000 75 Lacs+ Tenkasi District Tenkasi Village Punchai -1002/4A1 Ion Survey Tenkasi Municipality 20th Ward Door No. 303,303-1 303-2,303-3,303-4 Total Area 978.5 sq.ft Built Up Area 577 sq.ft Whether Inherited N Purchase Date 1997-02-19 Purchase Cost 122000.00 Development Cost 1256784.00 20,00,000 20 Lacs+ Tenkasi District Sankarankovil Municipality New Ward 4. Natham Survey 66.242 Door No. 38/4 Total Area 4356.sq.ft Built Up Area 1720.62 sq.ft Whether Inherited N Purchase Date 2022-09-07 Purchase Cost 2300000.00 Development Cost 0.00 23,00,000 23 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,50,000 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Federal Tenkasi Branch Loan A/c No. Nature of Loan Rent Securization Loan Outstanding Amoun 48,23,098 48 Lacs+ Federal Bank, Tenkasi Branch Loan Ac no. .Nature of Loan Rent Securization. Loan Outstanding Amount 35,69,095 35 Lacs+ IDBI Bank, Tenkasi Branch Loan A/c No. Nature of Loan Property mortgage Loan Outstanding Amount 36,45,300 36 Lacs+ IDBI Bank, Tenkasi Branch Loan A/c No. Nature of Loan Payment Insurance Outstanding Amount 45,426 45 Thou+ Indian Bank, M.LAs Hostel Branch Loan A/c NoNature of Loan Vehicle Loan Outstanding Amount 15,00,749 15 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 27,62,020 | 2024 - 2025: Rs 19,11,330 | 2023 - 2024: Rs 14,41,170 | 2022 - 2023: Rs 4,14,020 | 2021 - 2022: Rs 4,99,940"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr.134/2025 Railway Protection Force, Rajapalayam - OutPost Southern Railway, Rajapalayam, Virudhunagar District.",
+          "case_no": "STC No.2467/2025",
+          "court": "Chief Criminal Court, Tenkasi",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Sec. 147, 166 & 145(b) Railways (Amendment) Act, 2003",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 8,36,78,756 ~8 Crore+",
+    "Liabilities:": "Rs 1,35,83,668 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹31,665,397, but 5-year family income is only ₹7,028,480. Unexplained wealth discrepancy of ₹24,636,917."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2011 for ₹370,000 (CII Indexed Cost: ₹756,087) is declared at highly inflated value of ₹5,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2015 for ₹44,495 (CII Indexed Cost: ₹65,867) is declared at highly inflated value of ₹3,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "500.0g gold declared at ₹4,050,000 (Implied rate: ₹8,100/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹5,285,126 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹36,488,495) does not match declared total assets (₹83,678,756). Difference: ₹47,190,261"
+    }
+  ]
+}

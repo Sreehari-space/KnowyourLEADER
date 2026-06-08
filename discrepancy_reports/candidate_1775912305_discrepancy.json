@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912305",
+    "candidate_name": "Mahalakshmi Muthukumar",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Puthiya Makkal Tamil Desam Katchi",
+    "constituency": "215 Tiruchendur Assembly Constituency, Tamil Nadu",
+    "pan": "EMDPM9497Q",
+    "phone": "9360884996",
+    "email": "NIL",
+    "address": "345, Philomi Nagar, Veerapandiyanpattinam, Thoothukudi District 628 216, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard, Girls Higher Secondary School, Tiruchendur, Thoothukudi District, completed 2004",
+    "profession": "Private employee"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1444000.0,
+    "total_liabilities_xls": 300000.0,
+    "net_worth_xls": 1144000.0,
+    "cash_xls": 80000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

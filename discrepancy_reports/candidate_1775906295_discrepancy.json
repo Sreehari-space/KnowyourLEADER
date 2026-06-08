@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906295",
+    "candidate_name": "R. Rajaram",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "182 Alangudi Assembly Constituency",
+    "pan": "ANIPR3020J",
+    "phone": "9551039855",
+    "email": "rajaram.ramasamy@gmail.com",
+    "address": "1148, Pappamanai, Vadakadu Post, Alangudi Taluk, Pudukkottai District, Pincode: 622304",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard Government Higher Secondary School, Vadakadu, Pudukkottai District, Alangudi Taluk - (1994-1995); 12th standard Government Higher Secondary School, Alangudi, Pudukkottai District - (1996-1997); DCT govt Polytechnic Aranthangi-2002; BE(cse) Saranathan College of Engineering and Technology, Trichy-2005",
+    "profession": "Software Engineer (IT)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8284700.0,
+    "total_liabilities_xls": 2636000.0,
+    "net_worth_xls": 5648700.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "புதுக்கோட்டை நகர காவல் நிலையம் குற்ற எண் : 285/2025 / Pudukkottai Town Police Station Crime No: 285/2025; கனேஷ் நகர் காவல் நிலையம் குற்ற எண் : 384/2024 / Ganesh Nagar Police Station Crime No: 384/2024; STC.No:91/2026",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

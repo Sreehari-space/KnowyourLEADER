@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917974",
+    "candidate_name": "மு.பொன்னுச்சாமி",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "சுயேட்சை",
+    "constituency": "213-விளாத்திகுளம் சட்டமன்ற தொகுதி",
+    "pan": "DAMPP7372H",
+    "phone": "9750764925",
+    "email": "NIL",
+    "address": "6-1 கிழக்குத் தெரு சங்கரலிங்கபுரம் கோவில்பட்டி தூத்துக்குடி மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10 ம் வகுப்பு 1983 நாடார் மேல்நிலைப்பள்ளி கோவில்பட்டி",
+    "profession": "கூலி வேலை"
+  },
+  "financial_summary": {
+    "total_assets_xls": 900869.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 900869.0,
+    "cash_xls": 6000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

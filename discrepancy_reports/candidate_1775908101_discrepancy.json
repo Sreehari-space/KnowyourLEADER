@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908101",
+    "candidate_name": "Selvan S. Andapattu",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "Indian Republican Party (Athawale)",
+    "constituency": "062-Chengam (SC) Assembly Constituency",
+    "pan": "JCMPS4378J",
+    "phone": "9788086580",
+    "email": "ஏதுமில்லை / nil",
+    "address": "Door No. 187, S. Andapattu Main Road, Thanipadi, Thandrambattu Taluk, Tiruvannamalai District - 606 708",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9th Standard, Government Higher Secondary School, Thanipadi - 1994",
+    "profession": "Agriculturist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4269000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 4269000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

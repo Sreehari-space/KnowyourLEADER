@@ -1,0 +1,406 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923590",
+    "candidate_name": "R. Lakshmanan",
+    "candidate_name_json": "KUMARAN R",
+    "age": "46",
+    "party": "Independent",
+    "constituency": "074, Villupuram, Tamil Nadu",
+    "pan": "AXDPL0758N",
+    "phone": "9843379637",
+    "email": "NIL",
+    "address": "408, Mudaliyar Kuppam, Kumulam, Vikravandi Taluk, Villupuram District. Pin- 605 107.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "NIL",
+    "profession": "Agricultural laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 481228.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 481228.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Federal Bank, Villupuram Branch, SB 27,032 27 Thou+ Punjab National Bank, SB 0 TMB Bank, Villupuram Branch, SB 1,58,000 1 Lacs+",
+        "spouse": "Federal Bank, Villupuram Branch, SB 7,610 7 Thou+ SBI, Villupuram Branch, SB 26,135 26 Thou+ HDFC Bank, Villupuram Branch, SB 70,643 70 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "M- Cycle / Scooter, TN32BD6005, 2023 Model 75,000 75 Thou+ Goods Carrier, TN19H9457, 2012 Model 1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "16 Gram -Gold 2,00,000 2 Lacs+",
+        "spouse": "Gold -80 Gram 10,00,000 10 Lacs+ Silver -100 Gram 20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "1. Villupuram Taluk, Anangur Panchayat, Samipettai Village, S.No. 651/6A, 654/8b, 652/1b, 651/7A1, Area: 1 Acre 24 1/2 Cents, Date of Purchase- 11-06-2003, Cost of Purchase - Rs. 80,000/-, 2. Villupuram Taluk, Anangur Panchayat, Samipettai Village, S.No. 651/6C, 654/8D, 652/1D, 651/7A1, Area: 1 Acre 11 1/2 cent, Date of Purchase: 05-05-2010, Cost of Purchase- Rs.1,68,000/- Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 4,50,000 4 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "1. Villupuram Town, V. Marudhur Village, S.No .167/17, Area- 1764 Sqft, Date of Purchase- 17-10-2003, Cost of Purchase- Rs.40,000/-, 2. Villupuram Town, V. Marudhur Village, S.No 298/1A2, Kannappan Nagar, Plot No.28 , Upper Portion, Area-1176 sqft, Date of Purchase- 19-07-2017, Cost of Purchase- Rs. 3,15,800/-, 3. Villupuram Town, V. Marudhur Village, S.No. 298/1A2, Kannappan Nagar, Plot No.27 , Lower Portion, Area- 2093 Sqft, Date of Purchase- 19-07-2017, Cost of Purchase- 5,62,100/- Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 1500000.00 20,00,000 20 Lacs+",
+        "spouse": "Villupuram Town, V. Marudhur Village, S.No. 169/32, 33 Total Area 438 3/4 Sqft Built Up Area Whether Inherited N Purchase Date 2006-03-10 Purchase Cost 154500.00 Development Cost 500000.00 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "1. Villupuram Town, V. Marudhur Village, S.No .167/17, Area- 1764 Sqft, Date of Purchase- 17-10-2003, Cost of Purchase- Rs.40,000/-, 2. Villupuram Town, V. Marudhur Village, S.No 298/1A2, Kannappan Nagar, Plot No.28 , Upper Portion, Area-1176 sqft, Date of Purchase- 19-07-2017, Cost of Purchase- Rs. 3,15,800/-, 3. Villupuram Town, V. Marudhur Village, S.No. 298/1A2, Kannappan Nagar, Plot No.27 , Lower Portion, Area- 2093 Sqft, Date of Purchase- 19-07-2017, Cost of Purchase- 5,62,100/- Total Area Built Up Area 2200 Sqft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 1500000.00 20,00,000 20 Lacs+",
+        "spouse": "Villupuram Town, V. Marudhur Village, S.No. 169/32, 33 Total Area 438 3/4 Sqf Built Up Area 400 Sqft Whether Inherited N Purchase Date 2006-03-10 Purchase Cost 154500.00 Development Cost 500000.00 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Federal Bank, Jewel Loan 1,00,976 1 Lacs+ Federal Bank, Jewel Loan 53,976 53 Thou+ Federal Bank, Jewel Loan 1,07,226 1 Lacs+ PNB, Agri Loan 2,53,639 2 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,59,490 | 2023 - 2024: Rs 4,57,489 | 2022 - 2023: Rs 4,16,400 | 2021 - 2022: Rs 4,08,000 | 2020 - 2021: Rs 4,14,400"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "2 charges related to Punishment for Rioting (IPC Section-147)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Vikiravandi P.S., Cr.No.167/18",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 188, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Villupuram Taluk P.S, Cr.No. 31/15",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "341, 353, 506(i)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Villupuram Town P.S, Cr.No. 467/11",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 294b, 323, 506(ii)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Villupuram West P.S, Cr.No. 167/23",
+          "case_no": "C.C. No.156/23",
+          "court": "Judicial Magistrate No.1, Villupuram",
+          "law_type": "IPC",
+          "ipc_sections": "294b, 323, 506(ii)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "30 Jun 2023",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 47,14,420 ~47 Lacs+",
+    "Liabilities:": "Rs 5,15,817 ~5 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "196.0g gold declared at ₹1,200,000 (Implied rate: ₹6,122/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹6,839,642) does not match declared total assets (₹4,714,420). Difference: ₹2,125,222"
+    }
+  ]
+}

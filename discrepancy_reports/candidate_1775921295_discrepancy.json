@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921295",
+    "candidate_name": "Mr. Theivikathas.Ma",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Independent",
+    "constituency": "154 - Panruti Assembly Constituency, Tamil Nadu",
+    "pan": "BHZPD6873R",
+    "phone": "9842945106",
+    "email": "deiveegadossm380@gmail.com",
+    "address": "No. 324, Gandhiji Street, Semakottai Village, Panruti Taluk, Cuddalore District - 607 106",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Std., Private, 1995",
+    "profession": "Agricultural laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 633000.0,
+    "total_liabilities_xls": 445000.0,
+    "net_worth_xls": 188000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

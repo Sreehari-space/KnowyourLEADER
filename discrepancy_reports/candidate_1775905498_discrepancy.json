@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905498",
+    "candidate_name": "P. Benjamin",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "007 Maduravoyal Assembly Constituency, Tamil Nadu",
+    "pan": "AKEPB6125H",
+    "phone": "9884995440",
+    "email": "benjaminpmla@gmail.com",
+    "address": "No. 171, S & P Garden, Nolambur, Chennai - 600 095",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard (SKDJ School, Thiruverkadu, Chennai - October 1989), B.A. (History) (Chennai University Distance Education - May 2010)",
+    "profession": "Agriculture and former (15th) Tamil Nadu Legislative Assembly Member"
+  },
+  "financial_summary": {
+    "total_assets_xls": 286329312.0,
+    "total_liabilities_xls": 10460000.0,
+    "net_worth_xls": 275869312.0,
+    "cash_xls": 35000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

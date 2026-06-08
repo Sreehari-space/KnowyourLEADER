@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910707",
+    "candidate_name": "V. Veeramani",
+    "candidate_name_json": null,
+    "age": "61",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "168 Tiruvarur",
+    "pan": "AEMPV7515F",
+    "phone": "9443448797",
+    "email": "vksanthosh787@gmail.com",
+    "address": "10A2, Sellappan Pettai Street, Needamangalam Taluk, Koradacheri, Tiruvarur District - 613 703.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (Koradacheri High School for Boys, 1980), HSLC (Koradacheri High School for Boys, 1982), B.Com. (AVVM Sri Pushpam College, Poondi, 1985), M.A. (AVVM Sri Pushpam College, Poondi, 1989)",
+    "profession": "சுய தொழில்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9383812.0,
+    "total_liabilities_xls": 7016905.0,
+    "net_worth_xls": 2366907.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Crime No. 136/2026, Tiruvarur Police Station, Sections 189(2), 223 BNS",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

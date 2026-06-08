@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906083",
+    "candidate_name": "P.KUMAR",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "142-Thiruverumbur",
+    "pan": "AIRPK3418K",
+    "phone": "9443144595",
+    "email": "trichy.mp@gmail.com",
+    "address": "No.289, 9th Cross, 3rd Sector, Morais City, Tiruchirappalli - 620 007",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "HSC (1988), B.Sc. Chemistry (1993), Bachelor of Law (1999)",
+    "profession": "Agriculture, Advocate and Social Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 47741554.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 47741554.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "F.I.R.No.322/2022; F.I.R.No.472/2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

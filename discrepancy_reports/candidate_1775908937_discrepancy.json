@@ -1,0 +1,341 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908937",
+    "candidate_name": "K. Kapil",
+    "candidate_name_json": "G.KAPIL",
+    "age": "32",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "39, Sholinghur Assembly Constituency",
+    "pan": "DQBPK7520M",
+    "phone": "9629813891",
+    "email": "kapiltvk2026@gmail.com",
+    "address": "B, Venkateshwara Nagar, Banavaram, Sholinghur Taluk, Ranipet District - 632 505",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "MBBS - Sri Lakshmi Narayana Medical College, Puducherry, 2011 to 2017; FAEM (Christian Medical College) - VELLORE, 2017-2020",
+    "profession": "Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7884315.57,
+    "total_liabilities_xls": 26205303.0,
+    "net_worth_xls": 18320987.43,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "3,00,000 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "2,50,000 2 Lacs+",
+        "dependent2": "2,00,000 2 Lacs+",
+        "dependent3": "1,00,000 1 Lacs+"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "South Indian Bank Paanavaram Br 10,48,224 10 Lacs+ Tamilandu Mercantile Bank Sholingar Br 10,00,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "South Indian Bank Paanavaram Br 8,07,381 8 Lacs+",
+        "dependent2": "South Indian Bank Paanavaram Br 12,467 12 Thou+",
+        "dependent3": "South Indian Bank Paanavaram Br 56,449 56 Thou+ Tamilnadu Mercantile Bank Sholingar Br 20,000 20 Thou+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Kamaraj Hospital Paanavaram CA South Indian Bank Pannavaram br 7,88,071 7 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "South Indian Bank Paanavaram Br 0 South Indian Bank Paanavaram Br 5,33,241 5 Lacs+"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "KIA Carens D1.5 IMT Prestige Plus 7 TN73 AV9065, Model 2023 19,16,000 19 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 20 pawn 24,52,320 24 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Gold 5 Pawn 6,13,080 6 Lacs+",
+        "dependent2": "Gold 42 Pawn 51,49,872 51 Lacs+",
+        "dependent3": "Gold 40 Pawn 49,04,640 49 Lacs+"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Ranipettai District Sholingar Taluk, Pillayarkuppam Village Sur No 318A/3D Total Area 23 cent Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 52,900 52 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Ranipettai District Sholingar Taluk, Polypakkam Village Sur No 490/5C1A1 Total Area 36 cent Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 7,84,800 7 Lacs+",
+        "dependent2": "Ranipettai District Sholingar Taluk, Polypakkam Village Sur No 497/11 Total Area 1 Acre 21 cent Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,60,150 2 Lacs+",
+        "dependent3": "Ranipettai District Sholingar Taluk, Pillayarkuppam village Sur no 318A/3D Total Area 23 Cent Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 52,900 52 Thou+"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Ranipettai District Sholingar Taluk, Paanavaram Village Sur No 409/3 Total Area 1090 sq ft Built Up Area 1090 sq ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,09,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Ranipettai District Sholingar Taluk, Paanavaram Village Sur No 469/3 Total Area 2178 sq ft Built Up Area 1800 sq ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 13068.00 Development Cost 0.00 2,17,800 2 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Tata Captial Vehicle Loan 40,00,000 40 Lacs+ HDFC Bank Loan Vehicle Loan 49,35,423 49 Lacs+ Godrej Bank GFL Vehicle Loan 25,00,000 25 Lacs+ IDFC Vellur Bank Vehicle Loan 25,00,000 25 Lacs+ Adhitya Birla Bank Loan Vehicle Loan 28,97,276 28 Lacs+ South Indian Bank Vehicle Loan 8,72,604 8 Lacs+ Axis Bank Ld 35,00,000 35 Lacs+ SMFG India Co Limit Loan 30,00,000 30 Lacs+ ICICI Bank Loan 20,00,000 20 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "South Indian Bank Loan 13,00,000 13 Lacs+",
+      "dependent3": "South Indian bank Jewel Loan 28,00,000 28 Lacs+ HDFC Bank Loan 9,87,775 9 Lacs+"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 9,26,200 | 2024 - 2025: Rs 7,61,490 | 2023 - 2024: Rs 5,06,840 | 2022 - 2023: Rs 7,31,880 | 2021 - 2022: Rs 6,82,090"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 7,09,750 | 2024 - 2025: Rs 7,09,610 | 2023 - 2024: Rs 4,63,670 | 2022 - 2023: Rs 4,45,230 | 2021 - 2022: Rs 4,52,690"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 7,09,250 | 2024 - 2025: Rs 7,04,880 | 2023 - 2024: Rs 4,42,840 | 2022 - 2023: Rs 4,20,310 | 2021 - 2022: Rs 4,25,900"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 9,08,291 | 2024 - 2025: Rs 7,06,670 | 2023 - 2024: Rs 5,11,790 | 2022 - 2023: Rs 5,64,200 | 2021 - 2022: Rs 4,23,860"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,16,29,296 ~2 Crore+",
+    "Liabilities:": "Rs 3,12,93,078 ~3 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F6",
+      "severity": "HIGH",
+      "title": "Vehicle Loan Exceeds Declared Vehicle Value",
+      "description": "Vehicle loans sum to ₹17,705,303 but declared vehicles value is only ₹1,916,000."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

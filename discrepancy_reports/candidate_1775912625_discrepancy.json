@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912625",
+    "candidate_name": "P. Saravana Moorthy",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Tamilaga Vettri Kazhagam",
+    "constituency": "027-Sholinganallur Legislative Assembly Constituency, Tamil Nadu",
+    "pan": "ISFPS7304E",
+    "phone": "9841229278, 9790803935",
+    "email": "ecrsaravanan0014@gmail.com",
+    "address": "962, Second Floor, Rajendra Nagar, Third Street, Neelankarai, Chennai - 600115.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Fifth Standard (Government Higher Secondary School, Thiruvanmiyur, Chennai – 600041) (1991 to 1992)",
+    "profession": "Business - Banners and Designs"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4853549.0,
+    "total_liabilities_xls": 1694190.0,
+    "net_worth_xls": 3159359.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "Cr.No. 90/2025; Cr.No. 398/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

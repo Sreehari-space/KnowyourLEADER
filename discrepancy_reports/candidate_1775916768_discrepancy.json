@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916768",
+    "candidate_name": "K. SURIYA KUMAR",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "English Translation: Independent",
+    "constituency": "English Translation: 117 Koundampalayam Assembly Constituency, Tamil Nadu",
+    "pan": "EGPPS6198A",
+    "phone": "9894494024",
+    "email": "advocatesuriyakumar@gmail.com",
+    "address": "46A, Annai Velankanni Nagar, Saravanampatti Post, Vinayagapuram, Coimbatore-641035",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MBA, LLB., Krishnadevaryar University, Anadhapur, Andrapradesh 2017",
+    "profession": "English Translation: Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7031583.560000001,
+    "total_liabilities_xls": 2980000.0,
+    "net_worth_xls": 4051583.560000001,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

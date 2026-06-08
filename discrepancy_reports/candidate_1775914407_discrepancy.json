@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914407",
+    "candidate_name": "o Muthu",
+    "candidate_name_json": null,
+    "age": "69",
+    "party": "Independent Candidate",
+    "constituency": "Paramakudi Assembly Constituency No. 209",
+    "pan": "IVHPM8163E",
+    "phone": "8754374410",
+    "email": "இல்லை / none",
+    "address": "Door No. 203, Enathikottai, Sudiyur, Paramakudi Taluk, Ramanathapuram District- 623 608",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "4th standard pass",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 368000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 368000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

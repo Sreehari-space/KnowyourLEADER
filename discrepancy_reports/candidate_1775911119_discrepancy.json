@@ -1,0 +1,365 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911119",
+    "candidate_name": "K. Chandrasekar",
+    "candidate_name_json": "CHANDRASEKAR. K.A",
+    "age": "51",
+    "party": "Tamilaga Murpokku Makkal Katchi",
+    "constituency": "12 Perambur Constituency, Tamil Nadu",
+    "pan": "ALYPC8657L",
+    "phone": "7397311401",
+    "email": "NIL",
+    "address": "4, Murthingar 1st Street, Vyasarpadi, Chennai-600039.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "No education",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 14876000.0,
+    "total_liabilities_xls": 130000.0,
+    "net_worth_xls": 14746000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "2,77,604 2 Lacs+",
+        "spouse": "1,99,792 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "5,08,371 5 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "BOB Bank 10,594 10 Thou+ SBI Bank 36,604 36 Thou+ Erode Co-operative Bank 2,365 2 Thou+ Axis Bank 88,917 88 Thou+ SBI Bank 70,464 70 Thou+ Post Office 1,95,706 1 Lacs+",
+        "spouse": "BOB Bank 21,250 21 Thou+ SBI Bank 11,775 11 Thou+ Erode Co-operative Bank 872 8 Hund+ Yes Bank 17,857 17 Thou+ Post Office 57,225 57 Thou+",
+        "huf": "Nil",
+        "dependent1": "SBI Bank 1,10,674 1 Lacs+ EDCC Bank 21,570 21 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Investment in Sre Kumaran Garden 8,72,200 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Insurance 91,38,041 91 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Sundry Debtors 1,37,400 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Loan to Son K.A Chandrasekar 23,10,572 23 Lacs+ Loan to Prabha 7,50,200 7 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Honda Activa TN36AY3000 58,500 58 Thou+ Mahindra Thar Car, TN36BH333 35,14,000 35 Lacs+ Toyota Fortunar Car, TN36TC3333 16,60,737 16 Lacs+ Mahindra Tractor, TN36BS0376 5,07,508 5 Lacs+",
+        "spouse": "Honda Scooter, TN36R033 60,000 60 Thou+ Two Wheeler, TN366996 1,08,999 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold, 145 gms 14,50,000 14 Lacs+",
+        "spouse": "Gold, 320 gms 32,00,000 32 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Gold, 360 gms 36,00,000 36 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Furniture 40,692 40 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Agri Land at Jambai SF No: 909/1 Total Area 4.36 acre Built Up Area Whether Inherited N Purchase Date 2014-06-30 Purchase Cost 3200000.00 Development Cost 0.00 40,00,000 40 Lacs+ Agri Land & Farm House at Bhavani SF No: l2/1A1 Total Area 0.79-1/2 acre Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 12,54,500 12 Lacs+",
+        "spouse": "Agri land at Moolapalayam Elavamalai Village SF.NO 86t2,86t3 ,86t4 ,86t6 A,8617 ,861108,8711, 8712. Total Area 1.05 Built Up Area Whether Inherited N Purchase Date 2024-07-04 Purchase Cost 755272.00 Development Cost 0.00 10,00,000 10 Lacs+ Agri Land at Varadhanallur Village SF No: 57/1AZ,SF No: 57/58 Total Area 1.45 acre Built Up Area Whether Inherited N Purchase Date 2021-12-15 Purchase Cost 340500.00 Development Cost 0.00 15,00,000 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Vacant sites at Sree Kumaran Garden SFNo:42/1A,42/1B 42/1C,42/2A,42/2B,42/2C Total Area 0.19.23 cent Built Up Area Whether Inherited N Purchase Date 2024-06-12 Purchase Cost 522925.00 Development Cost 0.00 5,50,000 5 Lacs+ Vacant site at Sri Sai Nagar Urachikottai Village i) SF No :50/1A1A5 ii)SF No:50/1A1A12 iii)SF No:50/1A1A22 iv)SF No:50/1A1A52 v) SF No:50/1A1A52 Areas: i) 1391-1/4 Sqft ii) 1400 Sqft iii) 1750 Sqft iv) 2205 Sqft v) 1898 Sqft Total Area Built Up Area Whether Inherited N Purchase Date 2024-05-23 Purchase Cost 4549570.00 Development Cost 0.00 60,57,700 60 Lacs+ Plot A/c at Sree Balaji Nagar SF No:50/3A-11,503A1 Total Area 3140 sqft Built Up Area Whether Inherited N Purchase Date 2019-04-04 Purchase Cost 786260.00 Development Cost 0.00 10,99,000 10 Lacs+ Plot at Rana Nagar sF No;43/18B,42/1A3 Total Area 2400 sqft Built Up Area Whether Inherited N Purchase Date 2023-12-17 Purchase Cost 300000.00 Development Cost 0.00 12,00,000 12 Lacs+",
+        "spouse": "Vacant Sites at Sree Kumaran Garden SF No: 42/1A,42/18,42/1C, 42/2A,42/2B, 42/2C. Total Area 0.39.23 cent Built Up Area Whether Inherited N Purchase Date 2024-06-12 Purchase Cost 1045850.00 Development Cost 0.00 12,00,000 12 Lacs+ Vacant Site at Sokkaraman Nagar SF No: 753/5 Total Area 2180 Sqft Built Up Area Whether Inherited N Purchase Date 2020-11-05 Purchase Cost 813320.00 Development Cost 0.00 10,90,000 10 Lacs+ K.N.P Dhanasettlement SF.No 12/1A1B,12/1A2A,12/1A3B,12/2A2,12/2B1B Total Area 0.87-1/4 cents Built Up Area Whether Inherited N Purchase Date 2024-04-28 Purchase Cost 364350.00 Development Cost 0.00 5,23,500 5 Lacs+ Vacant site at Sri Sai Nagar Urachikottai Village i) SF No: 50/1A1A.3 ii) SF No:50/1A1A14 iii) SFNo:50/1A1A54 iv) SF No:50/1A1A43 v) SF No: 39/2A1D Areas: i) 1260 Sqft ii) 1400 Sqft iii) 2441-114 Sqft iv) 3263.50 Sqft v) 2222 Sqft Total Area Built Up Area Whether Inherited N Purchase Date 2024-05-24 Purchase Cost 4681790.00 Development Cost 0.00 73,91,850 73 Lacs+ Vacant site at Sree Kumaran Garden Elavamalai SF No: 329/2,3,4 Areas: 31464 Sqft 10/100-Share Total Area Built Up Area Whether Inherited N Purchase Date 2024-06-28 Purchase Cost 680000.00 Development Cost 0.00 12,58,560 12 Lacs+ Vacant Site at Aandikulam Village SF No: 4/1C4 Total Area 0.17 cent Built Up Area Whether Inherited N Purchase Date 2020-11-11 Purchase Cost 681150.00 Development Cost 0.00 7,00,000 7 Lacs+ Vacant site at Urachikottai Village SF.No: 72/65, SF.No: 73/69 Total Area 2905 sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 220000.00 Development Cost 0.00 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Mayura Complex al Bhavani SF No:98/22,98/25 Total Area 4111 sqft Built Up Area 4111 sqft Whether Inherited N Purchase Date 2013-06-20 Purchase Cost 1075300.00 Development Cost 0.00 59,40,400 59 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Residential Building at Kuruppanaicken Palayam SF No: 12/1A18 Total Area 3.00 cent Built Up Area 1200 sqft Whether Inherited N Purchase Date 2022-04-28 Purchase Cost 220000.00 Development Cost 0.00 40,00,000 40 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Residential Building at Kuruppanaicken Palayam SF No: 70/11,72/64 Total Area 453.44 sqft Built Up Area 400 sqft Whether Inherited N Purchase Date 1986-08-25 Purchase Cost 505000.00 Development Cost 0.00 45,00,000 45 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Axis Bank car Loan 12,79,079 12 Lacs+ BOB Car Loan 9,45,324 9 Lacs+ BOB Jewell Loan 3,00,000 3 Lacs+ KCC Bank Loan 1,44,617 1 Lacs+ KCC Bank Loan 1,68,071 1 Lacs+ EDCC Bank Loan 1,50,000 1 Lacs+ LIC Loan 4,50,000 4 Lacs+ Weavers Loan 30,468 30 Thou+",
+      "spouse": "BOB Housing Loan 3,99,063 3 Lacs+ Cooperative Bank Loan 1,61,963 1 Lacs+ Erode cooperative bank Weavers Loan 30,468 30 Thou+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "K.A.Chandrasekar HUF 25,95,000 25 Lacs+ Pethayee Mother 23,10,572 23 Lacs+ Sundry Advance 21,75,300 21 Lacs+ Rameshkumar 5,50,000 5 Lacs+ Priya 2,00,000 2 Lacs+ K.S.Senthilkumar 2,00,000 2 Lacs+ S.Santhiya 2,00,000 2 Lacs+ S.Muralitharan 38,400 38 Thou+ Suganya Sakthivel 2,00,000 2 Lacs+",
+      "spouse": "Sivapriya 2,10,000 2 Lacs+ Dhandapani 1,50,000 1 Lacs+ Pethayee (Mother In Law) 7,50,200 7 Lacs+ Sundry Advance 18,49,800 18 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Sundry Creditors 5,34,255 5 Lacs+ Security Deposit Advance (Cable Advance) 19,00,000 19 Lacs+",
+      "spouse": "Security Deposit Advance (Cable Advance) 19,00,000 19 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 12,32,964"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 10,98,237"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,90,640"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 7,28,05,999 ~7 Crore+",
+    "Liabilities:": "Rs 1,98,22,580 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹36,268,693, but 5-year family income is only ₹2,821,841. Unexplained wealth discrepancy of ₹33,446,852."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Commercial Buildings purchased in 2013 for ₹1,075,300 (CII Indexed Cost: ₹1,837,785) is declared at highly inflated value of ₹5,940,400."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2022 for ₹220,000 (CII Indexed Cost: ₹249,909) is declared at highly inflated value of ₹4,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "825.0g gold declared at ₹4,650,000 (Implied rate: ₹5,636/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹43,186,090) does not match declared total assets (₹72,805,999). Difference: ₹29,619,909"
+    }
+  ]
+}

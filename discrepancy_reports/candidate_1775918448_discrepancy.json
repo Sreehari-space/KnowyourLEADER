@@ -1,0 +1,347 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918448",
+    "candidate_name": "KALEESWARAN",
+    "candidate_name_json": "KALEESWARAN M",
+    "age": "45",
+    "party": "Independent",
+    "constituency": "186, Sivagangai",
+    "pan": "IUVPK3963H",
+    "phone": "9384793943",
+    "email": "NIL",
+    "address": "1421, Annanagar, Panangadi Road, Sivagangai Taluk, Sivagangai District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "SSLC 1997-1998, Mallal Higher Secondary School",
+    "profession": "Individual construction work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2182756.0,
+    "total_liabilities_xls": 690000.0,
+    "net_worth_xls": 1492756.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,000 10 Thou+",
+        "spouse": "5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "PNB Sivagangai Branch 61 SBI Sivagangai Branch 6,000 6 Thou+",
+        "spouse": "Union Bank of India Sivagangai Branch 59 Central bank Of India Nattarasankottai Branch 636 6 Hund+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TVS Excel TN66AB0482 5,000 5 Thou+ TN63PT9556 30,000 30 Thou+",
+        "spouse": "yamaha FZ TN63BP8088 30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "47 gm Gold 6,11,000 6 Lacs+",
+        "spouse": "80 gm Gold 15,00,000 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "PNB Bank Sivaganga Branch 1/37, 1/42, 1/66 3,30,000 3 Lacs+",
+      "spouse": "Central Bank Of Nattarasankottai 15/1911, 15/1039 3,60,000 3 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "முதல் தகவல் அறிக்கை எண் சிவகங்கை தாலுகா காவல் நிலையம் குற்றஎண்.468/2013 19.09.2013 / FIR No. 468/2013, Sivagangai Taluk Police Station, dated 19.09.2013; வழக்கு எண் நீதிமன்றத்தின் பெயருடன் கூடுதல் மாவட்ட நீதிமன்றம் சிவகங்கை வழக்கு எண். SC 47/2016 சிவகங்கை CBCID காவல்நிலையத்திற்கு மற்றப்பட்டு குற்றஎண்.1/2014 / Case No. SC 47/2016, Additional District Court, Sivagangai (transferred to Sivagangai CBCID Police Station, Case No. 1/2014); சம்பந்தப்பட்ட சட்டங்கள் / விதிகளின் பிரிவு(கள்) சட்ட பிரிவு 147,148, 294(b), 302, 120(b) / Sections 147, 148, 294(b), 302, 120(b) of relevant laws/rules; குற்றம் குறித்த சுருக்கமான விளக்கம் கொலை வழக்கு சம்மந்தமாக / Brief description of crime: Related to murder case; குற்றச்சாட்டுகள் பதியப்பட்டுள்ளனவா. ஆம் / Charges framed: Yes; குற்றச்சாட்டுகள் பதிவு செய்த நாளைக் குறிப்பிடவும் 05.02.2021 / Date of framing charges: 05.02.2021; குற்றவியல் நடவடிக்கைக்கு எதிராக ஏதேனும் மேல்முறையீடு /சீராய்வு மனு தாக்கல் செய்யப்பட்டுள்ளனவா இல்லை / Appeal/revision petition filed: No",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Punishment for murder (IPC Section-302)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "468/2013 Sivaganga Taluk Police Station",
+          "case_no": "SC 47/2016 transferred to Sivagangai CBCID Police Station Crime No. 1/2014.",
+          "court": "Additional District Court Sivagangai",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294B, 302, 120B",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "05 Feb 2021",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 21,82,756 ~21 Lacs+",
+    "Liabilities:": "Rs 6,90,000 ~6 Lacs+"
+  },
+  "discrepancies": []
+}

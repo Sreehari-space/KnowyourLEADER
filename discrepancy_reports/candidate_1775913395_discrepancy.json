@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913395",
+    "candidate_name": "P. Mathanraja",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "218-Kovilpatti Assembly Constituency, Tamil Nadu",
+    "pan": "ARCPM1183F",
+    "phone": "9025795100",
+    "email": "mathanrajap.tvk@gmail.com",
+    "address": "Door No. 898, Thittankulam, (W.K) and (U.L), Johnpandiyan Nagar Block 1, Kovilpatti, Thoothukudi - 628501.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E. SRI VENKATESHWARA COLLEGE OF ENGINEENING 2005 (ANNA UNIVERSITY)",
+    "profession": "BUSINESS (APREXO GLOBAL ENTERPRISES)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 23194203.48,
+    "total_liabilities_xls": 8503203.0,
+    "net_worth_xls": 14691000.48,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

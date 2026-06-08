@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909747",
+    "candidate_name": "M. Muthubagavathi",
+    "candidate_name_json": null,
+    "age": "39",
+    "party": "Tamilaga Valvurimai Katchi",
+    "constituency": "201-Cumbum, Tamil Nadu",
+    "pan": "FQQPM0771M",
+    "phone": "9500884480",
+    "email": "muthubagavathi761@gmail.com",
+    "address": "2 Nattamai Karar Street, Uthamapalayam, Uthamapalayam Taluk, Theni District, Tamil Nadu Pin.625533.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard dropout",
+    "profession": "Agricultural daily wage laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 25000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 25000.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

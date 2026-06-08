@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919669",
+    "candidate_name": "V.பிச்சை",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "சுயேட்சை வேட்பாளர்",
+    "constituency": "189- மதுரை கிழக்கு தொகுதி",
+    "pan": "CDFPP2876K",
+    "phone": "7094723606",
+    "email": "NIL",
+    "address": "2, மதுரை மெயின்ரோடு மீனாம்பாள்புரம், பாலமேடு, வாடிப்பட்டி வட்டம், மதுரை -625503",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "எஸ்.எஸ்.எல்.சி (அரசு மேல்நிலைப்பள்ளி பாலமேடு, 1984)",
+    "profession": "விவசாய கூலி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 152000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 152000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

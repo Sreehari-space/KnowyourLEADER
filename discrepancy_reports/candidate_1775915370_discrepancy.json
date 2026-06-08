@@ -1,0 +1,347 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915370",
+    "candidate_name": "M. Kannan",
+    "candidate_name_json": "KANNAN. M",
+    "age": "40",
+    "party": "Independent",
+    "constituency": "104 Bhavani Assembly Constituency, Tamil Nadu",
+    "pan": "BBGPK6615K",
+    "phone": "9941818199",
+    "email": "kannan.mathesan708@gmail.com",
+    "address": "32, Burma Street, Karumariamman Nagar, Tondiarpet, Chennai - 600 081",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.A., B.L., - Dr. Ambedkar Government Law College, Chennai - 2010-2013",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15794140.0,
+    "total_liabilities_xls": 16000000.0,
+    "net_worth_xls": 205860.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank, High Court Branch, Chennai 1,000 1 Thou+ Federal Baank, Patlur Branch 5,600 5 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Yamaha Fascino TN 03 AE 2637 2022 30,000 30 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "4 Grams Gold 5,00,000 5 Lacs+",
+        "spouse": "4 Grams Gold 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Erode Dist, Anthiyur Taluk, Vempathi Village, No. 534/4, 535/2 Total Area 82.92 Cent Built Up Area Whether Inherited Y Purchase Date 2025-12-27 Purchase Cost 994000.00 Development Cost 0.00 9,94,000 9 Lacs+ Krishnagiri Dist, Thenkani Kottayam Taluk, Bodicha School Village, Sy No. 995/1 And 983/2 Total Area 71.37 Cent is Half Of 3 Built Up Area Whether Inherited Y Purchase Date 2025-06-04 Purchase Cost 1711455.00 Development Cost 0.00 17,11,455 17 Lacs+ Krishnagiri Dist, Denkani Kottayam Taluk, Bodicha School Village, Sy No. 995/1 And 983/2 Date: 06.06.2025, 18.06.2025, 01.07.2025, 01.07.2025. Total Area 2 Acres 85 Cents, 1/3 Share Built Up Area Whether Inherited Y Purchase Date 2025-06-06 Purchase Cost 4563880.00 Development Cost 0.00 45,63,880 45 Lacs+ Krishnagiri Dist, Hosur Taluk, Onnalwadi Village, Sy No. 583/5B1, 583/4A, 4B, 582/A1A, 582/A1B Total Area 27.88 Cent 1/4 Share Built Up Area Whether Inherited Y Purchase Date 2025-07-19 Purchase Cost 1445647.00 Development Cost 0.00 14,45,647 14 Lacs+ Krishnagiri Dist, Hosur Taluk, Onnalwadi Village, Sy No. 583/3 And 576/1,2,3 Total Area 30.56 Cents 2/1 Share Built Up Area Whether Inherited Y Purchase Date 2025-07-19 Purchase Cost 5864558.00 Development Cost 0.00 58,64,558 58 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Erode Dist, Anthiyur, Vempathi Village, Sy No. 1004/19 Total Area 60 Sq Meter Built Up Area Whether Inherited Y Purchase Date 2025-02-27 Purchase Cost 98000.00 Development Cost 0.00 98,000 98 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Loan Received From Sakthivel Vagayaara 75,00,000 75 Lacs+ Suresh A Resident Of Chennai 10,00,000 10 Lacs+ Loan Received From An Individual Named Alamelu, Chennai 25,00,000 25 Lacs+ Received From An Individual Named Venkatesan 15,00,000 15 Lacs+ Received From An Individual Named, Vijayakumar 10,00,000 10 Lacs+ Received From An Individual Named Chitra 20,00,000 20 Lacs+ Received From An Individual Named, Karthi Kayan 5,00,000 5 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 4,88,470 | 2024 - 2025: Rs 4,90,600 | 2023 - 2024: Rs 4,79,000 | 2022 - 2023: Rs 3,97,780 | 2021 - 2022: Rs 4,91,000"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,57,94,140 ~1 Crore+",
+    "Liabilities:": "Rs 1,60,00,000 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "HIGH",
+      "title": "Severe Negative Net Worth",
+      "description": "Calculated Net Worth is heavily negative (₹-5,297,000), indicating liabilities far exceed assets."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Overvalued (Parking Illicit Funds)",
+      "description": "8.0g gold declared at ₹1,000,000 (Implied rate: ₹125,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹2,203,000) does not match declared total assets (₹15,794,140). Difference: ₹13,591,140"
+    }
+  ]
+}

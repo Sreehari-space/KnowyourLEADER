@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907184",
+    "candidate_name": "P. முருகன்",
+    "candidate_name_json": null,
+    "age": "58",
+    "party": "அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்",
+    "constituency": "73 வானூர் (தனி), தமிழ்நாடு",
+    "pan": "BZTPM8807N",
+    "phone": "9894642871",
+    "email": "muruganveshvanath123@gmail.com",
+    "address": "நெ.158, மாரியம்மன் கோவில் தெரு, வி.நெற்குணம் கிராமம் & அஞ்சல், விக்கிரவாண்டி வட்டம், விழுப்புரம் மாவட்டம்-605 501, தமிழ்நாடு",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "L.L.B., Vivekananda College of Law, Bangalore - 2006",
+    "profession": "வழக்கறிஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 24486976.0,
+    "total_liabilities_xls": 22754734.0,
+    "net_worth_xls": 1732242.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 338/2025, Police Station: Kandamangalam / கண்டமங்கலம், Sections: 189(2), 223, 292 BNS, Offense: Unlawful assembly, public nuisance / சட்ட விரோதமாக கூடுதல், பொது தொல்லை ஏற்படுத்துதல்",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

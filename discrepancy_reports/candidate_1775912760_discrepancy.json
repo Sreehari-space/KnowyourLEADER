@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912760",
+    "candidate_name": "V.P. Mathiyazhagan (V.P.மதியழகன்)",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Tamilaga Vetri Kazhagam (தமிழக வெற்றிக் கழகம்)",
+    "constituency": "135- Karur Assembly Constituency, Tamil Nadu (135- கரூர் சட்டமன்ற தொகுதி, தமிழ்நாடு)",
+    "pan": "ATSPM8574G",
+    "phone": "9942036367",
+    "email": "karurmathi@gmail.com",
+    "address": "43-2, Malar Garden, Sivasakthi Nagar East, Thanthoni Village, Karur Taluk, Karur District, 639005 (43-2, மலர் கார்டன், சிவசக்தி நகர் கிழக்கு, தாந்தோணி கிராமம், கரூர் வட்டம், கரூர் மாவட்டம், 639005)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1988)",
+    "profession": "Textiles (டெக்ஸ்டைல்ஸ்)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 81397378.63,
+    "total_liabilities_xls": 403249.0,
+    "net_worth_xls": 80994129.63,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR NO: 855/2025, Karur Town Police Station (Transferred to CBI); FIR NO:RC2172025S0022/2025, dated 18.10.2025, CBI/AC-II/New Delhi Police Station, New Delhi District; Laws: U/s. 105, 110, 125(b), 223, of BNS, 2023 and Section 3 of TN Public Property (Prevention of Damage & Loss) Act, 1992; Description: Criminal culpable homicide not amounting to murder, attempt to murder, grievous hurt, disobedience to public servant's order, mischief causing damage to public property. (Charge sheet not filed)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

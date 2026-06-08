@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910150",
+    "candidate_name": "T.M.Suresh Babu",
+    "candidate_name_json": null,
+    "age": "64",
+    "party": "Tamil Telugu Desiya Katchi",
+    "constituency": "Virugambakkam",
+    "pan": "CVBPS2582R",
+    "phone": "9043087078",
+    "email": "sureshbabu18@hot.mail.com",
+    "address": "35A, Postal Audit Colony, 2nd Street, Chinmayanagar, Saligramam, Chennai, Tamil Nadu - 600 093",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "+2, 1981, Aruna Sakkara Aalai Higher Secondary School, Irayur",
+    "profession": "Retired"
+  },
+  "financial_summary": {
+    "total_assets_xls": 14079000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 14079000.0,
+    "cash_xls": 49000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

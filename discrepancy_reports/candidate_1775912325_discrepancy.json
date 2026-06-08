@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912325",
+    "candidate_name": "Thirumalaikumar",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Puthiya Tamizhagam",
+    "constituency": "Tenkasi - 222 Assembly Constituency",
+    "pan": "MJGPS8188C",
+    "phone": "9003507397",
+    "email": "astkumar014@gmail.com",
+    "address": "Door No. 6-10-16, Muppudathi Amman Kovil Street, Keelasurandai, V.K. Pudur Taluk-627859, Tenkasi District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Passed 12th standard, Pungalasurandai, Peranbrook Higher Secondary School, Year: 2009",
+    "profession": "Individual"
+  },
+  "financial_summary": {
+    "total_assets_xls": 337000.0,
+    "total_liabilities_xls": 2310319.0,
+    "net_worth_xls": 1973319.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "132/2019; 25/2023",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

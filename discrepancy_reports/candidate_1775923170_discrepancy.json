@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923170",
+    "candidate_name": "A. Mohamed Ghani",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent",
+    "constituency": "027-Sholinganallur",
+    "pan": "CJEPM1632B",
+    "phone": "9094772203",
+    "email": "gani786is1980@gmail.com",
+    "address": "Block No: 96, Door No: 8, T.N.H.B. Ezhil Nagar, Perumbakkam, Chennai-600100",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8TH STD. C.H.S. SCHOOL MADUVINKARAI, 1994",
+    "profession": "Laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 215219.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 215219.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910145",
+    "candidate_name": "S.சக்திவேல்",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "72 திண்டிவனம் (தனி ) சட்டமன்றத் தொகுதி",
+    "pan": "FMLPS7599C",
+    "phone": "9952011136",
+    "email": "sakthivedha1981@gmail.com",
+    "address": "Permanent: No. 64 Athiyur Thirkkai, Vikravandi, Villupuram District. Current: No. 16, Krishna Nagar Main Road, Netaji Avenue, Nerkundram, Ambattur Circle, Thiruvallur District, Chennai-600107.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "HSC - Govt Hr.Sec. School, Kandachipuram - 1999; D.EEE - Centrol Polytechnic Chennai – 2002; B.E (E&I) - Anna University Chennai – 2012",
+    "profession": "ஜூனியர் எலக்டிரிகல் இன்ஜினியர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5256538.0,
+    "total_liabilities_xls": 1037000.0,
+    "net_worth_xls": 4219538.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

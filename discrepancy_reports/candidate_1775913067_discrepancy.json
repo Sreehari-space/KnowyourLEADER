@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913067",
+    "candidate_name": "T. Nithyanandam",
+    "candidate_name_json": null,
+    "age": "34",
+    "party": "Independent",
+    "constituency": "123 Pollachi, Tamil Nadu",
+    "pan": "CEGPN7115H",
+    "phone": "6374078714",
+    "email": "ndhiriajoooy@gmail.com",
+    "address": "9B, Arumugam Chettiyar Street, Periya Negamam, Pollachi Taluk, Coimbatore District 642 120",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Std, Government Higher Secondary School, Negamam, Pollachi, April 2009-2010",
+    "profession": "Individual in charge of a private company"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3097100.0,
+    "total_liabilities_xls": 1050000.0,
+    "net_worth_xls": 2047100.0,
+    "cash_xls": 90000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

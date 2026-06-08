@@ -1,0 +1,445 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906309",
+    "candidate_name": "K.K.Sellapandiyan",
+    "candidate_name_json": "CHELLAPANDIYAN. K.K",
+    "age": "57",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "179-Viralimalai Assembly Constituency, Tamil Nadu",
+    "pan": "ALNPC6489K",
+    "phone": "9443210510",
+    "email": "kkchellapndiyan@gmail.com",
+    "address": "Door No.1, Ambalakaraveethi, Keeranur, Kulathur Taluk, Pudukkottai District, Postal Code -622502",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Std, Govt. Boys Higher Secondary School, Keeranur, 1983; 12th Std, Govt. Boys Higher Secondary School, Keeranur, 1983-1985; B.Com., E.V.R. College, Tiruchirappalli, 1985-1988; M.Com National College, Tiruchirappalli, 1988-1990; B.L., Govt. Law College, Tiruchirappalli, 1990-1993",
+    "profession": "Advocate profession"
+  },
+  "financial_summary": {
+    "total_assets_xls": 18685115.0,
+    "total_liabilities_xls": 547471.0,
+    "net_worth_xls": 18137644.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Keeranur Branch A/c 20,509 20 Thou+",
+        "spouse": "SBI Keeranur Branch A/c 34,99,622 34 Lacs+ Bank of India Pudukkottai 53,541 53 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "SBI Life Insurance Policy 15,000 15 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Innova Crysta 2.4G TN55BC 0007 Year 2018 15,46,000 15 Lacs+",
+        "spouse": "Innva Crysta 4Z MT TN55CB 0007 Year 2022 23,25,200 23 Lacs+",
+        "huf": "Activa 5g TN 55CT6100 Year 2023 82,005 82 Thou+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "336 Grams of Gold 26,88,000 26 Lacs+",
+        "spouse": "360 Grams Gold 28,80,000 28 Lacs+ Silver 800 Grams 40,000 40 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Kalamavoor Revenue Village Date of Purchase 2021-07-13 2021-09-06 2022-01-20 Total Area 0.70.26 Sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 383319.00 Development Cost 0.00 5,47,243 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Kiranur Revenue Sy No 404-10B 2. Sy No 589-17 Total Area 0.678 Sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 50,00,000 50 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Innva Crysta 4Z MT TN55CB 0007 Car Loan Bank of India Pudukkottai Loan 5,47,471 5 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 6,98,530 | 2024 - 2025: Rs 6,71,010 | 2023 - 2024: Rs 4,95,850 | 2022 - 2023: Rs 4,88,630 | 2021 - 2022: Rs 4,85,990"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 10,33,020 | 2023 - 2024: Rs 9,12,720 | 2022 - 2023: Rs 7,60,600 | 2021 - 2022: Rs 2,07,700 | 2020 - 2021: Rs 4,25,000"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (7 case(s))",
+    "case_numbers_xls": "குற்ற எண்.19/2018 இலுப்பூர் காவல் நிலையம் / Case No. 19/2018 Illuppur Police Station; குற்ற எண்.604/2020 கீரனூர் காவல் நிலையம் / Case No. 604/2020 Keeranur Police Station; குற்ற எண். 336/2017 கீரனூர் காவல் நிலையம் / Case No. 336/2017 Keeranur Police Station; குற்ற எண். 28/2017 உடையாளிப்பட்டி / Case No. 28/2017 Udaiyalipatti; குற்ற எண். 489/2020 கீரனூர் காவல் நிலையம் / Case No. 489/2020 Keeranur Police Station; குற்ற எண்.333/2017 புதுக்கோட்டை நகர காவல் நிலையம் / Case No. 333/2017 Pudukkottai Town Police Station; குற்ற எண். 44/2017 புதுக்கோட்டை நகர காவல் நிலையம் / Case No. 44/2017 Pudukkottai Town Police Station",
+    "criminal_cases_json": {
+      "count": "7",
+      "summary": "Number of Criminal Cases:7",
+      "ipc_charges": [
+        "7 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "4 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "3 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)",
+        "2 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "2 charges related to Malignant act likely to spread infection of disease dangerous to life (IPC Section-270)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No 19/2018, llupur Police Station Pudukottai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No 604/2020 Keeranur Police Station Pudukottai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No 336/2017 Keeranur Police Station Pudukottai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Crime No 28/2017 Udayalipatti Police Station Pudukottai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Crime No 489/2020 Keeranur Police Station Pudukottai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 270, 283",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Crim No 333/2017 Pudukottai City Police Station Pudukottai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 270, 283",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Crime No 44/2017 Pudukkottai City Police Station Pudukottai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,87,67,120 ~1 Crore+",
+    "Liabilities:": "Rs 5,47,471 ~5 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹18,044,103, but 5-year family income is only ₹6,179,050. Unexplained wealth discrepancy of ₹11,865,053."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1496.0g gold declared at ₹5,568,000 (Implied rate: ₹3,722/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

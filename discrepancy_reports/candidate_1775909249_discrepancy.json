@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909249",
+    "candidate_name": "M. Thanaraj",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "Namma Makkal Katchi",
+    "constituency": "Gandharvakottai",
+    "pan": "GPOPM7039L",
+    "phone": "9080645210",
+    "email": "NIL",
+    "address": "177, South Street, Pappudaiyanpatti, Minnathur Post, Kulathur Taluk, Pudukkottai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5th Standard",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 807000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 807000.0,
+    "cash_xls": 2000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

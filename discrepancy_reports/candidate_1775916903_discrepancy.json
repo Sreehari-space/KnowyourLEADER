@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916903",
+    "candidate_name": "T. Stalin",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "All India Jananayaga Pathukappu Kazhagam",
+    "constituency": "75, Vikravandi, Tamil Nadu",
+    "pan": "APBPS2309N",
+    "phone": "9894979998",
+    "email": "stalinrajee@gmail.com",
+    "address": "Mariamman Kovil Street, Koliyanur, Villupuram Taluk, Villupuram District- 605 401.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "DEEE Annai Velankanni Polytechnic College, Anguchettipalayam, Panruti, 1998",
+    "profession": "House construction - brick kiln - self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 33289401.0,
+    "total_liabilities_xls": 5147300.0,
+    "net_worth_xls": 28142101.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

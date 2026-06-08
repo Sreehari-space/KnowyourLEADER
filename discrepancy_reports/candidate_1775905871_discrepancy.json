@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905871",
+    "candidate_name": "M. LOGANATHAN",
+    "candidate_name_json": null,
+    "age": "69",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "90 SALEM SOUTH ASSEMBLY",
+    "pan": "AAJPL0864G",
+    "phone": "9442240082",
+    "email": "logusalemcollege@gmail.com",
+    "address": "D.No.32 KOLANDAN STREET, AMMAPET, SALEM-636003",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Secondary School Leaving Certificate – Year -1974 (Old S.S.L.C) Municipal Higher Secondary School, Ammapet, Salem -636003.",
+    "profession": "Business and Agriculturist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 69370965.88,
+    "total_liabilities_xls": 12591931.0,
+    "net_worth_xls": 56779034.88,
+    "cash_xls": 112740.13
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

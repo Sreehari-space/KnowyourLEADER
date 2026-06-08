@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904674",
+    "candidate_name": "K. Hari",
+    "candidate_name_json": null,
+    "age": "65",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "003- Tiruttani Assembly Constituency, Tamil Nadu",
+    "pan": "ABSPHO340P",
+    "phone": "9443119899, 9444700099",
+    "email": "tiruttani.hari@gmail.com",
+    "address": "Door No. 01, Bharathidasan Street, Sengunthar Nagar, Tiruttani - 631209, Thiruvallur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (1977), PUC (1978), B.A. (1979-1982), B.L (1984-1987), M.A (2009)",
+    "profession": "Agriculture and Lawyer profession"
+  },
+  "financial_summary": {
+    "total_assets_xls": 47324594.0,
+    "total_liabilities_xls": 8605395.13,
+    "net_worth_xls": 38719198.87,
+    "cash_xls": 150000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "FIR. No: 18/2022; FIR. No: 89/2025; FIR. No: 46/2026",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,335 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920157",
+    "candidate_name": "M. Senthil Kumar",
+    "candidate_name_json": "SENTHIL KUMAR. N",
+    "age": "42",
+    "party": "Independent",
+    "constituency": "136 - Krishnarayapuram (SC) Assembly Constituency",
+    "pan": "GZXPS8246C",
+    "phone": "9944667944",
+    "email": "advsenthi@gmail.com",
+    "address": "Door No. 201, Nehru Nagar, Kovakulam, Krishnarayapuram Taluk, Karur District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "High School (Government High School Thogamalai, 2003), Higher Secondary (Government Higher Secondary School Krishnarayapuram, 2005), B.Com (Christ Raj College, Tiruchirappalli, 2008), B.L. (Government Law College, Tiruchirappalli, 2016)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1506000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1506000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "20,000 20 Thou+",
+        "spouse": "20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "HDFC Bank Thiruvottriyur Branch 7,23,829 7 Lacs+ SBI Bank Thiruvottriyur Branch 4,662 4 Thou+ UCO Bank Current Washermenpet Branch 476 4 Hund+ SBI Bank Current A/cThiruvottriyur Branch 1,84,394 1 Lacs+ FOor Election Account UCO Bank Kodungaiyur Branch 52,000 52 Thou+",
+        "spouse": "UCO Bank New washermenpet Branch 78,568 78 Thou+ SBI Bank Thiruvottriyur Branch 3,883 3 Thou+ Indian Bank (Joint Account) Thiruvottriyur Branch 8,160 8 Thou+ For Election Account UCO Bank Kodungaiyur Branch 2,000 2 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy Sum Assured Premium 10880 2,00,000 2 Lacs+ LIC POlicy Sum Assured Premium 5600 1,00,000 1 Lacs+ LIC Policy Sum Assured Premium 12348 2,00,000 2 Lacs+ LIC Policy Sum Assured Premium 48569 9,95,000 9 Lacs+ LIC Policy Sum Assured 101912 13,00,000 13 Lacs+ SBI Life Policy Sum Assured Premium 4,20,000 4 Lacs+",
+        "spouse": "LIC Policy Sum Assured Premium 7228 5,00,000 5 Lacs+ LIC Policy Sum Assured Premium 101912 13,00,000 13 Lacs+ LIC Policy Sum Assured Premium 10642 2,00,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "SP Engineering Solutions LTD 30,00,000 30 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Motor TVS Jupiter BSIV TN 03 AB 3714 20,000 20 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "40 Gram Gold 5,60,000 5 Lacs+",
+        "spouse": "120 Gram Gold 16,80,000 16 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "2b,F1 Annapurani Nagar Ponniamman Chennai 600110 Total Area 1625 Sqft Built Up Area 725 Sqft Whether Inherited N Purchase Date 2012-07-13 Purchase Cost 1960000.00 Development Cost 0.00 30,00,000 30 Lacs+",
+        "spouse": "742/14 TH Road Anjugam Nagar Thiruvottriyur Chennai 600019 Total Area 1570 Sqft Built Up Area 550 Sqft Whether Inherited N Purchase Date 2023-03-27 Purchase Cost 1428000.00 Development Cost 0.00 25,00,000 25 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "HDFC Bank Housing Loan 10,03,241 10 Lacs+ LIC Policy Loan 3,08,694 3 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,92,970 | 2023 - 2024: Rs 4,61,510 | 2022 - 2023: Rs 4,80,000"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,47,33,313 ~1 Crore+",
+    "Liabilities:": "Rs 13,11,935 ~13 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹12,302,397) does not match declared total assets (₹14,733,313). Difference: ₹2,430,916"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908914",
+    "candidate_name": "Iyyappan",
+    "candidate_name_json": null,
+    "age": "39",
+    "party": "Indian Tamilaga Vazhvurimai Katchi",
+    "constituency": "54 Veppanapalli",
+    "pan": "ABXP16596F",
+    "phone": "9677489457",
+    "email": "iyappanthatrahalli@gmail.com",
+    "address": "662, Thatharahalli village and post, Krishnagiri taluk and district, Tamil Nadu - 635 123",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "HSC Sacred Art Higher Sec School, Selliyampatti, Dharmapuri",
+    "profession": "Agriculture and small business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8039154.0,
+    "total_liabilities_xls": 37405.0,
+    "net_worth_xls": 8001749.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

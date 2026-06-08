@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917992",
+    "candidate_name": "Ra. Praveenkumar",
+    "candidate_name_json": null,
+    "age": "26",
+    "party": "Independent",
+    "constituency": "74- Villupuram, Tamil Nadu",
+    "pan": "GEFPP8168K",
+    "phone": "9087102496",
+    "email": "இல்லை / nil",
+    "address": "No.38, Krishnasamy Street, V.K.S. Nagar, Vandimedu Virattikuppam Road, Villupuram District - 605602.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E(EEE) April-2021 AnnaUniversity",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 50000.0,
+    "total_liabilities_xls": 245000.0,
+    "net_worth_xls": 195000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

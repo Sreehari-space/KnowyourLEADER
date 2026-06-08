@@ -1,0 +1,452 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907070",
+    "candidate_name": "M. JEGAN MOORTHY",
+    "candidate_name_json": "JEGAN MOORTHY. M",
+    "age": "59",
+    "party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM (AIADMK)",
+    "constituency": "045 KILVAITHINANKUPPAM",
+    "pan": "AIEPJ8861A",
+    "phone": "9952095547",
+    "email": "thepresident.pbk@gmail.com",
+    "address": "Old No.905, New No.736, Gangai Amman Koil Street, Andersonpet, Nemam Post, Poonamallee Taluk, Tiruvallur District - 600 124.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Higher Secondary Passed Year 1988 Arizhnar Anna Government Higher Secondary School Poonamallee, Tiruvallur District",
+    "profession": "Social Work (K.V.Kuppam MLA)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 20223209.0,
+    "total_liabilities_xls": 6372952.0,
+    "net_worth_xls": 13850257.0,
+    "cash_xls": 110080.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,10,080 1 Lacs+",
+        "spouse": "2,05,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "INDIAN BANK Tirumazhisai Branch 33,272 33 Thou+ INDIAN BANK MLAHostel Branch 63,755 63 Thou+ INDIAN BANK Tirumazhisai Branch 1,10,949 1 Lacs+ STATE BANK OF INDIA CIT Colony Branch 3,302 3 Thou+ STATE BANK OF INDIA P.K. Puram 1,17,253 1 Lacs+",
+        "spouse": "INDIAN BANK Tirumazhisai Branch 1,56,515 1 Lacs+ HDFC BANK Poonamallee Branch 2,10,399 2 Lacs+ SRIMATHI ENTERPRISES INDIAN BANK Tirumazhisai Branch 3,83,847 3 Lacs+ INDIAN BANK Tirumazhisai Branch 5,037 5 Thou+ INDIAN BANK Tiruvallore Branch 25,00,000 25 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC POLICY 6,00,000 6 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TOYOTA FORTUNER(2022) TN-12-BC-7777 35,00,000 35 Lacs+ CRETA TN-12-BD-1414(2024) 13,00,000 13 Lacs+",
+        "spouse": "JEEP CAMPASS TN-12-Z-5050 Year 2018 11,61,800 11 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "40 grams 5,58,000 5 Lacs+",
+        "spouse": "120 grams 16,74,000 16 Lacs+",
+        "huf": "Nil",
+        "dependent1": "24 gram 3,34,800 3 Lacs+",
+        "dependent2": "16 gram 2,23,200 2 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Perum bakkam village land S.No. 167/2 Total Area 1488 sq ft Built Up Area Whether Inherited N Purchase Date 2014-00-00 Purchase Cost 830000.00 Development Cost 0.00 10,30,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "COONOOR NILGIRIS SF N.B/11/60/1A1 Total Area 2568 Sq.ft Built Up Area 1700 Sq.ft Whether Inherited N Purchase Date 2015-08-05 Purchase Cost 5500000.00 Development Cost 0.00 60,00,000 60 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Andersan Pettai, Nemam S.No.667/2A Total Area 3800 Sq.feet Built Up Area 1200 Sq.feet Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Vehicle Loan (FORTUNER) INDIAN BANK Tiruvallur Bazaar Branch 4,51,826 4 Lacs+ Vehicle loan (CRETA) INDIAN BANK Tiruvallur Bazaar Branch 11,37,821 11 Lacs+",
+      "spouse": "CANARA BANK Mogappair West loan against property 23,22,835 23 Lacs+ INDIAN BANK Tiruvallur Bazaar Branch,Education Loan 24,60,470 24 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 4,96,620 | 2024 - 2025: Rs 4,92,570 | 2023 - 2024: Rs 3,17,320 | 2022 - 2023: Rs 4,61,697 | 2021 - 2022: Rs 4,46,160"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 7,98,050 | 2024 - 2025: Rs 7,14,530 | 2023 - 2024: Rs 4,96,930 | 2022 - 2023: Rs 4,96,850 | 2021 - 2022: Rs 3,32,350"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (7 case(s))",
+    "case_numbers_xls": "CR No.524/97; CR. No.525/97; CR No.161/2025; Cr.No. 162/2025; Cr. No 163/2025; Cr.No 164/2025; Cr.No 101/2025",
+    "criminal_cases_json": {
+      "count": "7",
+      "summary": "Number of Criminal Cases:7",
+      "ipc_charges": [
+        "1 charges related to Mischief by destroying or moving, etc., a land- mark fixed by public authority Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten rupees (IPC Section-435)",
+        "4 charges related to Assault or use of criminal force to deter public servant from discharge of his duty. (BNS Section-132)",
+        "1 charges related to If threat be to cause death or grievous hurt, etc. (BNS Section-351(3))",
+        "2 charges related to Punishment for Rioting (IPC Section-147)",
+        "2 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Mischief causing damage to the amount of fifty rupees (IPC Section-427)",
+        "1 charges related to Every member of unlawful assembly guilty of offence committed in prosecution of common object (IPC Section-149)",
+        "4 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "3 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Disobedience to order duly promulgated by public servant (BNS Section-223)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "CR No.524/97 Vellavedu Police Station",
+          "case_no": "PRC No.43/97 Spilted to PRC No 35/2008 SC.No.470/202",
+          "court": "Principle District Sessions Court Tiruvallur",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 341, 427,109, 149",
+          "other_details": "Section- 3 (1) of TNPPDL Act 1992, Framed Year-1997",
+          "charges_framed": "Yes",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "CR No.525/97, Vellavedu Police Station",
+          "case_no": "PRC No 44/97, Spilted to PRC No.36/08 SC No 471/2024",
+          "court": "Principle District Sessions Court Tiruvallur",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 341, 435, 109",
+          "other_details": "Section-4 of TNPPDL Act 1992, Framed Year-1997",
+          "charges_framed": "Yes",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "CR No. 161/2025 Vellavedu, Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 223, 132",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Cr.No. 162/2025, Vellavedu Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 296(b), 132, 351(3)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Cr.No 163/2025, Vellavedu, Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2) 296(b), 132, 351(3) 226",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Cr.No 164/2025, Vellavedu Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 296(b), 132, 351(3)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Cr.No 101/2025, Thiruvalangadu Police Station transfer to CBCID Tiruvallur",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "189(2), 329(4), 140(1)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,07,81,209 ~2 Crore+",
+    "Liabilities:": "Rs 63,72,952 ~63 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "200.0g gold declared at ₹2,232,000 (Implied rate: ₹11,160/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹16,086,667) does not match declared total assets (₹20,781,209). Difference: ₹4,694,542"
+    }
+  ]
+}

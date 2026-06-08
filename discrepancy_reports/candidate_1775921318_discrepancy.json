@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921318",
+    "candidate_name": "P. Pandithurai",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Independent",
+    "constituency": "198 Andipatti, Tamil Nadu",
+    "pan": "CVYPP2037F",
+    "phone": "9698580867",
+    "email": "NIL",
+    "address": "222, Seetharam Das Nagar, Vaigai Road, Andipatti, Theni District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "DIPLOMA in Tirupattur Polytechnic College (2002-2005)",
+    "profession": "Private vehicle driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 700000.0,
+    "total_liabilities_xls": 100000.0,
+    "net_worth_xls": 600000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

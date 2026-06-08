@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917647",
+    "candidate_name": "M.முருகன்",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "புதிய தமிழகம் கட்சி",
+    "constituency": "205 சிவகாசி சட்டமன்றத் தொகுதி",
+    "pan": "CQWPM7497P",
+    "phone": "9865711737",
+    "email": "NIL",
+    "address": "கதவு என்.390, சாமிநாதபுரம் கிராமம், குன்னுார் வழி, நெடுங்குளம் போஸ்ட், சிவகாசி வட்டம், விருதுநகர் மாவட்டம்.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9ம் வகுப்பு, அரசு உயர்நிலைப்பள்ளி, மங்கலம், 1998ம் வருடம்",
+    "profession": "கூலித் தொழிலாளி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1975800.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1975800.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

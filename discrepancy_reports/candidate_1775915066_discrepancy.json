@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915066",
+    "candidate_name": "RAJEEV",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "TAMILAGA VETTRI KAZHAGAM",
+    "constituency": "210, THIRUVADANAI",
+    "pan": "BXLPR8078P",
+    "phone": "9994672212",
+    "email": "rajeevvk2220@gmail.com",
+    "address": "3 SWAMY VIVEKANANDAR STREET, SIGIL RAJA VEETHI, RAMANATHAPURAM",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MBBS, RAJAMUTHIAH MEDICAL COLLEGE (ANNAMALAI UNIVERSITY) 2016",
+    "profession": "DOCTOR"
+  },
+  "financial_summary": {
+    "total_assets_xls": 31374379.2,
+    "total_liabilities_xls": 5746518.28,
+    "net_worth_xls": 25627860.92,
+    "cash_xls": 280000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908253",
+    "candidate_name": "o Prakash",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "All India Puratchi Thalaivar Makkal Munnetra Kazhagam",
+    "constituency": "179 - Viralimalai, Tamil Nadu State",
+    "pan": "BLNPK3757K",
+    "phone": "8838501878",
+    "email": "karthee.chem@gmail.com",
+    "address": "No: 61, Marudampatti Village, Vilapatti Post, Illuppur Taluk, Pudukkottai District - 622504",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.Sc., (CHEMISTRY), 2012, BHARATHIDASAN UNIVERSITY, TRICHY.",
+    "profession": "Private company manager"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2225000.0,
+    "total_liabilities_xls": 150000.0,
+    "net_worth_xls": 2075000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

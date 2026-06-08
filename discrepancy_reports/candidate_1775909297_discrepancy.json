@@ -1,0 +1,347 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909297",
+    "candidate_name": "S.Shajahan",
+    "candidate_name_json": "SHAJAHAN.S",
+    "age": "47",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "119 Thondamuthur Assembly Constituency, Tamil Nadu",
+    "pan": "CCUPS0912F",
+    "phone": "9047499000",
+    "email": "shajjbabu04@g.mail.com",
+    "address": "House No. 2, Gokulam Colony Extension, Kovai Pudur, Coimbatore-641042",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Com - Annamalai University, Year-1998",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5383542.71,
+    "total_liabilities_xls": 81934.29000000001,
+    "net_worth_xls": 5301608.42,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "25,000 25 Thou+",
+        "spouse": "25,000 25 Thou+",
+        "huf": "Nil",
+        "dependent1": "5,000 5 Thou+",
+        "dependent2": "5,000 5 Thou+",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Tamil Nadu Mercantile Bank Selvapuram 1,653 1 Thou+ ICICI Bank Awarampalayam Branch 9,729 9 Thou+ CSB Bank Branch 918 9 Hund+ IDBI Bank 6,693 6 Thou+ Indian Bank Coimbatore Branch 4,130 4 Thou+ Mail Office Main Branch 1,000 1 Thou+",
+        "spouse": "Tamil Nadu Mercantile Bank Selvapuram 9,104 9 Thou+ Karur Vysya Bank Main Branch 75,962 75 Thou+",
+        "huf": "Nil",
+        "dependent1": "Karur Vysya Bank Coimbatore 8,373 8 Thou+ SBI Opanakaraveethi Branch 8,556 8 Thou+",
+        "dependent2": "Karur Vysya Bank Coimbatore 28,164 28 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Three Wheeler APE City Piaggio TN37CB 5422 40,000 40 Thou+ Three Wheeler APE City Piaggio TN37CB5422 40,000 40 Thou+ Three Wheeler APE City Piaggio TN37CB 6090 40,000 40 Thou+ Three Wheeler APE City Piaggio TN37CB 2079 40,000 40 Thou+ Three Wheeler Bajaj Auto TN66P9234 40,000 40 Thou+ Car Mahendra XUV 500 Car TN37CB2040 6,00,000 6 Lacs+ Royal Enfield Bullet Two Wheeler TN66P0109 60,000 60 Thou+ Yamaha Ray Z Two Wheeler TN99 B3742 20,000 20 Thou+",
+        "spouse": "Three Wheeler APE City Piaggio TN37CB 1899 40,000 40 Thou+ Three Wheeler APE City Piaggio TN37CB 2147 40,000 40 Thou+ Three Wheeler APE City Piaggio TN37CB 6104 40,000 40 Thou+ Three Wheeler APE City Piaggio TN37CB 2079 40,000 40 Thou+ Renault Kwid Car TN99U5239 4,50,000 4 Lacs+ Yamaha Fascino Two Wheeler TN66AH2040 80,000 80 Thou+ Three Wheeler APE City Paiggio TN37CB348 40,000 40 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Silver Jewellery 970 Grams 2,47,350 2 Lacs+",
+        "spouse": "Gold Jewellery 260 Grams 33,67,000 33 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Gold Jewellery 120 Grams 15,54,000 15 Lacs+",
+        "dependent2": "Sliver Jewellery 465 Grams 1,18,575 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Indian Bank Coimbatore Puttur Branch Jewellery Loan 50,000 50 Thou+",
+      "spouse": "Karur Vaisya Bank Coimbatore Puttur Branch Vehicle Loan 31,934 31 Thou+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,84,190 | 2023 - 2024: Rs 4,84,480 | 2022 - 2023: Rs 4,96,840 | 2021 - 2022: Rs 4,91,210 | 2020 - 2021: Rs 4,79,360"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 0 | 2023 - 2024: Rs 0 | 2022 - 2023: Rs 4,77,440 | 2021 - 2022: Rs 4,26,230 | 2020 - 2021: Rs 3,90,170"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 71,06,210 ~71 Lacs+",
+    "Liabilities:": "Rs 81,934 ~81 Thou+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1815.0g gold declared at ₹3,614,350 (Implied rate: ₹1,991/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹1,719,112 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹5,474,219) does not match declared total assets (₹7,106,210). Difference: ₹1,631,991"
+    }
+  ]
+}

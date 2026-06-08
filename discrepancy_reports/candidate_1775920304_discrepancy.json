@@ -1,0 +1,378 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920304",
+    "candidate_name": "Mr. Sampathkumar",
+    "candidate_name_json": "V. SAMPATHKUMAR",
+    "age": "53",
+    "party": "Independent",
+    "constituency": "121- Singanallur, Tamil Nadu",
+    "pan": "BZQPS7368H",
+    "phone": "7810070311",
+    "email": "kums9198@gmail.com",
+    "address": "383, Rajee Naidu Lay-out, Peelamedu, Coimbatore - 641004",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Standard - PSG Sarvajana Higher Secondary School - 1988",
+    "profession": "Not specified"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2146501.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2146501.0,
+    "cash_xls": 14000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,00,000 1 Lacs+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Overseas Bank, Rathinapuri Branch. 1,265.65 1 Thou+ KVB,Ganapathy Br(joint account) 13,058.40 13 Thou+ SBI GANAPATHU Br 8,911.02 8 Thou+ TMB, Ganapathy 40,798 40 Thou+",
+        "spouse": "City Union Bank , Saravanampatti, Br 7,264.93 7 Thou+ TMB,Ganapathy 2,000 2 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Post office Ganapathy Br 3,53,054 3 Lacs+",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Car:SKODA Rapid TN38CL9299 Year 2010 3,75,264 3 Lacs+ Car: ISUZU TN14V3971 Year-2019 3,80,000 3 Lacs+",
+        "spouse": "Two Wheeler: TVS IQUBE Year-2022 TN38DA3958 50,000 50 Thou+ Two Wheeler: Yamaha Fasino Year -2017 15,000 15 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "368 gram 54,50,000 54 Lacs+",
+        "spouse": "1324 gram 1,58,88,000 1 Crore+ 1000 gram 2,40,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Coimbatore District,Mettupalayam Taluk,Tholampalayam Village,R.s.no:1/2 ,12/4, 12/2 Total Area 2.92 1/4 Built Up Area Whether Inherited N Purchase Date 2024-03-07 Purchase Cost 1548000.00 Development Cost 0.00 16,30,000 16 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Coimbatore District,Annur,Avinasi Taluk,Ottarpalayam Village R.S.No:461/1,part Total Area 2400 sq ft Built Up Area Whether Inherited N Purchase Date 2008-04-11 Purchase Cost 103200.00 Development Cost 0.00 7,20,400 7 Lacs+ Tirrupur,Kinathukadavu,Kovai South, Arisipalayam Village,P.s.no:334/1C Total Area 3150 Sq ft Built Up Area Whether Inherited N Purchase Date 2008-11-10 Purchase Cost 0.00 Development Cost 0.00 3,52,000 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Ganapathy village,K.S.No:445 Total Area 2616 sq ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 2500000.00 52,00,000 52 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Cimbatore District, taluk,Ganapathy village,k.s.no:537/1 Total Area 3105 sq ft Built Up Area Whether Inherited N Purchase Date 2010-06-14 Purchase Cost 940000.00 Development Cost 2500000.00 34,77,600 34 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Personal Loan,ICICI Bank, Branch 14,678 14 Thou+ Jewel Loan, Indian Overseas Bank, Rathinapuri Branch 10,00,000 10 Lacs+ Jewel Loan, Indian Overseas Bank, Rathinapuri Branch 5,00,000 5 Lacs+ Housing Loan, Repco Bank, Saibabacolony Branch, Current Outstanding 5,45,008 5 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 11,51,400 | 2024 - 2025: Rs 7,82,940 | 2023 - 2024: Rs 4,66,100 | 2022 - 2023: Rs 4,37,180 | 2021 - 2022: Rs 3,96,850"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "2 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "2 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Mischief - Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits mischief. (BNS Section-324)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No.605/2025 Racecourse Road Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No. 314/2025 Peelamedu Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 324",
+          "other_details": "Sec. 122, 127 Motor Vehicle Act 1988, Sec. 71 (i) TNCP Act, 1888.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,44,04,616 ~3 Crore+",
+    "Liabilities:": "Rs 20,59,686 ~20 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹33,338,169, but 5-year family income is only ₹3,234,470. Unexplained wealth discrepancy of ₹30,103,699."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "2692.0g gold declared at ₹21,338,000 (Implied rate: ₹7,926/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909817",
+    "candidate_name": "A. Sathikkumar",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Democratic National Loyal Party",
+    "constituency": "17, Royapuram Assembly Constituency",
+    "pan": "GXFPS0551A",
+    "phone": "9043145363",
+    "email": "sathikkumar2010@gmail.com",
+    "address": "20, East Cemetery Road, Old Washermenpet, Chennai-600021, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., Economics, Thiyagaraya College, Old Washermenpet, Chennai, Academic Year 2007-2010",
+    "profession": "Individual Washing Machine Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 19500.0,
+    "total_liabilities_xls": 150000.0,
+    "net_worth_xls": 130500.0,
+    "cash_xls": 5500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

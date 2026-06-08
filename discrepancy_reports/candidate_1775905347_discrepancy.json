@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905347",
+    "candidate_name": "Siva V. Meyyanathan",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "182 Alangudi Assembly Constituency",
+    "pan": "BMPPM0279K",
+    "phone": "9842625119, 9994945858, 04371271561",
+    "email": "meiyyanathansivavee@gmail.com",
+    "address": "Pudukkottai District, Aranthangi Taluk, Maramadakki Village & Post, 723(2) Chinnamundan Residency",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Master of Computer Application (MCA), Thanthai Hans Roever College, Perambalur, Bharathidasan University, 1996",
+    "profession": "Agriculture, MLA 182-Alangudi, Minister for Backward Classes Welfare"
+  },
+  "financial_summary": {
+    "total_assets_xls": 32359929.62,
+    "total_liabilities_xls": 8106237.0,
+    "net_worth_xls": 24253692.62,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

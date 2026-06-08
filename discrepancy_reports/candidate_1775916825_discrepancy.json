@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916825",
+    "candidate_name": "A.H. Sivaganesh",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Independent",
+    "constituency": "001, Gummidipoondi, Tamil Nadu",
+    "pan": "FJLPS1754L",
+    "phone": "7305559726",
+    "email": "sivaganeshah1982@gmail.com",
+    "address": "No.102, G.N. Chetty Street, Arani, Ponneri Taluk, Thiruvallur District-601101",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., Aalim Muhammed Salegh College of Engineering, Avadi - 2004; M.A., (PUB-AD) Madras University - 2015; M.A., (POL.SCI) Madras University - 2017; L.L.B., Sri Eswar Reddy Law College - 2019",
+    "profession": "Individual self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 71830500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 71830500.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

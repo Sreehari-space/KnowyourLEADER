@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911721",
+    "candidate_name": "Aarumugam",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "Independent",
+    "constituency": "Kangayam 102, Tamil Nadu",
+    "pan": "AKXPA8004F",
+    "phone": "9361346261",
+    "email": "muthamilvithakan@gmail.com",
+    "address": "147 Varappalayam, Nanjiyampalayam Post, Dharapuram Taluk - 63865, Tiruppur District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc from Palaniandavar Arts and Culture College, Palani (1984-1987)",
+    "profession": "NET WORK MARKETIONG"
+  },
+  "financial_summary": {
+    "total_assets_xls": 494000.0,
+    "total_liabilities_xls": 160000.0,
+    "net_worth_xls": 334000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

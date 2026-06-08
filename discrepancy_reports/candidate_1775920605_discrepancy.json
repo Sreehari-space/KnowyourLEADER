@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920605",
+    "candidate_name": "ஈ.வெங்கடேஷ்ராஜா",
+    "candidate_name_json": null,
+    "age": "63",
+    "party": "சுயேட்சை",
+    "constituency": "53 கிருஷ்ணகிரி சட்டமன்ற தொகுதி",
+    "pan": "APQPV3787A",
+    "phone": "9488749919",
+    "email": "venkateshraja.evr@gmail.com",
+    "address": "MIG 302, பகுதி 2, 3 வது கிராஸ், தமிழ்நாடு வீட்டு வசதி வாரியம், கிருஷ்ணகிரி 635002. (நிரந்தர முகவரி - பெரியசக்கனாவூர் கிராமம், நாரலப்பள்ளி அஞ்சல், கிருஷ்ணகிரி வட்டம் மற்றும் மாவட்டம் 635120)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc - Government Arts College, Dharmapuri - 1985; L.L.B - V.V.Puram Law College, Bangalore - 2006",
+    "profession": "வழக்கறிஞர் மற்றும் விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 278635489.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 278635489.0,
+    "cash_xls": 150000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

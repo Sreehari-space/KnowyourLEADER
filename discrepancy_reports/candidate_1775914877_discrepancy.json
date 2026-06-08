@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914877",
+    "candidate_name": "க.ஜெயபிரகாஷ்",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "புதிய தமிழகம் கட்சி",
+    "constituency": "130 - நிலக்கோட்டை சட்ட மன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "BZEPJ2637L",
+    "phone": "7639206952",
+    "email": "jayaprak46@gmail.com",
+    "address": "3-385, மேற்கு தெரு, இந்திரா காலனி, கட்டகாமன்பட்டி போஸ்ட், வத்தலக்குண்டு, திண்டுக்கல் - 624202",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10ம் வகுப்பு, 2002-2006, பிரைவேட்",
+    "profession": "தனி நபர் - சுயதொழில்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 987270.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 987270.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "1. Crime No. 212/2020, Vathalagundu Police Station, IPC, 1860-143, 269, 4A(1b) Act. Due to gathering during Corona period for food distribution. / 1. குற்ற எண்.212/2020, வத்தலக்குண்டு காவல் நிலையம், IPC, 1860-143, 269, 4A(1b) Act. கொரோனா நேரத்தில் உணவு வழங்கும்போது கூட்டம் சேர்ந்ததன் காரணமாக.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

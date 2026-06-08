@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907027",
+    "candidate_name": "M.H. JAWAHIRULLAH",
+    "candidate_name_json": null,
+    "age": "66",
+    "party": "DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "163 NAGAPATTINAM",
+    "pan": "AAAPZ1957F",
+    "phone": "9500062791, 9443332914, 04423636250",
+    "email": "jawahirinfo@gmail.com",
+    "address": "101, Pillaiyar Kovil Street, Arumbakkam, Chennai - 600106",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Ph.D. from University of Madras, Chennai in 2008",
+    "profession": "Home Make"
+  },
+  "financial_summary": {
+    "total_assets_xls": 322848162.11,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 322848162.11,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Convicted (1 case(s))",
+    "case_numbers_xls": "590/2024; 591/2021; 47/2020; 56/2018; CC 1123/2004",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

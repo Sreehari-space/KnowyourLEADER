@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922189",
+    "candidate_name": "Thiru Muthukumar Ra",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "Hindu Makkal Katchi",
+    "constituency": "30 Pallavaram Assembly Constituency",
+    "pan": "AXDPM4630N",
+    "phone": "9444372903",
+    "email": "muthukumarhmk@gmail.com",
+    "address": "1, Arulmurugan Ramamoorthy 2nd Street, Senhil Nagar, Chromepet, Chennai - 600044",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard",
+    "profession": "Individual : Private"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1000.0,
+    "cash_xls": 500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

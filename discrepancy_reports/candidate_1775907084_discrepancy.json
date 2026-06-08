@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907084",
+    "candidate_name": "PL. VIJAYAKUMAR",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "ALL INDIA ANNA DIRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "138 Manapparai",
+    "pan": "AIIPV1714C",
+    "phone": "9865420095",
+    "email": "plvortho@gmail.com",
+    "address": "9, VIRALIMALAI ROAD, ANNA NAGAR, MANAPPARAI, TRICHY DISTRICT - 621 306",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.S (ORTHOPAEDICS) from The Tamil Nadu Dr.M.G.R Medical University, completed in 2008",
+    "profession": "Medical Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1008704000.0,
+    "total_liabilities_xls": 3519753.0,
+    "net_worth_xls": 1005184247.0,
+    "cash_xls": 149999.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Crime No.150/2026",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

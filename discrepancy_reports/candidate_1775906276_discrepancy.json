@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906276",
+    "candidate_name": "S. Thangapandian",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "202 - Rajapalayam, Tamil Nadu",
+    "pan": "ADGPT6971J",
+    "phone": "9364544107",
+    "email": "sthangapandianmla@gmail.com",
+    "address": "205, Indiranagar, Naidu South Street, Chettiyarpatti - 626 122",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Sixth Standard, P.M. Marimuthu Nadar Higher Secondary School, Thalayapuram - 626 188, Year of completion - 01-10-1980",
+    "profession": "Owner - Thangamariamman Textiles, Chettiyarpatti and Rajapalayam MLA"
+  },
+  "financial_summary": {
+    "total_assets_xls": 337335715.37,
+    "total_liabilities_xls": 67801718.0,
+    "net_worth_xls": 269533997.37,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 247/2019 (Quashed); STC 1453/2021 (Pending)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

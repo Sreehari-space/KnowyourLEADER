@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920931",
+    "candidate_name": "V. Pandi",
+    "candidate_name_json": null,
+    "age": "61",
+    "party": "Independent",
+    "constituency": "Mudukulathur",
+    "pan": "CYLPP6177L",
+    "phone": "9443977583",
+    "email": "இல்லை / none",
+    "address": "56, Nadutheru Village, Pudukkottai Post, Kamuthi Taluk, Ramanathapuram District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Eighth Standard, Panchayat Union Middle School, U. Karisalkulam - 1979",
+    "profession": "Individual Farmer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6149000.0,
+    "total_liabilities_xls": 1700000.0,
+    "net_worth_xls": 4449000.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

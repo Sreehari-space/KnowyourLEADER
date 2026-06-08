@@ -1,0 +1,353 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912826",
+    "candidate_name": "M.Ramesh",
+    "candidate_name_json": "M.RAMESH",
+    "age": "45",
+    "party": "Kongu Munnetra Kazhagam",
+    "constituency": "100-Modakurichi Assembly Constituency",
+    "pan": "AZUPR4858C",
+    "phone": "9865223107",
+    "email": "ksc1.ramesh@gmail.com",
+    "address": "Erode District, Kodumudi Taluk, Ichipalayam Village, Unjalur (via), 638152, Thamaraipalayam (Post), Panappalayam, Door No. Old 11, New 70",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Post Graduate in Business Administration (MBA), Distance Education, Alagappa University, Karaikudi, December 2007.",
+    "profession": "Agriculture, Training Center"
+  },
+  "financial_summary": {
+    "total_assets_xls": 25020999.21,
+    "total_liabilities_xls": 2749082.61,
+    "net_worth_xls": 22271916.6,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "30,000 30 Thou+",
+        "spouse": "10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "IOB, Karur, (Savings Account) 2,315 2 Thou+ Indian Bank, Karur (Savings Account) 4,348 4 Thou+ CUB, Karur, (Current Account) 51,444 51 Thou+ IOB, (Current Account) 5,412 5 Thou+ CUB, Karur, (Savings Account) 43,764 43 Thou+ CUB, Kangayam (Savings Account) 17,933 17 Thou+ ICICI Bank, Kangayam (Savings Account) 68 Canara Bank, Kodumudi (Savings Account) 5,784 5 Thou+ Equitas Small Finance, Karur 12,86,444 12 Lacs+ Canara Bank, Kangayam (Savings Account) 1,133 1 Thou+ Yes Bank, Karur (Savings Account) 13,922 13 Thou+ Indian Bank, Washermanpet (Savings Account) 2,225 2 Thou+ KVB, Kolathupalayam (Savings Account) 1,115 1 Thou+ Axis Bank Gandhigramam, Karur, (Current Account) 1,99,292 1 Lacs+ Canara Bank, Modakkurichi, (Savings Account) 1,306 1 Thou+ Bank of Maharastra, Karur (Savings Account) 15,421 15 Thou+ Canara Bank, Thamaraipalayam (Savings Account) 12,000 12 Thou+",
+        "spouse": "KVB, Kolathupalayam (Savings Account) 16,371 16 Thou+ IDBI, Karur (Savings Account) 9,394 9 Thou+ ICICI Bank, Kangayam (Savings Account) 3,288 3 Thou+ Canara Bank, Kangayam (Savings Account) 1,023 1 Thou+ CUB, Karur (Savings Account) 154 1 Hund+ Equitas Small Finance, Karur (Savings Account) 14,767 14 Thou+",
+        "huf": "Nil",
+        "dependent1": "KVB, Kolathupalayam 256 2 Hund+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Post Office, Karur Branch 8,63,499 8 Lacs+",
+        "dependent2": "Post Office, Karur Branch 7,35,347 7 Lacs+",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy 45,632 45 Thou+ LIC Policy 43,536 43 Thou+ LIC Policy 38,112 38 Thou+ LIC Policy 36,528 36 Thou+ LIC Policy 35,040 35 Thou+ LIC Policy 33,712 33 Thou+ LIC Policy 32,480 32 Thou+ LIC Policy 31,328 31 Thou+ LIC Policy 30,304 30 Thou+ LIC Policy 27,488 27 Thou+ LIC Policy 26,752 26 Thou+ LIC Policy 26,096 26 Thou+ LIC Policy 25,472 25 Thou+ LIC Policy 24,896 24 Thou+ LIC Policy 24,384 24 Thou+ LIC Policy 23,920 23 Thou+ LIC Policy 23,504 23 Thou+ LIC Policy 23,072 23 Thou+ LIC Policy 22,720 22 Thou+ LIC Policy 22,416 22 Thou+ LIC Policy 1,15,668 1 Lacs+ ICICI Prudential Life Insurance Policy 3,75,600 3 Lacs+",
+        "spouse": "LIC Policy 1,43,572 1 Lacs+ LIC Policy 4,24,472 4 Lacs+ LIC Policy 69,916 69 Thou+ ICICI Prudential Life Insurance Policy 3,25,200 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "LIC Policy 1,53,099 1 Lacs+",
+        "dependent2": "LIC Policy 1,43,316 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Volkswogen Ameo (2018) TN 33 BT 1717 6,00,000 6 Lacs+ TVS Motors TVS XL Super (2012) TN 33 BB 7686 10,000 10 Thou+ Escorts Ltd Yamaha RX. 135 (1999) TN 47 E 7821 20,000 20 Thou+",
+        "spouse": "Pure Electric Vehicle, Epluto - 7G (2021) TN 33 BU 8822 79,000 79 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 25 grams 3,51,000 3 Lacs+",
+        "spouse": "Gold 142 grams 19,50,000 19 Lacs+ Silver 45 grams 11,250 11 Thou+",
+        "huf": "Nil",
+        "dependent1": "Silver 45 grams 11,250 11 Thou+",
+        "dependent2": "Silver 38 grams 9,500 9 Thou+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Erode District, Kodumudi Block, 85 - Unjalur Village R.S No. 55/13, 55/18 Total Area 0.82 Acres Built Up Area Whether Inherited N Purchase Date 2014-12-24 Purchase Cost 272000.00 Development Cost 0.00 3,43,000 3 Lacs+ Erode District, Kodumudi Block, 85 - Unjalur Village R.S No. 57/12 Total Area 0.82 Acres Built Up Area Whether Inherited N Purchase Date 2018-06-08 Purchase Cost 163955.00 Development Cost 0.00 1,89,000 1 Lacs+ Erode District, Kodumudi Block, 85 - Unjalur Village R.S No. 57/19 Total Area 0.82 Acres Built Up Area Whether Inherited N Purchase Date 2018-08-23 Purchase Cost 116000.00 Development Cost 0.00 1,19,000 1 Lacs+ Erode District, Kodumudi Block, 85 - Unjalur Village R.S No. 55/14 Total Area 0.82 Acres Built Up Area Whether Inherited N Purchase Date 2018-08-23 Purchase Cost 62000.00 Development Cost 0.00 65,000 65 Thou+ Erode District, Kodumudi Block, 85 - Unjalur Village R.S No. 58 Total Area 0.07 Acres Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,00,000 1 Lacs+ Erode District, Kodumudi Block, 85 - Unjalur Village R.S No. 55/20 Total Area 0.11 Acres Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,25,000 1 Lacs+ Erode District, Kodumudi Block, 85 - Unjalur Village R.S No. 43/5A Total Area 0.11 Acres Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 16,00,000 16 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Rajiv Gandhi Nagar, Andankoil Village, Karur District R.S No. 293/1 (Joint Venture) Total Area 750 sqft Built Up Area Whether Inherited N Purchase Date 2025-06-08 Purchase Cost 450250.00 Development Cost 0.00 4,60,500 4 Lacs+ Tiruppur District, Kangeyam Taluk, Kangeyam Village, Sri Kaveri Nagar R.S No. 841/2B5 Plot No. 62 Total Area 1315 sqft Built Up Area Whether Inherited N Purchase Date 2021-02-18 Purchase Cost 155000.00 Development Cost 0.00 1,62,000 1 Lacs+ Tiruppur District, Kangeyam Taluk, Kangeyam Village, Sri Kaveri Nagar R.S No. 841/2B5 Plot No. 63, 64, 65 Total Area 4263 sqft Built Up Area Whether Inherited N Purchase Date 2000-03-13 Purchase Cost 502000.00 Development Cost 0.00 5,08,000 5 Lacs+ Tiruppur District, Kangeyam Taluk, Veeranampalayam Village, Sri Kaveri Nagar R.S No. 489 Plot No. 50 Total Area 2200 sqft Built Up Area Whether Inherited N Purchase Date 2000-05-07 Purchase Cost 89500.00 Development Cost 0.00 92,500 92 Thou+ Total Area 6547 sqft Built Up Area Whether Inherited N Purchase Date 2020-12-22 Purchase Cost 141000.00 Development Cost 0.00 2,27,500 2 Lacs+ Total Area 6115 sqft Built Up Area Whether Inherited N Purchase Date 2020-12-22 Purchase Cost 207500.00 Development Cost 0.00 2,10,500 2 Lacs+ Tiruppur District, Kangeyam Taluk, Kangeyam Village, Sri Kaveri Nagar R.S No. 841/2 Plot No. 61 Total Area 2285 sqft Built Up Area Whether Inherited N Purchase Date 2019-10-10 Purchase Cost 269000.00 Development Cost 0.00 2,72,000 2 Lacs+",
+        "spouse": "Rajiv Gandhi Nagar, Andankoil Village, Karur District R.S No. 293/1 (Joint Venture) Total Area 750 sqft Built Up Area Whether Inherited N Purchase Date 2015-06-08 Purchase Cost 450250.00 Development Cost 0.00 5,50,000 5 Lacs+ Tiruppur District, Kangeyam Taluk, Veeranampalayam Village, Surya Garden R.S No. 726, 728, 633 Plot No. A322, A41, D161, A194 Total Area 8275 sqft Built Up Area Whether Inherited N Purchase Date 2020-12-22 Purchase Cost 267000.00 Development Cost 0.00 3,25,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Coimbatore District Neelambur R.S No. 148/14, Door No. 44 C, 44 D, 44E Total Area 1530 sqft Built Up Area 930 sqft Whether Inherited N Purchase Date 2023-11-14 Purchase Cost 2045000.00 Development Cost 0.00 22,50,000 22 Lacs+ Tiruppur District Nallur Village K.S No. 565/2, Door No. 23, 23/1 Total Area 825 sqft Built Up Area 600 sqft Whether Inherited N Purchase Date 2024-06-13 Purchase Cost 2475200.00 Development Cost 0.00 26,00,000 26 Lacs+ Karur District Kodai Nagar Universal Garden, Door No. 39 (Joint Venture) Total Area Built Up Area Whether Inherited N Purchase Date 2024-07-26 Purchase Cost 2201310.00 Development Cost 2024.00 24,00,000 24 Lacs+ Karur District, Karur Taluk, Ward No. 25 T.S No. 119 Door No. 41 ( Co-owned) Total Area Built Up Area Whether Inherited N Purchase Date 2017-06-12 Purchase Cost 1500000.00 Development Cost 0.00 16,00,000 16 Lacs+",
+        "spouse": "Karur District Kodai Nagar Universal Garden Door No. 39 (Joint Venture) Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 2201310.00 Development Cost 0.00 24,00,000 24 Lacs+ Karur District, Karur Taluk, Ward No. 25 T.S No. 119 Door No. 41 ( Co-owned) Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 1500000.00 Development Cost 0.00 16,00,000 16 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "CUB, Karur (C.C.O.D) 10,44,768 10 Lacs+ Equitas Small Finance, Salaiputhur Branch (OD) 3,76,654 3 Lacs+ ICICI Kangeyam Branch (OD) 10,32,794 10 Lacs+ ICICI Kangeyam Branch (OD) 1,04,389 1 Lacs+ CUB, Karur ECLGS 1.0 Extension 1,90,477 1 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 9,18,504 | 2023 - 2024: Rs 10,19,024 | 2022 - 2023: Rs 7,83,687 | 2021 - 2022: Rs 6,77,237 | 2020 - 2021: Rs 6,79,615"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,69,913 | 2023 - 2024: Rs 6,63,443 | 2022 - 2023: Rs 6,61,727 | 2021 - 2022: Rs 6,48,947 | 2020 - 2021: Rs 6,42,389"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,69,37,264 ~2 Crore+",
+    "Liabilities:": "Rs 27,49,082 ~27 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "295.0g gold declared at ₹2,301,000 (Implied rate: ₹7,800/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹1,916,013 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹11,147,403) does not match declared total assets (₹26,937,264). Difference: ₹15,789,861"
+    }
+  ]
+}

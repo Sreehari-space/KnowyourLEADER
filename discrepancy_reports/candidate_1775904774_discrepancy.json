@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904774",
+    "candidate_name": "C.காசி.",
+    "candidate_name_json": null,
+    "age": "66",
+    "party": "DRAVIDA MUNNETRA KAZHAKAM",
+    "constituency": "86, EDAPPADI",
+    "pan": "ADQPK6118C",
+    "phone": "9626111222",
+    "email": "kasirajatextiles@gmail.com",
+    "address": "ஆல கண்டாபுரம், Salem Dist 636501",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "Textile Business, Agriculture and Chairman, Jalagandapuram Town panchayat"
+  },
+  "financial_summary": {
+    "total_assets_xls": 139388761.0,
+    "total_liabilities_xls": 24789489.0,
+    "net_worth_xls": 114599272.0,
+    "cash_xls": 150000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

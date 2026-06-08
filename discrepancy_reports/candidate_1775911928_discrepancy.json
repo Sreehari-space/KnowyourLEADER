@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911928",
+    "candidate_name": "K. Anand",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Independent",
+    "constituency": "194 - Madurai West Constituency",
+    "pan": "DKDPA7518D",
+    "phone": "9842153508",
+    "email": "anandhvadipatti58@gmail.com",
+    "address": "Door No. 11-2-44, Muthalamman Kovil Street, Vadipatti, Madurai - 625218",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc (Geography) College Dropout",
+    "profession": "Agricultural Laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 145000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 145000.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

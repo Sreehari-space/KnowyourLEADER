@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905284",
+    "candidate_name": "R. Abinaya",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "113, Tiruppur North Assembly Constituency",
+    "pan": "BOVPA3359A",
+    "phone": "9600403491",
+    "email": "abinayapremkumar96@gmail.com",
+    "address": "2, Deivanaiyammal Layout, Dharapuram Road, Perichipalayam East, Tiruppur-641604",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10TH STD (VIVEKANANDA VID MATRICULATION HIGHER SECONDARY SCHOOL, TIRUPPUR-2012); 12TH STD (VIVEKANANDA VID MATRICULATION HIGHER SECONDARY SCHOOL, TIRUPPUR-2014); B.COM., (C.S.,) (G.R.D COLLEGE OF ARTS AND SCIENCE, COIMBATORE.) (BHARATHIYAR UNIVERSITY, 2017)",
+    "profession": "School book publishing company (partner), CROTSER CONSULTANTS, TIRUPPUR"
+  },
+  "financial_summary": {
+    "total_assets_xls": 14590023.0,
+    "total_liabilities_xls": 7434000.0,
+    "net_worth_xls": 7156023.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Convicted (1 case(s))",
+    "case_numbers_xls": "குற்ற எண் 349/2025 / Crime No. 349/2025; STC NO: 720/2026",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

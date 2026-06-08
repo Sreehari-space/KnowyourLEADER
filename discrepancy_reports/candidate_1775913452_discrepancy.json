@@ -1,0 +1,364 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913452",
+    "candidate_name": "Muthulakshmi",
+    "candidate_name_json": "MUTHULAKSHMI. S",
+    "age": "56",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "53 Krishnagiri Assembly Constituency",
+    "pan": "AOSPM8478G",
+    "phone": "9894583981",
+    "email": "NIL",
+    "address": "K.No.171-9, Pottaneri, 4 Road, Mettur, Salem District, Tamil Nadu- 636453",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Seventh Standard",
+    "profession": "Small business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1832570.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1832570.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank, Aranthangi Branch, Savings Account No. 50,000 50 Thou+",
+        "spouse": "Indian Bank, Aranthangi Branch, Savings Account 50,000 50 Thou+ State Bank of India, Aranthangi Branch, Savings Account No. 30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Maruti Suzuki Swift Car TN 55-CY 4438 Purchased year 2023 amount. 9,60,000 9 Lacs+ Yamaha Fashino TN 55-CY 3569 Purchased Year 2023 Amount 1,17,000 1 Lacs+ Yamaha XSR (155) TN 55-CW 9393 Purchased Year 2026 Amount 1,96,000 1 Lacs+",
+        "spouse": "Bajaj Pulsar (150) TN 55-BY 7913 Purchased Year 2019 Amount 1,20,000 1 Lacs+ Yamaha Fashino TN 55-CX9393 Purchased Year 2025 Amount 1,06,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "gold 100 gram 13,50,000 13 Lacs+ silver 150 gram 37,500 37 Thou+",
+        "spouse": "gold 80 gram 10,80,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "1) 112/1A 2)112/4A Total Area 07.00 ares, 19.25 are 0.65 ares Built Up Area Whether Inherited N Purchase Date 2024-07-09 Purchase Cost 195000.00 Development Cost 700000.00 22,00,000 22 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Cholamandalam Finance Aranthangi Branch, Loan Outstanding 5.4,90,000/-Four Wheeler Motor Vehicle Loan (Car Loan) 4,90,000 4 Lacs+ L&T Finance Private Ltd Aranthangi Branch, Loan Outstanding Two Wheeler Motorcycle 1,80,000 1 Lacs+ HOB Finance Private Loan Outstanding Amount mobail phone 1,00,000 1 Lacs+ Bajaj Finance Company Ltd, Aranthangi Branch, Loan Outstanding Amount Consumer Loan 20,000 20 Thou+",
+      "spouse": "Indian Bank Aranthangi Branch Loan Outstanding Amount Jewelry Loan 3,60,000 3 Lacs+ MuttotFinance Private Ltd, Loan Balance jewelry Loan 1,80,000 1 Lacs+ Krishna Jewelry Pawn Shop, Outstanding Amount Jewelry Loan 1,50,000 1 Lacs+ Bajaj Finance Company Ltd, Aranthangi Branch, Loan Outstanding Amount consumer Loan 75,000 75 Thou+ Selva Vinayagar Auto Finance Trust Loan. Outstanding amount Vehicle loan 55,000 55 Thou+ Senthuran Auto Finance Aranthangi Loan Outstanding AmountVehicle Loan 55,000 55 Thou+ Indian Overseas Bank, Athani Education loan 3,10,000 3 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr.No.201/2019, C.C.No.436/2024 (Sections 147, 294(b), 323, 324, 447, 506(2) of IPC) - எனது கணவர் வீரப்பன் அவர்களின் பிறந்த நாளிற்க்கு பதாகைகள் வைத்தது சம்பந்தமாக. / Regarding putting up banners for my husband Veerappan's birthday.",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Causing danger or obstruction in public way or line of navigation. (BNS Section-285)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No. 285/2025 City Police Station, Pudukkottai -622001.",
+          "case_no": "STC No.91/2026",
+          "court": "Primary Criminal Judicial Magistrate Court, Pudukkottai",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 285",
+          "other_details": "Act 2023",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 64,46,500 ~64 Lacs+",
+    "Liabilities:": "Rs 19,75,000 ~19 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2024 for ₹195,000 (CII Indexed Cost: ₹201,983) is declared at highly inflated value of ₹2,200,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "330.0g gold declared at ₹2,430,000 (Implied rate: ₹7,364/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹5,960,000) does not match declared total assets (₹6,446,500). Difference: ₹486,500"
+    }
+  ]
+}

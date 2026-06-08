@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916145",
+    "candidate_name": "M.Ambulimathan",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "Independent Candidate",
+    "constituency": "Sendamangalam",
+    "pan": "BKBPA5766M",
+    "phone": "6381666296",
+    "email": "ampulimadan@gmail.com",
+    "address": "K.No.139, Anna Nagar, Gandhipuram Post, Sendamangalam Taluk, Namakkal District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., Mechanical Engineering - 2018, Gnanamani College Of Technology Pachal (Anna University)",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 83500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 83500.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

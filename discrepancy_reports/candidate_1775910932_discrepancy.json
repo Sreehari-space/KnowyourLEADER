@@ -1,0 +1,386 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910932",
+    "candidate_name": "K. BALU",
+    "candidate_name_json": "K. BALU",
+    "age": "55",
+    "party": "PATTALI MAKKAL KATCHI (PMK)",
+    "constituency": "33, Thiruporur Assembly Constituency",
+    "pan": "AIBPB9123G",
+    "phone": "9444088866",
+    "email": "baluadvocate@gmail.com",
+    "address": "No. J-75A, Plot No. 1993, 3rd street, 15th Main Road, Anna Nagar, Chennai - 600 040",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "S.S.L.C (1986), Higher Secondary (+2) (1988), B.Com. (1991), B.L. (1996)",
+    "profession": "Practicing Advocate in Madras High Court, Chennai - 600 104"
+  },
+  "financial_summary": {
+    "total_assets_xls": 127405006.0,
+    "total_liabilities_xls": 32498863.0,
+    "net_worth_xls": 94906143.0,
+    "cash_xls": 45350.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "45,350 45 Thou+",
+        "spouse": "95,000 95 Thou+",
+        "huf": "Nil",
+        "dependent1": "25,000 25 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank ,adras High Court 2,35,064 2 Lacs+ Indian Bank MGT Branch 30,639 30 Thou+ TNSC Bank Ltd Shenoy Nagar Branch 3,850 3 Thou+ Canara Bank PappakUDI Branch 11,134 11 Thou+",
+        "spouse": "SBI Shenoy Nagar Branch 10,000 10 Thou+ Indian Overseas Bank Sembanarkoil Branch 300 3 Hund+ Canara Bank Arumbakkam Branch 5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "SBI Meensuruthi Branch 500 5 Hund+ Canara Bank Meensuruthi Branch 500 5 Hund+ Indian Bank Meensuruthi Branch 2,000 2 Thou+ Indian Overseas Bank Meensuruthi Branch 3,000 3 Thou+",
+        "dependent2": "Indian Bank ,Madras High Court 500 5 Hund+ SBI Shenoy Nagar Branch 500 5 Hund+",
+        "dependent3": "SBI Shenoy Nagar Branch 500 5 Hund+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "M/S Sakura Promoters 88,84,714 88 Lacs+ M/S Sakura Promoters 60,000 60 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "M/S Sakura Promoters 20,000 20 Thou+",
+        "dependent3": "M/S Sakura Promoters 20,000 20 Thou+"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy 64,610 64 Thou+ LIC 3,77,088 3 Lacs+",
+        "spouse": "LIC Policy 1,95,440 1 Lacs+ LIC Policy 1,95,440 1 Lacs+ LIC Policy 10,30,218 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "LIC Policy 75,000 75 Thou+",
+        "dependent3": "LIC Policy 60,000 60 Thou+"
+      },
+      "Personal loans/advance given": {
+        "self": "1,07,50,639 1 Crore+",
+        "spouse": "72,00,000 72 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "XUV 500 Motor Car TN-02-AT-5490 6,37,000 6 Lacs+ Maruti Dezire Car TN-02-BL-1515 10,60,990 10 Lacs+ Innova Crysta Car TN-02-BQ-3377 26,92,607 26 Lacs+ Kia Sonet TN-02-CB-2228 13,94,486 13 Lacs+",
+        "spouse": "Swift Car TN-02-AR-6952 6,47,500 6 Lacs+ Honda Activa Two Wheeler TN-02-AW-3756 62,000 62 Thou+",
+        "huf": "Nil",
+        "dependent1": "Gold Jewelry 412gm @13750 Per gm 56,65,000 56 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold Jewelry 782gm @Per gm 13750 1,07,52,500 1 Crore+ Silver Article 8.60Kg @255 Per gm 21,93,000 21 Lacs+ Diamond Jewelry 3.80Carat Embedded With 12.60 Gold 4,20,000 4 Lacs+",
+        "spouse": "Gold Jewelry 634gm @ 13750 Per gm 87,17,500 87 Lacs+ Silver Article @255 Per gm 16,32,000 16 Lacs+ Diamond Jewelry 5.60 Carat Embedded With 46.20 Gold 9,99,250 9 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "1. Agriculture Land At Jayankondam Village Ariyalur District Sy No.269/5A4B 13Acres 2. Agriculture Land At Guruvalappar Kovil Madura Gangaikonda Cholapuram Ariyalur District Sy No.50/5A 86.00Acres 3. Agriculture Land At Angarayanallur Village Ariyalur District Sy No.324/1A 20.50Acres 4. Agriculture Land At Kundaveli Madura Odaperi Village Ariyalur District Sy No.34/4 54.50Acres 5. Agriculture Land At Kundaveli East Madura R. Vezhaikuttai Ariyalur District Sy No.469/7B 40.94Acres 6. Agriculture Land At Kundaveli East Madura R. Vezhaikuttai Ariyalur District Sy No.390/6B 7.50Acres 7. Agriculture Land At Kattagram East Village Ariyalur District Sy No.67/1D1 20.00Acres Total Area 9.34Acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,25,11,508 1 Crore+",
+        "spouse": "1. Agriculture Land At Periyavalayam Village Udayarpalaym Taluk Ariyalur District Sy No.157/2B, 52.00Acres, 20.9.2022 2.Agriculture Land At Angarayanallur Village Udayarapalyam Taluk Ariyalur District Sy No.324/1C, 26.50Acres, 11.4.2022 3. Agriculture Land At Meensuruti Thazuthazhimed Madhura Veeracholapura Sy No.35/80, 1Acre & 2Cents, 11.2.2026 4. Agriculture Land At Udayarapalyam Mensuruti Kudaveli East Madura Sy No.528/2B 34Cents, 4.7.2025 5.Vacant Land At Veeracholapura Thazuthazhimed Village Sy No.36/4A1 27Cents, 21.8.2024 Total Area 10.46 Cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 2532639.00 Development Cost 0.00 27,00,000 27 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Plots At Jayakondam Muncipality Sy No.468/1D1A1A1,269/5A6, 5A4B, 5A5 Total Area 35462Sqft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 28,00,000 28 Lacs+",
+        "spouse": "Vacant Land At R.Vazhakuttai Ariyalur District Sy No.473/2B1 Total Area 4790Sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 320000.00 Development Cost 0.00 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Plot No.48 Sy No 43/81 Rahamath Nagar Phase Thiruvallur Total Area 2460Sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 1092110.00 Development Cost 0.00 10,92,110 10 Lacs+"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "1. Flat No.692 D Block In Arignar Anna Nagar Scheme Anna Nagar Chennai Sy No.7 2. Kund4Aaveli East Village Ariyalur District Sy No.467/4A Total Area 9871Sqft Built Up Area 3440Sqft Whether Inherited Y Purchase Date 2006-01-20 Purchase Cost 5681120.00 Development Cost 0.00 1,60,59,890 1 Crore+",
+        "spouse": "Bharani Jothi Nagar Of Korattur Sy No.147/1 Total Area 5434Sqft Built Up Area 10868Sqft Whether Inherited N Purchase Date 2030-12-20 Purchase Cost 15870936.00 Development Cost 13706714.00 3,24,30,289 3 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "1,76,60,224 1 Crore+",
+      "spouse": "60,65,000 60 Lacs+",
+      "huf": "Nil",
+      "dependent1": "33,00,000 33 Lacs+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Unsecured loans from friends and relatives 19,00,000 19 Lacs+",
+      "spouse": "Unsecured loans from friends and relatives 68,73,639 68 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 21,76,540 | 2023 - 2024: Rs 21,56,670 | 2022 - 2023: Rs 20,39,020 | 2021 - 2022: Rs 22,43,250 | 2020 - 2021: Rs 17,42,920"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 10,30,430 | 2023 - 2024: Rs 6,89,760 | 2022 - 2023: Rs 4,97,540 | 2021 - 2022: Rs 4,90,230 | 2020 - 2021: Rs 4,82,000"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "225/2025; S.T.C.No. 1648 of 2025; 369/2025",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "1 charges related to Punishment for Rioting (BNS Section-191(2))",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Punishment for Criminal trespass. (BNS Section-329(3))",
+        "1 charges related to Punishment for voluntarily causing hurt (BNS Section-115(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "225/2025 Kairlabath PS Ariyalur District Tmail Nadu",
+          "case_no": "STC No. 1648/2025",
+          "court": "Judicial Magistrate No. I, Ariyalur, Ariyalur District.",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 329(3)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "369/2025 T. Palur PS Ariyalur District Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "191(2), 296(b), 115(2)",
+          "other_details": "Section- 3(1)(r), 3(1)(s), 3(1)(va), of SC/ST Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 13,43,69,616 ~13 Crore+",
+    "Liabilities:": "Rs 3,57,98,863 ~3 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹86,395,266, but 5-year family income is only ₹13,548,360. Unexplained wealth discrepancy of ₹72,846,906."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹6,957,125 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹122,194,129) does not match declared total assets (₹134,369,616). Difference: ₹12,175,487"
+    }
+  ]
+}

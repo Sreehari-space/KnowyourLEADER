@@ -1,0 +1,400 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911678",
+    "candidate_name": "K. Senthilkumar",
+    "candidate_name_json": "SENTHILKUMAR. K",
+    "age": "44",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "87, Sankagiri, Tamil Nadu",
+    "pan": "BGHPS7454J",
+    "phone": "9366608880",
+    "email": "senthilkumartvkofficial@gmail.com",
+    "address": "386, E-1, Pazhakara Thottam, Mottur, Idanganasalai, Elampillai, Sankagiri Taluk, Salem District, Tamil Nadu 637502",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "9th Standard (Year 1999)",
+    "profession": "Textile business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 82314925.0,
+    "total_liabilities_xls": 72320328.0,
+    "net_worth_xls": 9994597.0,
+    "cash_xls": 125000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,25,000 1 Lacs+",
+        "spouse": "95,000 95 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Kotak Mahendra Bank Salem Br CA 10,000 10 Thou+ Kotak Mahendra Bank Salem Br SB 10,000 10 Thou+ TamilNadu Mercantile Bank Ellampillai Br SB 10,000 10 Thou+ Union Bank of India Vembadithalam Br SB Joint 3,024 3 Thou+ Union Bank of India Vembadithalam Br SB 1,477 1 Thou+ Bharath State Bank of India Ellampillai Br SB Election Purpose 4,410 4 Thou+",
+        "spouse": "TamilNadu Mercantile Bank Ellampillai Br SB 12,064 12 Thou+ Union Bank of India Vembadithalam Br SB 668 6 Hund+ State Bank of India Ellampillai 2,000 2 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Kotak Assured Savings Plan Salem Branch 10,00,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Indian L.I.C., Salem Branch, Juwan Anand Policy 15,00,000 15 Lacs+ Indian L.I.C., Salem Branch, Juwan Anand Policy 15,00,000 15 Lacs+ Indian L.I.C., Salem Branch, Juwan Bheema Gold Policy 10,00,000 10 Lacs+",
+        "spouse": "Indian L.I.C., Salem Branch, Juwan Anand Policy 12,00,000 12 Lacs+ Indian L.I.C., Salem Branch, Juwan Anand Policy 10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Indian L.I.C., Salem Branch, Juwan Kishore Policy 10,00,000 10 Lacs+",
+        "dependent2": "Indian L.I.C., Salem Branch, Juwan Tharun Policy 20,00,000 20 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "2,61,76,389 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Mahindra Silo TN 52 C 8009, 2012 1,18,727 1 Lacs+ Royal Enfield TN 52 J 9009, 2016 39,839 39 Thou+ Maruti Gen TN 52 1138, 2008 22,727 22 Thou+ Honda Activa TN 52 6447, 2008 2,597 2 Thou+ Toyota Innova TN52P5678, 2019 8,40,218 8 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 40 Sovereign 50,00,000 50 Lacs+",
+        "spouse": "Gold 70 Sovereign 87,50,000 87 Lacs+ Silver 5 Kilo 11,75,000 11 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Salem Mahudanjawadi Naduveneri Sur No 31/2 Total Area 1358 Sq ft Built Up Area Whether Inherited N Purchase Date 2014-11-12 Purchase Cost 220500.00 Development Cost 0.00 27,16,000 27 Lacs+ Salem Mahudanjawadi Naduveneri Sur No 31/2 Total Area 1361 Sq ft Built Up Area 564 sq ft Whether Inherited N Purchase Date 2008-09-11 Purchase Cost 288000.00 Development Cost 825000.00 50,00,000 50 Lacs+ Edankanasalai Salem Sur No 635/5A, 635/4 Total Area 2000 Sq ft Built Up Area 1985 sq ft Whether Inherited N Purchase Date 2023-09-14 Purchase Cost 1850000.00 Development Cost 5000000.00 1,25,00,000 1 Crore+",
+        "spouse": "Edankanasalai Salem Sur no 635/5A, 635/4 Total Area 2000 sq ft Built Up Area 1985 sq ft Whether Inherited N Purchase Date 2023-09-14 Purchase Cost 1600000.00 Development Cost 2500000.00 1,25,00,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Tata Capital Collateral loan 94,79,938 94 Lacs+ Tata Capital Collateral loan 72,75,593 72 Lacs+ Tata Capital Collateral loan 82,48,633 82 Lacs+ Tata Capital Collateral loan 11,55,487 11 Lacs+ Tata Capital Collateral loan 8,53,960 8 Lacs+ Tata Capital Collateral loan 7,23,351 7 Lacs+ Tata Capital Collateral loan 58,24,000 58 Lacs+ Tata Capital Collateral loan 4,86,000 4 Lacs+ UBI Gold loan 7,23,351 7 Lacs+ Gold Loan 5,28,963 5 Lacs+",
+      "spouse": "8,29,862 8 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "60,57,655 60 Lacs+",
+      "spouse": "15,20,000 15 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "1,29,52,123 1 Crore+",
+      "spouse": "13,95,242 13 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "85,02,960 85 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 13,91,030 | 2023 - 2024: Rs 21,51,760 | 2022 - 2023: Rs 22,06,768 | 2021 - 2022: Rs 17,45,957 | 2020 - 2021: Rs 12,15,347"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 7,34,000 | 2023 - 2024: Rs 55,96,900"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "856/2025; 864/2025; 138/2024",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "2 charges related to If threat be to cause death or grievous hurt, etc. (BNS Section-351(3))",
+        "1 charges related to Punishment for Rioting (BNS Section-191(2))",
+        "1 charges related to Punishment for assault or criminal force otherwise than on grave provocation (IPC Section-352)",
+        "1 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "2 charges related to Wrongfully confining any person. (BNS Section-127(2))",
+        "2 charges related to Punishment for voluntarily causing hurt (BNS Section-115(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No 856/2025, Karur City Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "127(2), 296(b), 115(2), 351(3)",
+          "other_details": "Section 3 of the Tamil Nadu Property (Prevention of Damage and Loss) Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No.864/2025, Karur City Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "191(2), 127(2), 296(b), 115(2), 351(3)",
+          "other_details": "Section 3 of the Tamil Nadu Property (Prevention of Damage and Loss) Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No. 138/2024, Magudanchavadi Police Station, Salem",
+          "case_no": "C.C. No. 50/2025",
+          "court": "Criminal Judicial Division Magistrate- II, Sangakiri",
+          "law_type": "IPC",
+          "ipc_sections": "294b, 506(1), 352, 353",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "18 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 8,53,14,925 ~8 Crore+",
+    "Liabilities:": "Rs 6,65,57,118 ~6 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2014 for ₹220,500 (CII Indexed Cost: ₹345,450) is declared at highly inflated value of ₹2,716,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2023 for ₹1,600,000 (CII Indexed Cost: ₹1,728,736) is declared at highly inflated value of ₹12,500,000."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹3,000,000 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹62,203,180) does not match declared total assets (₹85,314,925). Difference: ₹23,111,745"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905667",
+    "candidate_name": "K. S. Masthan",
+    "candidate_name_json": null,
+    "age": "70",
+    "party": "Dravida Munnetra Kazhagam (DMK)",
+    "constituency": "70- Gingee",
+    "pan": "AGNPM4458K",
+    "phone": "9443073085",
+    "email": "gingeemasthan31@gmail.com",
+    "address": "59, Desurpettai Salai, Krishnapuram, Gingee, Villupuram District - 604202, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard, Government High School, Gingee (Completed 1972)",
+    "profession": "Member of Legislative Assembly"
+  },
+  "financial_summary": {
+    "total_assets_xls": 36195927.0,
+    "total_liabilities_xls": 7500000.0,
+    "net_worth_xls": 28695927.0,
+    "cash_xls": 496000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

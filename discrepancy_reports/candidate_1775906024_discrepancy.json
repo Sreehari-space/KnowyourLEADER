@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906024",
+    "candidate_name": "மீ.புகழேந்தி",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "திராவிட முன்னேற்ற கழகம்",
+    "constituency": "165.வேதாரண்யம் சட்டமன்றத் தொகுதி",
+    "pan": "AHLPP0612M",
+    "phone": "9894424988",
+    "email": "emailmepugal@gmail.com",
+    "address": "5, வெட்டுக்குளம் மேல்பாகம், வேதாரண்யம் நகரம், வேதாரண்யம் வட்டம், நாகப்பட்டினம் மாவட்டம், அ.கு.எண் 614 810",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "எஸ்.எஸ்.எல்.சி தேர்ச்சி 1983, சீனிவாசா மேல்நிலைப்பள்ளி மேலையூர்",
+    "profession": "டிரான்ஸ்போர்ட்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 24557913.97,
+    "total_liabilities_xls": 1200000.0,
+    "net_worth_xls": 23357913.97,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,347 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909407",
+    "candidate_name": "R. Amutharani",
+    "candidate_name_json": "R. AMUTHARANI",
+    "age": "50",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "220 - Vasudevanallur (SC) Assembly Constituency",
+    "pan": "BZIPA6029F",
+    "phone": "9444791102",
+    "email": "amutharani.tenkasi.tvk@gmail.com",
+    "address": "75, Ambedkar Street, Viswanathaperi Post, Sivagiri Taluk, Tenkasi District, Pincode 627757",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "12th Standard, Hindu Higher Secondary School, Vathirairuppu, Virudhunagar District - March 1994",
+    "profession": "Garments Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 13647643.0,
+    "total_liabilities_xls": 2284965.0,
+    "net_worth_xls": 11362678.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "15,000 15 Thou+",
+        "spouse": "10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "5,000 5 Thou+",
+        "dependent2": "30,000 30 Thou+",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Bank, Sivagiri Branch, Joint A/C. 34,182 34 Thou+ Bank of Baroda, Rajapalayam Branch Joint A/C. 11,490 11 Thou+ SBI Bank, Sivagiri Branch, SB A/C. 6,51,512 6 Lacs+ Indian Bank, Sivagiri Branch, Election Purpose, SB A/C. 1,07,500 1 Lacs+",
+        "spouse": "SBI Bank, Sivagiri Branch, Joint A/C 34,182 34 Thou+ Bank of Baroda, Rajapalayam Branch Joint A/C. 11,490 11 Thou+",
+        "huf": "Nil",
+        "dependent1": "HDFC Bank, Bangalore, FD A/C. 5,340 5 Thou+ HDFC Bank, Bangalore, FD A/C. 40,000 40 Thou+ HDFC Bank, Bangalore, FD A/C. 5,000 5 Thou+ HDFC Bank, Bangalore, FD A/C. 41,000 41 Thou+ HDFC Bank, Bangalore, FD A/C. 9,000 9 Thou+ HDFC Bank, Bangalore, FD A/C. 5,000 5 Thou+ HDFC Bank, Bangalore, FD A/C. 5,000 5 Thou+ HDFC Bank, Bangalore, SB A/C. 40,200 40 Thou+ Axis Bank, Bangalore, SB A/C. 24,774 24 Thou+ SBI Bank, Sivagiri Branch, SB A/C 1,700 1 Thou+",
+        "dependent2": "HDFC Bank, Rajapalayam Branch, SB A/C. 4,37,742 4 Lacs+ Punjab National Bank, Thandalam Branch, SB A/C. 11,403 11 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Axis Mutual Fund Value. 37,707 37 Thou+ Axis Mutual Fund Value. 19,608 19 Thou+ Axis Mutual Fund Value. 99,815 99 Thou+ Mirae Asset Mutual Fund Value. 35,499 35 Thou+ Motilal Oswal Mutual Fund Value. 10,074 10 Thou+ Axis Mutual Fund Value. 6,276 6 Thou+ PPFAS Mutual Fund Vlue. 50,603 50 Thou+ Mirae Asset Mutual Fund Value. 85,325 85 Thou+ ICICI Prudential Mutual Fund Value, 35,632 35 Thou+ Jio Black Rock Mutual Fund Value. 56,520 56 Thou+ Motilal Oswal Mutual Fund Value. 15,885 15 Thou+",
+        "dependent2": "PGIM India Mutual Fund Value. 3,93,409 3 Lacs+ SBI Mutual Fund Value. 61,145 61 Thou+ Quant Mutual Fund Value, 1,97,514 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Postal SB A/C. 43,400 43 Thou+ Postal RD A/C. 34,000 34 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+",
+        "spouse": "Postal SB A/C. 3,887 3 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+ Postal Term Deposit A/C. 50,000 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC - Jeevan Saral, Sum Assured. 2,00,000 2 Lacs+",
+        "spouse": "LIC - Jeevan Saral, Sum Assured. 2,50,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Hyundai Venue Car, TN 79 J 1525 , 18/01/2021. 12,00,000 12 Lacs+",
+        "spouse": "TVS Jupiter 125 Bike, TN 79 P 7647, 13/08/2025 1,25,000 1 Lacs+ Bajaj Pulsar NS 200, TN 12 Z 9408, 03/009/2018 1,48,000 1 Lacs+ Hero Honda Passion Plus TN 20 AD 8952, 16/10/2006. 49,000 49 Thou+",
+        "huf": "Nil",
+        "dependent1": "Honda Activa, KA 02 LA 8081, 04/09/2024. 1,20,000 1 Lacs+",
+        "dependent2": "Hyundai Grand i10 Asta, TN 14 C 2793, 29/05/2015. 5,00,000 5 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 384 Grams 42,24,000 42 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Sivagiri Taluk, Sivagiri Part 1 Village. S.No. 867/2F Total Area 48 Cents Built Up Area Whether Inherited N Purchase Date 2025-10-25 Purchase Cost 100000.00 Development Cost 0.00 1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Virudhunagar Registration Diatrict, Coonoor Sarpathivagam, Pattakulam Sallipatti Village, Punchai S.No. 310/2B4. Total Area 908 sqft Built Up Area Whether Inherited N Purchase Date 2009-12-22 Purchase Cost 14760.00 Development Cost 0.00 45,000 45 Thou+ Virudhunagar Registration Diatrict, Coonoor Sarpathivagam, Pattakulam Sallipatti Village, Punchai S.No. 310/2B4. Total Area 940.6 sqft Built Up Area Whether Inherited N Purchase Date 2009-12-22 Purchase Cost 15293.00 Development Cost 0.00 50,000 50 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Sivagiri Taluk, Viswanathapperi Part 1 Village, S.No.6. 1257/21A Car House. Total Area 950 sqft Built Up Area 800 sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 55,00,000 55 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Jewel Loan, SBI Bank, Sivagiri Gold Loan A/C. 7,10,000 7 Lacs+ Jewel Loan, SBI Bank, Sivagiri Gold Loan A/C. 6,55,000 6 Lacs+",
+      "spouse": "Car Loan, Bank of Baroda, Rajapalayam Loan A/C, 3,19,965 3 Lacs+ Housing Loan, SBI Bank, Sivagiri Loan A/C. 6,00,000 6 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Personal Loan, ICICI Bank, Bangalore Loan A/C. 14,05,541 14 Lacs+",
+      "dependent2": "Personal Loan, HDFC Bank, Rajapalayam Loan A/C. 19,66,876 19 Lacs+",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 3,01,380 | 2023 - 2024: Rs 3,01,510 | 2022 - 2023: Rs 2,51,480"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 5,81,160 | 2023 - 2024: Rs 6,20,220 | 2022 - 2023: Rs 4,99,520"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 11,16,490 | 2023 - 2024: Rs 4,94,910 | 2022 - 2023: Rs 9,00,110 | 2021 - 2022: Rs 4,99,860"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 9,60,220 | 2023 - 2024: Rs 6,14,700 | 2022 - 2023: Rs 8,22,620"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "{'fir_no': '476/2025', 'police_station': 'சிவகிரி காவல் நிலையம் / Sivagiri Police Station', 'sections': 'Sections 189(2), 285, 292 of BNS Act', 'description': 'தன்னிச்சையாக சட்ட விரோத கும்பலாக ஒன்றுகூடி சாலையில் வாகனங்களை நிறுத்தி வைத்து போக்குவரத்திற்கு இடையூறும், பொது மக்கள் அமைதிக்கு பங்கமும் செய்யும் வண்ணம் மக்களுக்கு பொதுத் தொல்லை செய்து கோசம் எழுப்பி ஆர்ப்பாட்டம் செய்தது. / Arbitrarily gathering as an unlawful assembly, stopping vehicles on the road, obstructing traffic, disturbing public peace, causing public nuisance by shouting slogans and protesting.', 'status': 'குற்றச்சாட்டுகள் பதியப்படவில்லை, உயர்நீதிமன்றத்தால் ரத்து செய்யப்பட்டது. / Charges not framed, quashed by High Court.'}",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,60,33,814 ~1 Crore+",
+    "Liabilities:": "Rs 56,57,382 ~56 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "384.0g gold declared at ₹4,224,000 (Implied rate: ₹11,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹13,313,849) does not match declared total assets (₹16,033,814). Difference: ₹2,719,965"
+    }
+  ]
+}

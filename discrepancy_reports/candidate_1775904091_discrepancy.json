@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904091",
+    "candidate_name": "M.P. Giri",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "Independent",
+    "constituency": "062. Chengam (SC) Assembly Constituency",
+    "pan": "ALQPG1661E",
+    "phone": "9487557999",
+    "email": "mpgirichengam@gmail.com",
+    "address": "K. No. 251 Perumpakkam Village, Pandithapattu Post, Chengam Taluk, Tiruvannamalai District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "H.Sc. (12th standard pass)",
+    "profession": "Agriculture and other business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 99533567.0,
+    "total_liabilities_xls": 66596238.0,
+    "net_worth_xls": 32937329.0,
+    "cash_xls": 87023.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

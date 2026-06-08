@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921370",
+    "candidate_name": "H. Mohamed Kaifeer",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "Independent",
+    "constituency": "98, Erode East Assembly Constituency",
+    "pan": "AMFPM1021N",
+    "phone": "NIL",
+    "email": "kybeerraff@gmail.com",
+    "address": "Door No.43, Venkatasamy Street, Seenian Thottam, Erode-638001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Std, E.K.M. Madarasa Islamic High School, Erode 1990-91",
+    "profession": "Not specified"
+  },
+  "financial_summary": {
+    "total_assets_xls": 200500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 200500.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

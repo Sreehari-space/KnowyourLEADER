@@ -1,0 +1,447 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906872",
+    "candidate_name": "Mo. Anand",
+    "candidate_name_json": "ANANDH M",
+    "age": "39",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "171-Kumbakonam Assembly Constituency",
+    "pan": "AKQPA9729G",
+    "phone": "9790668113",
+    "email": "makkalthondananandh@gmail.com",
+    "address": "2, Kalaignar Karunanidhi Nagar, Ullur, Kumbakonam Taluk, Thanjavur District - 612 001",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.A., B.L., Dr. Ambedkar Government Law College, Chennai, 2011",
+    "profession": "Advocate, Kumbakonam"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7927758.0,
+    "total_liabilities_xls": 6543230.0,
+    "net_worth_xls": 1384528.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "40,000 40 Thou+",
+        "spouse": "30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Canara Bank Kumbakonam Main Brl 10,000 10 Thou+",
+        "spouse": "SBI Savings Bank Kodavasal Br. 3,500 3 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC 2,00,000 2 Lacs+ Exide Life Insurance 1,50,000 1 Lacs+ Shri Ram Life Ins. Co. Ltd. 29,356 29 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Bajaj Pulsur 150 Vechile No.TN68W0123 50,000 50 Thou+ Suzuki Acsess 125 Vechile No.68AK0609 75,000 75 Thou+ Toyato Urban Cruicer Vechile No.TN68AH0786 10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "30gm Gold 30,00,000 30 Lacs+ Silver 250gm 36,250 36 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Kalaignar Karunanidhi Nagar 133/2A2 Total Area 2732Sqft Built Up Area Whether Inherited N Purchase Date 2029-06-29 Purchase Cost 355160.00 Development Cost 1500000.00 30,00,000 30 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Jewel Loan (Canara Bank) 3,44,652 3 Lacs+ Jewel Loan (Canara Bank) 3,25,275 3 Lacs+ Jewel Loan (Canara Bank) 2,75,232 2 Lacs+ Jewel Loan (Canara Bank) 3,70,593 3 Lacs+ Jewel Loan (Canara Bank) 3,76,593 3 Lacs+ Jewel Loan (Canara Bank) 2,50,885 2 Lacs+",
+      "spouse": "LIC Housing Loan 23,00,000 23 Lacs+ LIC 23,00,000 23 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 7,01,780 | 2024 - 2025: Rs 6,97,420 | 2023 - 2024: Rs 5,10,580"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 5,01,256"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (7 case(s))",
+    "case_numbers_xls": "790/2024, கிழக்கு காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம், L 126(2), 189(2) – BNS, Status: NFT; 204/2024, கிழக்கு காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம், 171(H) - IPC 4(1) – TNOPPD ACT, Status: Pending in STC 697/2025 Kumbakonam Criminal Magistrate Court (taken on 01.06.2024); 1877/2021, கிழக்கு காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம், 143, 269, 270 IPC, Status: Referred; 1811/2021, கிழக்கு காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம், 143,269, 270 IPC, Status: Referred; 1419/2020, கிழக்கு காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம், 143, 188, 269, 270 IPC, Status: Referred; 267/2019, கிழக்கு காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம், 153A(1) a, 506(1) IPC, Status: NFT; 296/2017, தாலுக்கா காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம், 4A (1a)-TNOPPD ACT, Status: Referred",
+    "criminal_cases_json": {
+      "count": "7",
+      "summary": "Number of Criminal Cases:7",
+      "ipc_charges": [
+        "1 charges related to Illegal payments in connection with an election (IPC Section-171H)",
+        "3 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "3 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "3 charges related to Malignant act likely to spread infection of disease dangerous to life (IPC Section-270)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "790/2024, East PS Kumbakonam, Thanjavur District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "NFT, Date 01.06.2024",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "204/2024, East PS Kumbakonam, Thanjavur District",
+          "case_no": "STC 697/2024",
+          "court": "Kumbakonam Criminal Arbitration Court",
+          "law_type": "IPC",
+          "ipc_sections": "171H",
+          "other_details": "Section 4(1), TNOPPD Act",
+          "charges_framed": "Yes",
+          "charges_date": "01 Jun 2024",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "1877/2021, East PS Kumbakonam, Thanjavur District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 270",
+          "other_details": "Referred",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "1811/2021, East PS Kumbakonam, Thanjavur District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 270",
+          "other_details": "Referred",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "1419/2020, East PS Kumbakonam, Thanjavur",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 269, 270",
+          "other_details": "Reffered",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "267/2019, East PS Kumbakonam, Thanjavur",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "153A(1)a, 506(1)",
+          "other_details": "NFT",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "296/2017, Taluk Police Station Kumbakonam, Thanjavur",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 4A(1a)-TNOPPD, Reffered",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 76,24,106 ~76 Lacs+",
+    "Liabilities:": "Rs 65,43,230 ~65 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2029 for ₹355,160 (CII Indexed Cost: ₹355,160) is declared at highly inflated value of ₹3,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "280.0g gold declared at ₹3,000,000 (Implied rate: ₹10,714/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹6,333,500) does not match declared total assets (₹7,624,106). Difference: ₹1,290,606"
+    }
+  ]
+}

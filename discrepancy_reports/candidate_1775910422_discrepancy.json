@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910422",
+    "candidate_name": "A. Gnanasekaran",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Tamizhaga Vazhvurimai Katchi",
+    "constituency": "029 - Sriperumbudur, Tamil Nadu",
+    "pan": "CHGPG9398Q",
+    "phone": "8072075474",
+    "email": "gnanathamizhan30@gmail.com",
+    "address": "186, Otthavadai Street, Sivanthangal, Chikkirayapuram, Kanchipuram District, Tamil Nadu-600069",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A.(Economics), Presidency College, Madaras University, April 2012; L.L.B., SBRTM, Yogi Vamana University, Kadappa, Andrapradesh, July 2023",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2231047.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2231047.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

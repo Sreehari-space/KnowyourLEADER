@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906782",
+    "candidate_name": "Shri. Dr. R. LAKSHMANAN",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "74, VILLUPURAM ASSEMBLY CONSTITUENCY, TAMILNADU STATE",
+    "pan": "ACBPL9696A",
+    "phone": "9894522133",
+    "email": "drluxmen@gmail.com",
+    "address": "37-A, PANAMPET ROAD, VILLUPURAM - 605602 TAMILNADU STATE.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.B.B.S., D.Ortho - Annamalai University (Year - 2004)",
+    "profession": "Doctor. Ex-MP (2014-2020). MLA (2021-2026)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 220587271.0,
+    "total_liabilities_xls": 40138043.0,
+    "net_worth_xls": 180449228.0,
+    "cash_xls": 624000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "STC 796/2024; Crl.MP. No:18802/2025 in Crl.OP No: 27688/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

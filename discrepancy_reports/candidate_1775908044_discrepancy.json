@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908044",
+    "candidate_name": "Mr. C. Thangaraju",
+    "candidate_name_json": null,
+    "age": "58",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "110, Kunnoor Assembly Constituency, Tamil Nadu",
+    "pan": "ACRPT4861H",
+    "phone": "9843032672",
+    "email": "thangarajuadvocate@gmail.com",
+    "address": "H.No. 14A, Barani Nagar, Mohanur Road, Namakkal Town, Namakkal District- 637001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1983-1985- XII- Nirmala Higher Secondary School-Kolathur Mettur Taluk, Salem. 1985-1988 - B.Sc (Physics) - St. Joseph College, Trichy. 1988-1991 - B.L - Chennai Law College, Chennai.",
+    "profession": "Trustee (Namakkal JC Bhawan Trust)."
+  },
+  "financial_summary": {
+    "total_assets_xls": 281912720.06,
+    "total_liabilities_xls": 216652236.0,
+    "net_worth_xls": 65260484.06,
+    "cash_xls": 75000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

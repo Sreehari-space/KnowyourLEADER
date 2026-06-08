@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913885",
+    "candidate_name": "Mohamed Siddiq Muha",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Veerathiyagi Viswanatha Das Thozhilalargal Katchi",
+    "constituency": "75-Vikravandi",
+    "pan": "APVPM8661H",
+    "phone": "9486506660",
+    "email": "ஏதுமில்லை / none",
+    "address": "Door No. 11, Kudusayabu Street, Sakkarapuram, Senji Taluk, Villupuram District 604 202",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard - Al Hilal Matriculation School, Senji - 1999, DECE - P.V. Polytechnic, Tindivanam - 2026",
+    "profession": "Individual Insurance Agent"
+  },
+  "financial_summary": {
+    "total_assets_xls": 600000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 600000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

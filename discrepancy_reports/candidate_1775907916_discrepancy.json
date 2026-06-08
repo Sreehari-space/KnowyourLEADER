@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907916",
+    "candidate_name": "K.P. Munusamy",
+    "candidate_name_json": null,
+    "age": "75",
+    "party": "A.I.A.D.M.K.",
+    "constituency": "54, Veppanahalli",
+    "pan": "BSAMPM5011Q",
+    "phone": "NIL",
+    "email": "munusamvkp63@gmail.com",
+    "address": "Door No 1, Jinnah Street, Kaveripattinam 635112, Krishnagiri District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., B.L. (Law Degree from Law College, Chennai, University of Madras, 1974-77)",
+    "profession": "Advocate, Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 192093059.0,
+    "total_liabilities_xls": 9307626.0,
+    "net_worth_xls": 182785433.0,
+    "cash_xls": 792907.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

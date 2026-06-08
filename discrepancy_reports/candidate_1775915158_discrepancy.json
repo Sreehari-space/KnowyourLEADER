@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915158",
+    "candidate_name": "S. Azhagu Murugan",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "Independent",
+    "constituency": "202 Rajapalayam Assembly Constituency, Tamil Nadu",
+    "pan": "MXXPS8113A",
+    "phone": "9843190680",
+    "email": "ஏதுமில்லை / none",
+    "address": "House No. 1, Sevalpatti North Street, Rajapalayam - 626 117, Virudhunagar District.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Grade - Vanikavaishiyar Higher Secondary School, Year of completion 2006",
+    "profession": "Driver (Wage earner)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 388000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 388000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910818",
+    "candidate_name": "க.சிந்து",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "கீழ்வைத்தியணான்குப்பம்",
+    "pan": "NXRPS9912Q",
+    "phone": "9500781746",
+    "email": "sachaisindu88@gmail.com",
+    "address": "166, சிவன் கோவில் தெரு, லத்தேரி கிராமம், லத்தேரி அஞ்சல், கே.வி குப்பம், வேலூர் - 632 202",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Std Sahaya Matha Matriculation School, 2004; 12th Std Sahaya Matha Matriculation School, 2006; B.Ed (English) Annamalai University, 2013; M.A (English) Annamalai University, 2015",
+    "profession": "சிந்து இசை மற்றும் நடன அகாடமி, லத்தேரி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1152773.0,
+    "total_liabilities_xls": 700000.0,
+    "net_worth_xls": 452773.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

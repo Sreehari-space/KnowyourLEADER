@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904095",
+    "candidate_name": "P. Krishnasamy",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "Bahujan Samaj Party",
+    "constituency": "118-Coimbatore North",
+    "pan": "HBDPK0540N",
+    "phone": "9600667538",
+    "email": "NIL",
+    "address": "21 E, R.V.L. Colony West, Opposite Rajalakshmi Mills, Coimbatore South, Coimbatore-641005",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "6th Standard, Rajalakshmi Mills High School, Singanallur, Coimbatore-1977",
+    "profession": "Turner"
+  },
+  "financial_summary": {
+    "total_assets_xls": 464500.0,
+    "total_liabilities_xls": 249000.0,
+    "net_worth_xls": 215500.0,
+    "cash_xls": 49000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

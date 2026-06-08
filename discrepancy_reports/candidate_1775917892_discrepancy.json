@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917892",
+    "candidate_name": "S. Prem",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent",
+    "constituency": "163. Nagapattinam, Tamil Nadu",
+    "pan": "BQHPP6007L",
+    "phone": "7338796286",
+    "email": "premselayan81@gmail.com",
+    "address": "Door No. 1-174, Aatrangarai Street, Keezhapudhanur, Thiruchenkattangudi Post, Nagapattinam Taluk, Nagapattinam District, Pincode 609 704",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard - Private 1999",
+    "profession": "Individual Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 529309.35,
+    "total_liabilities_xls": 144255.0,
+    "net_worth_xls": 385054.35,
+    "cash_xls": 55000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

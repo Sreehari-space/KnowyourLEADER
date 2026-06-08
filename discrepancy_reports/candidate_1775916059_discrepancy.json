@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916059",
+    "candidate_name": "திரு. M.பாரத்",
+    "candidate_name_json": null,
+    "age": "39",
+    "party": "சுயேட்சை",
+    "constituency": "046, குடியாத்தம் (தனி), தமிழ்நாடு",
+    "pan": "BBIPB2889L",
+    "phone": "9551062848",
+    "email": "mbharathpbt@gmail.com",
+    "address": "13, பாகரூசேன் வீதி-3, பேர்ணாம்பட்டு, பேர்ணாம்பட்டு தாலுக்கா, வேலூர் மாவட்டம், தமிழ்நாடு மாநிலம் - 635 810",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Ed., ஆசிரியர் கல்வித்துறை, வேலூர் 2009",
+    "profession": "தனி நபர் சிறு தொழில் வியாபாரம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3206179.0,
+    "total_liabilities_xls": 1486000.0,
+    "net_worth_xls": 1720179.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

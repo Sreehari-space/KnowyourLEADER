@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918688",
+    "candidate_name": "P. Chennakesavan",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent",
+    "constituency": "208. Tiruchuli Assembly Constituency, Tamil Nadu",
+    "pan": "DNFPC4397M",
+    "phone": "9994754718",
+    "email": "NIL",
+    "address": "1, Vikramathithan Street, Mallankinar, Virudhunagar District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7th Standard, MNMSPSN Higher Secondary School, Mallankinar (1995-96)",
+    "profession": "Painter"
+  },
+  "financial_summary": {
+    "total_assets_xls": 218962.0,
+    "total_liabilities_xls": 6723.0,
+    "net_worth_xls": 212239.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

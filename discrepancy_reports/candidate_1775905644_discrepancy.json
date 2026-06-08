@@ -1,0 +1,365 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905644",
+    "candidate_name": "A. Shanmugam",
+    "candidate_name_json": "SHANMUGAM. A",
+    "age": "62",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "061, Harur (SC) Assembly Constituency, Tamil Nadu state",
+    "pan": "FLUPS7362M",
+    "phone": "94439066306",
+    "email": "shanmugamraj9164@gmail.com",
+    "address": "தருமபுரி மாவட்டம், அரூர் வட்டம், பொய்யப்பட்டி அஞ்சல் மற்றும் கிராமம், அரிசனதெரு, கதவு எண்.3/1009 / Dharmapuri district, Harur taluk, Poyyapatti post and village, Arisanatheru, House No. 3/1009",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Nachiappa Cooperative College - Salem)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9001046.0,
+    "total_liabilities_xls": 700000.0,
+    "net_worth_xls": 8301046.0,
+    "cash_xls": 125000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,25,000 1 Lacs+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "1,25,000 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Overseas Bank Harur Branch SB A/c 50,000 50 Thou+ Bharat State Bank Harur Branch SB A/c 40,950 40 Thou+ Tamil Nadu Mercantile Bank Harur SB A/c 1,523 1 Thou+ Canara Bank Thirthamalai Branch SB A/c 10,079 10 Thou+ Dharmapuri District Central Cooperative Bank Harur SB A/c 4,537 4 Thou+ Indian Bank Harur Branch SB A/c 62,855 62 Thou+",
+        "spouse": "Indian Overseas Bank Harur Branch SB A/c 50,000 50 Thou+ Tamil Nadu Mercantile Bank Harur SB A/c 890 8 Hund+ Dharmapuri District Central Cooperative Thirthamalai Branch 1,366 1 Thou+ Canara Bank Thirthamalai Branch SB A/c 8,846 8 Thou+",
+        "huf": "Nil",
+        "dependent1": "Canara Bank Thirthamalai Branch SB A/c 16,243 16 Thou+ Dharmapuri District Central Cooperative Thirthamalai Branch SB A/c 486 4 Hund+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TN 29 AY 6005 Hero Glamour 2007 Model 25,000 25 Thou+ TN 29 BX 9686 Hero Scooty 2017 Model 20,000 20 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "TN 29 DX 68 23 Bajaj Pulsar Bike 2025 Model 1,60,000 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "80 Gram of Gold 8,00,000 8 Lacs+",
+        "spouse": "200 Gram of Gold 20,00,000 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "120 Gram of Gold 12,00,000 12 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Item No 01 Poiyapatti Village Survey No 10/1 Area: 1.80 Acres Total Area 1.80 Acres Built Up Area Whether Inherited N Purchase Date 2021-02-02 Purchase Cost 1000000.00 Development Cost 0.00 15,00,000 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Item No 1 Poyipat Village S.No 10/2c Area: 1.62 Acre Total Area 1.62 Acre Built Up Area Whether Inherited N Purchase Date 2021-02-02 Purchase Cost 356000.00 Development Cost 0.00 7,12,000 7 Lacs+ Item No 02: Poyipatti Village Survey No: 12/1B2 Area: 1.28 Acre Total Area 1.28 Acre Built Up Area Whether Inherited N Purchase Date 2021-06-14 Purchase Cost 280000.00 Development Cost 0.00 4,60,000 4 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Item.01 Pochampally Kannadalli Village S.No 45/2A Area: 1578.75 Sq Ft Total Area 1578 Sq Ft Built Up Area Whether Inherited N Purchase Date 2015-07-23 Purchase Cost 189450.00 Development Cost 0.00 4,00,000 4 Lacs+ Item 02: Pochampally Kannandaalli S.No 45/2A Area 2267 Sq Ft Total Area 2267 Sq Ft Built Up Area Whether Inherited N Purchase Date 2015-07-23 Purchase Cost 272040.00 Development Cost 0.00 4,25,000 4 Lacs+ Item 03: Pochampally Kannandaalli S.No 45/2A1A1A1A1B Area: 0.10 Cent Total Area 0.10 Cent Built Up Area Whether Inherited N Purchase Date 2024-05-30 Purchase Cost 1090000.00 Development Cost 0.00 22,00,000 22 Lacs+",
+        "spouse": "Item 01: Poyapatti Village S.No: 128/3A Area: 1035 Sq Ft Total Area 1035 Sq Ft Built Up Area Whether Inherited N Purchase Date 2008-10-23 Purchase Cost 25000.00 Development Cost 0.00 1,50,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Item 01.Poiyapatti Natham Village Survey No: 192/43 Area 1937 Sq Ft Total Area 1937 Sq Ft Built Up Area 1450 Sq Ft Whether Inherited N Purchase Date 2019-10-24 Purchase Cost 85000.00 Development Cost 0.00 17,00,000 17 Lacs+",
+        "spouse": "Item 01.Poiyapatti Natham Village 73/1B Area: 1868 Sq Ft Total Area 1868 Sq Ft Built Up Area 1700 Sq Ft Whether Inherited N Purchase Date 2014-04-10 Purchase Cost 28000.00 Development Cost 0.00 40,00,000 40 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Canara Bank Thirthamalai Branch Jewellry Loan 7,00,000 7 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,86,582 | 2023 - 2024: Rs 4,78,083 | 2022 - 2023: Rs 0 | 2021 - 2022: Rs 0 | 2020 - 2021: Rs 0"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,63,49,775 ~1 Crore+",
+    "Liabilities:": "Rs 7,00,000 ~7 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹12,413,243, but 5-year family income is only ₹964,665. Unexplained wealth discrepancy of ₹11,448,578."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2019 for ₹85,000 (CII Indexed Cost: ₹110,588) is declared at highly inflated value of ₹1,700,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2014 for ₹28,000 (CII Indexed Cost: ₹43,867) is declared at highly inflated value of ₹4,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "400.0g gold declared at ₹2,800,000 (Implied rate: ₹7,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹2,213,243 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹13,113,243) does not match declared total assets (₹16,349,775). Difference: ₹3,236,532"
+    }
+  ]
+}

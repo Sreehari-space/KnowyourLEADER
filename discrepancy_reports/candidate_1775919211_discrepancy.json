@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919211",
+    "candidate_name": "English Translation: R. கார்மேகம்)",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "English Translation: சுயேட்சை)",
+    "constituency": "English Translation: 132 திண்டுக்கல்)",
+    "pan": "OKZPKOAAOM",
+    "phone": "9843262020",
+    "email": "NIL",
+    "address": "Dindigul District, Dindigul, Thamaraipadi Village, Thamaraipadi, Naveen Nagar, Door No. 142/31-1 (Tamil Text / English Translation: திண்டுக்கல் மாவட்டம், திண்டுக்கல், தாமரைப்பாடி கிராமம், தாமரைப்பாடி, நவீன்நகர், கதவு எண் 142/31-1)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "English Translation: Diploma in Textile Technology, 1990-1993)",
+    "profession": "English Translation: தனிநபர் வணிகம் (medical shop))"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6647000.0,
+    "total_liabilities_xls": 2750000.0,
+    "net_worth_xls": 3897000.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

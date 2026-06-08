@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914284",
+    "candidate_name": "Su. Vel Murugan",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Puthiya Tamizhagam",
+    "constituency": "Aruppukkottai (207), Tamil Nadu",
+    "pan": "ALJPV63642",
+    "phone": "9787974198",
+    "email": "இல்லை / none",
+    "address": "49 Kalingapatti, Sinduvampatti, Sattur T.K, Virudhunagar District - 626203",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "6th Std to 10th Std, Deva Shakajam Annathaiammal High School, Kottaigur Chinmaya Peram, 1990",
+    "profession": "Not specified"
+  },
+  "financial_summary": {
+    "total_assets_xls": 74500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 74500.0,
+    "cash_xls": 3000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

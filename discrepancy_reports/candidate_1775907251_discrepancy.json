@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907251",
+    "candidate_name": "புவனா மணியரசன்",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "நாம் தமிழர் கட்சி",
+    "constituency": "177-பேராவூரணி சட்டமன்றத் தொகுதி",
+    "pan": "IZVPM0837D",
+    "phone": "8838174236",
+    "email": "bhuvanajayasivam007@gmail.com",
+    "address": "245, கரிகாலன் தெரு, பொக்கன்விடுதி தெற்கு, திருச்சிற்றம்பலம் அஞ்சல், பட்டுக்கோட்டை வட்டம், தஞ்சாவூர் மாவட்டம், பின் - 614 628",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "இளநிலை பொறியியல் (கணினி அறிவியல்), MNSK பொறியியல் கல்லூரி, புதுக்கோட்டை, 2014",
+    "profession": "இல்லத்தரசி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5515060.0,
+    "total_liabilities_xls": 275000.0,
+    "net_worth_xls": 5240060.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

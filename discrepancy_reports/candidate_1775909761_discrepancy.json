@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909761",
+    "candidate_name": "S. Selvam",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "32 Chengalpattu Tamil Nadu",
+    "pan": "LCYPS8932A",
+    "phone": "8883022666",
+    "email": "selvamchengai@gmail.com",
+    "address": "2, Netaji Nagar, Venbakkam Village & Post, Chengalpattu Taluk, Chengalpattu District-603111",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Eswar Reddy Law College, Venkateswara University, Anjimeedu, Tirupati, Andhra Pradesh",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4406947.0,
+    "total_liabilities_xls": 3290000.0,
+    "net_worth_xls": 1116947.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 1400/2012, CrNo.1400/2012, IPC 147, 148, 307, 353, IPC 3(1) PPD ACT 1984, கொலை முயர்ச்சி / Attempted murder, குற்றச்சாட்டுகள் பதியப்பட்டுள்ளது ஆம், 2012 / Charges framed Yes, 2012",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

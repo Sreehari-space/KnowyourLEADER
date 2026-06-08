@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904985",
+    "candidate_name": "கிருத்திகா தங்கப்பாண்டி",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "திராவிட முன்னேற்றக் கழகம்",
+    "constituency": "195-திருப்பரங்குன்றம் சட்டமன்றத் தொகுதி",
+    "pan": "DDGPK0297B",
+    "phone": "9677744597",
+    "email": "kiruthiga.dmk@gmail.com",
+    "address": "பிளாட் எண்.19, அஷ்டலட்சுமி நகர், தனக்கன்குளம், மதுரை-625006",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "இளங்கலை பொறியியல் பட்டப்படிப்பு, இராஜா பொறியியல் கல்லூரி, வீரபாஞ்சான், மதுரை மாவட்டம். 2007-2011",
+    "profession": "தனியார் நிறுவன பணியாளர் மற்றும் இயக்குநர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 145435576.77,
+    "total_liabilities_xls": 63601526.0,
+    "net_worth_xls": 81834050.76999998,
+    "cash_xls": 125000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "Crime No. 436/2021, Thirunagar Police Station, Madurai, U/s.342, 352, 384 and 506/1 IPC, Offence: Detention and criminal intimidation / குற்ற எண்.436/2021, திருநகர் காவல் நிலையம், மதுரை, இந்திய தண்டனைச் சட்டம் 342, 352, 384 மற்றும் 506/1 பிரிவுகள், குற்றம்: தடுத்து நிறுத்தி கொலை மிரட்டல் விடுத்ததாக; Crime No. 437/2021, Thirunagar Police Station, Madurai, U/s.342, 352, 384 and 506/1 IPC, Offence: Detention and criminal intimidation / குற்ற எண்.437/2021, திருநகர் காவல் நிலையம், மதுரை, இந்திய தண்டனைச் சட்டம் 342, 352, 384 மற்றும் 506/1 பிரிவுகள், குற்றம்: தடுத்து நிறுத்தி கொலை மிரட்டல் விடுத்ததாக; Crime No. 52/2022, City Police Station, Salem, U/s.66, 66(b) and 66(c) IT Act, Offence: Illegal access and use of computer records / குற்ற எண்.52/2022, நகர் காவல் நிலையம், சேலம், தகவல் தொழில்நுட்பச் சட்டம் 66, 66(b) மற்றும் 66(c) பிரிவுகள், குற்றம்: கணினியின் பதிவுகளை முறைகேடாக பெறுதல், பயன்படுத்துதல்",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

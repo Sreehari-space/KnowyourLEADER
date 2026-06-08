@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911318",
+    "candidate_name": "திரு. D. திருநாவுக்கரசர்",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "தமிழக வாழ்வுரிமைக் கட்சி",
+    "constituency": "எண் 16, எழும்பூர் (தனி) சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "AUUPT5992L",
+    "phone": "8144888819",
+    "email": "thiru.contacts@gmail.com",
+    "address": "51, வ.உ.சி தெரு, காமராஜர் நகர், பெருங்களத்தூர், சென்னை 600083",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10-ம் வகுப்பு, GMPTTV மேல்நிலைப்பள்ளி, சென்னை மாவட்டம், 2000",
+    "profession": "ஓட்டுநர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1032404.8,
+    "total_liabilities_xls": 510000.0,
+    "net_worth_xls": 522404.8,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

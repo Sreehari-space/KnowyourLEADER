@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915341",
+    "candidate_name": "Karthikeyan Nedunchezhiyan",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Independent",
+    "constituency": "183, Aranthangi, Tamil Nadu",
+    "pan": "CPXPK3153C",
+    "phone": "9787436736",
+    "email": "karthiksurya84@gmail.com",
+    "address": "5, Rajaji Nagar, Kalappakadu, Aranthangi Town & Taluk, Pudukkottai District, Tamil Nadu-614 616",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BSC (Bio-Chemistry), Bharathidasan University (April 1998); MBA (Finance), Alagappa University (May 2022)",
+    "profession": "Individual self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3234801.63,
+    "total_liabilities_xls": 93032.0,
+    "net_worth_xls": 3141769.63,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

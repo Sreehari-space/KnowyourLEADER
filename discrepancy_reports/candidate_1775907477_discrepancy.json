@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907477",
+    "candidate_name": "R.V.Bharathan",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "144 - Mannachanallur, Tamil Nadu",
+    "pan": "AGBPB3080C",
+    "phone": "9842457957",
+    "email": "swasthika.bbb@gmail.com",
+    "address": "15, North Pillaiyar Koil Street, Varaganeri, Tiruchirappalli-620008",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "H.S.C. National School, Trichy (1998); B.L. Govt. Law College, Trichy (2005)",
+    "profession": "Advocate, Agriculture and Social Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2116579693.0,
+    "total_liabilities_xls": 20782135.0,
+    "net_worth_xls": 2095797558.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

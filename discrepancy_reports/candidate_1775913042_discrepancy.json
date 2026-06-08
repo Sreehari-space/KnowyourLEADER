@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913042",
+    "candidate_name": "Nelson Vilma",
+    "candidate_name_json": null,
+    "age": "62",
+    "party": "Tamilaga Makkal Nala Katchi",
+    "constituency": "Sulur Assembly Constituency (116)",
+    "pan": "BLDPN7031H",
+    "phone": "9597681771",
+    "email": "இல்லை / none",
+    "address": "35A, Dharmaraja Kovil Street, Irugur, Sulur (TK), Coimbatore (DT)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Up to 6th Standard, Nanjappa Boys Higher Secondary School, Tiruppur",
+    "profession": "Laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 0.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 0.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

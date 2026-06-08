@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906978",
+    "candidate_name": "J. Ramesh",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "Bahujan Samaj Party",
+    "constituency": "40-Katpadi",
+    "pan": "FQYPR5647M",
+    "phone": "9361455495",
+    "email": "ramesh1972bdx@gmail.com",
+    "address": "56, Ambedkar Street, Virudampattu, Katpadi Taluk, Vellore District - 632006",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C., Thirumuruga Kirubanandha Vaariyar Govt. Hr.Sec.School, Kangeyanallur, (1989)",
+    "profession": "Individual daily wage worker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1219374.52,
+    "total_liabilities_xls": 768000.0,
+    "net_worth_xls": 451374.52,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

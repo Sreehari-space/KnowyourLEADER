@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917547",
+    "candidate_name": "M.V. Karthy",
+    "candidate_name_json": null,
+    "age": "34",
+    "party": "Independent",
+    "constituency": "98, Erode East Assembly Constituency",
+    "pan": "DNCPK6798B",
+    "phone": "8667250469",
+    "email": "karthymv@gmail.com",
+    "address": "Door No. 31, Perumal Kovil Street, Erode-638001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., Paavai College of Technology, Anna University, Chennai (2020); M.B.A, Allagappa University, Karaikudi (2025)",
+    "profession": "Private Job"
+  },
+  "financial_summary": {
+    "total_assets_xls": 98000.0,
+    "total_liabilities_xls": 1568000.0,
+    "net_worth_xls": 1470000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

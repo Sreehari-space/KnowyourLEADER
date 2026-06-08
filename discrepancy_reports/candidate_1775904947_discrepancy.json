@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904947",
+    "candidate_name": "K. Radhakrishnan",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "125, Udumalpet Assembly Constituency, Tamil Nadu",
+    "pan": "AIOPR5245G",
+    "phone": "9524777501",
+    "email": "tiruppurruralaiadmk@gmail.com",
+    "address": "15A, Dharapuram Road, Udumalpet - 642 126",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Commerce (B.Com), N.G.M College, Pollachi, Bharathiar University, 1987",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 36369612.95,
+    "total_liabilities_xls": 10000000.0,
+    "net_worth_xls": 26369612.95,
+    "cash_xls": 95000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "302/2022; 715/2021; 549/2017",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

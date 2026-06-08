@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909903",
+    "candidate_name": "Aarumugam",
+    "candidate_name_json": null,
+    "age": "62",
+    "party": "Indian Ganasanagam Party",
+    "constituency": "112 Avinashi (SC) Assembly Constituency",
+    "pan": "CXLPA8991G",
+    "phone": "9597475579",
+    "email": "ஏதுமில்லை / nil",
+    "address": "திருப்பூர் மாவட்டம், திருப்பூர் வட்டம், மங்கலம், சுல்தான்பேட்டை, ஏ.டி.காலனி, கதவு எண்.5/355 / Tiruppur District, Tiruppur Taluk, Mangalam, Sultanpettai, A.D. Colony, Door No. 5/355",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "No educational qualification",
+    "profession": "Building work (Sub-contractor)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2331110.0,
+    "total_liabilities_xls": 600000.0,
+    "net_worth_xls": 1731110.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

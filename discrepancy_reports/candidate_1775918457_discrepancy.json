@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918457",
+    "candidate_name": "ரா.பரமசிவம்",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "சுயேட்சை",
+    "constituency": "87, சங்ககிரி, தமிழ்நாடு",
+    "pan": "GGGPP1066M",
+    "phone": "6381317957",
+    "email": "sivamsivam364@gmail.com",
+    "address": "270, பூசாரியூர்காட்டுவளவு, தப்பக்குட்டை அஞ்சல், தப்பக் குட்டை கிராமம், சங்ககிரி வட்டம், சேலம் மாவட்டம், அஞ்சல் குறியீட்டு எண்- 637502",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7ம் வகுப்பு தேர்ச்சி, அரசினர் நடுநிலைப்பள்ளி, தப்பக்குட்டை 1999",
+    "profession": "ஓட்டுநர் (தனியார்)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 268004.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 268004.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

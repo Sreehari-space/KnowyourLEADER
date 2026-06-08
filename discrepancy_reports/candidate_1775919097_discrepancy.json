@@ -1,0 +1,365 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919097",
+    "candidate_name": "Thiru. Ra. Balamurugan",
+    "candidate_name_json": "BALAMURUGAN.K",
+    "age": "41",
+    "party": "Independent",
+    "constituency": "190-Sholavandan Assembly Constituency",
+    "pan": "ஏதுமில்லை/NOTAVAILABLE",
+    "phone": "9786413235",
+    "email": "ஏதுமில்லை / not available",
+    "address": "81, T. Mettupatti, Tethur Vadipatti Taluk, Madurai District - 625 503.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "12th Standard",
+    "profession": "Agriculture, Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2858000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2858000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,00,000 1 Lacs+",
+        "spouse": "25,000 25 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "State Bank of India (SBI), Nehruji Nagar Branch-Savings A/C as of date-02-04-2026 6,75,285 6 Lacs+ State Bank of India (SBI), Nehruji Nagar Branch Overdraft A/C -Limit of 13000000 as of date-02-04-2026 11,05,078 11 Lacs+ State Bank of India (SBI), Nehruji Nagar Branch-Current A/C as of date-02-04-2026 6,95,283 6 Lacs+ HDFC Bank, Varadarajan complex branch-Current A/C as of date-02-04-2026 2,81,794 2 Lacs+ Indian Overseas Bank, Seelapadi branch-urrent A/C as of date-02-04-2026 1,96,323 1 Lacs+ ICICI Bank, Samayanallur branch-Savings A/C as of date-02-04-2026 1,92,490 1 Lacs+ ICICI Bank, Samayanallur branch-Current A/C as of date-02-04-2026 12,71,112 12 Lacs+ Indian Overseas Bank, Paravai Branch-Savings A/C as of date-02-04-2026 1,72,532 1 Lacs+ Indian Overseas Bank, Mela Avani Moola Veethi branch-Savings A/C as of date-02-04-2026 6,000 6 Thou+",
+        "spouse": "ICICI Bank, Samayanallur branch, Savings A/c as of date-02-04-2026 67,169 67 Thou+ Indian Bank, Kalapatti branch, Savings A/C as of date-02-04-2026 1,23,854 1 Lacs+ Indian Bank, P.P.Kulam branch, Savings A/C as of date-02-04-2026 3,46,481 3 Lacs+ State Bank of India, Nehruji Nagar branch, Savings A/C as of date-02-04-2026 2,86,854 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "ICICI Bank, Samayanallur branch, Savings A/c as of date-02-04-2026 18,718 18 Thou+ Indian Overseas Bank, Paravai branch, Savings A/C as of date-02-04-2026 1,095 1 Thou+",
+        "dependent2": "Indian Overseas Bank, Paravai Branch-Savings A/c as of date-02-04-2026 4,292 4 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Total annual premium amount paid to LIC insurance company 1,98,229 1 Lacs+",
+        "spouse": "Total annual premium amount paid to LIC insurance company 9,704 9 Thou+",
+        "huf": "Nil",
+        "dependent1": "Total annual premium amount paid to LIC insurance company 24,821 24 Thou+",
+        "dependent2": "Total annual premium amount paid to LIC insurance company 24,694 24 Thou+",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Car-Toyota Innova Crysta TN59BR3456, Year-2018 21,00,000 21 Lacs+ Car Toyota Fortuner TN 59 DR 3456, Year-2025 50,00,000 50 Lacs+ Bike Honda Activa TN 59 CL 8709, Year-2022 95,000 95 Thou+",
+        "spouse": "Car Kia Seltos TN 59 CK 5679, Year-2021 24,00,000 24 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Silver Items 5,00,000 5 Lacs+ Gold-400 grams 55,80,000 55 Lacs+",
+        "spouse": "Silver items 10,00,000 10 Lacs+ Gold-600 grams 83,70,000 83 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,31,31,121 1 Crore+",
+        "spouse": "Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 15,00,000 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Survey No-139/1, Kudipatti Village, Peraiyur Taluk, Madurai District Total Area 47088 sqft Built Up Area Whether Inherited N Purchase Date 2012-01-18 Purchase Cost 10800.00 Development Cost 0.00 5,05,000 5 Lacs+ Kumbarasampettai Village,Trichy district, Survey No- 86/6 Total Area 5014 sqft Built Up Area Whether Inherited N Purchase Date 2008-05-28 Purchase Cost 80500.00 Development Cost 0.00 1,00,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Samayanallur Village, Survey No-47/4B3 Total Area 4146-1/2 sqft Built Up Area Whether Inherited N Purchase Date 2012-07-09 Purchase Cost 1425000.00 Development Cost 0.00 2,00,00,000 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Vilangudi Bit Village, Madurai District, Survey No-197/5 Total Area 1692 sqft Built Up Area 2950 sqft Whether Inherited N Purchase Date 2001-08-03 Purchase Cost 410000.00 Development Cost 0.00 60,00,000 60 Lacs+ Samayanallur Village, Survey No-47/4B4 Total Area 4336 sqft Built Up Area Whether Inherited N Purchase Date 2025-08-25 Purchase Cost 1650000.00 Development Cost 0.00 2,25,00,000 2 Crore+ Vilangudi Village, Survey No-197/7 Total Area 3294 sqft Built Up Area Whether Inherited N Purchase Date 2013-01-20 Purchase Cost 1548180.00 Development Cost 0.00 50,00,000 50 Lacs+ Vilangudi Village- Survey no-197/5 Total Area 2392 sqft Built Up Area Whether Inherited N Purchase Date 2021-07-09 Purchase Cost 1022000.00 Development Cost 0.00 35,00,000 35 Lacs+ Kayiramedu Village, Survey No- 354/9A Total Area 604 sqft Built Up Area Whether Inherited N Purchase Date 2022-08-26 Purchase Cost 6000000.00 Development Cost 0.00 90,00,000 90 Lacs+ Seevalsaragu Village, Survey No-368/4A1A1 Total Area 1188 sqft Built Up Area Whether Inherited N Purchase Date 2025-03-25 Purchase Cost 197000.00 Development Cost 0.00 2,25,000 2 Lacs+ Seevalsaragu Village, Surevy No-368/4A1A1 Total Area 1182 3/4 sqft Built Up Area Whether Inherited N Purchase Date 2025-03-25 Purchase Cost 197000.00 Development Cost 0.00 2,25,000 2 Lacs+ Kaniyur Village, Survey No-518/7, 518/9, 519/123 Total Area 3470 sqft Built Up Area Whether Inherited N Purchase Date 2008-09-10 Purchase Cost 156400.00 Development Cost 0.00 6,00,000 6 Lacs+ Sathirarettiyapatti Village, Virudhunagar district, Survey No- 291/2B Total Area 4307 Sqft Built Up Area Whether Inherited N Purchase Date 2020-10-27 Purchase Cost 434241.00 Development Cost 0.00 6,00,000 6 Lacs+",
+        "spouse": "Kalapatti Village, Coimbatore, Survey No-795/1 Total Area 1372 sqft Built Up Area 500 sqft Whether Inherited N Purchase Date 2009-02-19 Purchase Cost 1500000.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "5,00,00,000 5 Crore+",
+      "spouse": "24,00,000 24 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 58,02,920 | 2024 - 2025: Rs 62,50,400 | 2023 - 2024: Rs 54,35,120 | 2022 - 2023: Rs 46,85,910 | 2021 - 2022: Rs 45,12,740"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 23,64,577 | 2024 - 2025: Rs 23,62,600 | 2023 - 2024: Rs 19,45,590 | 2022 - 2023: Rs 17,28,821 | 2021 - 2022: Rs 13,36,288"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 10,95,39,282 ~10 Crore+",
+    "Liabilities:": "Rs 5,24,00,000 ~5 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2012 for ₹10,800 (CII Indexed Cost: ₹20,304) is declared at highly inflated value of ₹505,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Commercial Buildings purchased in 2012 for ₹1,425,000 (CII Indexed Cost: ₹2,679,000) is declared at highly inflated value of ₹20,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2001 for ₹410,000 (CII Indexed Cost: ₹1,541,600) is declared at highly inflated value of ₹6,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1000.0g gold declared at ₹1,500,000 (Implied rate: ₹1,500/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹50,284,033) does not match declared total assets (₹109,539,282). Difference: ₹59,255,249"
+    }
+  ]
+}

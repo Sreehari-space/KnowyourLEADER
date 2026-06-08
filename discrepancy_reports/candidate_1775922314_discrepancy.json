@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922314",
+    "candidate_name": "N. Mani",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "Independent",
+    "constituency": "Sholinghur (039)",
+    "pan": "AWJPM5224B",
+    "phone": "9443491414",
+    "email": "nrajamani31@gmail.com",
+    "address": "1 Arakkonam Road, Sholinghur-631102, Ranipet District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Grade, Government Boys Higher Secondary School, Sholinghur (1993)",
+    "profession": "Individual wood business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1070000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1070000.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

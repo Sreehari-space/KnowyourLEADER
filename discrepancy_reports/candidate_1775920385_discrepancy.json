@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920385",
+    "candidate_name": "Venkatesh V",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Independent",
+    "constituency": "205- Sivakasi Assembly Constituency",
+    "pan": "AXYPV8965A",
+    "phone": "9566406711",
+    "email": "venkatpre092@gmail.com",
+    "address": "K. No. 20, Muniyandi Nadar Sandhu, Thiruthangal, Sivakasi Taluk, Virudhunagar District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC - THIRUTHANGAL LIONS MATRIC HR.SEC.SCHOOL-2008, HSC - THIRUTHANGAL LIONS MATRIC HR.SEC.SCHOOL - 2010, DEGREE- B.E (MECHANICAL ENGINEERING), MEPCO SCHELENK ENGINEERING COLLEGE, ANNA UNIVERSITY- 2014",
+    "profession": "குறிப்பிடப்படவில்லை"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1677877.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1677877.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

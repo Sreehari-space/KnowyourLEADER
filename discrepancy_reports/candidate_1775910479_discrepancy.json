@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910479",
+    "candidate_name": "S.P. Shanmugam (alias) P. Shanmugam",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "All India Democratic Security Party",
+    "constituency": "042-Aarkadu Assembly Constituency, Tamil Nadu",
+    "pan": "BDQPS3964M",
+    "phone": "9442212560",
+    "email": "elayaguru1256@gmail.com",
+    "address": "No.62, Brahmin Street, Nallur Village, Kalavai Taluk, Ranipet District- 632506",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Com., Vellore Muthurangam Govt. Arts College, Vellore (Madras University-1987-1991)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6803839.51,
+    "total_liabilities_xls": 207000.0,
+    "net_worth_xls": 6596839.51,
+    "cash_xls": 75000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

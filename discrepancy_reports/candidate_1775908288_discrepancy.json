@@ -1,0 +1,381 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908288",
+    "candidate_name": "A. Kallanai",
+    "candidate_name_json": "A.KALLANAI",
+    "age": "41",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "189 Madurai (East) Assembly Constituency",
+    "pan": "BBVPK9291G",
+    "phone": "9865580567",
+    "email": "vijayanban567@gmail.com",
+    "address": "No.2-38, Odaipatti Ward 2, Thindiyur, Karuppayurani, Madurai-625020",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Com(CA) - Bachelor's degree in Commerce (Computer Applications), Saurashtra College, Madurai, Madurai Kamaraj University - April 2005",
+    "profession": "Consultant"
+  },
+  "financial_summary": {
+    "total_assets_xls": 21275926.19,
+    "total_liabilities_xls": 11862949.0,
+    "net_worth_xls": 9412977.189999998,
+    "cash_xls": 130000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,30,000 1 Lacs+",
+        "spouse": "80,000 80 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indusind Bank K.K Nagar Branch 53,456 53 Thou+ HDFC Bank Branch 1,16,500 1 Lacs+ Punjab Nation Bank K.K Nagar 2,000 2 Thou+",
+        "spouse": "City Union Bank Thindiyur Branch 50,010 50 Thou+ SBI Veerapanjan Branch 30,000 30 Thou+ Indian Bank Thiruppuvanam Branch 20,060 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "HDFC Mutual Fund 50,000 50 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "HDFC Life Insurance 2,75,448 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "TN59DK0567 Thar Roxx Atm 20,78,450 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "40gm Gold 5,40,000 5 Lacs+",
+        "spouse": "200 gm Gold 27,00,000 27 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Madurai Karuppayurani Sy No. 64 Total Area 483 sqft Built Up Area Whether Inherited N Purchase Date 2020-03-06 Purchase Cost 36225.00 Development Cost 0.00 1,50,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "URD No.61 Karuppayurani Villege 13950 sqft Total Area 250 sqft Built Up Area Whether Inherited N Purchase Date 2023-07-10 Purchase Cost 1046750.00 Development Cost 0.00 50,00,000 50 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Adhikudi Village Sy No. 278/12 Total Area 7739 sqft Built Up Area Ground Floor 1353.29 First Floor 1353.29 sqft Whether Inherited N Purchase Date 2022-09-16 Purchase Cost 7500000.00 Development Cost 0.00 1,00,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "HDFC Credit Card 2,24,449 2 Lacs+ AXIS Bank 34,717 34 Thou+ YES Bank 25,754 25 Thou+ LIC Housing Loan 79,20,394 79 Lacs+ HERO Fincorp Loan 23,052 23 Thou+ SBI Credit Card 2,12,438 2 Lacs+ Induiand Credit Card 90,478 90 Thou+ HDFC Bank Housing Loan 6,78,171 6 Lacs+ HDFC Bank Housing Loan 22,944 22 Thou+ RBL Credit Card 1,11,861 1 Lacs+",
+      "spouse": "Kalanjiyam Womens 42,500 42 Thou+ Kreditbee Online Loan 15,000 15 Thou+ City Union Bank 1,67,778 1 Lacs+ Shriram Finance Car Loan 22,93,413 22 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 16,48,897 | 2023 - 2024: Rs 18,63,114 | 2022 - 2023: Rs 19,85,893 | 2021 - 2022: Rs 12,86,881 | 2020 - 2021: Rs 10,35,134"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "FIR NO - 265/2025 (U/S 189,(3), 126(2), 292 THE BHARATIYA NYAYA SANHITA (BNS), 2023); FIR NO - 1449/2020 (U/S 151, 269, 109 (IPC) இந்திய தண்டனை சட்டம் / Indian Penal Code)",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "1 charges related to Joining or continuing in an unlawful assembly, knowing that it has been commanded to disperse. (BNS Section-189(3))",
+        "1 charges related to Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse (IPC Section-151)",
+        "1 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "265/2025 Madurai City v2 Avaniapuram Poilce Station",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Court-VI, Kanam",
+          "law_type": "BNS",
+          "ipc_sections": "189(3), 126(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "1449/2020 C2. Subramaniapuram Police Station, Madurai City.",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Court-IV, Kanam",
+          "law_type": "IPC",
+          "ipc_sections": "151, 269, 109",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,12,75,925 ~2 Crore+",
+    "Liabilities:": "Rs 1,18,62,949 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹20,840,415, but 5-year family income is only ₹7,819,919. Unexplained wealth discrepancy of ₹13,020,496."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2020 for ₹36,225 (CII Indexed Cost: ₹45,251) is declared at highly inflated value of ₹150,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Commercial Buildings purchased in 2023 for ₹1,046,750 (CII Indexed Cost: ₹1,130,971) is declared at highly inflated value of ₹5,000,000."
+    }
+  ]
+}

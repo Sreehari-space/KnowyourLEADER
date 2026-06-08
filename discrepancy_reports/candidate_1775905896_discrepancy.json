@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905896",
+    "candidate_name": "Dr. Sailas Jeyabalan",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Bahujan Samaj Party",
+    "constituency": "08- Ambattur Assembly Constituency",
+    "pan": "EYXPS1999K",
+    "phone": "9841198084",
+    "email": "srqm16@gmail.com",
+    "address": "No. 298, MTH Road, Kamarajapuram, Ambattur, Chennai 600 053",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "L.L.B.Ananda Law College, year 2016-2019",
+    "profession": "Advocate (Self); BSNL Worker (Spouse)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1867900.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1867900.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

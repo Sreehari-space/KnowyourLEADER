@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916668",
+    "candidate_name": "Mr. K. Sellam",
+    "candidate_name_json": null,
+    "age": "71",
+    "party": "Independent",
+    "constituency": "130, Nilakottai, Tamil Nadu",
+    "pan": "AUSPC7353E",
+    "phone": "8110099529",
+    "email": "sm0865986@gmail.com",
+    "address": "1-16-38, Gandhi Nagar, Vathalagundu, Nilakottai, Dindigul District - 624202",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Not educated",
+    "profession": "Laundry worker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1565000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1565000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908283",
+    "candidate_name": "Paas Maatheswaran",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "90 Salem South",
+    "pan": "DSBPB7015N",
+    "phone": "9514757757",
+    "email": "basssusha@gmail.com",
+    "address": "4, Malankadu, Soolaimedu, Perumal Patham, Uttamacholapuram, Salem District-636010",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5th Standard, Thathagapatti Gate, 1985",
+    "profession": "Finance and Real Estate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2066200.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2066200.0,
+    "cash_xls": 600000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (8 case(s))",
+    "case_numbers_xls": "SC 80/2024 ASJ-1, Salem; SC 401/2024 ASJ-1, Salem; SC 188/2024 ADJ, Salem; 31/2024 Court No.3 Salem; 32/2024 Court No.3, Salem; SC 258/2021 ASJ-1, Salem; SC 2064/2020 Police station; SC 172/2023 Police Station",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

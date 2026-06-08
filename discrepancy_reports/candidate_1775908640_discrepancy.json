@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908640",
+    "candidate_name": "சிவகாமி",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "TAMILAR MAKKAL KATCHI",
+    "constituency": "57 - PALACODU LEGISLATIVE ASSEMBLY CONSTITUENCY, TAMIL NADU",
+    "pan": "JCMPS2728Q",
+    "phone": "9489803324",
+    "email": "NIL",
+    "address": "DOOR NO. 1-216, NARIYANAHALLI (R.V), THUMABALAHALLI VILLAGE, GENDIGANAHALLI POST, KARIMANGALAM TALUK, DHARMAPURI DISTRICT, TAMILNADU - 635205",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th - Standard (1996-1997) GOVERNMNET HIGHER SECONDARY SCHOOL, KARIMANGALAM",
+    "profession": "FARMER"
+  },
+  "financial_summary": {
+    "total_assets_xls": 57427.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 57427.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

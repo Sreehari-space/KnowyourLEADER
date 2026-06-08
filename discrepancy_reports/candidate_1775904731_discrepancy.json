@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904731",
+    "candidate_name": "N.S. Karunairaja",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "Dravida Munnetra Kazhagam (DMK)",
+    "constituency": "145 Musiri Assembly Constituency",
+    "pan": "AJGPK8638R",
+    "phone": "9443146571",
+    "email": "karunainiki@gmail.com",
+    "address": "No. 13C, Northeast Extension, Thillai Nagar, Tiruchirappalli - 620018, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Tech., Kuvempu University, Jnana Sahyadri, Shimoga District, Karnataka State, 1997",
+    "profession": "Not explicitly declared, but income reported in IT returns."
+  },
+  "financial_summary": {
+    "total_assets_xls": 34560720.41,
+    "total_liabilities_xls": 6067173.86,
+    "net_worth_xls": 28493546.55,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

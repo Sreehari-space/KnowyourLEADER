@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905039",
+    "candidate_name": "J. Imalan",
+    "candidate_name_json": null,
+    "age": "73",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "Gudiyatham Assembly Constituency",
+    "pan": "AAIPE4752F",
+    "phone": "9789775141",
+    "email": "NIL",
+    "address": "133, Avvai Nagar, Seruvangi, Gudiyatham Taluk, Vellore District - 632602",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "11TH (OLD SSLC) Govt Nellorepet Higher Secondary School Gudiyatham (1971-1972), PUC Government Thirumagal Arts College Gudiyatham (1977-1978), B.LIT. Madras University, M.A. Madras University (1988), M.A. Distance Education Madras University (1993), B.Ed. Distance Education Annamalai University (1989)",
+    "profession": "Retired Headmaster"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8697220.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 8697220.0,
+    "cash_xls": 31458.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

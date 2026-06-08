@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775925141",
+    "candidate_name": "K. Hakkim",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Independent",
+    "constituency": "137 Kulithalai Assembly Constituency Tamil Nadu State",
+    "pan": "AKXPH8417R",
+    "phone": "9688758238",
+    "email": "hakkimkamurudeen@gmail.com",
+    "address": "Door No. 63, Vaisiyal Street, Kulithalai Town, Kulithalai Taluk, Karur District-639104.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Com., -2007-2010- Jammal Mohamed College Trichy B.L.,-2010-2013-Govt. Law College Trichy",
+    "profession": "Individual Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 597000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 597000.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

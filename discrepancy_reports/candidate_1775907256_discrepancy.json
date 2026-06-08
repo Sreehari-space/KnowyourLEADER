@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907256",
+    "candidate_name": "R. Suresh Kumar",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "We Tamils Party",
+    "constituency": "88 Salem West Assembly Constituency, Tamil Nadu",
+    "pan": "EHWPS1234M",
+    "phone": "9600455443",
+    "email": "salemwestsuresh@gmail.com",
+    "address": "C-10, ADC Nagar, Alagapuram Pudur, Perland, Salem Corporation, Salem West Taluk, Salem District, Tamil Nadu-636 016",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Master of Engineering - Biomedical Engineering, Vinayaka Mission's Research Foundation, Salem, Tamil Nadu, completed in 2024",
+    "profession": "Generic Optical"
+  },
+  "financial_summary": {
+    "total_assets_xls": 11087296.0,
+    "total_liabilities_xls": 2632390.33,
+    "net_worth_xls": 8454905.67,
+    "cash_xls": 324000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924135",
+    "candidate_name": "R. காந்திமதி",
+    "candidate_name_json": null,
+    "age": "27",
+    "party": "INDEPENDENT",
+    "constituency": "11 DR. RADHAKRISHNAN NAGAR, TAMIL NADU",
+    "pan": "BLEPT3213J",
+    "phone": "6382928821",
+    "email": "tamilselvanravi02@gmail.com",
+    "address": "No: 1595, Voc Nagar, new Housing colony, Tondirapet, Chennai- 600 081.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bcom., S.C.P.Jain College in Minjur.",
+    "profession": "Salary"
+  },
+  "financial_summary": {
+    "total_assets_xls": 493190.33,
+    "total_liabilities_xls": 579000.0,
+    "net_worth_xls": 85809.66999999998,
+    "cash_xls": 3000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

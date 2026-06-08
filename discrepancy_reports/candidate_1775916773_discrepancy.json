@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916773",
+    "candidate_name": "English Translation: காமராஜ்)",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "English Translation: சுயேட்சை)",
+    "constituency": "English Translation: 167 மன்னார்குடி சட்டமன்ற தொகுதி)",
+    "pan": "NIL(TAMILTEXT/ENGLISHTRANSLATION:ஏதுமில்லை)",
+    "phone": "9047872319",
+    "email": "akamaraj376@gmail.com",
+    "address": "English Translation: 851 - தெற்கு தெரு, தர்காசு, கோவில்வெண்ணி, நீடாமங்கலம் தாலுக்கா, திருவாரூர் மாவட்டம் பின் - 614 403)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C. - Ukkadai Appavu Thevar Hr.Sec. School, Ammapettai - 1983 Tamil Nadu State Board.",
+    "profession": "English Translation: விவசாயம்)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2163000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2163000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

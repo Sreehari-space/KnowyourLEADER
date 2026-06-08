@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921379",
+    "candidate_name": "C. Prasad",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "Independent",
+    "constituency": "Thyagaraya Nagar",
+    "pan": "BNRPP0902M",
+    "phone": "8148879894",
+    "email": "prasathdesinghu@gmail.com",
+    "address": "76, Gowriamman Kovil Street, Injambakkam, Chennai - 600 115",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, St. Joseph's Higher Secondary School",
+    "profession": "profession"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2000000.0,
+    "total_liabilities_xls": 250000.0,
+    "net_worth_xls": 1750000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

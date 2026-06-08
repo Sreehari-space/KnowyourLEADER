@@ -1,0 +1,390 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907265",
+    "candidate_name": "M. Raju",
+    "candidate_name_json": "A. RAMU",
+    "age": "NIL",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "110 - Coonoor, Tamil Nadu",
+    "pan": "ADCPR9680C",
+    "phone": "9442368411",
+    "email": "kmraju1965nilgiris@gmail.com",
+    "address": "Door No. 446, Kottanalli, Nedugula, Kotagiri, Nilgiris District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "12th Standard Government Higher Secondary School, Kotagiri, year of passing 1983-1984",
+    "profession": "Agriculture and Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 29162044.0,
+    "total_liabilities_xls": 4817000.0,
+    "net_worth_xls": 24345044.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "2,50,000 2 Lacs+",
+        "spouse": "1,50,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "75,000 75 Thou+",
+        "dependent2": "75,000 75 Thou+",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Canara Bank Aravenu 25,916 25 Thou+ SBI Kotagiri 28,146 28 Thou+",
+        "spouse": "Canara Bank Aravenu 10,74,661 10 Lacs+ SBI Bank Kotagiri 18,093 18 Thou+",
+        "huf": "Nil",
+        "dependent1": "Canara Bank Aravenu 5,00,050 5 Lacs+ SBI Kotagiri, 22 BOB Bank 978 9 Hund+",
+        "dependent2": "Canara Bank Aravenu 4,10,363 4 Lacs+ Canara Bank Kotagiri 11 State Bank ofIndia-Kotagiri 116 1 Hund+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Investment in Business Gottacombai Tea Industries 2,35,53,371 2 Crore+ Navilkal Estate Tea Factory 78,40,984 78 Lacs+ Deepik? Enterprises 20,44,468 20 Lacs+ Hosatty Tea Factory 1,15,39,047 1 Crore+ Deepika Finance 1,21,567 1 Lacs+ Share held Porangadu Madhuve Manae Ltd 3,63,650 3 Lacs+ Nalasu Nilgiris Ltd 10,000 10 Thou+ Sylvanhill Plantations 31,300 31 Thou+ Dhodda Dheevigae Educational Institution 1,00,000 1 Lacs+",
+        "spouse": "Investment in Business Gottacombai Tea Industries 1,02,42,235 1 Crore+ Share held Porangadu Madhuve Manae Ltd 45,350 45 Thou+",
+        "huf": "Nil",
+        "dependent1": "Share held Porangadu Madhuve Manae Ltd 45,300 45 Thou+",
+        "dependent2": "Share held Porangadu Madhuve Manae Ltd 45,300 45 Thou+",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "SBI Life Sum Assured 24,78,000 24 Lacs+ Canara HSBC OBC Sum Assured 10,00,000 10 Lacs+ Aviva Life Insurance Sum Assured 98,17,500 98 Lacs+ Bajaj Allianz Life Insurance Sum Assured 1,21,654 1 Lacs+",
+        "spouse": "Max New York Sum Assured 4,50,000 4 Lacs+ Canara HSBC OBC Sum Assured 14,00,000 14 Lacs+ SBI Life Smart Privilege Sum Assured 42,00,000 42 Lacs+ LIC Jeevan Shanti Sum Assured 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "LIC New Jeevan Shanti Sum Assured 2,00,000 2 Lacs+ LIC Jeevan Labh Sum Assured 5,00,000 5 Lacs+ LIC Jeevan Labh Sum Assured 10,00,000 10 Lacs+ Canara HSBC Sum Assured 5,50,000 5 Lacs+ Bajaj Allianz Life Insurance Sum Assured 3,09,208 3 Lacs+",
+        "dependent2": "LIC Money back Children Insurance Sum Assured 50,000 50 Thou+ LIC Jeevan Shikhar Sum Assured 4,07,600 4 Lacs+ Canara HSBC Sum Assured 5,50,000 5 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Dhodda Dheevigae Educational Institution 2,50,00,000 2 Crore+",
+        "spouse": "Dhodda Dheevigae Educational Institution 50,00,000 50 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Dhodda Dheevigae Educational Institution 25,00,000 25 Lacs+",
+        "dependent2": "Dhodda Dheevigae Educational Institution 25,00,000 25 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Mahindra Pickup TN43B8268-2007 1,70,000 1 Lacs+ Toyota Innova TN43C9181-2010 10,00,000 10 Lacs+ EICHER TN43A0902-1999 5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "SKODA KUSHAQ TN43P9181-2021 17,63,700 17 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "250gm Gold 24,00,000 24 Lacs+",
+        "spouse": "500 gm Gold 48,00,000 48 Lacs+",
+        "huf": "Nil",
+        "dependent1": "133 gm Gold 12,77,000 12 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Kotagiri 49 Total Area 0.30 Built Up Area Whether Inherited N Purchase Date 2000-05-31 Purchase Cost 54260.00 Development Cost 0.00 17,00,000 17 Lacs+ Kotagiri 1668/1A Total Area 0.45 Built Up Area Whether Inherited N Purchase Date 1998-10-07 Purchase Cost 82073.00 Development Cost 0.00 40,00,000 40 Lacs+ Kotagiri 46 Total Area 0.14 Built Up Area Whether Inherited N Purchase Date 1997-07-07 Purchase Cost 23750.00 Development Cost 0.00 9,50,000 9 Lacs+ Kotagiri 1427/1B&1427/3 Total Area 0.58 1/2 Built Up Area Whether Inherited N Purchase Date 1996-04-08 Purchase Cost 74068.00 Development Cost 0.00 33,75,000 33 Lacs+ Kotagiri 1427/1B & 1427/2 Total Area 2.10 Built Up Area Whether Inherited N Purchase Date 1996-02-02 Purchase Cost 232120.00 Development Cost 0.00 21,25,000 21 Lacs+ Kotagiri 1276 Total Area 0.17 Built Up Area Whether Inherited N Purchase Date 1995-08-24 Purchase Cost 23195.00 Development Cost 0.00 10,15,000 10 Lacs+ Kotagiri 1264/8 Total Area 0.19 1/2 Built Up Area Whether Inherited N Purchase Date 1995-05-05 Purchase Cost 26600.00 Development Cost 0.00 15,00,000 15 Lacs+ Kotagiri 142/8 Total Area 0.13 3/4 Built Up Area Whether Inherited N Purchase Date 1999-02-12 Purchase Cost 24330.00 Development Cost 0.00 8,75,000 8 Lacs+ Kotagiri 129/8 Total Area 0.16 Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 246000.00 Development Cost 0.00 15,00,000 15 Lacs+ Kotagiri 1670 Total Area 0.76 Built Up Area Whether Inherited N Purchase Date 1997-10-13 Purchase Cost 129200.00 Development Cost 0.00 67,00,000 67 Lacs+ Kotagiri 1539/12 Total Area 2.00 Built Up Area Whether Inherited N Purchase Date 1996-08-21 Purchase Cost 244000.00 Development Cost 0.00 11,00,000 11 Lacs+ Jackanarai 1828/7 Total Area 0.37 Built Up Area Whether Inherited N Purchase Date 2011-11-16 Purchase Cost 879420.00 Development Cost 0.00 21,00,000 21 Lacs+ Jackanarai 77/3 Total Area 1.00 Built Up Area Whether Inherited N Purchase Date 2013-07-24 Purchase Cost 648140.00 Development Cost 0.00 8,00,000 8 Lacs+ Konavakorai 400/4 New 329/5A Total Area 0.25 Built Up Area Whether Inherited N Purchase Date 2010-03-19 Purchase Cost 392240.00 Development Cost 0.00 17,00,000 17 Lacs+ Naduhatty 614/2, 616/2 Total Area 0.40 Built Up Area Whether Inherited N Purchase Date 2000-01-19 Purchase Cost 24000.00 Development Cost 0.00 35,00,000 35 Lacs+ Naduhatty 616 New 893/12 Total Area 0.27 Built Up Area Whether Inherited N Purchase Date 1998-12-29 Purchase Cost 22302.00 Development Cost 0.00 25,50,000 25 Lacs+ Naduhatty 608/3, 609/1 Total Area 0.36 Built Up Area Whether Inherited N Purchase Date 2001-08-16 Purchase Cost 36617.00 Development Cost 0.00 25,00,000 25 Lacs+ Naduhatty 891/1, 891/5 Total Area 0.49 Built Up Area Whether Inherited N Purchase Date 2010-06-10 Purchase Cost 107610.00 Development Cost 0.00 27,50,000 27 Lacs+ Naduhatty 618 Total Area 0.71 Built Up Area Whether Inherited N Purchase Date 0200-06-30 Purchase Cost 64087.00 Development Cost 0.00 49,50,000 49 Lacs+ Naduhatty 708/1 Total Area 0.35 Built Up Area Whether Inherited N Purchase Date 2002-04-12 Purchase Cost 39590.00 Development Cost 0.00 23,50,000 23 Lacs+ Naduhatty 612 Total Area 1.10 Built Up Area Whether Inherited N Purchase Date 2001-03-29 Purchase Cost 128134.00 Development Cost 0.00 67,50,000 67 Lacs+ Naduhatty 607/1, 606/2B , 608/3C, 626/1, 930/1 Total Area 0.88 Built Up Area Whether Inherited N Purchase Date 2005-03-04 Purchase Cost 225870.00 Development Cost 0.00 55,00,000 55 Lacs+ Naduhatty 626/1, 626/2, 607/1, 607/2, 608/3C , 612/1, 612/2, 813/1, to 14 Total Area 1.81 Built Up Area Whether Inherited N Purchase Date 1999-06-03 Purchase Cost 185699.00 Development Cost 0.00 1,01,00,000 1 Crore+ Naduhatty 609 new 878 Total Area 0.20 Built Up Area Whether Inherited N Purchase Date 2002-05-30 Purchase Cost 24570.00 Development Cost 0.00 14,00,000 14 Lacs+ Naduhatty 614/ new 893/18 Total Area 0.21 1/2 Built Up Area Whether Inherited N Purchase Date 2000-03-01 Purchase Cost 18226.00 Development Cost 0.00 19,50,000 19 Lacs+ Naduhatty 616/1 new 893/10,11 Total Area 0.21 Built Up Area Whether Inherited N Purchase Date 2000-05-18 Purchase Cost 14833.00 Development Cost 0.00 17,00,000 17 Lacs+ Naduhatty 616/2 new 893/2 Total Area 0.21 Built Up Area Whether Inherited N Purchase Date 2000-02-01 Purchase Cost 17734.00 Development Cost 0.00 12,00,000 12 Lacs+ Naduhatty 616/2 new 893/9 0.21 Total Area Built Up Area Whether Inherited N Purchase Date 2000-02-11 Purchase Cost 17824.00 Development Cost 0.00 12,00,000 12 Lacs+ Naduhatty 626/1, 930/1, 919/2 Total Area 1.25 Built Up Area Whether Inherited N Purchase Date 2013-07-01 Purchase Cost 805140.00 Development Cost 0.00 70,00,000 70 Lacs+ Naduhatty 614/2, 615/1D , 616/11 Total Area 1.70 Built Up Area Whether Inherited N Purchase Date 1997-07-08 Purchase Cost 124100.00 Development Cost 0.00 20,00,000 20 Lacs+ Naduhatty 612 Total Area 1.05 Built Up Area Whether Inherited N Purchase Date 2001-07-20 Purchase Cost 118100.00 Development Cost 0.00 30,00,000 30 Lacs+ Naduhatty 919/2, 919/3 Total Area 1.25 Built Up Area Whether Inherited N Purchase Date 2013-07-01 Purchase Cost 750000.00 Development Cost 0.00 12,50,000 12 Lacs+ Naduhatty 882/3, 5, 6 Total Area 0.54 1/2 Built Up Area Whether Inherited N Purchase Date 2019-09-26 Purchase Cost 363400.00 Development Cost 0.00 6,00,000 6 Lacs+ Kotagiri 1427/3, 1B New 1794/7 Total Area 0.45 Built Up Area Whether Inherited N Purchase Date 2025-02-21 Purchase Cost 495000.00 Development Cost 0.00 13,00,000 13 Lacs+",
+        "spouse": "Kotagiri 1379/1 Total Area 0.83 3/4 Built Up Area Whether Inherited N Purchase Date 2013-08-29 Purchase Cost 406290.00 Development Cost 0.00 45,25,000 45 Lacs+ Naduhatty 878/6, 9 Total Area 0.35 Built Up Area Whether Inherited N Purchase Date 2014-11-07 Purchase Cost 500800.00 Development Cost 0.00 19,00,000 19 Lacs+ Jackanarai 2047 Total Area 174 Built Up Area Whether Inherited N Purchase Date 2018-05-11 Purchase Cost 52200.00 Development Cost 0.00 1,14,000 1 Lacs+ Jackanarai 2067/2A Total Area 0.01 Built Up Area Whether Inherited N Purchase Date 2018-12-21 Purchase Cost 58424.00 Development Cost 0.00 1,31,000 1 Lacs+ Jackanarai 1697/1 Total Area 0.03 1/4 Built Up Area Whether Inherited N Purchase Date 2021-04-15 Purchase Cost 600000.00 Development Cost 0.00 9,25,000 9 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Konnavakorai 347/3 Total Area 2.07 Built Up Area Whether Inherited N Purchase Date 2021-10-29 Purchase Cost 1387000.00 Development Cost 0.00 20,70,000 20 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Karamadai 23/3 &4 Total Area 0.25 Built Up Area Whether Inherited N Purchase Date 1998-12-18 Purchase Cost 61060.00 Development Cost 0.00 19,75,000 19 Lacs+ bKaramadai Total Area 0.13 Built Up Area Whether Inherited N Purchase Date 2010-10-25 Purchase Cost 556000.00 Development Cost 0.00 15,00,000 15 Lacs+ Konnavakarai 402/2 new 331/3 Total Area 0.04 Built Up Area Whether Inherited N Purchase Date 2008-02-27 Purchase Cost 57165.00 Development Cost 0.00 4,50,000 4 Lacs+ Karamadai 402/2 new331/4 Total Area 0.02 Built Up Area Whether Inherited N Purchase Date 2008-02-24 Purchase Cost 28605.00 Development Cost 0.00 2,50,000 2 Lacs+ Karamadai 402/2 new 331/5 Total Area 0.02 1/4 Built Up Area Whether Inherited N Purchase Date 2008-09-24 Purchase Cost 32235.00 Development Cost 0.00 3,25,000 3 Lacs+ Karamadai 4028/2A New 331/3 Total Area 0.08 Built Up Area Whether Inherited N Purchase Date 2008-09-26 Purchase Cost 114190.00 Development Cost 0.00 7,50,000 7 Lacs+ Kotagiri 12288/1 Total Area 0.02 1/4 Built Up Area Whether Inherited N Purchase Date 2013-07-01 Purchase Cost 317695.00 Development Cost 0.00 5,50,000 5 Lacs+ Kotagiri 1106/3C &3D Total Area 0. 4 1/2 Built Up Area Whether Inherited N Purchase Date 2013-03-07 Purchase Cost 1377535.00 Development Cost 0.00 19,50,000 19 Lacs+ Kotagiri 1106/3E , 1106/4 Total Area 0.11 1/2 Built Up Area Whether Inherited N Purchase Date 2009-04-15 Purchase Cost 1132615.00 Development Cost 0.00 35,90,000 35 Lacs+ Kotagiri 1684/8 & 9 Total Area 0.07 3/4 Built Up Area Whether Inherited N Purchase Date 2001-07-16 Purchase Cost 67174.00 Development Cost 0.00 5,81,250 5 Lacs+ Jackanarai 1106/3A1 Total Area 0.03 3/4 Built Up Area Whether Inherited N Purchase Date 2013-08-29 Purchase Cost 1226250.00 Development Cost 0.00 15,50,000 15 Lacs+ Jackanarai 2217/15 Total Area 300 sqft Built Up Area Whether Inherited N Purchase Date 2014-11-27 Purchase Cost 250000.00 Development Cost 0.00 4,00,000 4 Lacs+ Jackanarai 1672/5 Total Area 0.01 1/2 Built Up Area Whether Inherited N Purchase Date 2017-01-10 Purchase Cost 275000.00 Development Cost 0.00 5,50,000 5 Lacs+ Naduhatty 610/3 Total Area 0.04 Built Up Area Whether Inherited N Purchase Date 2003-03-26 Purchase Cost 96900.00 Development Cost 0.00 3,00,000 3 Lacs+ Yedappalli 119/1 new 304/6 Total Area 0.07 Built Up Area Whether Inherited N Purchase Date 2010-04-28 Purchase Cost 110320.00 Development Cost 0.00 5,25,000 5 Lacs+ Yedappalli 304/6A Total Area 0.02 1/2 Built Up Area Whether Inherited N Purchase Date 2013-11-07 Purchase Cost 118990.00 Development Cost 0.00 1,87,500 1 Lacs+",
+        "spouse": "Jackanarai 2047 Total Area 0.05 (262 sqft ) Built Up Area Whether Inherited N Purchase Date 2017-12-07 Purchase Cost 1000000.00 Development Cost 0.00 20,00,000 20 Lacs+ Jackanarai 2217/15A2 Total Area 0.05 1/2 Built Up Area Whether Inherited N Purchase Date 2020-08-27 Purchase Cost 900000.00 Development Cost 0.00 10,50,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Kotagiri 1441/2 Total Area 215 Built Up Area 215 Whether Inherited N Purchase Date 2023-11-20 Purchase Cost 139750.00 Development Cost 0.00 9,00,000 9 Lacs+ Kotagiri 1528/6 Total Area 0.01 Built Up Area 405 Whether Inherited N Purchase Date 2001-11-08 Purchase Cost 66125.00 Development Cost 0.00 9,50,000 9 Lacs+ Jackanarai 1838/20 Total Area 0.01 1/2 Built Up Area 256 Whether Inherited N Purchase Date 2008-02-14 Purchase Cost 146535.00 Development Cost 0.00 6,25,000 6 Lacs+ Jackanarai 1672/5 Total Area 0.02 Built Up Area 400 Whether Inherited N Purchase Date 2005-04-13 Purchase Cost 128720.00 Development Cost 0.00 9,00,000 9 Lacs+ Jackanarai 1835/17 Total Area 0.001/2 Built Up Area 208 Whether Inherited N Purchase Date 2009-05-25 Purchase Cost 54640.00 Development Cost 0.00 5,20,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Kettikeri Village 2097/41, 1/4th share Total Area 1612 Built Up Area 1482 Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 500000.00 20,00,000 20 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Canara Bank Aravenu Agri Gold Loan 10,15,791 10 Lacs+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 32,63,270 | 2023 - 2024: Rs 28,16,180 | 2022 - 2023: Rs 27,97,690 | 2021 - 2022: Rs 31,37,130 | 2020 - 2021: Rs 39,25,910"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 20,34,910 | 2023 - 2024: Rs 23,80,000 | 2022 - 2023: Rs 23,20,000 | 2021 - 2022: Rs 23,00,000 | 2020 - 2021: Rs 22,50,000"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Cheating and dishonestly inducing delivery of property. (BNS Section-318(4))",
+        "1 charges related to Punishment for Forgery (BNS Section-336(2))",
+        "1 charges related to Forgery for the purpose of cheating. (BNS Section-336(3))",
+        "1 charges related to Using as genuine a forged document which is known to be forged. (BNS Section-340(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "91/2025 Kotagiri Police Station Date- 13/06/2025",
+          "case_no": "C.C No. 347/2025",
+          "court": "Judicial Magistrate Court Udhagamandalam",
+          "law_type": "BNS",
+          "ipc_sections": "318(4), 336(2), 336(3), 340(2), 61(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "Yes, quash petition filed before Honble High Court of Judicature, Chennai in CRL OP No 0005020/2026 and interim stay granted by the Honble High Court of Judicature, Chennai dated 02/04/2026"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 25,60,69,344 ~25 Crore+",
+    "Liabilities:": "Rs 10,15,791 ~10 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹99,190,105, but 5-year family income is only ₹27,225,090. Unexplained wealth discrepancy of ₹71,965,015."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Agricultural Land purchased in 2013 for ₹406,290 (CII Indexed Cost: ₹694,387) is declared at highly inflated value of ₹4,525,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Commercial Buildings purchased in 2023 for ₹139,750 (CII Indexed Cost: ₹150,994) is declared at highly inflated value of ₹900,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "883.0g gold declared at ₹7,200,000 (Implied rate: ₹8,154/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹11,511,713 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹100,205,896) does not match declared total assets (₹256,069,344). Difference: ₹155,863,448"
+    }
+  ]
+}

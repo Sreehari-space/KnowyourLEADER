@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908727",
+    "candidate_name": "Rangasamy S",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Bahujan Samaj Party",
+    "constituency": "114 Tiruppur (South) Assembly Constituency",
+    "pan": "DNCPR5153P",
+    "phone": "9789660709",
+    "email": "sekar9789660709@gmail.com",
+    "address": "172 Jeeva Nagar, 15 Velampalayam, Tiruppur North Taluk, Tiruppur-641 603",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard, Panchayat Union Middle School, Sirupooluvapatti, 1999",
+    "profession": "Company profession"
+  },
+  "financial_summary": {
+    "total_assets_xls": 165500.0,
+    "total_liabilities_xls": 200000.0,
+    "net_worth_xls": 34500.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

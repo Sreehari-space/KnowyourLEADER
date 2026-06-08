@@ -1,0 +1,353 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916368",
+    "candidate_name": "M. Murali",
+    "candidate_name_json": "MURALI. M",
+    "age": "55",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "231 Kulachal, Tamil Nadu",
+    "pan": "ALIPM3558J",
+    "phone": "9444449532, 9043302711",
+    "email": "NIL",
+    "address": "Plot No. 107, Thazhampoo Street, Poombuzhil Nagar, Chennai 62",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.A. discontinued - Adithanar College, Veerapandianpattinam, Tiruchendur 1987-1988",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 50412830.0,
+    "total_liabilities_xls": 62000000.0,
+    "net_worth_xls": 11587170.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,00,000 1 Lacs+",
+        "spouse": "50,000 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Federal Bank Ltd CC A/c 0*(Value Not Given) S.B. A./c 12,000 12 Thou+ Bank of Baroda Kovilpatti Branch 2,000 2 Thou+ Kotak Mahindra Bank, Ambattur Branch S.B A/c 2,000 2 Thou+",
+        "spouse": "Federal Bank Ltd Avadi Branch 10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Selva Magan Scheme 50,000 50 Thou+",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Eicher Mini Lorry TN20 BZ 7447 Model 2008 2,50,000 2 Lacs+ TATA 407 TN20 BX 8437 Model 2009 7,16,830 7 Lacs+ Mahindra Bolero TN13 M 3715 2017 Model 6,00,000 6 Lacs+ Hero TN13M8595 2017 Model 30,000 30 Thou+ ACE - Backloader TN 18 BZ 4691 2021 Model 18,00,000 18 Lacs+",
+        "spouse": "Benz Tipper Lorry TN76 Q 9138 Model 2013 11,00,000 11 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "50 Grams of Gold 15,00,000 15 Lacs+",
+        "spouse": "900 Grams of Gold 1,17,00,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Thoothukudi SRO, Kayalpattanam Sub Division, Kandhasamypuram Vill Punjai S. No. 277/ 2 - 25 Cent, S. No. 259, 260/1 - 19 Cent Total Area Built Up Area Whether Inherited Y Purchase Date 2019-06-06 Purchase Cost 35800.00 Development Cost 0.00 1,50,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Chennai Kovilapadagai, Poompozhil Nagar, S. No. 624 Total Area 3600 Sqft Built Up Area 3000 Sqft Whether Inherited N Purchase Date 2012-10-31 Purchase Cost 4800000.00 Development Cost 0.00 1,50,00,000 1 Crore+",
+        "spouse": "Shenkottai Tk, Vallam Panchayat, Kottakulam S. No. 225/2 Total Area 215.28 Sqft Built Up Area 215.28 Sqft Whether Inherited Y Purchase Date 2018-09-20 Purchase Cost 150000.00 Development Cost 150000.00 20,00,000 20 Lacs+ Shenkottai Tk, Vallam Panchayat, Kottakulam S. No. 225/2 Total Area 781.75 Sqft Built Up Area 781.75 Sqft Whether Inherited Y Purchase Date 2018-09-20 Purchase Cost 400000.00 Development Cost 400000.00 6,00,000 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Federal Bank Avadi Branch 20,00,000 20 Lacs+ Kotak Mahindra Bank, Ambattur Branch, Gold Loan 10,00,000 10 Lacs+",
+      "spouse": "Sundaram Finance Chennai 2,00,000 2 Lacs+ Kotak Mahindra Bank, Ambattur Branch, Gold Loan 30,00,000 30 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 6,25,000 | 2024 - 2025: Rs 5,00,000 | 2023 - 2024: Rs 4,50,000 | 2022 - 2023: Rs 4,00,000 | 2021 - 2022: Rs 3,50,000"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 5,04,62,830 ~5 Crore+",
+    "Liabilities:": "Rs 62,00,000 ~62 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹44,572,000, but 5-year family income is only ₹2,325,000. Unexplained wealth discrepancy of ₹42,247,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2019 for ₹35,800 (CII Indexed Cost: ₹46,577) is declared at highly inflated value of ₹15,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2018 for ₹150,000 (CII Indexed Cost: ₹201,429) is declared at highly inflated value of ₹2,000,000."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹46,772,000) does not match declared total assets (₹50,462,830). Difference: ₹3,690,830"
+    }
+  ]
+}

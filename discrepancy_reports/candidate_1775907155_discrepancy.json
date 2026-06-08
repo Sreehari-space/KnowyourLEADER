@@ -1,0 +1,506 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907155",
+    "candidate_name": "RAMACHANDRAN",
+    "candidate_name_json": "RAMACHANDRAN. T",
+    "age": "45",
+    "party": "Indian National Congress",
+    "constituency": "Aranthangi",
+    "pan": "AJEPR2486G",
+    "phone": "9840933337",
+    "email": "chandrumiet@gmail.com",
+    "address": "Theeyathur Village, Avudaiyarkoil Taluk, Pudukkottai District -Pin:614 629",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.B.A (Bachelor of Business Administration - Integrated Supply Management), Western Michigan University, U.S.A, Course Completed - 2014",
+    "profession": "Politician & Business Man"
+  },
+  "financial_summary": {
+    "total_assets_xls": 107698899.75,
+    "total_liabilities_xls": 11935255.34,
+    "net_worth_xls": 95763644.41,
+    "cash_xls": 18700.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "30,000 30 Thou+",
+        "spouse": "20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "96,814 96 Thou+",
+        "spouse": "38,568 38 Thou+ 10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "3,15,585 3 Lacs+ 11,28,362 11 Lacs+",
+        "dependent2": "44,495 44 Thou+",
+        "dependent3": "26,103 26 Thou+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "K.V.P 2,60,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC- Joint Account 9,10,000 9 Lacs+",
+        "spouse": "LIC 4,00,000 4 Lacs+",
+        "huf": "Nil",
+        "dependent1": "LIC 18,40,000 18 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Tata Safari TN-70-E-7777, 2010 (Old Vehicle now in Scarp Stage) 2,00,000 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "534 Gms Gold 74,14,590 74 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 36,72,901 36 Lacs+",
+        "spouse": "Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 50,61,840 50 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 5,08,20,050 5 Crore+",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Denkanikottai Village Survey No. 140/1A1 Total Area 17440 Sq ft Built Up Area 2908 Sq ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 2000000.00 40,00,000 40 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Mathigiri Village, Survey No. 197/1, 198/1b Total Area 36163 Sq ft Built Up Area 2400 Sq ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 2000000.00 30,00,000 30 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 4,21,140 | 2024 - 2025: Rs 12,58,180 | 2023 - 2024: Rs 11,15,340 | 2022 - 2023: Rs 11,11,170 | 2021 - 2022: Rs 1,40,000"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "11",
+      "summary": "Number of Criminal Cases:11",
+      "ipc_charges": [
+        "6 charges related to Attempt to murder (IPC Section-307)",
+        "3 charges related to Voluntarily causing hurt by dangerous weapons or means (IPC Section-324)",
+        "3 charges related to Punishment for theft (IPC Section-379)",
+        "2 charges related to Punishment for murder (IPC Section-302)",
+        "6 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "5 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "4 charges related to Punishment for Rioting (IPC Section-147)",
+        "3 charges related to Every member of unlawful assembly guilty of offence committed in prosecution of common object (IPC Section-149)",
+        "3 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "2 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "2 charges related to Punishment of criminal conspiracy (IPC Section-120B)",
+        "1 charges related to Unlawful assembly (IPC Section-141)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr. No. 614/1995, Hosur Town P.S",
+          "case_no": "SC No. 92/2019",
+          "court": "Principle District Court, Salem . ADJ Court, Hosur, Then Transferd to Salem on 28.06.2019",
+          "law_type": "IPC",
+          "ipc_sections": "307, 302",
+          "other_details": "Under Trail",
+          "charges_framed": "Yes",
+          "charges_date": "21 Nov 2017",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Cr. No. 34/2012, Uddanapalli P.S",
+          "case_no": "SC No. 91/2021",
+          "court": "Principle District Court, Krishnagiri",
+          "law_type": "IPC",
+          "ipc_sections": "141, 148, 294B, 323, 324, 307, 109",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "84/2012, Thally P.S",
+          "case_no": "SC No. 41/2024",
+          "court": "Principle District Court, Salem, PDJ Court Krtishnagiri, then Transferred to Salem on 24.01.2024",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 149, 341, 307, 120B",
+          "other_details": "Under Trail",
+          "charges_framed": "Yes",
+          "charges_date": "20 Nov 2019",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Cr. No. 143/2012, Uddanapalli P.S",
+          "case_no": "SC No. 91/2019",
+          "court": "Principle District Court, Salem, ADJ Court, Hosur, Then Transferred to Salem on 28.06.2019",
+          "law_type": "IPC",
+          "ipc_sections": "120B 147, 148, 302, 307, 341",
+          "other_details": "Section 25(1)(b)(a) Arms Act 3 IES Act., Under Trail",
+          "charges_framed": "Yes",
+          "charges_date": "31 Oct 2017",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Cr. No. 166/2012, Uddanapalli P.S",
+          "case_no": "SC No. 124/2019",
+          "court": "Principle District Court, Krishnagiri",
+          "law_type": "IPC",
+          "ipc_sections": "379",
+          "other_details": "Section 4 TNPPDL Act. and Section 21(1)(4) MMDR Act., Section 4 TNPPDL Act and Section 21(1) MM Act 1957 and Section 4(a) Explosive Substance Act. 1908",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "Stayed by the Honorable High Court Chennai, Crl. R.C. No. 468/2025 Filed by Co Accused"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Cr. No. 249/2012, Hosur Town P.S",
+          "case_no": "PRC No.11/2020",
+          "court": "Lr. J.M.II Court, Hosur",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294B, 307, 324, 341, 506(ii), 109, 149, 294B",
+          "other_details": "Section 3(1) TNPPDL Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Cr. No. 261/2012 Denkanikottai P.S",
+          "case_no": "SC No. 126/2019",
+          "court": "Principle District Court, Krishnagiri",
+          "law_type": "IPC",
+          "ipc_sections": "379",
+          "other_details": "Section 4 TNPPDL Act and Section 21(1)(4) MMDR Act Section 4 TNPPDL Act and 21(1) MM Act 1957 and Section 4(a) Explosive substance Act 1908",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "Stayed by the Honble High Court Chennai, Crl.R.C.No. 550/2025 Filed by Co Accused"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Cr. No. 262/2012 Denkanikottai P.S.",
+          "case_no": "PRC No. 36/2021",
+          "court": "Lr.J.M. Court I, Krishnagiri",
+          "law_type": "IPC",
+          "ipc_sections": "379",
+          "other_details": "Section 4 TNPPDL Act. and Section 21(1)(4) MMDR Act. Section 4 TNPPDL Act. and Section 21(1) MM Act. 1957 and Section 4(a) Explosive Substance Act 1908",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "Stayed by the Honble High Court Chennai, Crl. O.P. No. 6299 of 2024"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "Cr. No. 879/2012 Hosur Town P.S",
+          "case_no": "PRC Stage",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294B, 307, 324, 341, 506(ii), 109, 149, 294B",
+          "other_details": "Section 3(1) TNPPDL Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "Pending Trail for Committal Pending in JM-2 Hosur, to PDJ Krishnagiri Last Hearing 02/12/20222"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "Cr No. 127/2019, Hosur Town P.S",
+          "case_no": "NTF",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341",
+          "other_details": "NTF (No Taken on File)",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "11",
+          "fir_no": "Cr. No156/2019, Berigai P.S",
+          "case_no": "NTF",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 188",
+          "other_details": "NTF (No Taken on File)",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 7,92,89,308 ~7 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹78,150,946, but 5-year family income is only ₹4,045,830. Unexplained wealth discrepancy of ₹74,105,116."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹56,046,233 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

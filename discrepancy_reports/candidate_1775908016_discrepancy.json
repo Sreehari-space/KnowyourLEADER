@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908016",
+    "candidate_name": "Dr. L. Murugan",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "Bharatiya Janata Party",
+    "constituency": "22-VIRUGAMBAKKAM TAMILNADU",
+    "pan": "AMCPM0590P",
+    "phone": "9003222892",
+    "email": "lmurugantnbjp@gmail.com",
+    "address": "2, South Asian Federation Games Village, Koyambedu, Chennai - 600107",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Degree of Doctor of Philosophy (law), University of Madras, 2019.",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 254895405.0,
+    "total_liabilities_xls": 3915343.0,
+    "net_worth_xls": 250980062.0,
+    "cash_xls": 60000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "1. FIR NO. 982/2020 POLICE STATION- HOSUR TOWN, DISTRICT-KRISHNAGIRI (TAMIL NADU) (REFERRED); 2.FIR NO. 1552/2020 POLICE STATION-PALANI, DISTRICT-DINDIGUL (TAMIL NADU) (REFERRED); 3. FIR NO. 2727/2020 POLICE STATION THIRUTANI, DISTRICT-THIRUVALLUR (TAMIL NADU) (NTF); 1.S.T.C.No. 2235/2024 Judicial Magistrate Court Avinashi(Quash petition filed before Honourable Madras High Court vide Crl.O.P.No. 8678/2026)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

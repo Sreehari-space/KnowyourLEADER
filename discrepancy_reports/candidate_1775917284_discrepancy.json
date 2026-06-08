@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917284",
+    "candidate_name": "Mahabubjohan",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "Independent",
+    "constituency": "89 Salem North Assembly Constituency",
+    "pan": "NMIPK0194Q",
+    "phone": "9092531338",
+    "email": "mahabubjohank@gmail.com",
+    "address": "157, Muthavalli Mohamed Yakoob Street, Salem-636001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard up to Salem Hindu Don Bosco Higher Secondary School - 1996",
+    "profession": "Silver business, Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3580000.0,
+    "total_liabilities_xls": 1170000.0,
+    "net_worth_xls": 2410000.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

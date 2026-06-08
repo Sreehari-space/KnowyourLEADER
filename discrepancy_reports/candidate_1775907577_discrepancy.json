@@ -1,0 +1,341 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907577",
+    "candidate_name": "Dr. K. Kathirkamu",
+    "candidate_name_json": "DR KATHIRKAMU K.",
+    "age": "68",
+    "party": "Amma Makkal Munnetra Kazhagam",
+    "constituency": "199-Periyakulam (SC) Assembly Constituency, Tamil Nadu",
+    "pan": "AGTPK3826H",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "39, Sriram Nagar, Allinagaram, Theni Town, Theni District - 625 531",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "MBBS-Madurai Kamaraj University-1985, MS-Chennai Dr. M.G.R. University-1991",
+    "profession": "Retired Government Medical College Principal and Professor and Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 35648323.2,
+    "total_liabilities_xls": 7401077.0,
+    "net_worth_xls": 28247246.2,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "2,00,000 2 Lacs+",
+        "spouse": "3,00,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Theni 2,32,116 2 Lacs+ Union Bank Of India 0",
+        "spouse": "BOB Theni 1,158 1 Thou+ Punjab National Bank 296 2 Hund+ UCO Bnak Theni 752 7 Hund+ Union Bank Of India Theni 0",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TN60AP Hyundai Cheta 12,00,000 12 Lacs+",
+        "spouse": "TN60AQ7373 Toyota Fortuner 30,00,000 30 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold 1200gm 1,20,00,000 1 Crore+ Silver 1Kg 2,50,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Seeppalakottai Village Sy No.134/3 Total Area 3Acres Built Up Area 15Cents Whether Inherited N Purchase Date 2009-08-03 Purchase Cost 138800.00 Development Cost 0.00 9,00,000 9 Lacs+ Seeppalakottai Village Sy No.213/4A Total Area 1Acres Built Up Area 12Cents Whether Inherited N Purchase Date 2007-10-21 Purchase Cost 158650.00 Development Cost 0.00 1,57,500 1 Lacs+ Seeppalakottai Village Sy No.197/6 Total Area 5Cents Built Up Area Whether Inherited N Purchase Date 2017-11-22 Purchase Cost 158650.00 Development Cost 0.00 1,57,500 1 Lacs+ Seeppalakottai Village Sy No.443/2A Total Area 2Acres Built Up Area 7Cents Whether Inherited N Purchase Date 2017-11-22 Purchase Cost 668570.00 Development Cost 0.00 10,00,000 10 Lacs+ Seeppalakottai Village Sy No.445/1 Total Area 7.5 Built Up Area Whether Inherited N Purchase Date 2017-11-22 Purchase Cost 668570.00 Development Cost 0.00 10,00,000 10 Lacs+ Seeppalakottai Village Sy No.473/2B Total Area 30.25Cents Built Up Area Whether Inherited N Purchase Date 2026-01-05 Purchase Cost 50000.00 Development Cost 0.00 1,50,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Bhutipuram Village Sy No.338.1B Total Area 1143Sqft Built Up Area Whether Inherited N Purchase Date 2006-11-16 Purchase Cost 90000.00 Development Cost 0.00 3,00,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "House Door No.23/01, Ward No.14 Sriram Nagar Theni District Total Area 2800Sqft Built Up Area 920Sqft Whether Inherited N Purchase Date 1998-11-25 Purchase Cost 0.00 Development Cost 3500000.00 50,00,000 50 Lacs+ Koyambedu Door No.2/15 SAF Games Village Total Area 2800Sqft Built Up Area 920Sqft Whether Inherited N Purchase Date 2021-07-16 Purchase Cost 0.00 Development Cost 100000.00 97,99,000 97 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "SBI Theni Car Loan 10,21,077 10 Lacs+",
+      "spouse": "Jewel Loan Bank Of Baroda 22,79,000 22 Lacs+ Jewel Loan Punjab National Bank 9,01,000 9 Lacs+ SBI PC Patti Car Loan 16,00,000 16 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 12,19,220 | 2024 - 2025: Rs 10,60,980 | 2023 - 2024: Rs 59,34,980 | 2022 - 2023: Rs 5,03,130 | 2021 - 2022: Rs 5,03,130"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 5,10,710 | 2024 - 2025: Rs 3,10,940 | 2023 - 2024: Rs 3,07,270 | 2022 - 2023: Rs 2,25,330 | 2021 - 2022: Rs 2,39,650"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,56,48,323 ~3 Crore+",
+    "Liabilities:": "Rs 58,01,077 ~58 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1200.0g gold declared at ₹12,000,000 (Implied rate: ₹10,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹23,133,274) does not match declared total assets (₹35,648,323). Difference: ₹12,515,049"
+    }
+  ]
+}

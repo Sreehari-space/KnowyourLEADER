@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912234",
+    "candidate_name": "P. Lokeswaran",
+    "candidate_name_json": null,
+    "age": "27",
+    "party": "Anti-Corruption Action Party (ACPR)",
+    "constituency": "Cheyyar, Tamil Nadu",
+    "pan": "AQAPL5728N",
+    "phone": "7868834710",
+    "email": "logeshwaran022@gmail.com",
+    "address": "No 201A, Irugilithodu, Thiruppoondi, Tiruvannamalai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma in Civil Engineering from Cheyyar Polytechnic College, 2016",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 652000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 652000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

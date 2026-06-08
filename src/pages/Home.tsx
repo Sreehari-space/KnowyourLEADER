@@ -214,8 +214,8 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
       {/* ===== HERO SECTION ===== */}
       <header className="hero-section-wrapper px-4 md:px-8 max-w-7xl mx-auto select-none pt-8 sm:pt-16 pb-4 sm:pb-10">
         {/* Hero Title */}
-        <div className="text-center">
-          <h1 className="hero-title text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-[3.5rem] leading-[1.1] m-0 p-0 select-none">
+        <div className="text-center px-2">
+          <h1 className="hero-title text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-[4rem] leading-[1.1] m-0 p-0 select-none">
             {lang === 'en' ? (
               <span className="font-serif italic font-light text-neutral-800">
                 Do you really know{" "}
@@ -398,7 +398,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
             </div>
 
             {/* Results count */}
-            <div className="flex items-center justify-between max-w-4xl mx-auto px-1">
+            <div className="flex items-center justify-between max-w-4xl mx-auto px-1 mb-6">
               <h3 className="text-xl sm:text-2xl font-display font-black text-neutral-900 tracking-tight">
                 {lang === 'en' ? 'Top 20 Declared Candidates' : 'முதல் 20 அறிவிக்கப்பட்ட வேட்பாளர்கள்'}
               </h3>

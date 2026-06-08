@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907383",
+    "candidate_name": "A. Subha",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "75-Vikravandi Assembly Constituency, Tamil Nadu",
+    "pan": "LVNPS7681C",
+    "phone": "9843978742",
+    "email": "csdongleei@gmail.com",
+    "address": "4, Main Road, Karungalipattu, Konur Post, Villupuram District - 605301",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Government Girls Higher Secondary School Villupuram; D.T.ED (2010) - ACHARIYA TECHER EDUCATION ACADEMY VILLIANUR; B.A(TAMIL) (2013) - ANNAMALAI UNIVERSITY CHITHAMBARAM",
+    "profession": "Individual grocery shop self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5992808.0,
+    "total_liabilities_xls": 4009000.0,
+    "net_worth_xls": 1983808.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

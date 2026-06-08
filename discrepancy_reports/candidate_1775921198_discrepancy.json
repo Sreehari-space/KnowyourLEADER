@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921198",
+    "candidate_name": "V. Shankar",
+    "candidate_name_json": null,
+    "age": "63",
+    "party": "Independent",
+    "constituency": "011-Dr. Radhakrishnan Nagar (R.K. Nagar), Tamil Nadu",
+    "pan": "AXJPS1688J",
+    "phone": "9444132463, 9445663451",
+    "email": "vshankar21362@gmail.com",
+    "address": "Old No.47, New No.68, Arthoorn Road, Royapuram, Chennai-600013",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Tenth standard (dropout) Tamil Nadu State Board Syllabus",
+    "profession": "Public Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7375635.5,
+    "total_liabilities_xls": 4625542.0,
+    "net_worth_xls": 2750093.5,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

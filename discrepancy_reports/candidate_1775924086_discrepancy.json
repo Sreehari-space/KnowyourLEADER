@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924086",
+    "candidate_name": "வெங்கடேசன்",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "சுயேட்சை",
+    "constituency": "67-ஆரணி தமிழ்நாடு",
+    "pan": "BCIPV1923Q",
+    "phone": "9942255016",
+    "email": "none / இல்லை",
+    "address": "கதவு எண் 366, பிள்ளையார் கோயில் தெரு, அரையாளம் கிராமம், ஆரணி தாலுக்கா, திருவண்ணாமலை மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "4th std, அரையாளம் நடுநிலைப்பள்ளி",
+    "profession": "டிரைவர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1104000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1104000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913648",
+    "candidate_name": "G. Vijay Mohan",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "Ranipet",
+    "pan": "EIUPM5128M",
+    "phone": "9894813539",
+    "email": "flowermohan85@gmail.com",
+    "address": "No.31 Thakkadi Muthial Street, Walajapet",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5th STD MUNICIPAL MIDLE PRIMARY SCHOOL WALAJAPET",
+    "profession": "Individual Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7032000.0,
+    "total_liabilities_xls": 2617000.0,
+    "net_worth_xls": 4415000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

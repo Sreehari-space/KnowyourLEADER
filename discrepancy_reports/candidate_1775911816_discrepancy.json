@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911816",
+    "candidate_name": "பிரம்மமூர்த்தி",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "தமிழக வாழ்வுரிமைக் கட்சி",
+    "constituency": "91, வீரபாண்டி சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "FQFPB6921K",
+    "phone": "97900, 91130",
+    "email": "brammamoorthy.tvkparty@gmail.com",
+    "address": "159, பாட்டப்பன் கோவில் தெரு, இளம்பிள்ளை, சேலம் மாவட்டம் 637 502",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A Political Science (Directorate of Distance Education) Annamalai University, Annamalai Nagar-608002, 2016-2019",
+    "profession": "தனி நபர் ரியல் எஸ்டேட் மற்றும் ஆடு வர்த்தகம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9809702.7,
+    "total_liabilities_xls": 5668274.0,
+    "net_worth_xls": 4141428.699999999,
+    "cash_xls": 150000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (33 case(s))",
+    "case_numbers_xls": "Cr.No.318/2025; Cr.No.136/2025; Cr.No.93/2024; Cr.No.213/2024; Cr.No.265/2024; Cr.No.310/2024; Cr.No.199/2023; Cr.No.82/2023; Cr.No.346/2023; Cr.No.795/2020; Cr.No.796/2020; Cr.No.734/2020; Cr.No.294/2019; Cr.No.164/2019; Cr.No.173/2019; Cr.No.188/2019; Cr.No.145/2018; Cr.No.150/2018; Cr.No.447/2018; Cr.No.1323/2017; Cr.No.1797/2017; Cr.No.1787/2017; Cr.No.1796/2017; Cr.No.1790/2017; Cr.No.1626/2017; Cr.No.1382/2017; Cr.No.172/2017; Cr.No.390/2016; Cr.No.1094/2016; Cr.No.455/2013; Cr.No.396/2012; Cr.No.1064/2010; Cr.No.267/2009",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

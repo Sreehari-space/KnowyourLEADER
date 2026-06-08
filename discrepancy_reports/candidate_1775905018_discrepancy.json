@@ -1,0 +1,525 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905018",
+    "candidate_name": "S. Seelan",
+    "candidate_name_json": "SEELAN",
+    "age": "40",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "232-Padmanabhapuram Assembly Constituency",
+    "pan": "DAZPS07595E",
+    "phone": "9080641290",
+    "email": "seelanswamynathan@gmail.com",
+    "address": "13, Saralvilai, Muttaikadu, Kumarapuram Post-629164, Kanyakumari District.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.E., Year 2007, Jayamatha College of Engineering, Mupanthal.",
+    "profession": "Individual natural farming and information technology work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 13693953.0,
+    "total_liabilities_xls": 3941638.0,
+    "net_worth_xls": 9752315.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "20,000 20 Thou+",
+        "spouse": "10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "BOB Marthandam 691 6 Hund+ City Union Bank, Kulasekaram 2,017 2 Thou+ SBI Muttaicadu 26,463 26 Thou+ SBI 13,091 13 Thou+ Indian Overseas Bank 2,268 2 Thou+",
+        "spouse": "BOB Mathandam 1,605 1 Thou+ Mathandam 679 6 Hund+ City Union Bank 1,139 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TATA Nexon EV TN 75 10,00,000 10 Lacs+",
+        "spouse": "Honda Deo TN 75AD 30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "13gm Gold 13,52,000 13 Lacs+",
+        "spouse": "45gm Gold 56,16,000 56 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "(1) Kanniyakumari Dt. Stone Circle Stone Pool Village 10/6, 7/4, 8/4 (2) Kanyakumari Dist Stone Pool Circle Kumarapuram Village 463/20A1A1 Total Area 1.45 Acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 26,24,000 26 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "(1) Kanyakumari Dis. Kalkulam Circle Kamarauram Vilalge 476/16D, (2) Pthanmathitta Dist Adura Circle Thumbaman Village 231/6 Total Area 14094 Sq.ft. Built Up Area Whether Inherited N Purchase Date 2024-09-09 Purchase Cost 350000.00 Development Cost 2000000.00 28,89,000 28 Lacs+",
+        "spouse": "Kanyakumari Dis. Killiyur Taluk Killiyur Village 161/22 Total Area 6534Sqft Built Up Area Whether Inherited N Purchase Date 2029-12-20 Purchase Cost 72840.00 Development Cost 0.00 1,05,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Jewel Loan Indian Overseas Bank Thuckalay 27,98,530 27 Lacs+ Jewel Loan SBI, Muttaicadu 11,43,108 11 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (8 case(s))",
+    "case_numbers_xls": "1)180/2025; 2)66/2018; 3)177/2024; 4)182/2024; 5)225/2024; 6)35/2022; 7)23/2024; 8)39/2024; 9)562/2025; 10)563/2025; 11)301/2025; 12)109/2025; 1)STC1665/2025",
+    "criminal_cases_json": {
+      "count": "12",
+      "summary": "Number of Criminal Cases:12",
+      "ipc_charges": [
+        "1 charges related to Assault or use of criminal force to deter public servant from discharge of his duty. (BNS Section-132)",
+        "6 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "5 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "3 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "3 charges related to Punishment for public nuisance in cases not otherwise provided for (IPC Section-290)",
+        "1 charges related to Trespassing on burial places, etc. (IPC Section-297)",
+        "1 charges related to Intentional insult with intent to provoke breach of the peace (IPC Section-504)",
+        "4 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "3 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "3 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (BNS Section-223)",
+        "1 charges related to Punishment for Criminal trespass. (BNS Section-329(3))",
+        "1 charges related to Causing danger or obstruction in public way or line of navigation. (BNS Section-285)",
+        "1 charges related to Wantonly giving provocation with intent to cause riot (BNS Section-192)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No 180/2025, Kotticode P.S. Kanniyakumari District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No-66/2018, Kotticode P.S. Kanniyakumari District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 353",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No 177/2024, Vasadery P.S. Kanniyakumari District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 290, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Crime No 182/2024, Thuckalay PS Kanniyakumari District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "290, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Crime No 225/2024, Thuckalay PS Kanniyakumari District",
+          "case_no": "STC1665/2025",
+          "court": "JM Court, Padmanabhapuram",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 127(1) Rep. People Act, Section 4AA(1A), 4B TN OPPD Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Crime No 35/2022, Pechiparai P.S. Kanniyakumari District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Crime No 23/2024, Kulasekharam P.S. Kanniyakumari District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 290, 297, 341, 353, 504",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Crime No 39/2024, Eraniel P.S. Kanniyakumari District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 353",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "Crime No 562/2025, Eraniel P.S. Kanniyakumari District",
+          "case_no": "STC/1127/2025",
+          "court": "JM Court, Eraniel",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 132, 189(2), 223, 292, 329(3)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "Crime No 563/2025, Eraniel P.S. Kanniyakumari District",
+          "case_no": "STC/1128/2025",
+          "court": "JM Court, Eraniel",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "11",
+          "fir_no": "Crime No 301/2025, Karungal PS, Kanniyakumari District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 285, 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "12",
+          "fir_no": "Crime No 109/2025, Kanniyakumar CCW, Kanniyakumar District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "192, 353(1)(c)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,36,93,953 ~1 Crore+",
+    "Liabilities:": "Rs 39,41,638 ~39 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹10,849,081, but 5-year family income is only ₹0. Unexplained wealth discrepancy of ₹10,849,081."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2024 for ₹350,000 (CII Indexed Cost: ₹362,534) is declared at highly inflated value of ₹2,889,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Overvalued (Parking Illicit Funds)",
+      "description": "58.0g gold declared at ₹6,968,000 (Implied rate: ₹120,138/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

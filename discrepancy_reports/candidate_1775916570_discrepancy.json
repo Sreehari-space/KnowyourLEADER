@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916570",
+    "candidate_name": "S. Sankar Kumar",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "Independent",
+    "constituency": "159-Kattumannarkoil (SC), Tamil Nadu",
+    "pan": "CIUPS0255F",
+    "phone": "9994220373",
+    "email": "NIL",
+    "address": "162, Periyath Street, Sivakkam, Perungaloor Post, Kattumannarkoil Taluk, Cuddalore District, Pincode: 608605",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th (HSC), Government Boys Higher Secondary School, Kattumannarkoil, 1995-1996",
+    "profession": "Daily wage worker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 593500.8300000001,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 593500.8300000001,
+    "cash_xls": 11000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

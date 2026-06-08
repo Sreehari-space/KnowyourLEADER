@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904544",
+    "candidate_name": "T. RAMACHANDRAN",
+    "candidate_name_json": null,
+    "age": "58",
+    "party": "COMMUNIST PARTY OF INDIA (C.P.I)",
+    "constituency": "56. THALLI ASSEMBLY CONSTITUENCY, TAMIL NADU",
+    "pan": "AEMPR9156G",
+    "phone": "9443706177, &, 9585472177",
+    "email": "ramachandrantmla@gmail.com",
+    "address": "D.No. 2-95, Varaganapalli Village, Nagamangalam Post, Denkanikottai Taluk, Krishnagiri District - 635113, Tamil Nadu.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc., LL.B., (B.Sc. Government Arts College, Krishnagiri (1987 – 1990) & LL.B., V.V. Puram Law College, Bangalore (1991–1994)",
+    "profession": "Social Work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 24114714.09,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 24114714.09,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (11 case(s))",
+    "case_numbers_xls": "Cr.No. 614/1995 Hosur Town P.S.; Cr.No. 34/2012 Uddanapalli Ps; Cr.No.84/2012 Thally P.S.; Cr.No. 143/2012 Uddanapalli Ps; Cr.No. 166/2012 Uthanapalli P.S.; Cr.No. 249/2012 Hosur Town Ps.; Cr.No. 261/2012 Denkanikottai Ps; Cr.No. 262/2012 Denkanikottai PS; Cr.No. 879/2012 Hosur Town PS.; Cr.No.127/2019 Hosur Town PS.; Cr.No.156/2019 Berigai PS.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

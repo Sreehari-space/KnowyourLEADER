@@ -1,0 +1,624 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904851",
+    "candidate_name": "P. Abdul Samed",
+    "candidate_name_json": "P. ABDUL SAMED",
+    "age": "57",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "138 Manaparai",
+    "pan": "DGEPA2951R",
+    "phone": "9500062790",
+    "email": "pabdulsamad1000@gmail.com",
+    "address": "No: 286, Sadham Hussen Nagar, 1st Street, Pudupattinam, Kalpakkam, Chengalpattu District - 603102",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Standard (S.S.L.C) - Government Higher Secondary School, Sadurangapattinam, Kancheepuram District - 1986",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2150000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2150000.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Kalpakkam Branch A/? 28.03.2026 40,000 40 Thou+ AXIS Manaparai Branch Ac No. 10,000 10 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Canara Bank Kalpakkam Branch A/c No. 12,000 12 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "120 gram gold 16,00,000 16 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,92,680 | 2023 - 2024: Rs 4,68,010 | 2022 - 2023: Rs 4,61,610 | 2021 - 2022: Rs 4,88,330 | 2020 - 2021: Rs 2,40,000"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (21 case(s))",
+    "case_numbers_xls": "CR. No. 67/2025, U/S. 126(2), 189(2), 223(A) - BNS / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 165/2025, 41(6)(a) - TNCP ACT, 189(5), 190, 191(2), 223, 287_BNS / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 209/2024, U/S. 189(2), 191 (2), 126 (2), 132 BNS r/w 3of TNPPT Act / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 157/2022, U/S. 143,188, 290-IPC, 71A(1), TNCP ACT 4A(1b) TNOPPD ACT / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 154/2022, U/S. 143, 269, 283-IPC, 51(b) DM ACT 2005 / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 848/2021, U/S. 143, 188, 269, 290-IPC, 4A(16), TNOPPD ACT / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 178/2021, U/S. 143, 283 - IPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 2044/2020, U/S. 143, 188, 270, 336, 341-IPC @ 143. 270. 336.341-IPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 791/2020, U/S. 143, 188 - IPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 1020/2020, U/S. 143, 188 - IPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 1054/2020, U/S. 143, 188, 283, 341-IPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 2108/2020, U/S. 143, 269, 290-IPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 104/2020, U/S. 7(1)(a) CLA Act, 41-TNCP Act / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 799/2019, U/S. 151- CRPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 18/2019, U/S. 143, 188 - IPC 41-TNCP / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 413/2018, U/S. 143,188, 341, 353 - IPC @ 143, 341,353 - IPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 1449/2016, U/S. 143, 188 - IPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 1019/2013, 188, 505(2), 506(1) - IPC 71A(1) - TNCP ACT / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 126/2013, U/S.143,188,353 -IPC r/w 7(i)(a) CLA Act / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 200/2009, U/S.151-CRPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest; CR. No. 7/2007, U/S. 147, 294(b), 341, 506(2) - IPC / Tamil Text / English Translation: ஆர்ப்பாட்டம & போராட்டம் / Demonstration & Protest",
+    "criminal_cases_json": {
+      "count": "21",
+      "summary": "Number of Criminal Cases:21",
+      "ipc_charges": [
+        "1 charges related to Section 505(2) (IPC Section-505(2))",
+        "2 charges related to Punishment for Rioting (BNS Section-191(2))",
+        "1 charges related to Assault or use of criminal force to deter public servant from discharge of his duty. (BNS Section-132)",
+        "13 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "9 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "4 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "3 charges related to Punishment for public nuisance in cases not otherwise provided for (IPC Section-290)",
+        "3 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "3 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)",
+        "2 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "1 charges related to Act endangering life or personal safety of others (IPC Section-336)",
+        "1 charges related to Malignant act likely to spread infection of disease dangerous to life (IPC Section-270)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "2 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to If such disobedience causes obstruction, annoyance or injury to persons lawfully employed. (BNS Section-223(a))",
+        "1 charges related to Knowingly joining or continuing in any assembly of five or more persons after it has been commanded to disperse. (BNS Section-189(5))",
+        "1 charges related to Every member of unlawful assembly guilty of offence committed in prosecution of common object. (BNS Section-190)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (BNS Section-223)",
+        "1 charges related to Negligent conduct with respect to fire or combustible matter. (BNS Section-287)",
+        "1 charges related to Defines Wrongful restraint - Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person. (BNS Section-126)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Mandarakuppam Police Station Cuddalore CR. No 67/2025",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2),189(2), 223(A)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "North Beach Flower Bazaar Police Station CR. No.165/2025",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(5), 190, 191(2), 223, 287",
+          "other_details": "Section 41(6)(a)-TNCP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Thuvakkudi Police Station CR. No.209/2024",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 191(2), 126 (2), 132",
+          "other_details": "Section 3 TNPPT Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "North Beach Flower Bazaa Police Station CR. No.157/2022",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 290",
+          "other_details": "Section 71A(1), TNCP Act, Section 4A(1b) TNOPPD Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Tamparam Police Station, Tamparam. CR. No. 154/2022",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 283",
+          "other_details": "Section 51(b) DM ACT 2005",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "North Beach Flower Bazaar Police Station CR. No. 848/2021",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 269, 290",
+          "other_details": "Section 4A(1b), TNOPPD Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Manapparsi Police Station, Trichy CR. No. 178/2021",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Thiruvarur Town Police Station, Thin CR. No. 2044/2020",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 270, 336, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "Kalpakkam Police Station, Chengalpatta District CR.No.791/2020",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "Kalpakkam Police Station, Changatpattu District CR.No.1020/2020",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "11",
+          "fir_no": "Kalpakkam Police Station, Chengstpattu District CR.No.1054/2020",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 283, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "12",
+          "fir_no": "Thilagar Thidal Police Station, Madural CR. No.2108/2020",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 290",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "13",
+          "fir_no": "Triplicane Police Station CR. No. 104/2020",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 7(1)(a) CLA Act, Section 41 TNCP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "14",
+          "fir_no": "Race Course Police Station, Coimbatore CR. No. 799/2019",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 151-CRPC",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "15",
+          "fir_no": "Chennai CBCID Matro Police Station CR. No.18/2018",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Section 41 TNCP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "16",
+          "fir_no": "Malapalayam Police Station, Thirunelvel CR.No. 413/2018",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 353",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "17",
+          "fir_no": "17. Saidapet Adyar Police Station, CR. No 1449/2016",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "18",
+          "fir_no": "Bazar Police Statation, Coimbatore CR. No.1019/2013",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "188, 505(2), 506(1)",
+          "other_details": "Section 71A(1)-TNCP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "19",
+          "fir_no": "Sadras Police Station, CR. No 126/2013",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 353",
+          "other_details": "Section 7(1)(a) CLA Act CLA Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "20",
+          "fir_no": "Pudupattinam Police Station, CR. No. 200/2009",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 151 CRPC",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "21",
+          "fir_no": "Kalpakkam Police Station, Chengalpattu District CR.No 7/2007",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 294B, 341, 506(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 21,62,000 ~21 Lacs+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": []
+}

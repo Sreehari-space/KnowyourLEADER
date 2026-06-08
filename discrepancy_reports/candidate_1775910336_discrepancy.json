@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910336",
+    "candidate_name": "W. INDU",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "TAMIL MANILA MURPOKKU DRAVIDA KAZHAGAM",
+    "constituency": "KATPADI (40)",
+    "pan": "AQIP134179",
+    "phone": "8608742001",
+    "email": "induwilliams05@gmail.com",
+    "address": "4, 4th STREET, K.R.S.NAGAR, DHARAPADAVEDU WARD 5, K.R.S.NAGAR, KATPADI TALUK, VELLORE DISTRICT, STATE OF TAMIL NADU, 632 007",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.B.A. AUXILLIUM COLLEGE, Vellore, 2012-2015; M.S.W. Auxillium college, Vellore, 2016-2018; L.L.B. GOVT. LAW COLLEGE, Vellore-6, 2020-2023; L.L.M. Govt. Law college, Vellore-6, 2023-2025",
+    "profession": "ADVOCATE"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1050000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1050000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910092",
+    "candidate_name": "Dr.T.ARUNKUMAR",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "TAMILAGA VETTRI KAZHAGAM",
+    "constituency": "04 TIRUVALLUR",
+    "pan": "AFMPA9576N",
+    "phone": "9840021112",
+    "email": "arunsurgery30@yahoo.com",
+    "address": "NO.28, DR.RANGA ROAD, MYLAPORE, CHENNAI - 600 004",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SEP 2003",
+    "profession": "DOCTOR"
+  },
+  "financial_summary": {
+    "total_assets_xls": 106812148.0,
+    "total_liabilities_xls": 4980607.0,
+    "net_worth_xls": 101831541.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

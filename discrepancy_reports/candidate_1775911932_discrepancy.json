@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911932",
+    "candidate_name": "Thanapal Subramaniyam",
+    "candidate_name_json": null,
+    "age": "39",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "96. Tiruchengode Assembly Constituency",
+    "pan": "AYSPD3632K",
+    "phone": "7871061817",
+    "email": "dhanapalsubramaniyam@gmail.com",
+    "address": "197, Street No.7, Kattu Valavu, Surilampalayam, Tiruchengode Taluk, Namakkal District - 637209",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "W), ERODE, BHARATHIAR UNIVERSITY - COIMBATORE",
+    "profession": "Artificial Intelligence Engineer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1090618.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1090618.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

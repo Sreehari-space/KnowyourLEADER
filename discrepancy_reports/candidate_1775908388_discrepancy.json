@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908388",
+    "candidate_name": "VIJAYA SURESHBABU",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "74 - Villupuram, Tamil Nadu",
+    "pan": "BBLPV7596R",
+    "phone": "9443231905",
+    "email": "ggsadmk@gmail.com",
+    "address": "No.64, Throubathiamman Kovil Street, Sagadevanpettai, Villupuram Taluka, Villupuram - 605108",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard, S. R. Government Girls Higher Secondary School, Valavanur, School Education Department, Government of Tamil Nadu, Year: 1989",
+    "profession": "Housewife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 23834536.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 23834536.0,
+    "cash_xls": 486500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

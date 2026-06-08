@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905094",
+    "candidate_name": "Rama.Karumanickam",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Indian National Congress",
+    "constituency": "210-Thiruvadanai",
+    "pan": "BZRPK9039-E",
+    "phone": "9442574221",
+    "email": "karumanickam1986@gmail.com",
+    "address": "Kappalur, Vadakottai, Kannangudi Post",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "(LLB) - Vivekananda Law College Bengaluru - 2010",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 57200160.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 57200160.0,
+    "cash_xls": 4930000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

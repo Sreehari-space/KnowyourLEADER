@@ -1,0 +1,375 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921704",
+    "candidate_name": "R. SIVAKUMAR",
+    "candidate_name_json": "R. SIVAKUMAR",
+    "age": "62",
+    "party": "THAMILAR ATHIGARAM",
+    "constituency": "180-PUDUKKOTTAI TAMIL NADU",
+    "pan": "AYJPS1187R",
+    "phone": "7339308773",
+    "email": "kumar20051965@gmail.com",
+    "address": "PLOT NO:96 SRIRAGAVENDRA NAGAR KAVINADU WEST THIRUVAPUR PUDUKKOTTAI-622003",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.COM. (BHARATHIDASAN UNIVERSITY - 1990), B.Ed. (ANNAMALAI UNIVERSITY - MAY 1995), M.COM. (BHARATHIDASAN UNIVERSITY - 1997 INCOMPLETE)",
+    "profession": "TEACHER-RTD-PRIVATE SCHOOLS and LIC AGENT"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9021888.0,
+    "total_liabilities_xls": 2388625.0,
+    "net_worth_xls": 6633263.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,000 10 Thou+",
+        "spouse": "1,000 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "CBI 2,500 2 Thou+ UCO 2,500 2 Thou+ IB 2,000 2 Thou+",
+        "spouse": "SBI 50,472 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "KOtak Mahindra Bank 1,369 1 Thou+",
+        "dependent2": "SBI 500 5 Hund+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Postal Savings 1,195 1 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "LIC Policy 1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "LIC Policy 2,00,000 2 Lacs+",
+        "dependent2": "LIC Policy 2,00,000 2 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "KWID TN55BD 6573 4,19,698 4 Lacs+ Bike TN55 AQ 3019 1,14,000 1 Lacs+ TN 55 BL 6881 1,22,523 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Jewellery 239 Grams 33,46,000 33 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Kavinad West 93/IAIAI Total Area 1200 sq.ft Built Up Area 1000 sq.ft Whether Inherited N Purchase Date 2019-07-05 Purchase Cost 97000.00 Development Cost 50000.00 6,00,000 6 Lacs+",
+        "spouse": "Kavinad West 91/8BI Total Area 1200 sq.ft Built Up Area 700 sq.ft Whether Inherited N Purchase Date 2005-06-06 Purchase Cost 9600.00 Development Cost 1400000.00 21,00,000 21 Lacs+ Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 6,00,000 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Kavinadu west 93-5A2 Total Area 1800 sq. ft. Built Up Area Whether Inherited N Purchase Date 2026-02-13 Purchase Cost 900500.00 Development Cost 0.00 18,00,000 18 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Car Loan Axis Bank 5,88,625 5 Lacs+ Jewellery Loan 10,75,000 10 Lacs+ UCO 2,63,000 2 Lacs+",
+      "spouse": "Jewellery Loan SBI 4,42,000 4 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Student Loan Indian Bank 1,47,539 1 Lacs+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "M Chinnawa 20,000 20 Thou+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Convicted (1 case(s))",
+    "case_numbers_xls": "STC/450/2024",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)"
+      ],
+      "pending_cases": [],
+      "convicted_cases": [
+        {
+          "serial_no": "1",
+          "case_no": "STC 450/2024",
+          "court": "Judicial Magistrate",
+          "law_type": "IPC",
+          "ipc_sections": "294B, 341, 283",
+          "other_details": "Nil",
+          "punishment": "Rs.1700 Receipt No.D9868787",
+          "conviction_date": "12 Sep 2024",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ]
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,12,23,757 ~1 Crore+",
+    "Liabilities:": "Rs 25,36,164 ~25 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2019 for ₹97,000 (CII Indexed Cost: ₹126,201) is declared at highly inflated value of ₹600,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2005 for ₹9,600 (CII Indexed Cost: ₹30,851) is declared at highly inflated value of ₹2,100,000."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹2,201,374 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹8,832,239) does not match declared total assets (₹11,223,757). Difference: ₹2,391,518"
+    }
+  ]
+}

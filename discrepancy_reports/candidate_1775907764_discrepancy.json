@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907764",
+    "candidate_name": "S.Sekar",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "95 Paramathi Velur Assembly Constituency, Tamil Nadu",
+    "pan": "AZPPS9846Q",
+    "phone": "9842730763",
+    "email": "srcconstruction4u@gmail.com",
+    "address": "39-1, Muniyagoundampalayam, Pandamangalam Post, Paramathi Velur Taluk, Namakkal District, Pin-637208",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "DCE., Government Higher Secondary School, Pandamangalam, March-1987; SCSM Polytechnic College, Mohanur, May-1990",
+    "profession": "Politics, Civil Engineer, Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 26206821.62,
+    "total_liabilities_xls": 3260344.82,
+    "net_worth_xls": 22946476.8,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

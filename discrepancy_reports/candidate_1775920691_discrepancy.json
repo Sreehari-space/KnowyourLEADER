@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920691",
+    "candidate_name": "Karthik Nagarajan",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Independent",
+    "constituency": "121 Singanallur Assembly Constituency",
+    "pan": "BTQPK8741Q",
+    "phone": "9944864169, 7871086182",
+    "email": "karthik.nagaraj.2688@gmail.com",
+    "address": "125 Sowdaman Kovil Street, Ondipudur, Coimbatore - 641016",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard Pass, Ondipudur Boys Higher Secondary School, 2006",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 864032.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 864032.0,
+    "cash_xls": 15500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "47/2024",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

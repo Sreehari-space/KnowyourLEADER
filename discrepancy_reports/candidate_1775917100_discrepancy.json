@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917100",
+    "candidate_name": "Prabhakar",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Independent",
+    "constituency": "213 Vilathikulam Assembly Constituency, Tamil Nadu State",
+    "pan": "FSSPP1033B",
+    "phone": "9790124585",
+    "email": "இல்லை / none",
+    "address": "25C, Kamaraj Nagar 3rd Street, Vilathikulam Town, Vilathikulam Taluk, Thoothukudi District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E, Anna University (2020)",
+    "profession": "Photo Studio"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1445718.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1445718.0,
+    "cash_xls": 3000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

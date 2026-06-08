@@ -1,0 +1,376 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918037",
+    "candidate_name": "Sivan",
+    "candidate_name_json": "SIVAN.C",
+    "age": "36",
+    "party": "Independent",
+    "constituency": "53 Krishnagiri - Tamil Nadu",
+    "pan": "HHGPS7080N",
+    "phone": "8870357381",
+    "email": "sivaninfotech09@gmail.com",
+    "address": "287, K.V.Kovil Kottai, Sokkadi, Moramadugu, Krishnagiri Taluk and District, Tamil Nadu- 635122",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Tech (Information Technology) 2012, Arunai Engineering College, Thiruvannamalai District.",
+    "profession": "Agriculture, Real Estate, Insurance"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6093280.0,
+    "total_liabilities_xls": 2323955.0,
+    "net_worth_xls": 3769325.0,
+    "cash_xls": 372000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "3,72,000 3 Lacs+",
+        "spouse": "1,26,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Canara Bank 0 SBI Bank 0 HDFC Bank 9,626 9 Thou+ UCO Bank 5,650 5 Thou+ IOB 1,000 1 Thou+ Indian Bank 4",
+        "spouse": "UCO Bank 600 6 Hund+ SBI Bank 1,300 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Kotak Mahindra Life Insurance 1,27,000 1 Lacs+ HDFC Life Insurance 13,100 13 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Scooty TN MB 9502 60,000 60 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "56 gm 7,28,000 7 Lacs+",
+        "spouse": "260 gm 33,80,000 33 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "1,70,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Channahalli Sy No.316/2A1 Total Area 21 Cent Built Up Area Whether Inherited N Purchase Date 2025-08-11 Purchase Cost 147000.00 Development Cost 0.00 1,80,000 1 Lacs+ Thanihalli Sy No1/2C Total Area 31 cent Built Up Area Whether Inherited N Purchase Date 2025-04-09 Purchase Cost 305000.00 Development Cost 0.00 3,30,000 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Boganapalli SY No.86A/10A1A1A1A, 170 sq.ft rs 704000, Kammampalli SY.No3A/12B, 495 Sq.ft, 49500, Krishnagiri SY No.20/1, 1255 sq.ft, 303000, 2024.07.18, 2024.07.18, 2023.03.01 Total Area 3510 sq.ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 5,90,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Canara Bank , Education Loan 1,81,687 1 Lacs+ Indian Bank, Personal Loan 92,269 92 Thou+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Raja 8,00,000 8 Lacs+ Ravi 5,00,000 5 Lacs+ Chinnapa 4,00,000 4 Lacs+ Mahendra 2,00,000 2 Lacs+ Narayan 1,50,000 1 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 71,620 | 2024 - 2025: Rs 1,24,860 | 2023 - 2024: Rs 76,430 | 2022 - 2023: Rs 1,19,000 | 2021 - 2022: Rs 4,91,750"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "Cr.No.642/2024 Krishnagiri Town P.S, Krishnagiri; Cr.No.206/2025 Krishnagiri Town P.S. Krishnagiri; Crl.M.P.No.266/2025-Pending in the above court",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "2 charges related to If threat be to cause death or grievous hurt, etc. (BNS Section-351(3))",
+        "1 charges related to Dishonest misappropriation of movable property, or converting it to one's own use. (BNS Section-314)",
+        "1 charges related to Punishment for criminal breach of trust (BNS Section-316(2))",
+        "1 charges related to Punishment for Cheating (BNS Section-318(2))",
+        "1 charges related to Cheating and dishonestly inducing delivery of property. (BNS Section-318(4))",
+        "1 charges related to Voluntarily causing hurt by dangerous weapons or means. (BNS Section-118(1))",
+        "1 charges related to Punishment for voluntarily causing hurt (BNS Section-115(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr.No. 642/2024 Krishnagiri Town Police Station, Krishnagiri",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Court No.1, Krishnagiri",
+          "law_type": "BNS",
+          "ipc_sections": "296(b), 351(3), 314, 316(2), 318(2), 318(4)",
+          "other_details": "Crl.M.P.No.266/2025 pending in the court - Judicial Magistrate Court No.1, Krishnagiri",
+          "charges_framed": "Yes",
+          "charges_date": "16 Dec 2024",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Cr.No. 206/2025 Krishnagiri Town Police Station, Krishnagiri",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "296(b), 115(2), 118(1), 351(3)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "23 Apr 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 60,94,280 ~60 Lacs+",
+    "Liabilities:": "Rs 23,23,956 ~23 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹5,742,632) does not match declared total assets (₹6,094,280). Difference: ₹351,648"
+    }
+  ]
+}

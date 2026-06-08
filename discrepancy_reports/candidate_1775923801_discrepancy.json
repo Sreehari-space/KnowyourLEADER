@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923801",
+    "candidate_name": "G.RANGARAJ",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "INDEPENDENT",
+    "constituency": "22-VIRUGAMBAKKAM",
+    "pan": "AHHPR6005J",
+    "phone": "9841104338",
+    "email": "NIL",
+    "address": "No.13, Munusamy Street, Saligramam, Chennai-600 093",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Std Pass, Sir Sivasami Ayyar Hr.Sec.School, Thirukkattupalli, Thajavur District. 1994",
+    "profession": "DRIVER"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2604000.0,
+    "total_liabilities_xls": 648375.0,
+    "net_worth_xls": 1955625.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

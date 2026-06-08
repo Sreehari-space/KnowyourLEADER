@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904568",
+    "candidate_name": "P.S.Srinivasan",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "DMK",
+    "constituency": "54, Veppanahalli Assembly Constituency, Tamil Nadu",
+    "pan": "GTKPS5446B",
+    "phone": "9786812005",
+    "email": "pssriniavasandmk@gmail.com",
+    "address": "32, Pathakotta (V) & (P), Shoolagiri (Tk), Krishnagiri District - 635119",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard, R.V. Government Boys Higher Secondary School, Hosur (1994-1996)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 18294916.0,
+    "total_liabilities_xls": 998473.0,
+    "net_worth_xls": 17296443.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No: 0258/2016, Sections: IPC307, IPC 342, IPC 436 (Assault case)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

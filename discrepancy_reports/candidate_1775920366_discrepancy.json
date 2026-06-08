@@ -1,0 +1,347 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920366",
+    "candidate_name": "M. Venkatesan",
+    "candidate_name_json": "VENKATESAN M",
+    "age": "58",
+    "party": "Independent",
+    "constituency": "194 Madurai West (GEN) Assembly Constituency",
+    "pan": "ACKPV4649J",
+    "phone": "9629197732",
+    "email": "anbuaramamaithi@gmail.com",
+    "address": "11, Kurinji Street, 2nd Cross Street, Ganapathy Nagar, Puduvilankudi, Madurai-625018",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Std (1983), 12th Std (1986), B.Com (1992), M.Com (2012), MBA (2015), B.Ed (2015), LLB (2020)",
+    "profession": "General Work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5404606.560000001,
+    "total_liabilities_xls": 2890616.0,
+    "net_worth_xls": 2513990.560000001,
+    "cash_xls": 60000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "60,000 60 Thou+",
+        "spouse": "30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI, Madurai,SB 17,411 17 Thou+ SBI, Madurai,SB 0 SBI, Madurai Vilangudi,SB 0 Canara Bank, SB 1,652 1 Thou+ Andra Bank, SB 0 Andra Bank, SB 2,012 2 Thou+ Syndicate Bank, SB 1,112 1 Thou+ Karur Vysya bank, SB 0 UCO Bank,New Delhi, SB 801 8 Hund+ Alagendiran Benifit Fund Ltd, Simmakal, SB 65 Punjab National Bank, Main, SB 0",
+        "spouse": "SBI, Madurai,SB 19,719 19 Thou+ SBI, Madurai Vilangudi,SB 7 Indian Bank, Kadal nagar, SB 0 Canara Bank, Madurai, SB 0 Govt. Aided Cooperative Society Ltd, Thirunagar, Madurai, 6 Members 20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Andra Bank, SB 23 Union bank, Thiruparankundram, SB 0",
+        "dependent2": "Canara Bank, Madurai, SB 1,652 1 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "car, maruthi Alto LXI BSIV, TN59AT8690, 2012 2,62,027 2 Lacs+ 2 Wheeler, TN59BF4359, Hero Passion Pro, 2015 46,000 46 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold 364.40 Gram 15,28,800 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Madurai Dist, Tirumangalam Taluk, Sathankudi Village, S.No. 373/3, 373/4,373/5 Total Area 2400 Sqft Built Up Area Whether Inherited N Purchase Date 0200-05-08 Purchase Cost 6000.00 Development Cost 0.00 2,64,000 2 Lacs+ Madurai District, Tirumangalam TK, Periyakulam, Sindupatti, T. Sindupatti, S.No .89/2,85/6, 81/1A,83/1A and Others, Illathar Nagar, Kezhaveni Panchayat Head .Punjai S. No.83/2, Flat No. 515 Total Area 2156 Sqft Built Up Area Whether Inherited N Purchase Date 2012-02-23 Purchase Cost 5000.00 Development Cost 0.00 2,37,160 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Joint Property , 50% Share, Madurai , Vilangudi Village, Bit 2 ganapathy Nagar, Flat NO.11, S.no.224/5, 51/5A,51/5B, Area:Half in 1650 Sqft, Built Up Area: half In1350 Sqft Total Area Built Up Area Whether Inherited N Purchase Date 2004-05-24 Purchase Cost 38775.00 Development Cost 350000.00 17,07,500 17 Lacs+",
+        "spouse": "oint Property , 50% Share, Madurai , Vilangudi Village, Bit 2 ganapathy Nagar, Flat NO.11, S.no.224/5, 51/5A,51/5B, Area:Half in 1650 Sqft, Built Up Area: half In1350 Sqft Total Area Built Up Area Whether Inherited N Purchase Date 2004-05-24 Purchase Cost 38775.00 Development Cost 350000.00 17,07,500 17 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "SBI, Madurai, Gold Loan 3,48,000 3 Lacs+ Andra Bank, Madurai, Gold Loan 2,48,000 2 Lacs+ Canara Bank, Madurai, Gold Loan 4,40,000 4 Lacs+",
+      "spouse": "Canara Bank, Madurai, Housing Loan 11,21,616 11 Lacs+ SBI, Madurai, Individual Loan 5,75,000 5 Lacs+ SBI, Madurai158000, Individual Loan 1,58,000 1 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 13,63,585 | 2023 - 2024: Rs 12,61,013 | 2022 - 2023: Rs 11,06,975 | 2020 - 2021: Rs 10,26,662 | 2019 - 2020: Rs 9,53,560"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 56,41,651 ~56 Lacs+",
+    "Liabilities:": "Rs 28,90,616 ~28 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2004 for ₹38,775 (CII Indexed Cost: ₹129,021) is declared at highly inflated value of ₹1,707,500."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2004 for ₹38,775 (CII Indexed Cost: ₹129,021) is declared at highly inflated value of ₹1,707,500."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "364.4g gold declared at ₹1,528,800 (Implied rate: ₹4,195/g vs April 2026 Market Rate of ~₹14,200/g)."
+    }
+  ]
+}

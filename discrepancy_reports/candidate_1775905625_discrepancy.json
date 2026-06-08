@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905625",
+    "candidate_name": "Sa. Kannan",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "176 Pattukkottai Assembly Constituency",
+    "pan": "HPXPS5904G",
+    "phone": "9025429060",
+    "email": "skskannansumathi@gmail.com",
+    "address": "2, Sivakollai, Nainankulam Post, Pattukkottai Town, Thanjavur District, Pin - 614 602",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma - Electronics and Communication, Pattukkottai Polytechnic College, Pattukkottai (1990)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 23433500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 23433500.0,
+    "cash_xls": 48000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

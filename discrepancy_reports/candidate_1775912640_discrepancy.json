@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912640",
+    "candidate_name": "தங்கதுரை",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "புதிய மக்கள் தமிழ் தேசம் கட்சி",
+    "constituency": "213 விளாத்திகுளம் சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "BOKPT6889M",
+    "phone": "6383742480",
+    "email": "thangathuraithangathurai32@gmail.com",
+    "address": "76, வடக்கு தெரு, வடக்கு செமப்புதுார், துாத்துக்குடி மாவட்டம்-628720",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10ஆம் வகுப்பு, சேனையர் கலைமகள் உயர்நிலைப்பள்ளி, ஈராட்சி, எட்டையாபுரம், தூத்துக்குடி மாவட்டம், முடித்த ஆண்டு 2007",
+    "profession": "கட்டிட தொழிலாளி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1724300.0,
+    "total_liabilities_xls": 206000.0,
+    "net_worth_xls": 1518300.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

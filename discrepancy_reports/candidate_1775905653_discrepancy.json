@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905653",
+    "candidate_name": "Mr. Balraj",
+    "candidate_name_json": null,
+    "age": "38",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "223 - Alangulam Assembly Constituency, Tamil Nadu",
+    "pan": "BVWPP1700N",
+    "phone": "9003221690",
+    "email": "paulrajmmc@gmail.com",
+    "address": "1, North Street, Sivakamipuram, Keelapavoor Part-1 village, Alangulam circle, Tenkasi District, Tamil Nadu - 627 806",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.D.S, March - 2011, Government Dental College, Chennai (Tamil Nadu Dr. MGR Medical University); Twelfth Standard, March-2005, T.P.S. Government Boys Higher Secondary School, Pavoorchatram; Tenth Standard, March-2002, St. Arulapper Higher Secondary School, Avudaiyanur",
+    "profession": "Dentist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 12660000.0,
+    "total_liabilities_xls": 735000.0,
+    "net_worth_xls": 11925000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "FIR 480/2025; FIR 323/2025; FIR 276/2024; FIR 313/2020",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

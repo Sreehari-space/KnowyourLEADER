@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918285",
+    "candidate_name": "Prabhu",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Independent",
+    "constituency": "No-9, Madavaram Assembly Constituency, Tamil Nadu",
+    "pan": "CHUPP4779A",
+    "phone": "8072890445",
+    "email": "NIL",
+    "address": "No:11, Pillaiyar Koil street, Naravarikuppam, Redhills, Chennai 600 052",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "ITI - Kumaran Industrial Training Centre, Thoraswatiyur Chennai-600 019",
+    "profession": "STORE KEEPER"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 7500.0,
+    "cash_xls": 3000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

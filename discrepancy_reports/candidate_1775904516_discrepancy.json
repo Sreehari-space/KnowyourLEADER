@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904516",
+    "candidate_name": "K. Sundar",
+    "candidate_name_json": null,
+    "age": "71",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "No. 36, Uthiramerur Constituency",
+    "pan": "CYWPS2952P",
+    "phone": "9444075122",
+    "email": "k.sundar129@gmail.com",
+    "address": "No. 29, Bazaar Street, Salavakkam, Uthiramerur Taluk, Kanchipuram District 603 107",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (11th std) from Government High School, Salavakkam (1970-71); PUC (12th std) from Pachaiyappan's Men's College, Chennai (1971-72); B.Sc from Pachaiyappan's Men's College, Chennai (1972-75)",
+    "profession": "Agriculture, Rice Mill and Member of Legislative Assembly"
+  },
+  "financial_summary": {
+    "total_assets_xls": 31686681.58,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 31686681.58,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

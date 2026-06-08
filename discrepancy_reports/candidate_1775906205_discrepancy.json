@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906205",
+    "candidate_name": "ஆ.தமிழரசி",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "திராவிடமுன்னேற்றகழகம்",
+    "constituency": "187- மானாமதுரை (தனி) சட்டமன்றத் தொகுதி, தமிழ்நாடு",
+    "pan": "AIOPT8432B",
+    "phone": "9444491450",
+    "email": "tamilarasiravikumar1@gmail.com",
+    "address": "எண்:1A, சீனியப்பா நகர், சங்கமங்கலம், மானாமதுரை, சிவகங்கை மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Com from Madurai Kamarajar University (January 1998)",
+    "profession": "சட்டமன்றஉறுப்பினர்மற்றும் விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 315578595.21,
+    "total_liabilities_xls": 11359084.63,
+    "net_worth_xls": 304219510.58,
+    "cash_xls": 125500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (6 case(s))",
+    "case_numbers_xls": "331/2018; 52/2021; 8/2012; 54/2021; 34/2021; 38/2021",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

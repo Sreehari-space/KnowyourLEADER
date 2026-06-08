@@ -1,0 +1,478 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905829",
+    "candidate_name": "DURAIMURUGAN",
+    "candidate_name_json": "DURAIMURUGAN",
+    "age": "87",
+    "party": "DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "40 Katpadi",
+    "pan": "AAGPD4556N",
+    "phone": "04162242941, 9444529999",
+    "email": "katpadi.dmk@gmail.com",
+    "address": "No.7, 5th East Cross Street, Gandhinagar, Vellore 632006",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Master of Arts (Utkal University, Bhubaneswar, 1971), Bachelor of Law (Law College, University of Madras, 1969), Bachelor of Arts (Pachayappa college, Chennai, 1965), Pre University Course (Isalamiya College, Vaniyambadi, 1960), Secondary school (Government High School, Katpadi, 1958)",
+    "profession": "Social Worker, Politician, Agriculturist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 738656651.0,
+    "total_liabilities_xls": 153143441.0,
+    "net_worth_xls": 585513210.0,
+    "cash_xls": 2634151.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "26,34,151 26 Lacs+",
+        "spouse": "25,57,939 25 Lacs+",
+        "huf": "25,30,561 25 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank Election Expenses A/c 1,23,000 1 Lacs+ Canara Bank SB A/c 2,00,000 2 Lacs+ Canara Bank SB A/c 14,15,965 14 Lacs+ Indian Bank A/c 9,43,379 9 Lacs+ Indian Bank A/c 3,00,037 3 Lacs+ Indian Bank A/c 10,58,263 10 Lacs+ IOB A/c 1,12,78,867 1 Crore+ Canara Bank FD A/c 5,00,000 5 Lacs+ Indian Bank FD A/c 10,00,000 10 Lacs+ Indian Bank FD A/c 5,00,000 5 Lacs+ Indian Bank FD A/c 10,00,000 10 Lacs+ Indian Bank FD A/c 10,00,000 10 Lacs+ Indian Bank FD A/c 5,00,000 5 Lacs+ Personal Deposit Cash Deposit in PD A/c of Commissioner of I.T 10,57,010 10 Lacs+",
+        "spouse": "Canara Bank, A/c 10,92,985 10 Lacs+ Indian Bank A/c 53,74,311 53 Lacs+ PNB A/c 36,158 36 Thou+ IDFC Bank FD A/c 2,00,00,000 2 Crore+ IDFC Bank FD A/c 2,00,00,000 2 Crore+ IDFC Bank FD A/c 1,80,00,000 1 Crore+ Canara Bank FD A/c 1,00,00,000 1 Crore+",
+        "huf": "Canara Bank SB A/c 1,79,980 1 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Kathir Infotech Pvt Ltd 3,00,000 3 Lacs+ Kathir Spinning Mills Pvt Ltd 5,00,000 5 Lacs+ Rajama Export Capital A/c 2,95,92,460 2 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "86,12,782 86 Lacs+",
+        "spouse": "14,35,325 14 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 500 Grams 64,26,000 64 Lacs+ Diamond 1 Ct 4,50,000 4 Lacs+ Silver 2 Kgs 5,01,500 5 Lacs+",
+        "spouse": "Gold 2224 Grams 2,85,82,848 2 Crore+ Diamond 5.5 Ct 24,75,000 24 Lacs+ Silver 6 Kgs 15,04,500 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Air Conditioners 1,72,080 1 Lacs+ Furniture Fittings and Interior decorations 3,32,020 3 Lacs+ Mobile Phones 25,000 25 Thou+ Health Care Machines 1,26,000 1 Lacs+",
+        "spouse": "Air Conditioners 29,000 29 Thou+ Farm Equipments 95,000 95 Thou+ Home Appliances 40,710 40 Thou+ Moped 9,486 9 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Kaveripakkam S No: 322/1, 322/4, 323, 324/1, 324/2 Total Area 5.05 Acre Built Up Area Whether Inherited N Purchase Date 1994-11-11 Purchase Cost 191000.00 Development Cost 0.00 10,10,000 10 Lacs+ Darapadavedu S No: 11/6, 11/3 A&B, 11/2 Total Area 2.00 Acre Built Up Area Whether Inherited N Purchase Date 1996-02-16 Purchase Cost 161300.00 Development Cost 0.00 12,00,000 12 Lacs+ Kothamangala S.No: 158/2 Total Area 12.18 Acre Built Up Area Whether Inherited N Purchase Date 2005-02-07 Purchase Cost 1506220.00 Development Cost 1225000.00 24,96,900 24 Lacs+ Kandipedu S No: 517/2, 518/2, 515/4, 518/1B-4 Total Area 3.27 Acre Built Up Area Whether Inherited N Purchase Date 2005-02-08 Purchase Cost 328100.00 Development Cost 0.00 6,54,000 6 Lacs+ K.V. Kuppam S.No: 77/1 Total Area 0.80 Acre Built Up Area Whether Inherited N Purchase Date 2001-06-11 Purchase Cost 64680.00 Development Cost 0.00 2,80,000 2 Lacs+",
+        "spouse": "Kandipedu S No: 4 23/1, 423/2 & 423/3 Total Area 9.24 Acre Built Up Area Whether Inherited N Purchase Date 1995-11-24 Purchase Cost 391475.00 Development Cost 0.00 19,68,120 19 Lacs+ Peruvalayam Total Area 69.18 Acre Built Up Area Whether Inherited N Purchase Date 2008-03-15 Purchase Cost 869480.00 Development Cost 0.00 69,18,000 69 Lacs+ Peruvalayam 361/4, 351/1B2, 359/3, 395/5A, 362/1A Total Area 3.87 Acre Built Up Area Whether Inherited N Purchase Date 2008-03-15 Purchase Cost 869480.00 Development Cost 0.00 15,21,590 15 Lacs+ Peruvalayam S.No: 361/2 Total Area 1.43 Acre Built Up Area Whether Inherited N Purchase Date 2013-11-05 Purchase Cost 349100.00 Development Cost 0.00 4,36,375 4 Lacs+",
+        "huf": "Kanguppam S.No: 77/2 Total Area 1.99 Acre Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 3,98,000 3 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Keezhakottaiyur S No: 34 & 35/2, 37 Total Area 1.20 Acres Built Up Area Whether Inherited N Purchase Date 2000-09-14 Purchase Cost 120000.00 Development Cost 0.00 1,74,00,000 1 Crore+ Keezhakottaiyur S No: 33 - B Total Area 0.12 Acre Built Up Area Whether Inherited N Purchase Date 2000-09-18 Purchase Cost 12000.00 Development Cost 0.00 52,27,200 52 Lacs+ Keezhakottaiyur S No: 36/2, 36/B, 35/1, 35/3 Total Area 1.31 Acre Built Up Area Whether Inherited N Purchase Date 2000-09-20 Purchase Cost 131000.00 Development Cost 0.00 1,89,95,000 1 Crore+ Keezhakottaiyur S No: 64/1A & B Total Area 0.86 Acre Built Up Area Whether Inherited N Purchase Date 2000-11-06 Purchase Cost 131000.00 Development Cost 0.00 1,54,80,000 1 Crore+ Keezhakottaiyur S No: 63/1 Total Area 1.66 Acre Built Up Area Whether Inherited N Purchase Date 2001-02-23 Purchase Cost 166000.00 Development Cost 0.00 2,40,70,000 2 Crore+ Mahabalipuram S No: 15/3B, 15/3A2 Total Area 0.22 Acre Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 2398180.00 Development Cost 0.00 2,63,79,980 2 Crore+ Gandhinagar Vellore Door No 17, 14th East Cross Total Area 14400 Sq Ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 3,45,60,000 3 Crore+ Devaneri Village S No: 162 Total Area 9600 Sq Ft Built Up Area Whether Inherited N Purchase Date 2021-11-25 Purchase Cost 9591200.00 Development Cost 0.00 1,58,40,000 1 Crore+ Gandhinagar Vellore Door No: 18th East Cross Total Area 6300 Sq Ft Built Up Area Whether Inherited N Purchase Date 2022-02-18 Purchase Cost 5250500.00 Development Cost 0.00 1,51,20,000 1 Crore+ Mamallapuram S No: 15/37 Total Area 4800 Sq Ft Built Up Area Whether Inherited N Purchase Date 2022-09-05 Purchase Cost 4772700.00 Development Cost 0.00 79,20,000 79 Lacs+ Mamallapuram S No: 15/36 Total Area 4800 Sq Ft Built Up Area Whether Inherited N Purchase Date 2022-09-05 Purchase Cost 4772700.00 Development Cost 0.00 79,20,000 79 Lacs+ Chennai Plot No: 2&3 Arunachalam St, Kotturpuram Total Area 5100 Sq Ft Built Up Area Whether Inherited N Purchase Date 2025-07-24 Purchase Cost 163503110.00 Development Cost 0.00 16,35,03,110 16 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Chennai Door No 6 1st Main Rd, Gandhian Adayar Total Area 669 Sq Ft Built Up Area 1670 Sq Ft Whether Inherited N Purchase Date 1996-03-21 Purchase Cost 1145000.00 Development Cost 0.00 1,21,90,000 1 Crore+",
+        "spouse": "Door No 5/5 KB Nagar, 1st Main RD, Adayar, Chennai Total Area 264 Sq Ft Built Up Area 700 Sq Ft Whether Inherited N Purchase Date 1991-03-15 Purchase Cost 416154.00 Development Cost 0.00 53,00,000 53 Lacs+ T.S No 38, KB Nagar 1st Main Rd, Adayar, Chennai Total Area 1700 Sq Ft Built Up Area 3822 Sq Ft Whether Inherited N Purchase Date 2007-06-29 Purchase Cost 9729000.00 Development Cost 0.00 1,75,00,000 1 Crore+ Door No: 27, Vandalur Kelambakkam Rd, Chennai S.No: 35/1 Area: 69000 Sq Ft(Factory Building) Total Area 4.55 Sq Ft Built Up Area 69000 Sq Ft Whether Inherited N Purchase Date 2001-11-30 Purchase Cost 0.00 Development Cost 12712000.00 1,27,13,000 1 Crore+ Door No 17, Sundararajan St, Abhiramapuram, Chennai Total Area 2172 Sq Ft Built Up Area 7000 Sq Ft Whether Inherited N Purchase Date 2023-06-12 Purchase Cost 4224508.00 Development Cost 0.00 6,60,59,600 6 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Door No 7, Gandhimandapam Rd, Kotturpuram, Chennai Total Area 4705 Sq Ft Built Up Area 4250 Sq Ft Whether Inherited N Purchase Date 1985-06-25 Purchase Cost 118400.00 Development Cost 525000.00 5,65,00,000 5 Crore+",
+        "spouse": "Door No 8, 5th East Cross Rd, Gandhinagar, Vellore Total Area 6960 Sq Ft Built Up Area 2400 Sq Ft Whether Inherited N Purchase Date 1996-12-13 Purchase Cost 415000.00 Development Cost 235000.00 1,77,12,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Hinduja Leyland Finance Ltd, Mortgage Loan 14,50,43,808 14 Crore+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Rent Advance Repayble 11,25,000 11 Lacs+",
+      "spouse": "Rent Advance Repayable 69,74,633 69 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 29,86,420 | 2023 - 2024: Rs 30,57,070 | 2022 - 2023: Rs 27,45,940 | 2021 - 2022: Rs 23,15,390 | 2020 - 2021: Rs 18,35,620"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 2,68,53,080 | 2023 - 2024: Rs 3,39,37,690 | 2022 - 2023: Rs 1,93,87,510 | 2021 - 2022: Rs 81,86,910 | 2020 - 2021: Rs 39,79,760"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 5,810 | 2023 - 2024: Rs 5,860"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (9 case(s))",
+    "case_numbers_xls": "2249/2020; 148/2018; 540/2016; 479/2016; 150/2015; 903/2019; 17/2011; 9/2002; 70/2026",
+    "criminal_cases_json": {
+      "count": "9",
+      "summary": "Number of Criminal Cases:9",
+      "ipc_charges": [
+        "1 charges related to Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security (IPC Section-477)",
+        "1 charges related to Causing disappearance of evidence of offence, or giving false information to screen offender (IPC Section-201)",
+        "4 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "3 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Using as genuine a forged document or electronic record (IPC Section-471)",
+        "1 charges related to Acts done by several persons in furtherance of common intention (IPC Section-34)",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Negligent conduct with respect to explosive substance. (BNS Section-288)",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "2249/2020, Vellore North PS, Balaji Nagar, Vellore - 632004",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "341, 143, 269",
+          "other_details": "Section 3 of the Epidemic Diseases Act, Section 51(b) of the Disaster Management Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "148/2018, Katpadi PS, Chitoor Road, Vellore Thoothukudi Hwy, Katpadi, Vellore 632007",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "540/2016, Katpadi PS, Chitoor Road, Vellore Thoothukudi Hwy, Katpadi, Vellore Tamil Nadu 632007",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 151 CRPC",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "479/2016, Katpadi PS, Chitoor Road, Vellore Thoothukudi Hwy, Katpadi, Vellore Tamil Nadu 632007",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 151 CRPC",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "150/2015, Katpadi PS Chitoor Road, Vellore Thoothukudi Hwy, Katpadi, Vellore Tamil Nadu 632007",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "903/2019, Vellore North PS Balaji Nagar, Vellore Tamil Nadu, 632004",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Cr. No 17/2011, Directorate of Vigilance and Anti Corruption Vasanthapuram, Near Railway Station Vellore, Tamil Nadu 632001",
+          "case_no": "Special CC No 1 of 2021(Previously Special Case 1 of 2013)",
+          "court": "Xth Additional District and Sessions Court at Chennai",
+          "law_type": "IPC",
+          "ipc_sections": "109",
+          "other_details": "Section 13(1)(e), 13(2) of the Prevention of Corruption Act, 1988",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "The Candidate Was Discharged by Oder Date 31.01.2017 of The Special Judge/CJM Vellore Which Was Set Aside by Honble Madras High Court in Crl R.C. No 486 of 2017 by Oder Date 24.04.2025 Against Wich Slp Crl. No 15402 of 2025 is Filed and Pending before Honble Supreme Court of India And The Honble Supreme Court Has Granted Stay of The Proceeding in Special CC No 1 of 2021"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Cr. No 9/2002, Directorate of Vigilance and Anti Corruption No 293 MKN Road, Alandur, Chennai - 600016",
+          "case_no": "Special Case No 1/2004",
+          "court": "Chief Judicial Magistrate, Special Judg Vellore",
+          "law_type": "IPC",
+          "ipc_sections": "109, 471, 477, 34, 201",
+          "other_details": "Section 13(1)(d)(ii), 13(1)(e), 13(2) of the Prevention of Corruption Act 1988",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "The Candidate Was Discharged by Oder Date 27.02.2007 by The Trial Court, Which Has been Set Aside by Honble Madras High Court Crl. R.C. OF 265 of 2013 By Oder Dated 23.04.2025 Against Which Slp Crl. D. No 12540 of 2026 Pending Before Honble Supreme Court of Indian and The Honble Supreme Court Has Granted Stay of The Proceedings in Special Case No 1/2004"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "Cr. No 70/2026, Katpadi PS, Chitoor Road, Vellore Thoothukudi Highway, Katpadi, Vellore",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 288, 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 74,17,65,192 ~74 Crore+",
+    "Liabilities:": "Rs 15,31,43,441 ~15 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'Nil', 'spouse': 'Kathir Infotech Pvt Ltd 3,00,000 3 Lacs+ Kathir Spinning Mills Pvt Ltd 5,00,000 5 Lacs+ Rajama Export Capital A/c 2,95,92,4..."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹164,046,230) does not match declared total assets (₹741,765,192). Difference: ₹577,718,962"
+    }
+  ]
+}

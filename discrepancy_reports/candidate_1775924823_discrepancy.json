@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924823",
+    "candidate_name": "N. HARINARAYANAN",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "INDEPENDENT",
+    "constituency": "NO.19 CHEPAUK-TIRUVALLIKENI ASSEMBLY CONSTITUENCY, TAMILNADU",
+    "pan": "AWBPH5236N",
+    "phone": "6382906046, 9962324747",
+    "email": "hariadvocate@gmail.com",
+    "address": "1, SWATHANTHRA NAGAR 4th STREET, V.P.RAMAN SALAI, TRIPLICANE, CHENNAI-600 005.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "L.L.B. Dr. AMBETHKAR GOVERNMENT LAW COLLEGE, CHENNAI [2014-2017]",
+    "profession": "ADVOCATE"
+  },
+  "financial_summary": {
+    "total_assets_xls": 67034.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 67034.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

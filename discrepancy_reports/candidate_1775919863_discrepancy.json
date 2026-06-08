@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919863",
+    "candidate_name": "ஆறு.செந்தில் குமார்",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "சுயேட்சை",
+    "constituency": "138 மணப்பாறை சட்டமன்றத் தொகுதி",
+    "pan": "DZAPA6655R",
+    "phone": "6382278086",
+    "email": "a06051487@gmail.com",
+    "address": "92, மேலத்தெரு, குருங்குளம் மேல்பாதி, தஞ்சாவூர் - 613303",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10 ஆம் வகுப்பு, நேஷனல் மேல்நிலைப்பள்ளி, திருச்சிராப்பள்ளி மாவட்டம்.",
+    "profession": "சிற்றுண்டி உரிமையாளர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 322000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 322000.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

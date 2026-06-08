@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913243",
+    "candidate_name": "Dr.N. திருப்பதி",
+    "candidate_name_json": null,
+    "age": "63",
+    "party": "Tamilaga Vettri Kazhagam",
+    "constituency": "50, Tirupattur, Tamil Nadu",
+    "pan": "ADMPT6399Q",
+    "phone": "9791490111",
+    "email": "powerfeed2000@gmail.com",
+    "address": "No.1, Thirumal Nagar, Earikodi, Madavalam(po), Tirupattur, Tirupattur(dt), Tamil Nadu - 635653",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th (1981-1982) Government Boys Higher Sec. School, Madavalam; 12th (1983-1984) Government Boys Higher Sec. School, Madavalam; BVSc (1984-1989) Madras Veterinary College, Vepery",
+    "profession": "Business, Pension"
+  },
+  "financial_summary": {
+    "total_assets_xls": 141756873.27,
+    "total_liabilities_xls": 39532172.0,
+    "net_worth_xls": 102224701.27,
+    "cash_xls": 1002050.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

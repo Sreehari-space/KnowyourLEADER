@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908702",
+    "candidate_name": "M. Chinnaiyan",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "Puthiya Tamizhagam",
+    "constituency": "144, Manachanallur, Tamil Nadu",
+    "pan": "BVCPC5544F",
+    "phone": "9952176841",
+    "email": "chinnaiyan02021973@gmail.com",
+    "address": "113, Pallar Street, Chinnakodunthurai, Kodunthurai, Musiri Taluk, Tiruchirappalli District - 621202",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard (Failed), Government High School, Thandalaipputhur, Year of completion: 1992",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 482000.0,
+    "total_liabilities_xls": 200000.0,
+    "net_worth_xls": 282000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

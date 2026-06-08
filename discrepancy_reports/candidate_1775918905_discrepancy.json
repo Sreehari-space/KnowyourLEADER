@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918905",
+    "candidate_name": "G.MOHAN",
+    "candidate_name_json": null,
+    "age": "65",
+    "party": "Independent",
+    "constituency": "38, Arakkonam (SC) Assembly Constituency",
+    "pan": "HXSPM5763A",
+    "phone": "9894808040",
+    "email": "not applicable",
+    "address": "No. 531, Mettu Colony, Thanigaipolur (Village and Post), Arakkonam Taluk, Ranipet District-631003",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "X STANDARD (State Board, Government Adi Dravida Welfare School, Arakkonam, 1979)",
+    "profession": "RETIRED FROM PRIVATE EMPLOYMENT"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5082305.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 5082305.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

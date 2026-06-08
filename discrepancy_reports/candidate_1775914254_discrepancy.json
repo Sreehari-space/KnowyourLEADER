@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914254",
+    "candidate_name": "T.MUNUSAMY",
+    "candidate_name_json": null,
+    "age": "65",
+    "party": "SAMANIYA MAKKAL NALAKATCHI",
+    "constituency": "96-TIRUCHENGODU CONSTITUENCY",
+    "pan": "CGIPM5227K",
+    "phone": "9842975594",
+    "email": "NIL",
+    "address": "324, Milk Society Opp, Govt High School Near, Kaliyanur, Pallipalayam Agraharam, Kumarapalayam Taluk, Namakkal Dist -638008",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5th Std., from Govt Primary School, Thulasampatti village, Omalur Taluk in the year 1982",
+    "profession": "Social Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 81911556.0,
+    "total_liabilities_xls": 20000000.0,
+    "net_worth_xls": 61911556.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

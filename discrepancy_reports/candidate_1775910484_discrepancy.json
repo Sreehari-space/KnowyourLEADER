@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910484",
+    "candidate_name": "D. Raja",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "Kilpennathur (64)",
+    "pan": "BTOPR3244M",
+    "phone": "9943612615",
+    "email": "rajaakeerth1998@gmail.com",
+    "address": "No. 15, Kalathu Mettutheru, Vettavalam Panchayat, Kilpennathur Taluk, Tiruvannamalai District - 606 754",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Std - 2007, Government Boys Higher Secondary School, Vettavalam; 12th Std - 2009, Government Boys Higher Secondary School, Vettavalam; B.Sc., Indian Arts & Science College, Naldumangalam - 2009-2012 (Tiruvalluvar University); MBA., ES Engineering College, Villupuram 2014 (Anna University)",
+    "profession": "Hotel and Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3101921.0,
+    "total_liabilities_xls": 1454000.0,
+    "net_worth_xls": 1647921.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

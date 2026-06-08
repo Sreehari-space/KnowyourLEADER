@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904717",
+    "candidate_name": "ALAGAAPURAM R.MOHANRAJ",
+    "candidate_name_json": null,
+    "age": "72",
+    "party": "Desiya Murpokku Dravida Kazhagam (DMDK)",
+    "constituency": "88, Salem West, Tamil Nadu",
+    "pan": "ADEPM5586G",
+    "phone": "9994101000",
+    "email": "alagapurammohanraj@gmail.com",
+    "address": "23 SRI RAM NAGAR, REDDIYUR, SALEM-636016",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Science B.Sc. (Botany) Discontinued, Government Arts College, Salem, Madras University, 1974 - 1976",
+    "profession": "Farming and Real Estate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 162559615.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 162559615.0,
+    "cash_xls": 3000000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "CR.NO.1485/2011 / 896/2020",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

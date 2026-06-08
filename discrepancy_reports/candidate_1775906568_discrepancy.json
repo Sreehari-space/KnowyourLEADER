@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906568",
+    "candidate_name": "R. MANOHARAN",
+    "candidate_name_json": null,
+    "age": "66",
+    "party": "Indian National Congress Party",
+    "constituency": "227-NANGUNERI Assembly Constituency, Tamil Nadu",
+    "pan": "AITPM4900C",
+    "phone": "9841085525",
+    "email": "rubyrmanoharan@gmail.com",
+    "address": "No.43, 26th Cross Street, Maharaja Nagar, Palayamkottai, Tirunelveli- 627001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C - GOVT OF TAMIL NADU, 1976",
+    "profession": "Ruby Builders & Promoters - Managing Partner, Ruby Manoharan Property Developers Private Ltd- Director, Ruby Sportz India Private Ltd- Director, Ruby Readymix Concrete- Partner, Ruby Doors & Windows- Partner, Walfs Infra India Private Ltd- Director"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1414914401.0,
+    "total_liabilities_xls": 226294418.0,
+    "net_worth_xls": 1188619983.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (6 case(s))",
+    "case_numbers_xls": "507/2021; 1545/2017; 209/2023; 132/2023; 412/2022; 230/2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

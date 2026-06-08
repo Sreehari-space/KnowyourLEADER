@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904101",
+    "candidate_name": "V. G. Ganesan",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "205 Sivakasi Assembly Constituency, Tamil Nadu",
+    "pan": "ALAPG7297A",
+    "phone": "9443547000",
+    "email": "vinayagarganesan@gmail.com",
+    "address": "Door No. 55 T, Velayutham Road, Sivakasi Town, Sivakasi Taluk, Virudhunagar District - 626123",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC, Government Higher Secondary School, T. Ramanathapuram, Madurai District, Year 1989",
+    "profession": "Business - Firecracker production"
+  },
+  "financial_summary": {
+    "total_assets_xls": 565843313.0,
+    "total_liabilities_xls": 50321255.0,
+    "net_worth_xls": 515522058.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 115/2024, Elayirampannai Police Station, Section 9(B) 1(A) Indian Explosives Act 1984; C.C.No.15/2025, District Munsif cum Judicial Magistrate No.1, Sattur",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

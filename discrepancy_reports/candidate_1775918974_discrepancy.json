@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918974",
+    "candidate_name": "சி.கருப்பையா",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "பாட்டாளி மக்கள்கட்சி",
+    "constituency": "180 புதுக்கோட்டை, தமிழ்நாடு",
+    "pan": "AZQPK8324A",
+    "phone": "9786785656",
+    "email": "muthuveerankaruppu@gmail.com",
+    "address": "பெ.சின்னு, கதவு எண் 319, லெட்சுமிபுரம் கிராமம், பெருங்களூர் அஞ்சல், புதுக்கோட்டை தாலுகா & மாவட்டம், குறியீட்டு எண்: 622203",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BL(BACHELAR OF LAW) அம்பேத்கர் சட்டக்கல்லூரி-திருச்சி-2020",
+    "profession": "அட்வகேட்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 319816.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 319816.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

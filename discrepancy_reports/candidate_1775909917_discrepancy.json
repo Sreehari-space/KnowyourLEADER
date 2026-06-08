@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909917",
+    "candidate_name": "G.K.Rathina Prakash",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Puthiya Tamizhagam",
+    "constituency": "209 Paramakudi (SC), Assembly Constituency, Tamil Nadu",
+    "pan": "BLHPR9358F",
+    "phone": "9884055814",
+    "email": "gkrprakash@gmail.com",
+    "address": "343 Poovaisiya Indra Kula Street, Kattuparama Kudi, Paramakudi Taluk, Ramanathapuram District – 623 707",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Tech.",
+    "profession": "Engineer private company"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8620000.0,
+    "total_liabilities_xls": 500000.0,
+    "net_worth_xls": 8120000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "12/2018",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

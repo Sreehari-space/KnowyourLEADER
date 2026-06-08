@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919990",
+    "candidate_name": "பெ.மூர்த்தி",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "சுயேட்சை",
+    "constituency": "060 பாப்பிரெட்டிப்பட்டி சட்டமன்ற தொகுதி",
+    "pan": "FHAPM3887D",
+    "phone": "9962109131",
+    "email": "NIL",
+    "address": "118, தாசன கிராமம், அக்கமனஅள்ளி அஞ்சல், தருமபுரி வட்டம், தருமபுரி மாவட்டம், தமிழ்நாடு-636704",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5-ம் வகுப்பு 1980 அரசு நடுநிலைப்பள்ளி",
+    "profession": "விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 316000.0,
+    "total_liabilities_xls": 100000.0,
+    "net_worth_xls": 216000.0,
+    "cash_xls": 60000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

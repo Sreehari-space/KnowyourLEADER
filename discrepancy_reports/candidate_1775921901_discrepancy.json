@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921901",
+    "candidate_name": "Mr. Vinoth Savari Remigius.C",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Independent",
+    "constituency": "150-Jayankondam Assembly Constituency",
+    "pan": "ASCPV5887A",
+    "phone": "7904565757",
+    "email": "savarivinoth@gmail.com",
+    "address": "H.No 53, VKS Nagar, Puthumariamman Kovil, Valayapettai Agraharam, Valayapettai, Kumbakonam Taluk, Thanjavur District, Pincode - 612 702",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (Discontinued) (Government Higher Secondary School, Thapalur, 04.08.2003)",
+    "profession": "Business, Grocery, TV Showroom, Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 415050132.6,
+    "total_liabilities_xls": 22558374.0,
+    "net_worth_xls": 392491758.6,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr.No.53/2026 (தா.பழூர் காவல் நிலையம்) - விழிப்புணர்வு போராட்ட வழக்கு, குற்றச்சாட்டுக்கள் பதியப்பட்டுள்ளனவா: ஆம், பதிவு செய்த நாள்: -29,2026 / Cr.No.53/2026 (Thapalur Police Station) - Awareness protest case, charges framed: Yes, date of framing charges: -29,2026",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

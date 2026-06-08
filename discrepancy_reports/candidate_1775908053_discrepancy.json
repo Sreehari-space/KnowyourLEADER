@@ -1,0 +1,421 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908053",
+    "candidate_name": "S. Krishnakumar",
+    "candidate_name_json": "KRISHNA KUMAR. S",
+    "age": "33",
+    "party": "Tamil Nadu Victory Federation",
+    "constituency": "232 - Padmanabhapuram Assembly Constituency, Tamil Nadu",
+    "pan": "COUPK9442L",
+    "phone": "9597140671",
+    "email": "selvarajkrishna100@gmail.com",
+    "address": "No: 2-91, Kattaikkal, Kootravilagam, Padmanabhapuram, Viyannoor, Kanyakumari District, Tamil Nadu - 629177",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Std (March 2010), 12th Std (March 2012) from Yettacode HSS, Yettacode, Tamilnadu State board; DCE (April 2015) from Noorul Islam Polytechnic College, Punkarai, State Board of Technical education and training.",
+    "profession": "Individual building contractor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 11278154.0,
+    "total_liabilities_xls": 2836462.0,
+    "net_worth_xls": 8441692.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,000 10 Thou+",
+        "spouse": "2,500 2 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "900 9 Hund+",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "IOB Bank, Attoor Branch 1,500 1 Thou+ Indian Bank, Thiruvattar Branch 3,005 3 Thou+ SBI Bank, Thiruvattar Branch 1,870 1 Thou+ Indian Bank, Thiruvattar Branch 10,00,259 10 Lacs+ Indian bank, thiruvattar Branch, 11,000 11 Thou+",
+        "spouse": "Canara Bank, Ponmanai Branch 450 4 Hund+ Indian bank, thiruvattar Branch 320 3 Hund+ IOB Bank Verkilambi Branch 725 7 Hund+ Indian Bank, Thiruvattar Branch 1,000 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "SBI Bank, Thiruvatta r Branch 850 8 Hund+ SBI Bank, Kuzhithurai Br 675 6 Hund+ Indian bank Thiruvattar Br 327 3 Hund+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Car Toyota Kirloskar Motor Pvt Ltd Innova TN 22 AY 2022, 2024 4,00,000 4 Lacs+ Motor Cycle Yamaha, FZ TN75AE4198, 2018 65,000 65 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "80Gram 10,61,200 10 Lacs+",
+        "spouse": "205 Gram 27,19,325 27 Lacs+",
+        "huf": "Nil",
+        "dependent1": "40Gram 5,30,600 5 Lacs+",
+        "dependent2": "56 Gram 7,42,740 7 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "359/5A, No 2-91, Kuttravilakam, Parayan Villai Thiruvattar Post Kaniyakumari District, Tamil Nadu 629177 Total Area 2178.077 sq ft Built Up Area 750 sq ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 60,00,000 60 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "IOB Gold Loan 5,04,000 5 Lacs+ Muthoot Fincorp Gold Loan 4,79,536 4 Lacs+ Muthoot Fincorp Gold Loan 5,88,025 5 Lacs+ Indian Bank Gold lOan 1,10,000 1 Lacs+ Bajaj Fin Ltd Consumer lOan 7,719 7 Thou+ Bajaj Fin Ltd Consumer Loan 10,666 10 Thou+ Indian Bank Business Loan 5,00,000 5 Lacs+ Muthoot Fincorp Gold Loan 5,06,000 5 Lacs+",
+      "spouse": "Fusion JLG loan 14,804 14 Thou+ IIFL Samasta JLG Loan 5,377 5 Thou+ Canara bank JLG Loan 42,095 42 Thou+ HDFC Personal Loan 68,240 68 Thou+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 3,62,540"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "Cr.No.206/2025; Cr.No.103/2026; Cr.No:89/2026; Cr.No:04/2016",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "1 charges related to Waging or attempting to wage war, or abetting the waging of war, against the Government of India. (BNS Section-147)",
+        "1 charges related to Conspiring to commit certain offences against the State. (BNS Section-148)",
+        "1 charges related to Fraudulent removal or concealment of property, of himself or any other person or assisting in the doing thereof, or dishonestly releasing any demand or claim to which he is entitled. (BNS Section-323)",
+        "2 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Causing danger or obstruction in public way or line of navigation. (BNS Section-285)",
+        "1 charges related to Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 338 (BNS Section-341)",
+        "1 charges related to Mischief - Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits mischief. (BNS Section-324)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr. No.206/2025,Colachel Police Station, Colachel Main Road, Kanniyakumari District, Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Cr.No.103/2026, Thakkalai Police Station, Thakkalai Main Road, Kanniyakumari District, Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "285, 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Cr.No 89/2026, Thiruvattar Police Station, Kanniyakumari District, Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 4(1) TNOPD Act 1959",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Cr. No 04/2016, Thiruvattar Police Station, Kanniyakumari District, Tamil Nadu",
+          "case_no": "660/2024",
+          "court": "Judicial Arbitration Court 1, Padmanabhapuram",
+          "law_type": "BNS",
+          "ipc_sections": "147, 148, 341, 324, 323, 506",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "13 Aug 2024",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,25,54,246 ~1 Crore+",
+    "Liabilities:": "Rs 28,36,462 ~28 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹10,949,082, but 5-year family income is only ₹362,540. Unexplained wealth discrepancy of ₹10,586,542."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "381.0g gold declared at ₹3,780,525 (Implied rate: ₹9,923/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹1,273,357 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹11,467,886) does not match declared total assets (₹12,554,246). Difference: ₹1,086,360"
+    }
+  ]
+}

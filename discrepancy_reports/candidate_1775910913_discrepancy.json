@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910913",
+    "candidate_name": "P. Ezhumalai Palanisamy",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent",
+    "constituency": "86 Edappadi Assembly Constituency, Tamil Nadu",
+    "pan": "FYHPP6860D",
+    "phone": "9944625354",
+    "email": "idappadielumalaipmkl@gmail.com",
+    "address": "32C, Avaniyur North Street, Avaniperur West, Edappadi, Salem, Tamil Nadu - 637101",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Eighth Standard, Government High School, Chettimankurichi, Salem District",
+    "profession": "Not specified in Form 26"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3708043.7,
+    "total_liabilities_xls": 825317.0,
+    "net_worth_xls": 2882726.7,
+    "cash_xls": 32500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR NO: 315/ 2022, Edappadi Police Station, CASE No: CC/0000120/2023, CNR TNSA1E0007682023, Sections: IPC 294 (B), 323, 506 (1), 325, Brief: Abusive language, physical assault, threatening, Charges framed: 26-12-2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

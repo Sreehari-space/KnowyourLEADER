@@ -1,0 +1,442 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904807",
+    "candidate_name": "S. Karunakaran",
+    "candidate_name_json": "S.KARUNAKARAN",
+    "age": "65",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "137 Kulithalai (General), Tamil Nadu State.",
+    "pan": "AAQPK6711L",
+    "phone": "9659944455",
+    "email": "apsk61@gmail.com",
+    "address": "Door No. 22, Kuditheru, Valaiyapatti, Iraniyamangalam Village, Kulithalai Taluk, Karur District-639 107.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "S.S.L.C., [11th Std] Bishop Heber School, Trichy - 1977; PUC - Bishop Heber College, Trichy - 1978; DIPLOMA IN CHEMICAL TECHNOLOGY – May 1981 (Government Of Tamil Nadu State Board Of Technical Education And Training Department Of Technical Education)",
+    "profession": "Individual agriculture and business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 181338203.0,
+    "total_liabilities_xls": 63437830.0,
+    "net_worth_xls": 117900373.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,00,000 1 Lacs+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "50,000 50 Thou+",
+        "dependent2": "50,000 50 Thou+",
+        "dependent3": "10,000 10 Thou+"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Kulithalai Branch SB 3,150 3 Thou+ Canara Bank, Panickampatty Branch SB 2,297 2 Thou+ AXIS Bank Sirugamani Branch SB 31,26,411 31 Lacs+ AXIS Bank Trichy Main Branch OD 25,12,258 25 Lacs+ New bank account opened for election expenses, in accordance with the guidelines of the Election Commission. Bank of Maharashtra, Kulithalai Branch. 10,00,000 10 Lacs+",
+        "spouse": "Canara Bank, Panickampatty Branch SB 23,942 23 Thou+ AXIS Bank Sirugamani Branch SB 3,00,145 3 Lacs+ Bank of Mahastra Kulithalai Br. SB 1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "AXIS Bank Sirugamani Branch SB 4,098 4 Thou+ HDFC Bank Kulithalai Branch 83",
+        "dependent2": "SBI Kulithalai Branch SB 26,600 26 Thou+ HDFC Bank Kulithalai Branch 314 3 Hund+",
+        "dependent3": "SBI Kulithalai Branch SB 1,22,000 1 Lacs+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Bala Traders (Royal Oak Furniture) Partner Investment 20,40,000 20 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Bala Traders (Royal Oak Furniture) Partner Investment 19,60,000 19 Lacs+ Axis ELSS Tax Saver Fund Regular Plan Growth Invested 66,993 66 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Innova Car TN 47 BT 7779 Model 2024 32,00,000 32 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Maruthi Car TN47BT2242 Model 2024 7,00,000 7 Lacs+",
+        "dependent2": "Maruthi Car TN47BZ4596 Model 2019 5,00,000 5 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "40 grams Gold Jewelry 4,80,000 4 Lacs+",
+        "spouse": "400 grams Gold Jewelry 48,00,000 48 Lacs+ 1½ Kilograms of Silver 4,50,000 4 Lacs+",
+        "huf": "Nil",
+        "dependent1": "350 grams Gold Jewelry 42,00,000 42 Lacs+ 500 grams Silver 1,50,000 1 Lacs+",
+        "dependent2": "350 grams Gold Jewelry 42,00,000 42 Lacs+ 600 grams Silver 1,60,000 1 Lacs+",
+        "dependent3": "125 grams Gold Jewelry 15,00,000 15 Lacs+"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Native property Detail, Iraniyamangalam Village 106/3 Ac.0.60 106/4 Ac.0.60 107/1 Ac.0.86 453/2A1 Ac.0.22 455/2 Ac.1.95 175/1A1 Ac.1.96 175/2 Ac.0.48 175/3 Ac.0.33 175/4 Ac.0.32 175/5 Ac.0.29 175/6 Ac.0.48 175/1A2 Ac.1.10 241/1 Ac.1.17 241/2B Ac.0.68 241/3C Ac.0.41 241/6A Ac.0.28 1/2 241/6C Ac.0.28 1/2 244/1C Ac.0.22 244/1D Ac.0.53 244/1E Ac.1.54 180/2 AC.2.45 180/5 Ac.0.84 188/2 Ac.3.96 190/2 Ac.2.13 241/8B Ac.0.40 244/1G Ac.0.26 244/11 Ac.0.47 244/1J Ac.0.38 243/2 Ac.0.61 243/7 Ac.1.90 458/1B Ac.1.44 459/2B Ac.0.98 106/2 Ac.0.35 16/3 Ac.0.31 175/1A3 Ac.0.14 176/1 Ac.1.25 455/1 Ac.0.48 15/2 Ac.0.15 Total Area 1.3280 Acres Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 9,79,00,000 9 Crore+",
+        "spouse": "Iraniyamangalam Village 36/2D Ac. 0.27 Ancestral; (1) (Purchased Properties) Iraniyamangalam Village 244/5A 244/68 241/8A Ac. 1.93 Date of Purchase:08.04.2002 Cost of Purchase:Rs. 74,000/-; (2) Investment Iraniyamangalam Village 199/2A2A 199/2A3A 244/1F 244/1H 244/4B Total Ac. 1.99 Date of Purchase:08.04.2002 Cost of Purchase:Rs. 23,100/-; (3) Iraniyamangalam Village 241/58 241/2A 244/18 Total Ac. 1.00 Date of Purchase:27.02.2003 Cost of Purchase:Rs. 11,000/-; (4) Iraniyamangalam Village 244/2B 244/2C 244/3B Total Ac. 1.62 Date of Purchase:24.02.2005 Cost of Purchase:Rs. 18,000/-; (5) Iraniyamangalam Village 244/2A 244/3A Total Ac. 1.15 Date of Purchase:30.02.2005 Cost of Purchase:Rs. 12,000/-; Ancestral land measuring only 0.27 cents. (Land Only Ancestral Property) Total Area 0.07 Acres (7 Cents) Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,27,00,000 2 Crore+",
+        "huf": "Nil",
+        "dependent1": "Original property details: Iraniyamangalam village 241/10A 241/10B 242/1A 242/2 242/3 242/4 Ac.6.12 (acquired property: Iraniyamangalam village 458/2 Ac.1.94) Acres 6.12- Ancestral Property; 1.94 Acres Purchased(Acquired)Under Sale Consideration ; Total Area 8.06 Cents Built Up Area Whether Inherited N Purchase Date 2010-11-24 Purchase Cost 253500.00 Development Cost 0.00 2,30,00,000 2 Crore+",
+        "dependent2": "Details of Ancestral Property: Iraniyamangalam Village 243/1 243/4 243/5 243/6 244/1A 244/4A 244/4C 244/48 244/5B 244/6A 4.88 Acres Total Area 4.88 Acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,40,00,000 1 Crore+",
+        "dependent3": "Ancestral Property Details: Iraniyamangalam Village 106/2 16/3 175/1A3 176/1 455/1 15/2 175/1A2A 4.76 Acres Total Area 4.76 Acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,40,00,000 1 Crore+"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Hiraniyamangalam Village Survey No. 175/1A2B Hiraniyamangalam Village Survey No. 175/1A2B 0.21 Acres Ancestral Property Total Area 0.21 Acres Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 1000000.00 25,00,000 25 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "1) Trichy Mela Chinthamani T.S.No.2 3212 Sq.ft.(Purchased) Date of Purchase:29.08.1986 Cost of Purchase:Rs.48180 Investment on the land by way of development, construction, etc- Rs.5000000 2) Trichy Mela Chintamani T.S. No. 2 3,218 Sq. ft.(Ancestral) Investment on the land by way of development, construction, etc- Rs.5000000 Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 4,00,00,000 4 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "AXIS Bank Sirugamani Branch, Term Loan 4,30,00,000 4 Crore+ AXIS Bank Trichy Main, Agri Loan 1,89,00,000 1 Crore+ Eraniyamangalam PACCB Agri Loan 1,69,915 1 Lacs+ HDFC Bank, Thillai Nagar Br. Car Loan 11,98,000 11 Lacs+",
+      "spouse": "Eraniyamangalam PACCB Agri Loan 1,69,915 1 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Eraniyamangalam PACCB Agri Loan 1,69,915 1 Lacs+",
+      "dependent2": "Eraniyamangalam PACCB Agri Loan 1,69,915 1 Lacs+",
+      "dependent3": "Eraniyamangalam PACCB Agri Loan 1,69,915 1 Lacs+"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 19,92,233 | 2023 - 2024: Rs 15,08,148 | 2022 - 2023: Rs 13,54,987 | 2021 - 2022: Rs 12,91,732 | 2020 - 2021: Rs 15,59,568"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 11,37,240 | 2023 - 2024: Rs 9,56,305 | 2022 - 2023: Rs 6,32,670 | 2021 - 2022: Rs 9,88,338 | 2020 - 2021: Rs 11,01,400"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,14,862 | 2023 - 2024: Rs 1,62,16,641 | 2022 - 2023: Rs 11,86,570 | 2021 - 2022: Rs 13,36,790 | 2020 - 2021: Rs 18,05,960"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 10,57,280 | 2023 - 2024: Rs 6,95,100 | 2022 - 2023: Rs 4,49,510 | 2021 - 2022: Rs 8,38,960 | 2020 - 2021: Rs 7,42,782"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 7,25,300 | 2023 - 2024: Rs 6,94,346 | 2022 - 2023: Rs 6,02,300 | 2021 - 2022: Rs 5,90,972 | 2020 - 2021: Rs 5,41,000"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (6 case(s))",
+    "case_numbers_xls": "FIR No.0689/2021, Kulithalai Police Station, Karur District. Sections: U/S.143, 269 of IPC, 1860 and Section 3 of The Epidemic Diseases Act-1897. Brief: Unlawful Assembly, Negligent act to spread infection of disease dangerous of life, Wrongful restraint, Disobeying the regulation order made under the said Act.; FIR No.0691/2021, Kulithalai Police Station, Karur District. Sections: U/S.143, 269 of IPC, 1860 and Section 3 of The Epidemic Diseases Act-1897. Brief: Unlawful Assembly, Negligent act to spread infection of disease dangerous of life, Wrongful restraint, Disobeying the regulation order made.; FIR No.483/2022, Thanthonimalai Police Station, Karur District. Sections: U/S.143, 294(b), 341, 353, 506(2) of IPC, 1860 and Section 3 TN Public Property [Prevention of Damage and Loss] Act, 1992. Brief: Dispute between the rival political parties regarding the participation in the District Counsel Election to elect Vice-President.; FIR No.237/2026, Karur Town Police Station. Sections: U/S.189(2), 281, 288 of BNS, 2023 & Section 127 of the Representation of People Act, 1951 and Section 3(A) of TN Open Places [Prevention of Disfigurement] Act.1959. Brief: Usage of Fireworks in the way to cause danger.; FIR No.238/2026, Karur Town Police Station. Sections: U/S.189(2), 281, 288 of BNS, 2023 & Section 127 of the Representation of People Act, 1951 and Section 3(A) of TN Open Places [Prevention of Disfigurement] Act.1959. Brief: Usage of Fireworks in the way to cause danger.; FIR No.117/2026, Thanthonimalai Police Station, Karur District. Sections: U/S.189(3), 192, 281, 288 of BNS 2023 & Section 127(1) of The Representation of People Act. Brief: Usage of Fireworks in the way to cause danger.",
+    "criminal_cases_json": {
+      "count": "6",
+      "summary": "Number of Criminal Cases:6",
+      "ipc_charges": [
+        "1 charges related to Joining or continuing in an unlawful assembly, knowing that it has been commanded to disperse. (BNS Section-189(3))",
+        "3 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "2 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "3 charges related to Rash driving or riding on a public way. (BNS Section-281)",
+        "3 charges related to Negligent conduct with respect to explosive substance. (BNS Section-288)",
+        "2 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Wantonly giving provocation with intent to cause riot (BNS Section-192)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "0689/2021, Kulithalai Police Station Karur District",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Kulithalai",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269",
+          "other_details": "Section 3 of Epidemic Disease Act.1897",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "0691/2021, Kulithalai Police Station Karur District",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Kulithalai",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269",
+          "other_details": "Section 3 of Epidemic Disease Act.1897",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "483/2022, Thanthonimalai Police Station, Karur District",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate No.1 Karur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 294B, 341, 353, 506(ii)",
+          "other_details": "Section 3 TNPP Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "117/2026, Thanthonimalai Police Station, Karur District",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate No.1 Karur Thanthonimalai",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 281, 288",
+          "other_details": "Section 127 of the Representation of People Act, 1951 and Section 3(A) of TN Open Places Prevention of Disfigurement Act. 1959",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "237/2026, Karur Town Police Station",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate No.1 Karur",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 281, 288",
+          "other_details": "Section 127 of the Representation of People Act, 1951 and Section 3(A) of TN Open Places Prevention of Disfigurement] Act.1959",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "238/2026, Karur Town Police Station",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate No.1 Karur",
+          "law_type": "BNS",
+          "ipc_sections": "189(3), 192, 281, 288",
+          "other_details": "Section 127(1) of The Representation of People Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 24,60,38,291 ~24 Crore+",
+    "Liabilities:": "Rs 6,39,47,575 ~6 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹194,490,130, but 5-year family income is only ₹40,620,994. Unexplained wealth discrepancy of ₹153,869,136."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Dependent1 Agricultural Land purchased in 2010 for ₹253,500 (CII Indexed Cost: ₹570,754) is declared at highly inflated value of ₹23,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "2365.0g gold declared at ₹5,280,000 (Implied rate: ₹2,233/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

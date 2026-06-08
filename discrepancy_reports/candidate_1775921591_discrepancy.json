@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921591",
+    "candidate_name": "SELVA DHAYANITHI M",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "INDEPENDENT CANDIDATE",
+    "constituency": "132, DINDIGUL, TAMILNADU",
+    "pan": "KZWPS4078F",
+    "phone": "9025473730",
+    "email": "NIL",
+    "address": "171A KATHIRAIYAN KULAM,S.VADIPATTY POST, SIVARPATTI, DINDIGUL -624622",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th (CSI Boys Higher Secondary School, Coimbatore, 2015)",
+    "profession": "COOLY"
+  },
+  "financial_summary": {
+    "total_assets_xls": 29960.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 29960.0,
+    "cash_xls": 24960.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

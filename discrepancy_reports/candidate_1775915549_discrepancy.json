@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915549",
+    "candidate_name": "கி.மாரியப்பன்",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "தமிழக படைப்பாளர் மக்கள் கட்சி",
+    "constituency": "227 நான்குநேரி, தமிழ்நாடு",
+    "pan": "BADPM8356D",
+    "phone": "7540006592",
+    "email": "none / இல்லை",
+    "address": "5, ஆவணி கிணறு தெரு, மூலைக்கரைப்பட்டி-627354, நெல்லை மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "அரசு மேல்நிலைப் பள்ளி, மூலைக்கரைப்பட்டி IX Std, 1996.",
+    "profession": "தனி நபர் கட்டிட வேலை"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2738870.0,
+    "total_liabilities_xls": 1203000.0,
+    "net_worth_xls": 1535870.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

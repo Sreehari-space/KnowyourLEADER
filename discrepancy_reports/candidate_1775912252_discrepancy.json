@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912252",
+    "candidate_name": "T. Dhanapandian",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "All India Puratchithalaivar Makkal Munnettra Kazhagam",
+    "constituency": "196, Thirumangalam Assembly Constituency",
+    "pan": "BLPPD5030A",
+    "phone": "9842107355",
+    "email": "thanapandian04@gmail.com",
+    "address": "Door No: 1-119, Vagaikulam, Thirumangalam, Madurai - 625706",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5th standard, Government Primary School, Vagaikulam, Thirumangalam, Madurai District, Year 1980",
+    "profession": "Agriculture and vegetable business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 29336175.12,
+    "total_liabilities_xls": 1750000.0,
+    "net_worth_xls": 27586175.12,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "1.FIR No-389/2021 Under Section 72 TNG ACT",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

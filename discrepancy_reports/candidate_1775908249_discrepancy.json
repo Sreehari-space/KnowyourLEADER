@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908249",
+    "candidate_name": "J. Abubacker Siddique",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "Anna Puratchithalaivar Amma Dravida Munnetra Kazhagam APADMK",
+    "constituency": "Madurai North",
+    "pan": "AHLPA7212L",
+    "phone": "9715715786",
+    "email": "sithick1975@yahoo.com",
+    "address": "2175, Bus Stand, Yakappanagar, Alavandan, Madurai, Madurai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc (Maths) இடைநிறுத்தம் மதுரை காமராஜர் பல்கலைக்கழகம் மதுரை (ஆண்டு 1999 )",
+    "profession": "Reporter"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10448653.95,
+    "total_liabilities_xls": 890000.0,
+    "net_worth_xls": 9558653.95,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

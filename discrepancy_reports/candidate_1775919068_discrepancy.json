@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919068",
+    "candidate_name": "L. Seenivasan",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Independent",
+    "constituency": "Chepauk (19) Assembly Constituency",
+    "pan": "BEZPS8596F",
+    "phone": "8248092611",
+    "email": "iseenivasanlseenivasan@gmail.com",
+    "address": "156, West Street, Alagapuri, Meesalur, Virudhunagar District - 626003",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard - Sippiparai Government Higher Secondary School, Sippiparai, Virudhunagar District. Year of completion March 1986. 12th Standard - Sippiparai Government Higher Secondary School, Sippiparai, Virudhunagar District. Year of completion March 1988.",
+    "profession": "Business and Ex-serviceman"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2040946.0,
+    "total_liabilities_xls": 1430000.0,
+    "net_worth_xls": 610946.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

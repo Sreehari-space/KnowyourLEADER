@@ -1,0 +1,341 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912616",
+    "candidate_name": "A. Shanmugavel",
+    "candidate_name_json": "C SHANMUGAVELU",
+    "age": "60",
+    "party": "Independent",
+    "constituency": "126 Udumalpet, Tamil Nadu",
+    "pan": "FHOPA1335N",
+    "phone": "8883504450",
+    "email": "ashanmugavel412@gmail.com",
+    "address": "27C1, South Street, Cholamadevi (P.O), Udumalpet (T.K.), Tiruppur (D.T.) – 642113",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Passed 6th standard (Government Panchayat Union Middle School, Cholamadevi, April 1980)",
+    "profession": "Wage Laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1441100.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1441100.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "2,65,000 2 Lacs+",
+        "spouse": "45,000 45 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Overseas Bank, Kumaralingam Savings Account 7,609.39 7 Thou+ Indian Overseas Bank Udumalaipettai Branch Savings 0 State Bank of India Madathukulam Branch Savings Account 4,273.70 4 Thou+ Kumaralingam Primary Agricultural Co-operative Bank Savings Account 2,386.32 2 Thou+ Indian Overseas Bank Udumalaipettai Branch Savings Account 19,941 19 Thou+",
+        "spouse": "Indian Overseas Bank Kumaralingam Branch Savings Account 8,357.67 8 Thou+ Kumaralingam Primary Agricultural Cooperative Bank Savings Account 13,005.18 13 Thou+ Indian Overseas Bank Udumalaipettai Branch Savings Account 20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "SRKS Associates LLP UDT 33,33,334 33 Lacs+ Amaravathi Cooperative Sugar Mill 3,800 3 Thou+ Kumaralingam Primary Agricultural Cooperative Bank 29,500 29 Thou+ Indian Overseas Bank 1,000 1 Thou+",
+        "spouse": "Kumaralingam Primary Agricultural Cooperative Bank 200 2 Hund+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Life Insurance 5,00,000 5 Lacs+ Life Insurance 5,00,000 5 Lacs+ Life Insurance 5,00,000 5 Lacs+ Life Insurance 1,20,000 1 Lacs+",
+        "spouse": "Life Insurance 1,00,000 1 Lacs+ Life Insurance 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Toyota Innova Crysta 2.4V MT Car No.: TN41B2525 Date: 16.11.2021 22,15,000 22 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "96 grams of gold 12,44,160 12 Lacs+",
+        "spouse": "450 grams of gold 58,32,000 58 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "West Komaralingam S.F. No. 87/3A6 Total Area 9.58 Acres Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 97,00,000 97 Lacs+",
+        "spouse": "West Komaralingam S.F. No. 340 Total Area 1.235 Acres Built Up Area Whether Inherited N Purchase Date 2025-11-18 Purchase Cost 600000.00 Development Cost 0.00 8,50,000 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "3/37B, Nehrujee Street, Chamarayapatti, Kumaralingam West, Madathukulam, Tiruppur District. Total Area 13969 sq. ft. Built Up Area 8050 sq. ft. Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,00,00,000 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Indian Overseas Bank Udumalaipettai Branch Vehicle Loan 9,22,860 9 Lacs+ Indian Overseas Bank Kumaralingam Branch Jewel Loan 5,00,000 5 Lacs+ Kumaralingam Primary Agricultural Cooperative Bank Crop Loan 1,55,000 1 Lacs+ Kumaralingam Primary Agricultural Cooperative Bank Jewel Loan 1,20,000 1 Lacs+",
+      "spouse": "Indian Overseas Bank Kumaralingam Branch Jewel Loan 2,85,000 2 Lacs+ Indian Overseas Bank Kumaralingam Branch Jewel Loan 6,00,000 6 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,64,240 | 2023 - 2024: Rs 4,73,760 | 2022 - 2023: Rs 3,13,160 | 2021 - 2022: Rs 3,87,380 | 2020 - 2021: Rs 1,71,150"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 1,35,240 | 2021 - 2022: Rs 1,00,400 | 2020 - 2021: Rs 1,25,400"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 4,58,14,567 ~4 Crore+",
+    "Liabilities:": "Rs 25,82,860 ~25 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹42,892,602, but 5-year family income is only ₹2,170,730. Unexplained wealth discrepancy of ₹40,721,872."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

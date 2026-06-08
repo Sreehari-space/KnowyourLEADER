@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907045",
+    "candidate_name": "O. PANNEERSELVAM",
+    "candidate_name_json": null,
+    "age": "75",
+    "party": "DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "200 - BODINAYAKANUR ASSEMBLY CONSTITUENCY",
+    "pan": "AMAPP6689A",
+    "phone": "9894167232",
+    "email": "o.panneerselvam1951@gmail.com",
+    "address": "70, SOUTH AGRAHARAM, THENKARAI, PERIYAKULAM, THENI DISTRICT - 625 601",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A (Economics) - Incomplete, 1973, Hajee Karutha Rowther Howdia College, Uthamapalayam Madurai University.",
+    "profession": "Politician, Agriculture and Dairy Farming"
+  },
+  "financial_summary": {
+    "total_assets_xls": 121228446.0,
+    "total_liabilities_xls": 54051955.0,
+    "net_worth_xls": 67176491.0,
+    "cash_xls": 594250.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "FIR.No. 715/2021; FIR.No. 190/2022; FIR.No. 191/2022; FIR.No. 213/2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

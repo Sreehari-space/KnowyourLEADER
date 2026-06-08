@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906281",
+    "candidate_name": "S.M. NASAR",
+    "candidate_name_json": null,
+    "age": "66",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "006 AVADI ASSEMBLY",
+    "pan": "ADFPN1706J",
+    "phone": "9600117766",
+    "email": "nazar.thiruvallursouthdmk@gmail.com",
+    "address": "No.16, Thayagam illam, Buddhar Street, Kamaraj Nagar, Avadi, Chennai- 600071",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C., GOVT HIGHER SECONDARY SCHOOL, KAMARAJ NAGAR, AVADI, CHENNAI - 600071, YEAR – 1975-76",
+    "profession": "BUSINESS"
+  },
+  "financial_summary": {
+    "total_assets_xls": 52318921.29,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 52318921.29,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

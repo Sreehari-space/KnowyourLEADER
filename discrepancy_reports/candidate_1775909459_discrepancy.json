@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909459",
+    "candidate_name": "A.Subbaiah",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "Puthiya Tamizhagam Party",
+    "constituency": "Thirumayam Assembly Constituency (Constituency No. 181)",
+    "pan": "CZXPS9330M",
+    "phone": "9965542400",
+    "email": "vairamagencies2016@gmail.com",
+    "address": "101, Swami Ramadasarpuram, Kuzhipirai and Post, Thirumayam Taluk, Pudukkottai District - 622402",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard 1989-1990 (Brahadambal Government Higher Secondary School, Pudukkottai)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3985500.0,
+    "total_liabilities_xls": 277000.0,
+    "net_worth_xls": 3708500.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

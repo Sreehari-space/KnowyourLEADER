@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910254",
+    "candidate_name": "R. ILAIYARAJA",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "INDHU DRAVIDA MAKKAL KATCHI",
+    "constituency": "210-TIRUVADANAI, TAMILNADU",
+    "pan": "AOEPI5636Q",
+    "phone": "8883422533",
+    "email": "ilayarajaa.1987@gmail.com",
+    "address": "240 Tiruvetriyur post, Ramanathapuram - 623407",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "4th Std - Govt primary School - Thiruvadanai - 1995",
+    "profession": "Social Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1222600.0,
+    "total_liabilities_xls": 140000.0,
+    "net_worth_xls": 1082600.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (5 case(s))",
+    "case_numbers_xls": "136/20; 04/26; 0093/21; 635/2022; 77/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

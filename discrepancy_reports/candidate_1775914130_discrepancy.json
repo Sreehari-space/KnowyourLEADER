@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914130",
+    "candidate_name": "திரு. முரளிதரன் E",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "52 பர்கூர் சட்ட மன்றம்",
+    "pan": "DOEPM9138A",
+    "phone": "8220282816",
+    "email": "mskmuralivijay@gmail.com",
+    "address": "கதவு எண்.41-A, வேடியப்பன் கோவில் தெரு, கிருஷ்ணகிரி மாவட்டம் மற்றும் டவுன்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10ம் வகுப்பு வேளாங்கண்ணி பள்ளி, கிருஷ்ணகிரி - தமிழக அரசு பாடதிட்டம் - 2008, 12ம் வகுப்பு வெற்றிவிகாஸ் மெட்ரிக் மேல்நிலைப்பள்ளி கீரனூர் வலசு - தமிழக அரசு பாடதிட்டம் - 2010, B.E., Archana Institute of Technology Affliated to Anna University (2021), LLB., சட்டக்கல்லூரி, சேலம் - 2023",
+    "profession": "தனி நபர் - சுயதொழில், கணினி மையம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3577000.0,
+    "total_liabilities_xls": 895000.0,
+    "net_worth_xls": 2682000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

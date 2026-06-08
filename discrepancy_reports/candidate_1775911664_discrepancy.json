@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911664",
+    "candidate_name": "B. Thandapani",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "New Generation People's Party",
+    "constituency": "120 Coimbatore (South)",
+    "pan": "AMTPD6744K",
+    "phone": "9566348009, 9442018705",
+    "email": "pondymunipictures@gmail.com",
+    "address": "605, Somasundaram Layout, 7th Street Extension, Opp. Pannari Amman Kovil, Tatabad, Coimbatore South, Coimbatore, Tamil Nadu, 641 012",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "6th Standard (Discontinued) Government High School, Narasingapuram, Dindigul District, Year completed 1987",
+    "profession": "Gas Delivery, Film Producer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9030035.0,
+    "total_liabilities_xls": 100000.0,
+    "net_worth_xls": 8930035.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "C.C.No. 85/2019",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

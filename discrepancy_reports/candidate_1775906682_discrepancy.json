@@ -1,0 +1,341 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906682",
+    "candidate_name": "A. Nithya",
+    "candidate_name_json": "NITHYA. A",
+    "age": "36",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "87 Sankagiri Assembly Constituency",
+    "pan": "AHLPN3449A",
+    "phone": "8884977454, 9629091524",
+    "email": "nithyashanthi28@gmail.com",
+    "address": "4-264A2, Sri Vaani Nagar, Mavelipalayam Post, Iveli Village, Sankagiri Taluk, Salem District, Tamil Nadu 637301",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Master of Engineering in Communication Systems, Anna University, Chennai, Tamil Nadu – 600025, Year of completion 2012",
+    "profession": "Unemployed"
+  },
+  "financial_summary": {
+    "total_assets_xls": 37284754.52,
+    "total_liabilities_xls": 12030000.0,
+    "net_worth_xls": 25254754.52,
+    "cash_xls": 310000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "3,10,000 3 Lacs+",
+        "spouse": "1,40,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Canara Bank, Namakkal Branch-SB, Joint Account of 150000 75,000 75 Thou+ Indian Bank, Namakkal Branch-SB 2,000 2 Thou+ BOB, , Namakkal Branch-SB 1,000 1 Thou+ First Abu Dhabi Bank, Dubai 35,000 35 Thou+",
+        "spouse": "HDFC Bank, Gopalapuram Branch 1,952 1 Thou+ Axis Bank, Sankari Branch-SB 1,000 1 Thou+ Axis Bank, Sankari Branch-SB 1,000 1 Thou+ Axis Bank, Sankari Branch-SB 3,200 3 Thou+ BOB, R.S.Puram Branch-SB 20,098 20 Thou+ Canara Bank, Namakkal Branch-SB Joint Account of 150000 75,000 75 Thou+ Wio Bank, Dubai 30,000 30 Thou+ First Abu Dhabi Bank, Dubai 40,000 40 Thou+ ENBD Bank, Dubai 22,000 22 Thou+ ENBD Bank, Dubai 1,000 1 Thou+ RAK bank, Dubai 41,500 41 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Zeroda, Investment 26780 37,491 37 Thou+",
+        "spouse": "Axis Share Trading, Investment 71730 72,515 72 Thou+ Axis Share Trading, Investment 1011127 19,87,842 19 Lacs+ Axis Mutual Fund 1,11,901 1 Lacs+ ICICI Prudential MNC Fund Investmement 70110 1,18,434 1 Lacs+ Canara bank, Robeco Mutual Fund Investemnt 108000 1,40,789 1 Lacs+ PGIM Mutaul Fund Investment 44997 58,428 58 Thou+ ENBD Company Investment 255000 5,90,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Canara Bank, namakkal Branch, Sovereign Gold bond 100 Gms 6,19,900 6 Lacs+ Canara Bank, namakkal Branch, Sovereign Gold bond 50 Gms 2,59,850 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Public Prvident Fund 1,57,157 1 Lacs+",
+        "dependent2": "Canara Bank, namakkal Branch, SSY 50,000 50 Thou+",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "BOB, Namakkal Main, Branch, PMSBY 0",
+        "spouse": "LIC- Jeevan Umang Plan 3,52,998 3 Lacs+ LIC- New Jeevan Amar 1,88,936 1 Lacs+ Axis Max Life Insurance 3,83,519 3 Lacs+ CAMS National Pension System- Axis Securities Limited 80,000 80 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Motor car- Tata Motors- Safari, 2025, TN 52 AF 2707 17,49,000 17 Lacs+ Motor Cycle-TVS motor company Ltd, TVS Apache RTR 160 4V, 2019, TN 52 Q 1473 1,18,000 1 Lacs+ Motor car, Nissan, Sentra, 2019 Reg. No. S56725 8,00,000 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "374 Gms Gold 62,19,620 62 Lacs+",
+        "spouse": "900 gms Gold in Abroad 1,45,84,500 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Coimbathore district, Sulur Taluk, Neelambur Village, Plot No. 80/2 Total Area 1425 Sq ft Built Up Area Whether Inherited N Purchase Date 2017-11-10 Purchase Cost 435700.00 Development Cost 0.00 10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Tamil Nadu, Selam District, sankari taluk, Iveli Village Plot No. 72/6 Total Area 4000 Sq ft Built Up Area 1200 Sq ft Whether Inherited N Purchase Date 2018-10-05 Purchase Cost 1072000.00 Development Cost 2800000.00 40,00,000 40 Lacs+ Karnataka State, Bangalore Rural District, Neelamangala taluk, sompura Village Survey No. 37/1B, 37/1C, 39/2, 40HJ, 45, 49/1, 19/3, 59/4, 50/1, 50/3 Total Area 13440 Sq ft Built Up Area 992 Sq ft Whether Inherited N Purchase Date 2012-07-02 Purchase Cost 2527000.00 Development Cost 0.00 35,00,000 35 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Canara Bank, namakkal Branch- Gold loan 1,00,000 1 Lacs+ Canara Bank, namakkal Branch- Gold loan 7,40,000 7 Lacs+ Canara Bank, namakkal Branch- Gold loan 2,30,000 2 Lacs+",
+      "spouse": "SBI, PBB Selam Branch-Personal Segment Auto Loan, Joint Loan of 1500000 7,50,000 7 Lacs+ Dubai Mashreq Bank,- Personal Loan 1,05,80,000 1 Crore+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 38,309 | 2023 - 2024: Rs 33,354"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,79,80,634 ~3 Crore+",
+    "Liabilities:": "Rs 1,24,00,000 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹28,520,133, but 5-year family income is only ₹71,663. Unexplained wealth discrepancy of ₹28,448,470."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹29,370,133) does not match declared total assets (₹37,980,634). Difference: ₹8,610,501"
+    }
+  ]
+}

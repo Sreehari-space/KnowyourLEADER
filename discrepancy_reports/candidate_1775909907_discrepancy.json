@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909907",
+    "candidate_name": "Mr. S. Dayalan",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Tamilaga Munnetra Congress",
+    "constituency": "21 - Anna Nagar Assembly Constituency",
+    "pan": "APEPD7698L",
+    "phone": "9884345099",
+    "email": "dhayalanpepsi@gmail.com",
+    "address": "No. 3888, MMDA First Main Road, 29th Street, Mathur, Chennai 600 068",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Eighth standard pass",
+    "profession": "Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 550000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 550000.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

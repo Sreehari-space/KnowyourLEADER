@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908663",
+    "candidate_name": "S.M. Irshad",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "Tamizhaga Vazhvurimai Katchi",
+    "constituency": "43- Vellore Legislative Assembly Constituency",
+    "pan": "AJHPI4744B",
+    "phone": "9677894446",
+    "email": "irshad2015.smi@gmail.com",
+    "address": "1543-E, Periya Perumal Gounder Street, Vennampatti, Railway Gate-Near, Dharmapuri - 636701",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard, Sengam Government Higher Secondary School - Tiruvannamalai",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 35162250.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 35162250.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

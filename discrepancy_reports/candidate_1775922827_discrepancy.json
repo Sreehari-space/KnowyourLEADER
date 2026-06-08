@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922827",
+    "candidate_name": "Balamurali",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Independent",
+    "constituency": "14, Villivakkam, Chennai, Tamil Nadu",
+    "pan": "BKMPB4944B",
+    "phone": "8778209297",
+    "email": "balamurali031990@gmail.com",
+    "address": "5, Mettu Street Sandhu, Villivakkam, Chennai, Tamil Nadu 600 049",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C (X) – Singarapillai Higher Secondary School, Year 2008; D.C.E - Diploma in Computer Engineering, A.M.S. Pattabiram, Year 2012",
+    "profession": "Contractor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1692400.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1692400.0,
+    "cash_xls": 12000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

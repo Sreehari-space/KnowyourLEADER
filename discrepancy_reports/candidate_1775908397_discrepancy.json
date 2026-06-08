@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908397",
+    "candidate_name": "E. Raja",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "219-Sankarankovil, Tamil Nadu",
+    "pan": "ALNPR2425A",
+    "phone": "9994075010",
+    "email": "uvpraja@gmail.com",
+    "address": "4, Thiruvudaiyan Street 2nd Street, Sankarankovil, Sankarankovil Taluk, Tenkasi 627 756",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A., Periyar University Salem (Distance Education) 2010",
+    "profession": "Lawyer, Member of Legislative Assembly, Agriculture, President - Tamil Nadu State Weightlifting Association"
+  },
+  "financial_summary": {
+    "total_assets_xls": 78343629.0,
+    "total_liabilities_xls": 13583668.0,
+    "net_worth_xls": 64759961.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "1) Cr.134/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

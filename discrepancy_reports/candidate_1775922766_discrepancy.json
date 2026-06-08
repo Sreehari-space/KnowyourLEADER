@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922766",
+    "candidate_name": "P. Jagadeesan",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Independent",
+    "constituency": "198 Andipatti Assembly Constituency, Tamil Nadu",
+    "pan": "BAQPJ8615R",
+    "phone": "9894313276",
+    "email": "NIL",
+    "address": "E1, Vinayagar Kovil Street, Srinivasa Nagar, Andipatti",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma - Year of completion 1990 - 93, Thirumathi Elizabeth Polytechnic College.",
+    "profession": "Agricultural laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1392000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1392000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

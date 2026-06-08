@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908832",
+    "candidate_name": "P. Kasiram",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "Vilathikulam, Tamil Nadu (213)",
+    "pan": "ERKPK1464F",
+    "phone": "9994845794",
+    "email": "ayanengineeringcontractor44@gmail.com",
+    "address": "46 Subramaniyapuram, Kanthasamipuram Post, N. Jegaveerapuram, Thoothukudi, Tamil Nadu 628905",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7th Standard - GHSS Pudur 628905",
+    "profession": "SUPERVISIOR IN PRIVATE COMPANY"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8397572.879999999,
+    "total_liabilities_xls": 497000.0,
+    "net_worth_xls": 7900572.879999999,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr.No.37/2019; Cc No. 44/2020",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

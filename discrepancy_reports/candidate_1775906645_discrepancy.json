@@ -1,0 +1,373 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906645",
+    "candidate_name": "Saminathan. T",
+    "candidate_name_json": "SAMINATHAN. T",
+    "age": "56",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "133-Vedasandur, Tamil Nadu",
+    "pan": "APCPS6640B",
+    "phone": "96889, 19999",
+    "email": "saminathanst1969@gmail.com",
+    "address": "2, Kongu Nagar, South Athumedu, Vedasandur, Dindigul, Tamil Nadu 624 710",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Com - Bachelor of Commerce, APSA College - Thirupattur, Madurai Kamaraj University, 1989.",
+    "profession": "Managing Trustee - Veeraa Saminathan Trust"
+  },
+  "financial_summary": {
+    "total_assets_xls": 223778816.0,
+    "total_liabilities_xls": 98485727.0,
+    "net_worth_xls": 125293089.0,
+    "cash_xls": 175000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,75,000 1 Lacs+",
+        "spouse": "2,25,000 2 Lacs+",
+        "huf": "4,77,005 4 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Central Bank of India,Branch: Kodambakkam 25,787 25 Thou+ ICICI Bank,Branch: Vedasandur 2,134 2 Thou+ Indian Overseas Bank,Branch: Tambaram 12,073 12 Thou+ Karur Vysya Bank A/c,Branch: Vedasandur 7,974 7 Thou+ Karur Vysya Bank A/c,Branch: Vedasandur 13,499 13 Thou+ South Indian Bank A/c,Branch.Udumalpet 2,792 2 Thou+ KVB Demat Account. Branch: Vedasandur 4,000 4 Thou+ HDFC Bank A/c Branch: Vedasandur 15,697 15 Thou+ Account Opening for the purpose of Election Tamil Nad Mercentile Bank A/c, Branch : Vedasandur 50,000 50 Thou+",
+        "spouse": "ICICI Bank A/c , Branch: Vedasandur 7,074 7 Thou+ Indian Overseas Bank A/c,Branch: Adambakkam 3,762 3 Thou+ Karur Vysya Bank A/c,Branch: Vedasandur 6,883 6 Thou+ CUB A/c, Branch: Vedasandur 20,010 20 Thou+ Integrated End-Demat Account,Branch: Vedasandu 4,000 4 Thou+ HDFC Bank A/c,Branch Vedasandur 4,83,016 4 Lacs+ Tamil Nad Mercentile Bank,Branch : Vedasandur 50,000 50 Thou+",
+        "huf": "ICICI Bank A/c,Branch: Vedasandur 30,260 30 Thou+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Veera A Traders (P) Ltd. PAN: AADCV0934G. Private Limited Company Certificate No. 45 Reg Folio No. 1 Equity Share Capital 44,93,700 44 Lacs+ Veera Infrastructure Company. PAN: AAUFV8806F. Partnership Firm Partners Fixed and Current Capital 8,64,273 8 Lacs+",
+        "spouse": "Veera A Traders (P) Ltd. PAN: AADCV0934G. Private Limited Company Certificate No. 46 Reg Folio No. 2 Equity Share Capital 24,00,000 24 Lacs+ Veera Infrastructure Company PAN: AAUFV8806F. Partnership Firm Partners Fixed and Current Capital 8,43,496 8 Lacs+",
+        "huf": "Veera A Traders (P) Ltd. PAN:AADCV0934G. Private Limited Company Certificate No. 47 Reg Folio No. 7 Equity Share Capital 9,22,500 9 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Loans & Advances : 1.Mrs. B. Sudha, 20,00,000 20 Lacs+ 2.Mrs. Nagajothi 10,00,000 10 Lacs+ 3.Mrs. Sabitha 1,00,000 1 Lacs+ 4.Mr. Murugesan 5,68,687 5 Lacs+ 5.Saminathan HUF 2,05,680 2 Lacs+ 6.Mrs. T. Saraswathi 9,57,277 9 Lacs+ 7.M/s. S Ramamoorthy Educational & Health Trust, Trust 95,00,000 95 Lacs+ 8.Mrs. S. Thamaraiselvi 29,30,000 29 Lacs+ 9.Mrs. Varshni Veera 50,000 50 Thou+ 10.M/s. Veeraa Saminathan Trust,Trust 25,000 25 Thou+",
+        "spouse": "1.M/s. Veera A Traders (P) Ltd 44,000 44 Thou+ 2.M/s. Veera Construction 7,70,000 7 Lacs+",
+        "huf": "1.Mr. T Saminathan - Lease 5,00,000 5 Lacs+ 2.Mrs. Sarswathi - Lease 1,00,000 1 Lacs+ 3.Mr. Shachin VNTS - Lease 50,000 50 Thou+ 4.Mr. Shachin VNTS 16,00,000 16 Lacs+ 5.Mr. Srikanth 7,97,950 7 Lacs+ 6.Mrs. Thamaraiselvi S 2,50,000 2 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "682.30 Grams of Gold 91,42,820 91 Lacs+",
+        "spouse": "1694.85 Grams of Gold 2,27,10,990 2 Crore+ 16873.15 Grams of Sliver 41,33,922 41 Lacs+",
+        "huf": "410 Grams of Gold 54,94,000 54 Lacs+ 100000 Grams of Sliver 2,45,00,000 2 Crore+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Mobile Phone: 36,441 36 Thou+",
+        "spouse": "Furnitures and Fittings 13,55,900 13 Lacs+",
+        "huf": "Livestocks -Cows, Buffalos & Goats 12,02,000 12 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "1.2010 / 6703 Agri Land, Udumalaipe,Survey No.112/1 Total Area 0.19 Acres Built Up Area Whether Inherited N Purchase Date 2010-08-16 Purchase Cost 25341.00 Development Cost 0.00 95,000 95 Thou+ 2.2010 / 6704 Agri Land , Udumalaipet, Survey No.105/1A Total Area 0.20 Acres Built Up Area Whether Inherited N Purchase Date 2010-08-16 Purchase Cost 53000.00 Development Cost 0.00 1,60,000 1 Lacs+ 3.2013 / 1796 Agri Land ,Puspathoor Village,Survey No.70A/IA.IC.ID, IE, IG, IH,70b/2,72/ICI,IC2,1 C4./73/3B,3C.3D./74/1.2,/67A/2.4.IA,IB,3A.3 B.3C.70A/I Total Area 14.47 Acres Built Up Area Whether Inherited N Purchase Date 2013-10-03 Purchase Cost 193337.00 Development Cost 0.00 2,24,83,600 2 Crore+ 4.2015 / 1065 Agri Land ,Thamaraipadi, Survey No.196, 197 & 217 Total Area 4.65 Acres Built Up Area Whether Inherited N Purchase Date 2015-03-09 Purchase Cost 731500.00 Development Cost 0.00 9,74,864 9 Lacs+ 5.2015 / 2306 Agri Land,Deval Ex Thamaraipad, Survey No.215/2. 216/1 & 216/IA Total Area 0.24 Acres Built Up Area Whether Inherited N Purchase Date 2015-05-30 Purchase Cost 66230.00 Development Cost 0.00 69,400 69 Thou+ 6.2015 / 2307 Agri Land ,Thamaraipad, Survey No-207 Total Area 0.09 Acres Built Up Area Whether Inherited N Purchase Date 2015-05-30 Purchase Cost 11800.00 Development Cost 0.00 17,920 17 Thou+ 7.2015 / 2308 Agri Land, Thamaraipadi ,Survey No-198/IC.198/2C.198/3 Total Area 0.40 Acres Built Up Area Whether Inherited N Purchase Date 2015-05-30 Purchase Cost 58010.00 Development Cost 0.00 80,000 80 Thou+ 8. 2015 / 4616 Agri Land, Thamaraipadi Survey No-197/IC. 197/3c, 196/2, 1963A, 197/IA Total Area 0.09 Acres Built Up Area Whether Inherited N Purchase Date 2015-11-20 Purchase Cost 19260.00 Development Cost 0.00 69,874 69 Thou+ 9.2021 / 1235 Agri Land , Veera Golden Avenue Survey No-112/1,113/1A,118/2B.117/1A.124/1B.123/5B,I 22/2C. 86/3A. 120/2A & 122/2B Total Area 11.51 Acres Built Up Area Whether Inherited N Purchase Date 2021-04-22 Purchase Cost 2463000.00 Development Cost 0.00 34,53,750 34 Lacs+ 10. 1737/2023 Nathapatti Land,Survey No-89.82/4.82/3,76/28.83/2.92/2. 96/1B.96/2A.96/2CI & 92/1 Total Area 3.93 Acres Built Up Area Whether Inherited N Purchase Date 2023-05-29 Purchase Cost 2772000.00 Development Cost 0.00 29,95,764 29 Lacs+ 11. 1329/2025 - Nathapatti Land,Survey No-90/IC. 75/IC. 75/IA. 76/IA, 90/IA & 89 Total Area 1.37 Acres Built Up Area Whether Inherited N Purchase Date 2025-03-27 Purchase Cost 537535.00 Development Cost 0.00 5,37,535 5 Lacs+",
+        "spouse": "1. Agri Land at Koovakapatt? -Doc No 2949, Survey No 610/IBI.IB2.IB3.1B4.1B5,1B6.1B7.1B8.61 0/4.614/1E2.IF2.3.4.IEI & 5 Total Area 6.08 Built Up Area Whether Inherited N Purchase Date 2016-12-01 Purchase Cost 1043235.00 Development Cost 1161523.00 43,27,123 43 Lacs+ 2.Agri Land at Koovakapatt? -Doc No 295, Survey No-610/188 & 614/1B Total Area 1.65 Acre Built Up Area Whether Inherited N Purchase Date 2016-12-01 Purchase Cost 590000.00 Development Cost 0.00 6,40,200 6 Lacs+ 3.Land @ Vedasandur - 3236 /2022, Survey No-831/2A & 832/2A Total Area 2.23 Acre Built Up Area Whether Inherited N Purchase Date 2022-09-22 Purchase Cost 498120.00 Development Cost 0.00 6,69,000 6 Lacs+ 4.Agri Land at Koovakkapatt?-Doc No.5189, Survey No-342/1 Total Area 0.94 Acre Built Up Area Whether Inherited N Purchase Date 2025-12-29 Purchase Cost 270810.00 Development Cost 0.00 2,35,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "1.2008 / 1607 Land , Vedasandur Plot No 36 , Survey No.91 & 893 (Plot 36) Total Area 2136.00 Sq.ft Built Up Area Whether Inherited N Purchase Date 2008-07-14 Purchase Cost 199460.00 Development Cost 0.00 4,31,472 4 Lacs+ 2. 2021 / 2296 Plot @ Vedasandhur (Gogul Nagar Near) , Survey No.836 Total Area 2702.39 Sq.ft Built Up Area Whether Inherited N Purchase Date 2021-08-31 Purchase Cost 54635.00 Development Cost 112118.00 5,45,883 5 Lacs+ 3. 2021 / 2357 Plot @ Vedasandur (Near Mp Magal) , Survey No.1036/1C.2A,1037/4A2.5A1.6CI & 1038/5D1 Total Area 10426.85 Sq.ft Built Up Area Whether Inherited N Purchase Date 2021-09-03 Purchase Cost 217787.00 Development Cost 412529.00 21,06,224 21 Lacs+ 4.2021 / 3760 Plot @ Armyapithan Part , Survey No.591/1C.592/ICI & 590/3 Total Area 4366.29 Sq.ft Built Up Area Whether Inherited N Purchase Date 2021-12-24 Purchase Cost 523871.00 Development Cost 590402.00 29,16,357 29 Lacs+ 5. 2022 / 383313900 Plot (@ Nagam Part , Survey No.1321/2 & 1321/2C Total Area 33240.40 Sq.ft Built Up Area Whether Inherited N Purchase Date 2022-11-11 Purchase Cost 39239.00 Development Cost 822460.00 67,14,561 67 Lacs+ 6. 2022 / 2265 Land @ Vedasandur Kovilur Road 2.4 Acre , Survey No.833/3.832/2 & 831/2 Total Area 104544.00 Sq.ft Built Up Area Whether Inherited N Purchase Date 2022-07-04 Purchase Cost 557450.00 Development Cost 0.00 7,50,000 7 Lacs+",
+        "spouse": "1. Aravaikurichi Veera Nagar Doc No 685, Survey No.338/2 Total Area 26885.75 Sq.ft Built Up Area Whether Inherited N Purchase Date 2019-02-22 Purchase Cost 988403.00 Development Cost 0.00 53,77,150 53 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Agri Land at Koovakapatt? -Doc No 2949 - Soap Company shed, Survey No.610/5 Total Area 18.82 sq.ft Built Up Area Whether Inherited N Purchase Date 2016-12-01 Purchase Cost 51975.00 Development Cost 1333125.00 15,18,125 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "1. Kongu Nagar House SNo 1267 Doc No 330 & 40 , Survey No.1267/2 (Plot 9 & 10) Total Area 4880 Sq.ft Built Up Area 1799.56 Sq.ft Whether Inherited N Purchase Date 1989-12-11 Purchase Cost 632200.00 Development Cost 1562355.00 25,48,115 25 Lacs+ 2.Apartment 1.6/ 520 /HI Ist Floor Sentamil Nagar Ramapuram , Survey No.HI Ist Floor Sentamil Nagar Ramapuram Total Area Built Up Area 1029.00 Sq.ft Whether Inherited N Purchase Date 0210-01-18 Purchase Cost 3614019.00 Development Cost 0.00 36,14,019 36 Lacs+",
+        "spouse": "1.Land & Building at Tambaram Village -Doc No 4978, Survey No.63/1 & 63/2.63/1A2 Total Area 3475.00 Sq.ft Built Up Area 1194.00 Sq.ft Whether Inherited N Purchase Date 2016-08-17 Purchase Cost 16063525.00 Development Cost 0.00 1,60,63,525 1 Crore+ 2.Veera Farm House - Koovakkapatt? - Doc No 2949, Survey No.610, 614 Total Area 114998.40 Sq.ft Built Up Area 9932.00 Sq.ft Whether Inherited N Purchase Date 2016-12-01 Purchase Cost 317790.00 Development Cost 78825678.00 7,91,43,468 7 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "1.HDFC Bank, Vedasandur, Home Loan 1,78,11,752 1 Crore+ 2.Karur Vysya Bank, , Vedasandur,Gold Loan 7,20,000 7 Lacs+ 3.Karur Vysya Bank, , Vedasandur,Gold Loan 24,00,000 24 Lacs+ 4.Karur Vysya Bank, , Vedasandur,Gold Loan 13,53,000 13 Lacs+ 5.Karur Vysya Bank, , Vedasandur,Gold Loan 16,41,000 16 Lacs+ 6.City Union Bank, , Vedasandur,Gold Loan 3,00,000 3 Lacs+ 7.City Union Bank, , Vedasandur,Gold Loan 11,21,000 11 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Personal Loans: 1.M/s. SA Groups,Individual 32,75,000 32 Lacs+ 2.Mrs. Kannathal R 2,00,000 2 Lacs+ 3.Mrs. Lakshmi 3,00,000 3 Lacs+ 4.Mr. Mariyappan V 4,45,200 4 Lacs+ 5.Mr. Nanthakumar Thamaraiselvam (Sindu) 45,00,000 45 Lacs+ 6.Mr. Periasamy N 15,00,000 15 Lacs+ 7.Mr. Ramasamy M 3,79,210 3 Lacs+ 8.Mr. Ramesh Pandiyan 6,80,920 6 Lacs+ 9.Mr. Ravikumar 18,07,500 18 Lacs+ 10.Mr. Surya Traders 7,50,000 7 Lacs+ 11.Mr. Kudappam Karuppanan 97,500 97 Thou+ 12.Mr. Palanisamy 3,00,000 3 Lacs+ 13.Mr. Pasupathi - Kalvarpatt 1,80,000 1 Lacs+ 14.Mr. Subramanian 5,00,000 5 Lacs+ 15.Mrs. Veerammal subramani 6,00,000 6 Lacs+ 16.M/s. Advaith Finance,Partnership Firm 40,00,000 40 Lacs+ 17.Mr. Palanisamy Gounder 5,00,000 5 Lacs+ 18.Mr. S. Sarsawathi Palnisamy 30,00,000 30 Lacs+",
+      "spouse": "Personal Loans: 1.M/s. Hotel Kurinji 35,00,000 35 Lacs+ 2.M/s. Sakthi Hatcheries 9,40,110 9 Lacs+ 3.Mr. C.Bharathy (ADSP - Rtd) 53,44,250 53 Lacs+ 4.Mr. Sakthivel 5,00,000 5 Lacs+ 5.Mr. Senguttuvan 32,01,000 32 Lacs+ 6.Mrs. Sumathi 10,00,000 10 Lacs+ Mrs. Manjula Srinivasan 65,500 65 Thou+ Mrs. Naveena 75,582 75 Thou+ Mrs. Uma Sankari K 11,13,430 11 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "1.Mr. Ayyavu Murugesan,Individual 40,000 40 Thou+ 2.Mr. Balagurusamy,Individual 13,27,300 13 Lacs+ 3.Mrs. Kavitha Murugan,Individual 20,69,458 20 Lacs+ 4.Mr. Mariyappan Mahesh,Individual 4,21,047 4 Lacs+ 5.Mr. Natraj Marimuthu, Individual 7,85,000 7 Lacs+ 6.Mr. Prem Kumar S, Individual 12,65,022 12 Lacs+ 7.Mr. Raja - Land Sale Commission, Individual 27,510 27 Thou+ 8.Mr. Ramakrishnan Rk, Individual 4,83,615 4 Lacs+ 9.Mr. Ravi, Individual 3,77,883 3 Lacs+ 10.Mr. Sekar Doc Writer, Individual 32,217 32 Thou+ 11.Mr. Ammyappan, Individual 7,50,000 7 Lacs+ 12.Mr. Suresh - Develpment Work, Individual 14,80,372 14 Lacs+ 13.Mr. VelappanT, Individual 3,07,500 3 Lacs+ 14.Mr. Velpandiyan NT, Individual 1,98,000 1 Lacs+ 15.M/s. Pachamalai Farms Pvt, Company 23,22,000 23 Lacs+ 16.M/s. Veera A Traders P Ltd, Company 90,000 90 Thou+ 17.M/s. Veera Infrastructure Company - Land Work, Partnership Firm 18,13,000 18 Lacs+ 18.Mr. VNTS Shachin 8,90,750 8 Lacs+ 19.Mr. VNTS Srikanth 2,47,832 2 Lacs+ 20.Saminathan HUF 5,00,000 5 Lacs+",
+      "spouse": "1.Mis Jasmi Home Furnishings Private Limited,Company 6,24,671 6 Lacs+ 2.M/s. Saravana Eletrical Enterprises, Individual 7,198 7 Thou+ 3.Mr Siva Kumaran - Blue Metal, Individual 5,09,400 5 Lacs+ 4.M/s SKB Lorry Service Stone, Individual 15,00,000 15 Lacs+ 5.Mr. Eswara Moorthy - Supplier, Individual 4,50,216 4 Lacs+ 6.Mr. R.Kannan - Supplier, Individual 4,56,782 4 Lacs+ 7.Mr. Ganesh, Individual 2,99,350 2 Lacs+ 8.Mr Ravi, Individual 3,87,250 3 Lacs+ Mr Subramani, Individual 4,16,000 4 Lacs+ M/s. SR Steel, Individual 1,73,350 1 Lacs+ Mr. Palanisamy (Wages), Individual 3,77,900 3 Lacs+ Mr. Anand, Individual 2,00,000 2 Lacs+ 13.M/s S and S Car Care, Individual 15,00,000 15 Lacs+ 14.Ms/. Veera A Traders Private Limted (Lease Advance), Company 50,000 50 Thou+ 15.M/s. Veera Traders Chennai Office (Rental Advance), Company 10,000 10 Thou+ 16.Mr. VNTS Shachi, Individual 27,45,000 27 Lacs+ 17.Mr. VNTS Srikanth, Individual 37,46,400 37 Lacs+ 18.M/s. Patchamalai Farms Pvt.Ltd, Company 19,00,000 19 Lacs+ Saminathan HUF,HUF 2,50,000 2 Lacs+ M/s. The Veera Credit, Partnership Firm 4,21,750 4 Lacs+ Mr. Saminathan-ST, Individual 29,30,000 29 Lacs+",
+      "huf": "Mr.Saminathan, Rent Payable,Individual 2,05,680 2 Lacs+ Mr. Shachin Vnts, Rent Payable,Individual 50,000 50 Thou+ Mrs. Saraswath, Rent Payable,Individual 1,00,000 1 Lacs+ M/s. Veera Construction,Personal, Partnership Firm 4,650 4 Thou+",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 48,59,945 | 2023 - 2024: Rs 1,49,34,400 | 2022 - 2023: Rs 99,73,540 | 2021 - 2022: Rs 70,64,490 | 2020 - 2021: Rs 15,79,370"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 26,66,966 | 2023 - 2024: Rs 28,79,250 | 2022 - 2023: Rs 28,19,200 | 2021 - 2022: Rs 15,27,400 | 2020 - 2021: Rs 7,37,380"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 15,29,511 | 2023 - 2024: Rs 7,64,360 | 2022 - 2023: Rs 11,70,670 | 2021 - 2022: Rs 4,92,800 | 2020 - 2021: Rs 3,66,800"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "OA-973/2023",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Nil",
+          "case_no": "OA 973/2023",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 17(4) of the PMLA",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "Appeal is Filed With Appellate Tribunal Vide No. FPA-PMLA-366/CHN/2024 New Delhi"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 25,97,02,531 ~25 Crore+",
+    "Liabilities:": "Rs 9,88,46,057 ~9 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2019 for ₹988,403 (CII Indexed Cost: ₹1,285,950) is declared at highly inflated value of ₹5,377,150."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Commercial Buildings purchased in 2016 for ₹51,975 (CII Indexed Cost: ₹74,025) is declared at highly inflated value of ₹1,518,125."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "119660.3g gold declared at ₹31,853,810 (Implied rate: ₹266/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'Veera A Traders (P) Ltd. PAN: AADCV0934G. Private Limited Company Certificate No. 45 Reg Folio No. 1 Equity Share Capital 44,93,700 44 Lacs+..."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹72,977,222) does not match declared total assets (₹259,702,531). Difference: ₹186,725,309"
+    }
+  ]
+}

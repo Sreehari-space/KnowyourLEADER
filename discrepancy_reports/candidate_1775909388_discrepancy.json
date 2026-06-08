@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909388",
+    "candidate_name": "o Singaperumal",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "ANNA MGR DRAVIDA MAKKAL KALGAM",
+    "constituency": "MADURAVOYAL (7)",
+    "pan": "BCMPM4189F",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "No. 150, 3rd Cross Street, Sri Lakshmi Nagar, Alwarthirunagar Post, Chennai-600 087",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "+2, 1986, St. James Hr. Sec. School, Palakurichi, Trichy Dt.",
+    "profession": "INTERIOR"
+  },
+  "financial_summary": {
+    "total_assets_xls": 27900000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 27900000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

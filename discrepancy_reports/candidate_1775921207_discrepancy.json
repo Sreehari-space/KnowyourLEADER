@@ -1,0 +1,386 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921207",
+    "candidate_name": "Mr. D.V. Venugopal",
+    "candidate_name_json": "D.V. VENUGOPAL",
+    "age": "55",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "012-Perambur Assembly Constituency",
+    "pan": "HWWPD6124D",
+    "phone": "8122753522",
+    "email": "venu1970venugopal@gmail.com",
+    "address": "No. 6, \"L\" Block, SCB Quarters, Sivalingapuram, K.K. Nagar, Chennai - 600 078",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Standard, YMCA Middle School, Nandanam, Chennai - (1986)",
+    "profession": "Real Estate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 24196888.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 24196888.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "3,000 3 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Equitas Bnk, West Mambalam Branch-SB 513 5 Hund+ Axis Bank, Maduravoyal Branch-SB 3,339 3 Thou+ Canara Bank, Valasaravakkam Branch-SB 5,01,000 5 Lacs+",
+        "spouse": "Axis Bank, Maduravoyal Branch-SB 5,86,314 5 Lacs+ Canara Bank, Valasaravakkam Branch-SB 9,222 9 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Car-Maruthi Suzuki- Baleno TN 09 DC 9105, 2023 6,00,000 6 Lacs+ Car-XUV 700 TN 09 DD 3942, 2023 15,00,000 15 Lacs+ Two Wheeler-TVS N Torq TN 09 CZ 5077, 2022 50,000 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "40 Gms Gold Jewelleries 5,00,000 5 Lacs+",
+        "spouse": "480 Gms Gold Jewelleries 60,00,000 60 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Chengalpattu District, Venbakkam Survey No. 258/3 Total Area 0.54 Cents Built Up Area Whether Inherited N Purchase Date 2022-06-13 Purchase Cost 2713500.00 Development Cost 0.00 0*(Value Not Given) Chengalpattu District, Venbakkam Survey No. 274/2B Total Area 0.25 Cents Built Up Area Whether Inherited N Purchase Date 2024-03-15 Purchase Cost 2000000.00 Development Cost 0.00 0*(Value Not Given) Chengalpattu District, Venbakkam Survey No.301/3A, 301/3B, 301/4, 301/5 Total Area 0.79 Cents Built Up Area Whether Inherited N Purchase Date 2024-03-15 Purchase Cost 6320000.00 Development Cost 0.00 0*(Value Not Given) Chengalpattu District, Venbakkam Survey No. 265/1A Total Area 0.17 Cents Built Up Area Whether Inherited N Purchase Date 2025-09-17 Purchase Cost 1360000.00 Development Cost 0.00 0*(Value Not Given)",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Valasaravakkam Village, anbu Nagar Road, Survey No. 350/2 Total Area 94 Sq ft Built Up Area 477 Sq ft Whether Inherited N Purchase Date 2022-09-09 Purchase Cost 1000000.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 8,09,580 | 2024 - 2025: Rs 6,19,590 | 2023 - 2024: Rs 5,85,190 | 2022 - 2023: Rs 5,49,910 | 2021 - 2022: Rs 0"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 8,17,350 | 2024 - 2025: Rs 7,03,590 | 2023 - 2024: Rs 5,93,620 | 2022 - 2023: Rs 7,01,550 | 2021 - 2022: Rs 0"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "FIR: 305/2017, date 18.02.2017, SRMC POLICE STATION; CRIME NO.0300/2021, IPC SEC NO.143, 269, 270, 285, TNCP ACT 41(6) (C) - THOUSAND LIGHT POLICE STATION; CRIME NO.0018/2020, IPC 143, TNCP ACT 41- TRIPLICANE POLICE STATION; SC179/2018, POONAMALLE COURT",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "2 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Malignant act likely to spread infection of disease dangerous to life (IPC Section-270)",
+        "1 charges related to Negligent conduct with respect to fire or combustible matter (IPC Section-285)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No 305/2017, Date 18.02.2017, SRMC Police Station",
+          "case_no": "SC 179/2018",
+          "court": "Poonamalle Court",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No 0300/2021, Thousand Light P.S",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 270, 285",
+          "other_details": "Section 41(6)(C) TNCP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crim No 0018/2020, Triplicane Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143",
+          "other_details": "Section 41 TNCP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,41,96,888 ~2 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Undervaluation",
+      "description": "Spouse Agricultural Land purchased in 2022 for ₹2,713,500 (CII Indexed Cost: ₹3,082,405) is severely undervalued at ₹0 (potential duty evasion)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹9,739,319) does not match declared total assets (₹24,196,888). Difference: ₹14,457,569"
+    }
+  ]
+}

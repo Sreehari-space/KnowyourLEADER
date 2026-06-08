@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922602",
+    "candidate_name": "R. Amala",
+    "candidate_name_json": null,
+    "age": "58",
+    "party": "சுயேட்சை",
+    "constituency": "13 -கொளத்தூர் சட்டமன்ற தொகுதி",
+    "pan": "BESPA8733B",
+    "phone": "8248760067",
+    "email": "spisocialpartyofindia@gmail.com",
+    "address": "6, Balamurugan Street, Vyasarpadi, Chennai - 600 039",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9th Standard, St. Joseph High School, Vepery, Year 1981",
+    "profession": "இல்லத்தரசி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3183000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 3183000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

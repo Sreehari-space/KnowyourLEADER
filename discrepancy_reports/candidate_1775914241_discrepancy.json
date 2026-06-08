@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914241",
+    "candidate_name": "S. Arjeen",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Independent",
+    "constituency": "Thiruvaiyaru, Tamil Nadu, Serial No. 353, Part No. 201",
+    "pan": "FDZPS4009G",
+    "phone": "8525968861",
+    "email": "arjunarjun85259@gmail.com",
+    "address": "70, Mathur Thotti, Mathur West, Thanjavur Taluk, Thanjavur District- 614206",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.TECH AERONAUTICAL ENGINEERING, PERIYAR MANIAMMAI UNIVERSITY, VALLAM, THANJAVUR, ACADEMIC YEAR 2015.",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 791000.0,
+    "total_liabilities_xls": 1300000.0,
+    "net_worth_xls": 509000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

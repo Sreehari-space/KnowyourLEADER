@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916421",
+    "candidate_name": "வீ.ஆறுமுகம்",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "சுயேட்சை",
+    "constituency": "அருப்புக்கோட்டை",
+    "pan": "DFGPA49876",
+    "phone": "7810040476",
+    "email": "vpkkuttirajakambalathar@gmail.com",
+    "address": "118, வடக்குத் தெரு, துலுக்கப்பட்டி. R.R.நகர், விருதுநகர் தாலுகா, விருதுநகர் மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MPCசித்னர் 2011 to 2014",
+    "profession": "தனிநபர் கூலி வேலை"
+  },
+  "financial_summary": {
+    "total_assets_xls": 16000.0,
+    "total_liabilities_xls": 752000.0,
+    "net_worth_xls": 736000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924756",
+    "candidate_name": "M.Murthy",
+    "candidate_name_json": null,
+    "age": "61",
+    "party": "Independent",
+    "constituency": "95 Paramathi Velur, Tamil Nadu",
+    "pan": "EIYPM8776H",
+    "phone": "8754815528",
+    "email": "இல்லை / none",
+    "address": "No. 13, Thannasikovil Medu, Koppanampalayam, Pandamangalam Post, Paramathi Velur Taluk, Namakkal District, Pin: 637208",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "Agricultural Labor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 658196.88,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 658196.88,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

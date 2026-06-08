@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912482",
+    "candidate_name": "S. Parthiban",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "MGR. People's Party",
+    "constituency": "Saidapet (Tamil Nadu State, Serial No. 23, Part No. 66)",
+    "pan": "BTS9071J",
+    "phone": "9789008777, 9841921520",
+    "email": "NIL",
+    "address": "183, Old Mambalam Road, Saidapet, Chennai 600015",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1981 Chennai Corporation Boys Higher Secondary School, Saidapet",
+    "profession": "Self-employment (Restaurant)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5700000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 5700000.0,
+    "cash_xls": 31500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

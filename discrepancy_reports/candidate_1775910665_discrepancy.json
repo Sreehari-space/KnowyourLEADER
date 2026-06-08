@@ -1,0 +1,391 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910665",
+    "candidate_name": "S. Prabakaran",
+    "candidate_name_json": "S.PRABAKARAN",
+    "age": "42",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "170 Thiruvidaimarudur",
+    "pan": "DHNPP7052N",
+    "phone": "9789161343, 8667236075",
+    "email": "swamipraba2383@gmail.com",
+    "address": "31 M.G.R Nagar, Darasuram Post, Kumbakonam Taluk, Thanjavur District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Twelfth grade (failed) 2002-2003 Government Boys Higher Secondary School, Papanasam",
+    "profession": "Entrepreneur"
+  },
+  "financial_summary": {
+    "total_assets_xls": 17039858.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 17039858.0,
+    "cash_xls": 49000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "49,000 49 Thou+",
+        "spouse": "45,000 45 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "HDFC Bank, Kumbakonam 69,183 69 Thou+ Equitas Bank, Kumbakonam Periya Kadai Street Branch 6,775 6 Thou+ Federal Bank, Kumbakonam 5,35,920 5 Lacs+",
+        "spouse": "Swamimalai Bank 54,800 54 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Mahindra Thar (2024) TN 68 AP 1609 16,00,000 16 Lacs+ Renault Duster (2013) TN 18 R 7718 3,00,000 3 Lacs+ Royal Enfield (2019) TN 68 AB 1609 1,15,000 1 Lacs+ Fascino (2021) TN 68 AE 5772 80,000 80 Thou+",
+        "spouse": "Access (2024) TN 68 Q 1609 90,000 90 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Jewellery 80 grams 10,40,000 10 Lacs+",
+        "spouse": "Jewellery 120 grams 15,60,000 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "8 Grm Gold Jewellery 1,04,000 1 Lacs+",
+        "dependent2": "8 Grm Gold Jewellery 1,04,000 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Kumbakonam Thiruvalanchuzhi Sy No. 336/2 (336/2A) Total Area 0.18 3/4 Cent Built Up Area Whether Inherited N Purchase Date 2021-03-05 Purchase Cost 787500.00 Development Cost 0.00 8,00,000 8 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Valaiyapettai Village Agrahara Street Sy No. 154//9B1 Total Area 1558 sqft Built Up Area Whether Inherited Y Purchase Date 2025-02-26 Purchase Cost 0.00 Development Cost 0.00 9,00,000 9 Lacs+",
+        "spouse": "Kumbakonam Municipal Corporation 3rd Ward T.S No. 1509/B1 Total Area 2744 sqft Built Up Area Whether Inherited N Purchase Date 2020-07-23 Purchase Cost 1475000.00 Development Cost 4100000.00 20,50,180 20 Lacs+ Valaiyapettai Sy No. 50/9A1-814, 50/9A2-360, 50/9B1-3788, 50/9B2-3100, 50/10-1048 Total Area 9110 sqft Built Up Area Whether Inherited N Purchase Date 2024-05-27 Purchase Cost 3201000.00 Development Cost 0.00 77,44,000 77 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2025 - 2026: Rs 6,85,080 | 2024 - 2025: Rs 6,91,810 | 2023 - 2024: Rs 4,96,840 | 2022 - 2023: Rs 4,99,090 | 2021 - 2022: Rs 4,99,410"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "FIR NO: 546/2025 – Kumbakonam East Police Station, Sections: 126(2), 189(2) BNS, Brief: Protest against Tamil Nadu government liquor; FIR NO: 101/2025 – Kumbakonam West Police Station, Sections: 126(2), 189(2) BNS, Brief: Protest against Tamil Nadu government liquor; FIR NO: 78/2025 - Kumbakonam West Police Station, Sections: 126(2), 189(2) BNS, Brief: Protest against Tamil Nadu government liquor; FIR NO: 74/2026 Kumbakonam East Police Station, Sections: O/S 4 (1), TNOPPD ACT",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "3 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "3 charges related to Being member of an unlawful assembly. (BNS Section-189(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "546/2025, Kumbakonam East Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "101/2025, Kumbakonam East Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "78/2025, Kumbakonam East Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "74/2026, Kumbakonam East Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section - 4(1) of TNOPPD Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,72,47,858 ~1 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹8,466,163) does not match declared total assets (₹17,247,858). Difference: ₹8,781,695"
+    }
+  ]
+}

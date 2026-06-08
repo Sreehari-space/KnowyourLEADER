@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916591",
+    "candidate_name": "S. Chettu",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Independent",
+    "constituency": "3 Tiruttani Assembly Constituency",
+    "pan": "EXZPS5729A",
+    "phone": "9843911581",
+    "email": "shettusundar@gmail.com",
+    "address": "Mariamman Kovil Street, Veeramangalam Colony, Veeramangalam Post - 631 302, R.K. Pettai Taluk, Tiruvallur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Commerce, Voorhees College, Vellore, 1993",
+    "profession": "Agricultural Laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 70000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 70000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

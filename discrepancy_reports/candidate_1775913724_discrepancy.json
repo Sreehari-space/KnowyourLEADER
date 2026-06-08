@@ -1,0 +1,389 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913724",
+    "candidate_name": "M. Vijay Venkatesh",
+    "candidate_name_json": "VIJAY VENKATESH.M",
+    "age": "35",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "105 Anthiyur Assembly Constituency, Tamil Nadu",
+    "pan": "AOJPV2697H",
+    "phone": "9500513080",
+    "email": "venkateshmadhanagopal@gmail.com",
+    "address": "303A, Periya Semur, Veerappanchatram, Erode Taluk, Erode-638 004, Erode District, Tamil Nadu",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.E. (Engineering) from K.S.R. College of Engineering, Tiruchengode in 2011",
+    "profession": "Software Engineer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 16723165.0,
+    "total_liabilities_xls": 6184325.0,
+    "net_worth_xls": 10538840.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "3,00,000 3 Lacs+",
+        "spouse": "8,00,000 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "2,00,000 2 Lacs+",
+        "dependent4": "7,00,000 7 Lacs+"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "ICICI Bank, Thottipalayam, Tiruppur Branch SB A/c. No. 1,500 1 Thou+ Hindustan Bank Nungambakkam, Branch SB A/c. No. 1,000 1 Thou+ State Bank of India, SB A/c. No. 2,814 2 Thou+ Standard Charactered Bank, SB A/c. No. 2,900 2 Thou+ Indian Overseas Bank, Bhavani SB A/c. No.election acount 1,500 1 Thou+",
+        "spouse": "Bank of India, Chithambara A/c. No. dated 18.11.2019 Double Benefit Deposit 25,000 25 Thou+ Bank of India, A/c. No. Chidambaram Branch dated 29.05.2024 2,13,951 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "State Bank of India Erode SB A/c No. 39,219 39 Thou+ Canara Bank, Erode SB A/c. No. 10,845 10 Thou+ HDFC Bank, Erode SB A/c. No. 14,132 14 Thou+",
+        "dependent4": "State Bank of India, Erode SB A/c. 2,58,557 2 Lacs+ Canara Bank, Erode Branch SB A/c. No. 1,74,032 1 Lacs+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Dhanalakshmi Srinivasan Nidhi Ltd, Perambalur A/c.No 27.02.2026 2,40,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Tana Lakshmi Srinivasan Finance Ltd, Perambalur Ac no 01.03.2026 7,50,000 7 Lacs+ Jaya Priya Company Chennai A/c.No.24.05.2024 5,00,000 5 Lacs+ Jaya Priya Company Chennai A/c.No.03.06.2025 3,50,000 3 Lacs+ Sakthi Land Holding Pvt. Ltd., Coimbatore Cer. No. 15.03.2025 8,00,000 8 Lacs+",
+        "dependent4": "Dhana Lakshmi Srinivasan Financial Ltd, Perambalur A/c.No. 15.02.26 1,80,000 1 Lacs+ Jaya Priya Company Chennai A/c.No. 29.08.2025 1,00,000 1 Lacs+ Jaya Priya Company Chennai A/c.No. 24.05.2024 5,00,000 5 Lacs+ Jaya Priya Company Chennai A/c.No. 29.04.2025 2,00,000 2 Lacs+ Jaya Priya Company Chennai A/c.No. 27.05.2025 1,00,000 1 Lacs+ Jaya Priya Company Chennai A/c.No. 04.06.2025 1,00,000 1 Lacs+ Jaya Priya Company Chennai A/c.No 29.08.2025 1,00,000 1 Lacs+ Jaya Priya Company ac no Chennai 21.02.2026 1,00,000 1 Lacs+ Jaya Priya Company ac no Chennai 21.02.2026 6,00,000 6 Lacs+ Sakthi Land Holding Pvt. Ltd., Coimbatore Cer. No. 8,00,000 8 Lacs+"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Erode Post Office A/c. No. 3,00,000 3 Lacs+ Erode Post Office A/c. No.29.05.2024 2,00,000 2 Lacs+",
+        "dependent4": "Erode Veerappan chatram Post Office A/c. 3,00,000 3 Lacs+ Erode Periya semur Post Office A/c. No. 2,00,000 2 Lacs+"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Hero Honda Splender TN 33 AC 3238 Model 2008 48,000 48 Thou+ Bajaj Platina TN 33 PW 0139 Model 2022 88,000 88 Thou+",
+        "dependent4": "Hero Pleasure Scooter TN 33 BB 1211 Model 2012 48,000 48 Thou+ Maruti Swift D Zire TN 33 BF 1227 Model 2013 7,45,000 7 Lacs+"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 160 grams. 20,00,000 20 Lacs+",
+        "spouse": "Gold 160 grams. 70,00,000 70 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "40 gram gold 5,00,000 5 Lacs+",
+        "dependent4": "640 gram gold 80,00,000 80 Lacs+"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Chennai, Karapakkam, Survey No. 91/5 Total Area 600 sq,.ft Built Up Area 500 sq.ft Whether Inherited N Purchase Date 2021-00-00 Purchase Cost 2762640.00 Development Cost 0.00 45,00,000 45 Lacs+",
+        "spouse": "Chennai, Karapakkam, Survey No. 91/5 Total Area 600 sq.ft Built Up Area 5000 sq.ft Whether Inherited N Purchase Date 2021-00-00 Purchase Cost 2762640.00 Development Cost 0.00 45,00,000 45 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Bhavani Sq.No. 5/8 Total Area 1200 sq.ft Built Up Area 1200 sq.ft Whether Inherited N Purchase Date 2009-03-12 Purchase Cost 67300.00 Development Cost 0.00 10,00,000 10 Lacs+",
+        "dependent4": "Erode Thentral Copy No. 326/B Total Area 960 sq.ft Built Up Area 960 sq.ft Whether Inherited Y Purchase Date 2023-09-12 Purchase Cost 1060700.00 Development Cost 0.00 19,78,750 19 Lacs+ Erode EPB Nagar S.N. 298 Total Area sq.ft Built Up Area sq.ft` Whether Inherited Y Purchase Date 2054-10-00 Purchase Cost 0.00 Development Cost 0.00 30,00,000 30 Lacs+"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "HDFC Bank, Vanagaram ,Chennai Personal Housing Loan. 46,24,410 46 Lacs+ ICICI Bank Ac No. 1,56,715 1 Lacs+ Hindustan Bank Nungam bakkam Branch A/c. No. 2,91,699 2 Lacs+ L &T Egmore Chennai A/c. NO. 7,86,379 7 Lacs+ RBL Bank Chennai A.c.No. 3,25,122 3 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "State Bank of India, Erode Moola palayam Housing Loan No. 33,00,000 33 Lacs+"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 6,79,370 | 2024 - 2025: Rs 5,31,756 | 2023 - 2024: Rs 3,64,028 | 2022 - 2023: Rs 3,51,473"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent4",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 42,31,802 | 2023 - 2024: Rs 13,22,257 | 2022 - 2023: Rs 12,09,719 | 2021 - 2022: Rs 7,53,040"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,48,33,200 ~3 Crore+",
+    "Liabilities:": "Rs 94,84,325 ~94 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Dependent3 Residential Buildings purchased in 2009 for ₹67,300 (CII Indexed Cost: ₹170,978) is declared at highly inflated value of ₹1,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1000.0g gold declared at ₹9,000,000 (Implied rate: ₹9,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'Nil', 'spouse': 'Dhanalakshmi Srinivasan Nidhi Ltd, Perambalur A/c.No 27.02.2026 2,40,000 2 Lacs+', 'huf': 'Nil', 'dependent1': 'Nil', 'depe..."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹22,203,719) does not match declared total assets (₹34,833,200). Difference: ₹12,629,481"
+    }
+  ]
+}

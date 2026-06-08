@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912136",
+    "candidate_name": "P. Anandajothi",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "Independent",
+    "constituency": "147-Perambalur",
+    "pan": "ASQPA1145A",
+    "phone": "7358171128",
+    "email": "spkanandajothi@gmail.com",
+    "address": "Door No. 145, South Street, Bommanappadi Village, Perambalur Taluk, Perambalur District, Pin. 621104",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (Government Higher Secondary School, Chettikulam - 1997), Agricultural Technical (Mayiladuthurai - 2014)",
+    "profession": "Small businessman"
+  },
+  "financial_summary": {
+    "total_assets_xls": 754000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 754000.0,
+    "cash_xls": 2000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

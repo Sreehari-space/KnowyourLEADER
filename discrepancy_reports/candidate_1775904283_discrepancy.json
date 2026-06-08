@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904283",
+    "candidate_name": "P. Sakthivel",
+    "candidate_name_json": null,
+    "age": "63",
+    "party": "Liberation Panthers Party",
+    "constituency": "188. Melur Assembly Constituency, Tamil Nadu",
+    "pan": "GXIPS9792A",
+    "phone": "9443571434",
+    "email": "sakthivelpk196223@gmail.com",
+    "address": "11, Kallampatti, Melur Taluk, Madurai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A. (History), Govt Arts College, Melur, Madurai Kamaraj University, April 1996 Course Completed",
+    "profession": "Social Activist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3181862.51,
+    "total_liabilities_xls": 20000.0,
+    "net_worth_xls": 3161862.51,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "Crime No. 367/2025 (Melur Police Station) - CTA Act 26 (a), BNS 189 (2) - Conducting Jallikattu without permission; Crime No. 1288/2020 (Thirumangalam Town Police Station) - 143, 188, 269, 270 IPC - Protesting against agricultural laws during Corona",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

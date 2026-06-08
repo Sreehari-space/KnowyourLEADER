@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920528",
+    "candidate_name": "P. Chandrakant",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "Independent",
+    "constituency": "027-Sholinganallur Assembly Constituency",
+    "pan": "ASBPC2475Q",
+    "phone": "9940108696, 9498533333",
+    "email": "chandruu25@gmail.com",
+    "address": "No. 5A, Sivasamy Avenue, MGR Road, Palavakkam, Chennai - 600041",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MBA - Master of Business Administration at University of Madras, Chennai (2015-2017)",
+    "profession": "Dentist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 23998980.0,
+    "total_liabilities_xls": 9997859.0,
+    "net_worth_xls": 14001121.0,
+    "cash_xls": 75000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

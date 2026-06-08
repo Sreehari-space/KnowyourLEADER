@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910779",
+    "candidate_name": "ரா.து. கனிமொழி",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "117 கவுண்டம்பாளையம் சட்டப்பேரவைத் தொகுதி, தமிழ்நாடு",
+    "pan": "AYIPK8798B",
+    "phone": "9600756668",
+    "email": "sankani88@gmail.com",
+    "address": "Door No. 3, Dhanalakshmi Nagar, Narasimhanaickenpalayam, Coimbatore - 641031",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A.BL., (Hons ) தமிழ்நாடு டாக்டர் அம்பேத்கர் சட்டப் பல்கலைக் கழகம், சென்னை, வருடம்- 2010",
+    "profession": "சுயதொழில்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 771708726.0,
+    "total_liabilities_xls": 20328083.0,
+    "net_worth_xls": 751380643.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

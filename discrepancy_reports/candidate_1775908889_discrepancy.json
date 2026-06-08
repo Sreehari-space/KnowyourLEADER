@@ -1,0 +1,385 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908889",
+    "candidate_name": "S. Arumugaraj",
+    "candidate_name_json": "ARUMUGARAJ. S.",
+    "age": "48",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "Tirunelveli",
+    "pan": "AOUPA2682Q",
+    "phone": "9952299482",
+    "email": "rajjlawyer@gmail.com",
+    "address": "68, Pugazhendhi Street, Tirunelveli Town - 627 006",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Sc., St. John's College, Palayamkottai. B.L., Government Law College, Tirunelveli",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 21405769.0,
+    "total_liabilities_xls": 1099180.0,
+    "net_worth_xls": 20306589.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Punjab National Bank Tirunelveli Town 6,246 6 Thou+ Punjab National Bank Current A/c 6,42,719 6 Lacs+ Bank of India SB A/c 1,69,802 1 Lacs+ Canara Bank 5,000 5 Thou+ SBI Town 6,000 6 Thou+",
+        "spouse": "Bank of Indian SB 55,005 55 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Post Office RD 82,000 82 Thou+ Post Office RD 66,000 66 Thou+ Post Office RD 42,000 42 Thou+ Post Office RD 34,000 34 Thou+ Shri Ram Chits 5,00,000 5 Lacs+ Shri Ram Chits 5,00,000 5 Lacs+",
+        "spouse": "Post Office RD 67,500 67 Thou+ Post Office RD 67,500 67 Thou+ Post Office RD 50,000 50 Thou+ Post Office RD 12,000 12 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TN72-CD-1177 Scorpio N 20,00,000 20 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "30 Grams 24,00,000 24 Lacs+",
+        "spouse": "50 Grams 40,00,000 40 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Tenkasi District Kutralam Village, Ramavarmapuram Colony S.No: 449/1A Plot No: 110 Total Area 2.75 Cent Built Up Area Whether Inherited N Purchase Date 2018-07-02 Purchase Cost 565000.00 Development Cost 0.00 30,00,000 30 Lacs+",
+        "spouse": "Papakudi Village Shrivishnu Nagar Flat No: 25 Total Area 2.75 Cent Built Up Area Whether Inherited Y Purchase Date 2021-12-03 Purchase Cost 565000.00 Development Cost 0.00 50,000 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Tirunelveli Akkasalai Vinayagar Kovil Street S.No: 1881 Total Area 3 Cent Built Up Area 1000 Sq Ft Whether Inherited N Purchase Date 2011-11-10 Purchase Cost 300000.00 Development Cost 2000000.00 75,00,000 75 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Punjab National Bank Car Loan 7,42,811 7 Lacs+ Jewel Loan 3,56,369 3 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,80,140 | 2023 - 2024: Rs 4,99,150 | 2022 - 2023: Rs 4,73,950 | 2021 - 2022: Rs 4,58,560"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 3,73,000"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 452/2017, Case No. CC456/2020, Sections: 147, 148, 448, 294(b), 506(2), 427, 341 IPC. Description: கட்சிக்காரர்களுக்காக வழக்கறிஞர் நிலையில் இருந்த போது அத்துமீறி நுழைந்து ஆபாசமாக பேசி சொத்துக்களை சேதப்படுத்தியதாக வழக்கு / Case for trespassing, using obscene language, and damaging property while acting as a lawyer for clients.",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment for house-trespass (IPC Section-448)",
+        "1 charges related to Mischief causing damage to the amount of fifty rupees (IPC Section-427)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "452/2017, Kalakkad Police Station",
+          "case_no": "CC 456/2020",
+          "court": "Nanguneri Arbitration Court",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 448, 294b, 506(2), 427, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,14,05,772 ~2 Crore+",
+    "Liabilities:": "Rs 10,99,180 ~10 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹18,567,940, but 5-year family income is only ₹2,484,800. Unexplained wealth discrepancy of ₹16,083,140."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2018 for ₹565,000 (CII Indexed Cost: ₹758,714) is declared at highly inflated value of ₹3,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Undervaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2021 for ₹565,000 (CII Indexed Cost: ₹670,158) is severely undervalued at ₹50,000 (potential duty evasion)."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2011 for ₹300,000 (CII Indexed Cost: ₹613,043) is declared at highly inflated value of ₹7,500,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Overvalued (Parking Illicit Funds)",
+      "description": "80.0g gold declared at ₹6,400,000 (Implied rate: ₹80,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹19,310,751) does not match declared total assets (₹21,405,772). Difference: ₹2,095,021"
+    }
+  ]
+}

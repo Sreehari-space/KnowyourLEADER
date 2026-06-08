@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916445",
+    "candidate_name": "M. JAYAPRATHAP",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "Independent",
+    "constituency": "123 POLLACHI CONSTITUENCY",
+    "pan": "BCMPJ0945G",
+    "phone": "8610756321",
+    "email": "prathap.harshan07@gmail.com",
+    "address": "219, Arivoli Nagar, Vadasithur, Kinathukadavu Taluk, Coimbatore District, Tamilnadu - 641 202",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Commerce, Sri Saraswathi Thiyagaraja Arts and Science Pollachi - April 2013",
+    "profession": "Food Cooking Contract Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5982000.0,
+    "total_liabilities_xls": 175000.0,
+    "net_worth_xls": 5807000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

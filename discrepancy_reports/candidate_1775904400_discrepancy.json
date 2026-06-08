@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904400",
+    "candidate_name": "S. Gokula Indira",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "21 Annanagar Assembly Constituency, Tamil Nadu",
+    "pan": "AEQPG6710B",
+    "phone": "04426200567, 9444066188",
+    "email": "gokulaindira1@gmail.com",
+    "address": "10, 4th Street, Y Block, Annanagar, Chennai 600 040",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A. (Public Administration) from University of Madras (Distance Education) in 2015; B.L. (Bachelor of Law) from Madurai Law College, Madurai Kamaraj University in 1990",
+    "profession": "Advocate, Politics, Brick manufacturing business, Restaurant, Car washing"
+  },
+  "financial_summary": {
+    "total_assets_xls": 104611197.0,
+    "total_liabilities_xls": 83281034.0,
+    "net_worth_xls": 21330163.0,
+    "cash_xls": 125315.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "0347/2023; 0489/2023; 0183/2024",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923205",
+    "candidate_name": "M. Naveenth",
+    "candidate_name_json": null,
+    "age": "28",
+    "party": "Independent",
+    "constituency": "136 - Krishnarayapuram (SC) Assembly Constituency",
+    "pan": "AYRPN2737Q",
+    "phone": "9751073899",
+    "email": "mnaveenth111@gmail.com",
+    "address": "Door No. 84, North Colony Street, Palayajayankondam Village, Krishnarayapuram Taluk, Karur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E. (2018), LL.B (2023)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 836500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 836500.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

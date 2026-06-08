@@ -1,0 +1,359 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916122",
+    "candidate_name": "R.Karthikeyan",
+    "candidate_name_json": "N.R.KARTHIKEYAN",
+    "age": "44",
+    "party": "Independent",
+    "constituency": "119 Thondamuthur Assembly Constituency, Tamil Nadu",
+    "pan": "BHFPK3067A",
+    "phone": "9965120777",
+    "email": "karthikeyanvisakan@gmail.com",
+    "address": "Door No: 15A, Kaliyannanpudur, Thondamuthur, Coimbatore - 641109",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "6th Standard",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1449800.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1449800.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "3,00,000 3 Lacs+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "1,00,000 1 Lacs+",
+        "dependent2": "50,000 50 Thou+",
+        "dependent3": "5,000 5 Thou+"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Union Bank of India saving A/c.No. As on 30.03.2026 Branch: Narasipuram 74,352.56 74 Thou+ PACS K1788, Narasipuram B.U. Branch, SB A/c. No. As on 30.03.2026 25,408 25 Thou+ Union Bank of India saving A/c.No. As on 30.03.2026 Branch: Narasipuram 37,793 37 Thou+ Union Bank of India saving A/c.No. As on 30.03.2026 Branch: Narasipuram 11,801 11 Thou+ Karur Vysya Bank, Saving A/c. No. as on 30.03.2026 Branch: Kavundampalayam (Joint Account) 8,117 8 Thou+ Axis Bank, saving A/c.No As on 03.04.2026 Branch: Thondamuthur 10,000 10 Thou+",
+        "spouse": "Union Bank of India saving A/c.No 17,115.32 17 Thou+ Union Bank of India saving A/c.No. As on 02.04.2026 Branch: Narasipuram 10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Axis Bank Saving A/c. No. As on 30.03.2026 Branch: Thondamuthur 1,78,300 1 Lacs+ Union Bank of India saving A/c.No. As on 30.03.2026 Branch: Narasipuram 3,58,115.13 3 Lacs+ Union Bank of India FD MV: Rs.Branch: Narasipuram 48,780 48 Thou+",
+        "dependent2": ". Union Bank of India saving A/c.No. As on 30.03.2026 Branch: Narasipuram 18,412.70 18 Thou+ Union Bank of India FD Branch: Narasipuram 53,22,281 53 Lacs+ Union Bank of India FD Branch: Narasipuram 48,780 48 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "LIC Policy No. Dated 18.09.2017 sum assured 2,00,000 2 Lacs+",
+        "dependent2": "LIC Policy No. Dated 18.09.2017 sum assured 2,00,000 2 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Toyota Innova 2.5VX TN37BQ0077 Date 14.06.2011 Amount 12,00,000 12 Lacs+ Maruthi Car Sedan TN99E6566 Date 1.7.2016 8,00,000 8 Lacs+ Ambassador Mark 4 MDF3717 Date 13.10.1965 60,000 60 Thou+",
+        "spouse": "Tractor with trailer TN70L0067 Date 07.10.2015 Amount (Second owner) 3,50,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "DATSUN Redi Go TN38CM2496 Date 19.3.2018 Amount 5,00,000 5 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "10 pound 8,00,000 8 Lacs+",
+        "spouse": "85 pound 65,00,000 65 Lacs+ silver 3kg 6,00,000 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "5 pound 3,50,000 3 Lacs+",
+        "dependent2": "80 pound 60,00,000 60 Lacs+",
+        "dependent3": "10 pound 7,50,000 7 Lacs+"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Naraseepuram Village 1) K.S.463 2) K.S.464 3) K.S.466 4) K.S.468/1 5) K.S.468/2 6) K.S.484/2 7) K.S.527/1 8) K.S.527/4 Ikkarai Poluvampatti Village 9) K.S.41 (Partial Freedom Bond) (1/3 of these in common Total Area 1.P.A.5.12 acres 2.P.A.5.0 acres 3.P.A.4.25 acres 4.P.A.5.96 acres 5.P.A.4.10 acres 6.P.A.2.84 acres 7.P.A.0.12 acres 8.P.A.0.11 acres 9.P.A.0.95 acres 1/3 of these in common Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,85,40,000 2 Crore+ II. Ikkarai Poluvampatti Village 1) K.S.527 2) K.S.528 3) K.S.529 (1/3 of these in total) Total Area 1) P.A.0.91 acres 2) P.A.0.56 acres 3) P.A.0.55 acres (1/3 of these in common) Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 20,20,000 20 Lacs+",
+        "spouse": "Naraseepuram Village K.S.594 (Part Deed) Total Area Land area 2.0 acres Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 60,90,000 60 Lacs+",
+        "huf": "Nil",
+        "dependent1": "1. Naraseepuram Village 1) 6.4.463 2) ..464 3) 5.0.466 4) 5.5.468/1 5) ????468/2 6) 4.5.484/2 7) 5.527/1 8) ..527/4 this side Boluvambatti Village 9) 5.4.41 (Participating in the Freedom Paper) 1 in 3 in general where) Total Area 1.P.A.5.12 acres 2.P.A.5.08 acres 3.P.A.4.25 acres 4.P.A.5.96 acres 5.P.A.4.10 acres 6.P.A.2.84 acres 7.P.A.0.12 acres 8.P.A.0.11 acres 9.P.A.0.95 acres (1/3 of these in common) Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,85,40,000 2 Crore+ Ikkarai Poluvampatti village 1) K.S.527 2) K.S.528 3) K.S.529 (1/3 of these in total) Total Area 1) 0.91 acres 2) 0.56 acres 3) 0.55 acres (1/3 of these in common) Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 20,20,000 20 Lacs+ III. Veerakeralam Village, K.S.225/2A Self Acquisition Total Area 5 Cents 222 sq.ft. 2400 sq.ft. Built Up Area Whether Inherited N Purchase Date 2021-02-02 Purchase Cost 959000.00 Development Cost 0.00 50,00,000 50 Lacs+",
+        "dependent2": "1. Naraseepuram Village 1) 5.5.463 2) 5.8.464 3) 5.5.466 4) K.S.468/1 5) 5.8.468/2 6) 5.5.484/2 7) 5.5.527/1 8) 6.527/4 this side Boluvambatti Village 9) 41 (Participating Liberation Army) 1/3 of these in total) Total Area 1.P.A.5.12 acres 2. P.A.50 acres 3. P.A.4.25 acres 4. P.A.5.96 acres 5.P.A.4.10 acres 6. P.A.2.84 acres 7.P.A.0.12 acres 8.P.A.0.11 acres 9.P.A.0.95 acres (1/3 of these in common) Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,85,40,000 2 Crore+ This bank Poluvampatti village 1) K.S.527 2) K.S.528 3) K.S.529 1. (1/3 of these in total) Total Area 1) P.A.0.91 acres 2) P.A.0.56 acres 3) P.A.0.55 acres (1/3 of these in common) Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 20,20,000 20 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "1. Naraseepuram Village, K.S. 670/21 Old No.548/14 Part (1/3 of which is common) Total Area 8500.4 sq.ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 2500000.00 20,00,000 20 Lacs+ Naraseepuram Village, K.S. 550/5 Old No.550A Part (1/3 of which is common) Total Area 645.6 square feet (1/3 of which is public) Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 150000.00 1,00,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Naraseepuram Village, K.S. 670/21 Old No.548/14 Part (1/3 of which is common) Total Area 8500.4 sq.ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 20,00,000 20 Lacs+ Naraseepuram Village, K.S. 670/21 Old No.548/14 Part (1/3 of which is common) Total Area 645.6 square Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,00,000 1 Lacs+",
+        "dependent2": "Naraseepuram Village, K.S. 670/21 Old No.548/14 Part (1/3 of which is common) Total Area 8500.4 sq.ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 20,00,000 20 Lacs+ Naraseepuram Village, K.S. 670/21 Old No.548/14 Part (1/3 of which is common) Total Area 645.6 square Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,00,000 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Ganapathy Village TSNo. 11/1277 Total Area 1419 square feet, of which 1/3 is public Built Up Area 1400 sq ft (1/3 of which is public) Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 1000000.00 20,00,000 20 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Ganapathy Village TSNo. 11/1277 Total Area 1419 square feet, of which 1/3 is public Built Up Area 400 sq ft (1/3 of which is public) Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "dependent2": "Ganapathy Village TSNo. 11/1277 Total Area 1419 square feet, of which 1/3 is public Built Up Area 400 sq ft (1/3 of which is public) Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Union Bank of India saving A/c.No. As on 30.03.2026 Branch: Narasipuram (Agriculture cash credit loan) 29,98,540.75 29 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 14,01,04,256 ~14 Crore+",
+    "Liabilities:": "Rs 29,98,540.75 ~29 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹118,404,639, but 5-year family income is only ₹0. Unexplained wealth discrepancy of ₹118,404,639."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1520.0g gold declared at ₹7,300,000 (Implied rate: ₹4,803/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹73,431,712 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹121,403,179) does not match declared total assets (₹140,104,256). Difference: ₹18,701,077"
+    }
+  ]
+}

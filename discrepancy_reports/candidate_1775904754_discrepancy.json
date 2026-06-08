@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904754",
+    "candidate_name": "Annadurai K",
+    "candidate_name_json": null,
+    "age": "68",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "176, Pattukkottai Assembly Constituency",
+    "pan": "BRPPA3649N",
+    "phone": "9443545824",
+    "email": "pktmlaannadurai@gmail.com",
+    "address": "155, Melatheru, North Mannangadu, Mannangadu Post, Pattukkottai Taluk, Thanjavur District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc., University of Madras, May 1978; B.L., University of Madras, November 1981",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15227213.66,
+    "total_liabilities_xls": 253747.0,
+    "net_worth_xls": 14973466.66,
+    "cash_xls": 60000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Convicted (1 case(s))",
+    "case_numbers_xls": "Pending Case: குற்ற எண். 13/2018, மதுக்கூர் காவல் நிலையம், U/s.143, 188, 341, இந்த வழக்கு பொது மக்களின் நலன் கருதி நான் சார்ந்த அரசியல் கட்சி சார்பில் நடைப்பெற்ற போராட்டங்கள் / Crime No. 13/2018, Madukkur Police Station, U/s.143, 188, 341, This case pertains to protests held on behalf of my political party for public welfare; Convicted Case: C.C.No. 826/1986, பட்டுக்கோட்டை உட்கோட்ட நடுவர் நீதிமன்றம், காவல் சட்டம் பிரிவு 32 மற்றும் பிரிவு 2, இந்தி திணிப்பு சட்ட எரிப்பு போராட்டம், தண்டனை விதித்த நாள்: 20.01.1987, தண்டனை: 42 நாட்கள் / C.C.No. 826/1986, Pattukkottai Sub-Divisional Magistrate Court, Police Act Section 32 and Section 2, Protest against Hindi imposition law, Conviction date: 20.01.1987, Sentence: 42 days",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

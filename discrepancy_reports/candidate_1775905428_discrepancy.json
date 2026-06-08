@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905428",
+    "candidate_name": "G. Mahalakshmi",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "67 Arani Assembly Constituency, Tamil Nadu",
+    "pan": "AWWWPM4231H",
+    "phone": "8825752785",
+    "email": "mahalakshmigov1982@gmail.com",
+    "address": "7A, AGM Street, Kannamangalam, Arani Taluk, Tiruvannamalai District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., Civil. Periyar Maniammai Eng. College, Thanjavur, Anna University, April 2005",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 44961279.0,
+    "total_liabilities_xls": 30405317.0,
+    "net_worth_xls": 14555962.0,
+    "cash_xls": 90000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

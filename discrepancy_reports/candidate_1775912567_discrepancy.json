@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912567",
+    "candidate_name": "K. V. Vijayakumar",
+    "candidate_name_json": null,
+    "age": "39",
+    "party": "Tamil Telugu Desiya Katchi",
+    "constituency": "046 Gudiyatham Assembly Constituency, Tamil Nadu",
+    "pan": "DZGPS8420A",
+    "phone": "9840102217",
+    "email": "sivavina.2323@gmail.com",
+    "address": "No. 44, Pillaiyar Kovil Street, Kamatchiamman Pettai, Gudiyatham, Vellore, Tamil Nadu 632602",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th SSLC (2002) - Vallalar Higher Secondary School, Gudiyatham, Vellore District; 12th (2004) - National Higher Secondary School, Gudiyatham, Vellore District; Catering Management (2007) - Government Industrial Training Institute (ITI), Ambattur, Chennai",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7334380.0,
+    "total_liabilities_xls": 4731800.0,
+    "net_worth_xls": 2602580.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

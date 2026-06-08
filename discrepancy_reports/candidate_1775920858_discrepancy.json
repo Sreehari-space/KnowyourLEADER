@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920858",
+    "candidate_name": "E. MUNIYAN",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "Independent",
+    "constituency": "20, Thousand Lights, Tamil Nadu",
+    "pan": "FFYPM12639",
+    "phone": "9840579935",
+    "email": "NIL",
+    "address": "34, 7th Cross Street, Trustpuram, Kodambakkam, Chennai - 600024",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Eighth Standard, 1991, Corporation School Sankarapuram Chennai-94",
+    "profession": "occupation"
+  },
+  "financial_summary": {
+    "total_assets_xls": 327000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 327000.0,
+    "cash_xls": 2000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

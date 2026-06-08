@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915167",
+    "candidate_name": "Sivagnanasambandan",
+    "candidate_name_json": null,
+    "age": "71",
+    "party": "Desiya Makkal Sakthi",
+    "constituency": "Saidapet, Tamil Nadu",
+    "pan": "APQPS8747F",
+    "phone": "944481973",
+    "email": "siva1954@gmail.com",
+    "address": "No. 23, Hospital Road, A Block, Kaveri Nagar, T. Nagar, Chennai - 600 017",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Doctorate, 2013 (Political Science and Law) from State College Chennai, University",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 62000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 62000.0,
+    "cash_xls": 49000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

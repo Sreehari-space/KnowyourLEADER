@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924279",
+    "candidate_name": "R. DEVAKUMAR",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "INDEPENDENT",
+    "constituency": "NO.12, PERAMBUR ASSEMBLY CONSTITUENCY",
+    "pan": "BVSPD4727M",
+    "phone": "90032, 67811",
+    "email": "deva90adv@gmail.com",
+    "address": "No. 16, A-Block, Malligaipoo Colony, Vyasarpadi, Chennai 600 039",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A.BL., - 2014. [Chennai Law College, Tamil Nadu – 600104]",
+    "profession": "Practioner Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 21115000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 21115000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

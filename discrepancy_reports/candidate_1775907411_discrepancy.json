@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907411",
+    "candidate_name": "K. Ramesh",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "79, Sankarapuram Assembly Constituency",
+    "pan": "BFEPR2268P",
+    "phone": "9994951863",
+    "email": "rameshengginno@gmail.com",
+    "address": "Door No. 36, Nadutheru, Akkarapalayam, Vadakkananthal Town Panchayat, Kallakurichi District 606 207",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., (CSE)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 708000.0,
+    "total_liabilities_xls": 1636225.0,
+    "net_worth_xls": 928225.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914450",
+    "candidate_name": "Divya Pandiyadurai",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "NAAM INDIAR PARTY",
+    "constituency": "073-Vanur (SC) Assembly Constituency, Tamil Nadu",
+    "pan": "BKWPD1931Q",
+    "phone": "9791168328",
+    "email": "NIL",
+    "address": "Door No-6, Easwaran Kovil Street, Nallavur Village, Vanur Taluk, Villupuram District-604154",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E. (Automobile) from Anna University, Trichy, completed April 2014",
+    "profession": "Homemaker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2143105.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2143105.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

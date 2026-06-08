@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911764",
+    "candidate_name": "P. Sankar",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Puthiya Tamizhagam Katchi",
+    "constituency": "130 - Nilakottai Assembly Constituency, Tamil Nadu",
+    "pan": "BXFPS5051Q",
+    "phone": "9942405026",
+    "email": "psankar02021980@gmail.com",
+    "address": "123, East Street, Goundanpatti, Pallapatti Post, Nilakottai Taluk, Dindigul-624201",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1. Master of Commerce (M.Com) - 2000-2002, Waqf Board Arts College, Madurai. 2. Bachelor of Laws (LLB) - 2015-2018, Visakha Arts College, Visakhapatnam, Andhra Pradesh.",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4397718.0,
+    "total_liabilities_xls": 1703000.0,
+    "net_worth_xls": 2694718.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

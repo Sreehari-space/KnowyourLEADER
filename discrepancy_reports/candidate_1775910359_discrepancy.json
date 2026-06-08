@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910359",
+    "candidate_name": "Mu. Kamal Kumar",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "Viswa Tamil Kazhagam",
+    "constituency": "98 Erode East Assembly Constituency",
+    "pan": "JNZPK9819N",
+    "phone": "6374848040",
+    "email": "kamalkumarm329@gmail.com",
+    "address": "154, Ram Nagar, Muniyappan Kovil Street, Periyaseemur, Veerappanchatram, Erode, Erode District-638 004",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard, Kalaimagal Higher Secondary School, Vadmadurai (2010-2011)",
+    "profession": "Carpentry work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1738000.0,
+    "total_liabilities_xls": 390000.0,
+    "net_worth_xls": 1348000.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

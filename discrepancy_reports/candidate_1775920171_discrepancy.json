@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920171",
+    "candidate_name": "P. Sampathkumar",
+    "candidate_name_json": null,
+    "age": "39",
+    "party": "Independent",
+    "constituency": "137, Kulithalai Assembly Constituency, Tamil Nadu",
+    "pan": "FJZPS1715R",
+    "phone": "9943615153",
+    "email": "sampathkumarbsk87@gmail.com",
+    "address": "o Balasubramanian, Theeran Nagar, Keelaveliyur, Kalladai Village, Kulithalai Taluk, Karur District-621313",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Com. (2005-2008, National College, Bharathidasan University, Trichy); B.L. (2008-2011, Law College, Dr. Ambedkar Law University, Chennai)",
+    "profession": "Individual Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5087000.0,
+    "total_liabilities_xls": 2781082.0,
+    "net_worth_xls": 2305918.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

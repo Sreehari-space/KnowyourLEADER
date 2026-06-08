@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913418",
+    "candidate_name": "T. Gurukarthick",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "Independent",
+    "constituency": "189, Madurai East Constituency",
+    "pan": "BXYPG5517J",
+    "phone": "7989975119",
+    "email": "karthiguru33@gmail.com",
+    "address": "10A, Adhiparasakthi Nagar, Thiruppalai, Madurai District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Mangaiyar Kasi Higher Secondary School, Madurai",
+    "profession": "Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 46500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 46500.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

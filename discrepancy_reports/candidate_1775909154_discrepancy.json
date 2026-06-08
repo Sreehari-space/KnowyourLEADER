@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909154",
+    "candidate_name": "A. Karthik",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "203 Srivilliputhur (Reserved)",
+    "pan": "GMOPK2615D",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "232,B, T.M.Indiranagar, D.Manakacheri, Malli (Post), Srivilliputhur (Talk), Virudhunagar District 626141",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th: Veeramamunivar Higher Secondary School, Krishnaperi (2002-2003); 12th: Kamak Higher Secondary School, Krishnaperi (2004-2005); D.T.Ed.: M.S. Udhayamurthy Teacher Training Institute, Pullambadi, Trichy (2005-2007); B.A: Distance Education Annamalai University (2008-2013); B.Ed.: Akshaya College of Education, Malli (2014-2016); M.A: Manonmaniam University, Tamil Nadu Teachers Education University (2016-2018); M.Ed.: Sundareswari College of Education, Malli (2018-2020)",
+    "profession": "Individual private press manager, firecracker shop owner"
+  },
+  "financial_summary": {
+    "total_assets_xls": 11455000.0,
+    "total_liabilities_xls": 5349061.0,
+    "net_worth_xls": 6105939.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

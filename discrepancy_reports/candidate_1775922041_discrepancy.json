@@ -1,0 +1,434 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922041",
+    "candidate_name": "K. Venkatasalam",
+    "candidate_name_json": "VENKATACHALAM. G",
+    "age": "39",
+    "party": "Independent",
+    "constituency": "85 Mettur, Tamil Nadu",
+    "pan": "BGRPG3926R",
+    "phone": "9952664041",
+    "email": "venkatesh1986@gmail.com",
+    "address": "6-296, Mamarathur, Kaveripuram (Po), Mettur (Tk), Salem District-636303",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Bachelor of Engineering (Electrical), Vinayaka Mission, Salem, April 2012",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3329667.0,
+    "total_liabilities_xls": 1200000.0,
+    "net_worth_xls": 2129667.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "12,00,000 12 Lacs+",
+        "spouse": "22,00,000 22 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank, MLA Hostel Branch, Omanthurar Government Estate, Anna Salai, Chennai saving ac no 18,977.67 18 Thou+ Canara Bank Suramangalam Branch, Salem Savings Account No. Election A/c 11,00,000 11 Lacs+ Canara Bank, Suramangalam Branch, Salem Savings Account Number 1,14,566.04 1 Lacs+",
+        "spouse": "Canara Bank, Suramangalam Branch, Salem Savings Account Number 5,313.23 5 Thou+ Canara Bank, Suramangalam Branch, Salem Current Account Number 34,003.08 34 Thou+ Canara Bank, Suramangalam Branch, Salem Savings Account No.1 Election A/c 5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Life Insurance Corporation of India, Salem North, Gandhi Road, Salem-7 Policy No. 1,67,000 1 Lacs+",
+        "spouse": "Life Insurance Corporation of India, Salem North, Gandhi Road, Salem-7 Policy No. 83,000 83 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "3,81,000 3 Lacs+",
+        "spouse": "5,25,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "INNOVA, Crysta TN-30 CJ9119, Year 2024 26,55,000 26 Lacs+",
+        "spouse": "Bus registration number. TN-52 ?-1819, year 2018 7,20,429 7 Lacs+ Bus Vehicle Registration No. TN-54 C-2233, Year 2020 1,80,000 1 Lacs+ Bus Vehicle Registration No. TN-54 S-4455, Year 2020 22,20,000 22 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold 581.94 grams 69,10,537 69 Lacs+ Silver 250 gram 50,000 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Salem District, Vellalakundam Village, Plot No. 223/5, 223/6, 224/4, 224/6A Total Area acre 3.85 Built Up Area Whether Inherited N Purchase Date 2011-11-24 Purchase Cost 548100.00 Development Cost 0.00 9,00,000 9 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Salem District, Salem Taluk, Kandampatti Village, Tamil Nadu Housing Board, S.No. 2/1/33part, Plot No.L-6 Total Area 1000 sq.ft Built Up Area Whether Inherited N Purchase Date 2011-04-27 Purchase Cost 99100.00 Development Cost 1957000.00 30,00,000 30 Lacs+ Salem District, Salem Taluk, Ariyakavandam Patti Village, Plot No. 43/4 Total Area 5547 sq.ft Built Up Area Whether Inherited N Purchase Date 2017-10-30 Purchase Cost 1497690.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "spouse": "1. Salem District, Salem West, Pallapatti Village, Angammal Nagar, Plot No. 164/1 Total Area 1417 sq.ft Built Up Area Whether Inherited N Purchase Date 2012-05-11 Purchase Cost 1675000.00 Development Cost 1500000.00 35,00,000 35 Lacs+ 2.Salem District, Salem West, Pallapatti Village, Angammal Nagar, Plot No. 164/141A Plot No. 130/L3, Ward-L. Block-8, TSNo.6 Total Area 708 1/2 sq.ft Built Up Area Whether Inherited N Purchase Date 2014-09-15 Purchase Cost 755000.00 Development Cost 800000.00 18,00,000 18 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Salem District, (Ariyakunta, Salem Taluk, Nos. Mattai Village, Cholambalam, Survey No. 113, 114, 115, K.No. 169, 170, 1/2 Public Share Total Area 1.2795 square feet 1/2 share Built Up Area Approximately 600 square feet of tarmac building Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 700000.00 50,00,000 50 Lacs+ Salem District, Salem Circle, Ariyakunta Waaf Sq.No.43 Total Area 157-1/2 sq.ft Built Up Area 157-1/2 sq.ft Whether Inherited N Purchase Date 2017-10-30 Purchase Cost 190000.00 Development Cost 0.00 2,50,000 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Canara bank Sooramangalam Branch, Salem vehicle loan ac no 12,43,059.37 12 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Kandampatti House Advance P.Shanmugam, T/P.Periyasamy, Inanganur, Karur District 639205 50,000 50 Thou+ Kandampatti House Advance Babu, K/P.Vani, L-Flat-67, Kandampatti Mempala Nagar, Salem-636005 50,000 50 Thou+ Kandampatti House Advance, PS Jayaganesh, KKV Kalyana Mandapam Compound, Arisipalayam Main Road Salem-9 50,000 50 Thou+",
+      "spouse": "A.Kirupakaran T/P.Antika Wunder, Vanniyar Nagar Salem 3,00,000 3 Lacs+ Thangaraj T/P.Vaithili Ngam 50. Sooramangalam Main Road, Three Road, Salem-9 13,00,000 13 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 16,50,186 | 2023 - 2024: Rs 8,48,289 | 2022 - 2023: Rs 8,86,329 | 2021 - 2022: Rs 10,49,223 | 2020 - 2021: Rs 9,58,002"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 11,60,450 | 2023 - 2024: Rs 18,46,930 | 2022 - 2023: Rs 16,07,370 | 2021 - 2022: Rs 11,58,046 | 2020 - 2021: Rs 13,42,937"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "5",
+      "summary": "Number of Criminal Cases:5",
+      "ipc_charges": [
+        "1 charges related to Illegal payments in connection with an election (IPC Section-171H)",
+        "3 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Punishment for public nuisance in cases not otherwise provided for (IPC Section-290)",
+        "1 charges related to Continuance of nuisance after injunction to discontinue (IPC Section-291)",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "35/2022, Salem Town Police Station, Salem City",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "73/2022, Annathanapatti Police Station, Salem City",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "489/2022, Pallapatti Salem Police Station Salem City",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 290, 291, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "152/2024 Salem Town Police Station Salem City",
+          "case_no": "S.T.C.No.272/2026",
+          "court": "Honorable Judicial Magistrate No. 1, Salem",
+          "law_type": "IPC",
+          "ipc_sections": "171H",
+          "other_details": "Section-4(A), (1a) and 4(B) of the The Tamil Nadu Open Places (Prevention Of Disfigurement) Act, 1959",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "1030/2024, Salem Town Police Station Salem City",
+          "case_no": "S.T.C.No.8736/2025",
+          "court": "Honorable Judicial Magistrate No. 1, Salem",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,50,19,826 ~3 Crore+",
+    "Liabilities:": "Rs 29,93,059.37 ~29 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹25,673,197, but 5-year family income is only ₹12,507,762. Unexplained wealth discrepancy of ₹13,165,435."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2011 for ₹99,100 (CII Indexed Cost: ₹202,509) is declared at highly inflated value of ₹3,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "831.9g gold declared at ₹6,910,537 (Implied rate: ₹8,307/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹27,266,256) does not match declared total assets (₹35,019,826). Difference: ₹7,753,570"
+    }
+  ]
+}

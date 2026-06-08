@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905329",
+    "candidate_name": "R. Kuppusamy",
+    "candidate_name_json": null,
+    "age": "74",
+    "party": "Indian National Congress",
+    "constituency": "51 Uthangarai (SC) Assembly Constituency, Tamil Nadu",
+    "pan": "AXLPK7489B",
+    "phone": "9894401124",
+    "email": "NIL",
+    "address": "Door No. 80-B, Chennasamudram Village, Chennasamudram Post, Chengam Taluk, Tiruvannamalai District.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C., Government High School, Chengam, 1970",
+    "profession": "Workman in TVS Motor Company Ltd., Hosur"
+  },
+  "financial_summary": {
+    "total_assets_xls": 18001987.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 18001987.0,
+    "cash_xls": 150000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

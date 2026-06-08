@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904182",
+    "candidate_name": "S.A. SATHYA",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "DMK",
+    "constituency": "55. HOSUR ASSEMBLY CONSTITUENCY, TAMILNADU",
+    "pan": "BAEPS3267E",
+    "phone": "7502371777",
+    "email": "sathyahsr@yahoo.com",
+    "address": "D.No.126. Appavu Nagar, Thally Road, Hosur - 635109 Taluk & Krishangiri District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (Secondary School leaving certificate), Government Boys Higher Secondary School, Hosur, 1986-1987",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 963200642.0,
+    "total_liabilities_xls": 19055941.0,
+    "net_worth_xls": 944144701.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

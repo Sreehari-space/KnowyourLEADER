@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907401",
+    "candidate_name": "சுப்ரமணியன்",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "திராவிட முன்னேற்ற கழகம்",
+    "constituency": "224 திருநெல்வேலி சட்டமன்ற தொகுதி",
+    "pan": "AXJPS1621D",
+    "phone": "9840391666",
+    "email": "subbu.cosmo@gmail.com",
+    "address": "கதவு எண்: 62, நடுத்தெரு, ராம் நகர், தியாகராஜ நகர், பாளையங்கோட்டை, திருநெல்வேலி - 627010F",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E. Mechanical Engineering – GKM College of Engineering, Perungulathur, Chennai – Anna University - Year of completion – 1999. MBA - SRM Engineering College (Autonomous), Katangalathur, Chennai – Year of Completion - 2001",
+    "profession": "The Managing Director, Maha Binu Fire Fighters Pvt. Ltd."
+  },
+  "financial_summary": {
+    "total_assets_xls": 71933972.56,
+    "total_liabilities_xls": 9120105.0,
+    "net_worth_xls": 62813867.56,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

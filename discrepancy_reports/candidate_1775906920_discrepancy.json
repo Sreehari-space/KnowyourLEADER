@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906920",
+    "candidate_name": "Durai. K. Saravanan",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "157, Bhuvanagiri, Tamil Nadu",
+    "pan": "BLZPS8943R",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "3, Theradi Kadai Street, Chidambaram 608001, Cuddalore District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.E. (PRODUCTION) Annamalai University, July 1994",
+    "profession": "Director, Cholan Gears & Packers Pvt Ltd; Proprietor, Cholan Contractors and Traders"
+  },
+  "financial_summary": {
+    "total_assets_xls": 250286162.85,
+    "total_liabilities_xls": 6829237.0,
+    "net_worth_xls": 243456925.85,
+    "cash_xls": 141136.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

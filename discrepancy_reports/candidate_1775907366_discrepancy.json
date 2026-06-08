@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907366",
+    "candidate_name": "S.R.VIJAYAKUMAR",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "14 VILLIVAKKAM, TAMILNADU",
+    "pan": "ADVPV0528J",
+    "phone": "9840137037",
+    "email": "srvijayakumar74@gmail.com",
+    "address": "No.95, Arunachalam 4th Lane, Shenoy Nagar, Chennai – 600030",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (10th STD) from Thiruvika HSS Shenoynagar (1989-1990); HSC (12th STD) from Corporation HSS, Nungambakkam (1991-1992); Bachelor of Arts (Economics) from Kandasamy Naidu College, Anna Nagar, Chennai (1993-1996); Bachelor of Law from Dr.Ambetkar Govt. Law College, Chennai (2001-2004)",
+    "profession": "Self: Business; Spouse: Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 55943891.3,
+    "total_liabilities_xls": 21584906.0,
+    "net_worth_xls": 34358985.3,
+    "cash_xls": 57368.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

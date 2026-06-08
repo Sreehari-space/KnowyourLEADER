@@ -1,0 +1,487 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906424",
+    "candidate_name": "B. SATHIYANARAYANAN",
+    "candidate_name_json": "SATHIYANARAYANAN B",
+    "age": "62",
+    "party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM (AIADMK)",
+    "constituency": "024, THIYAGARAYA NAGAR ASSEMBLY CONSTITUENCY, TAMIL NADU",
+    "pan": "ABDPS9803M",
+    "phone": "9841026424",
+    "email": "tnagarb_sathiya@yahoo.com",
+    "address": "Door No.9, Nerkundram Lane, Vadapalani, Chennai 600026",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Highest educational qualification: (1) Higher Secondary Course done in MPU Higher Secondary School, Chennai-600001 in the year April 1982 (2) Bachelor of Commerce done in Government Arts College, Nandanam, Chennai-600035 in the year March 1987.",
+    "profession": "BUSINESS"
+  },
+  "financial_summary": {
+    "total_assets_xls": 618080731.24,
+    "total_liabilities_xls": 301480076.0,
+    "net_worth_xls": 316600655.24,
+    "cash_xls": 655000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "6,55,000 6 Lacs+",
+        "spouse": "4,61,000 4 Lacs+",
+        "huf": "Nil",
+        "dependent1": "4,50,000 4 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "South Indian Bank T.Nagar Branch Chennai 1,98,29,230.67 1 Crore+ South Indian Bank Vadapalani Chennai 5,00,000 5 Lacs+ Karnataka Bank Kodambakkam Branch Chennai 11,07,371.29 11 Lacs+ Karnataka Bank Kodambakkam Branch Chennai 1,00,000 1 Lacs+ BOB Vadapalani Chennai 1,935 1 Thou+ BOB Vadapalani Chennai 78,702.44 78 Thou+ Indian Overseas Bank Secretariat Chennai 2,36,767.17 2 Lacs+ Axis Bank Purusawalkam Branch Chennai HUF 1,10,318 1 Lacs+ New A/C For Election Expenditure BOB Vadapalani Chennai 40,05,000 40 Lacs+ Axis Bank Purusawalkam Branch 1,71,268 1 Lacs+",
+        "spouse": "HDFC Bank Ltd G.N Chetty Road Branch 1,75,672.61 1 Lacs+ Axis Bank Purusawalkam Branc 42,30,208.50 42 Lacs+ Axis Bank Vadapalani Branch Chennai 5,00,000 5 Lacs+",
+        "huf": "Axis Bank, Purusawalkam Branch, Chennai, 1,10,318 1 Lacs+",
+        "dependent1": "South Indian Bank T.Nagar Branch Chennai 15,912 15 Thou+ Axis Bank Purusawalkam Branch 0 Axis Bank Saidpet Branch Chennai 4,447 4 Thou+",
+        "dependent2": "HDFC Bank T.Nagar Branch Chennai 1,55,682 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Sri Patham Enterprises 18,000 18 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Medical Insurance Policy National Company Ltd 6,00,000 6 Lacs+ ICICI Prudential Life Secure Plus Coverage Value 60,000 60 Thou+ SBI Life Isurance Policy 2,50,000 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Babu Mathews 76,00,000 76 Lacs+ Loan Debtors 57,08,944 57 Lacs+ kavitha 1,07,31,402 1 Crore+ Sounder 25,00,000 25 Lacs+ Gunasekaran 1,00,00,000 1 Crore+ Viswaprakash Balakrishnan 1,07,00,000 1 Crore+ S. Saravanan 2,75,00,000 2 Crore+ M.A. Moorthy 6,40,00,000 6 Crore+ Vijayakumar. S 10,00,000 10 Lacs+ M. Srinivasan 5,00,000 5 Lacs+ S. Mohanraj 5,00,000 5 Lacs+ Sathiyaraj 3,00,000 3 Lacs+ Sivasamy Velumani 1,00,000 1 Lacs+",
+        "spouse": "Sathiyanarayan 5,65,38,537.31 5 Crore+ Saritha 3,00,000 3 Lacs+ Raghasudha 5,50,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Velu 3,50,000 3 Lacs+ Idli & Idli Associates 64,85,000 64 Lacs+ Jayachitra 56,81,870 56 Lacs+ Maharaj Hot Chips 49,00,000 49 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Jaguar Vechile No.TN10BQ 1234 44,38,695.93 44 Lacs+ Tractor Vechile No.TN18AW6763 4,25,000 4 Lacs+ Tractor Vechile No.TN18BH9506 6,75,000 6 Lacs+",
+        "spouse": "Tractor Vechile No.TN10BP1234 Toyota Fortuner 21,64,818 21 Lacs+ CAT 424 Vechile No.TN10BK1144 19,46,019.16 19 Lacs+ C424 Vechile No.TN10BHK1144 19,46,019.16 19 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Mercedes Benz Vechile No.TN10BV1234 60,58,005.56 60 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "885gm Gold 1,20,36,000 1 Crore+ 8.75 Kilo gm 21,00,000 21 Lacs+",
+        "spouse": "820gm Gold 1,11,52,000 1 Crore+ 11.02 Kilo gm Silver 26,44,800 26 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Gold 373gm 50,72,800 50 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Mummodduikuppam Village Sy No.107/4, 107/5, 107/16, Tiruvallur Taluk Tamilnadu Total Area 24.79Cents Built Up Area Whether Inherited Y Purchase Date 2007-03-30 Purchase Cost 186780.00 Development Cost 0.00 20,00,000 20 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, S.No.252/3B, 252/7B, 252/7C, 252/8A, 253/1 Total Area Acre 1.08.5 cents Built Up Area Whether Inherited N Purchase Date 2015-03-23 Purchase Cost 2170000.00 Development Cost 0.00 27,00,000 27 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, S.No.252/2A2, 252/3A, 252/8B Total Area Acre 0.76 cents Built Up Area Whether Inherited N Purchase Date 2017-01-28 Purchase Cost 328320.00 Development Cost 530000.00 9,00,000 9 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, S.No.252/12, 252/13, 252/14 Total Area Acre 1.82 cents Built Up Area Whether Inherited N Purchase Date 2017-01-28 Purchase Cost 3931200.00 Development Cost 1270000.00 55,00,000 55 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, S.No.252/10, 252/11 Total Area Acre 0.60 cents Built Up Area Whether Inherited N Purchase Date 2017-01-28 Purchase Cost 259200.00 Development Cost 416300.00 7,00,000 7 Lacs+ Arambakkam II Village, Gummidipoondi, S.No.220/5, 220/6, 220/7 Total Area Acre 3.00 cents Built Up Area Whether Inherited N Purchase Date 2019-09-09 Purchase Cost 5577750.00 Development Cost 0.00 61,00,000 61 Lacs+ Arambakkam I Village, Gummidipoondi, S.No.10/1A4 Total Area Acre 1.06 cents Built Up Area Whether Inherited N Purchase Date 2019-09-09 Purchase Cost 1970805.00 Development Cost 0.00 22,26,000 22 Lacs+ Arambakkam II Village, Gummidipoondi, S.No.397/5, 397/6 Total Area Acre 0.71 cents Built Up Area Whether Inherited N Purchase Date 2019-09-09 Purchase Cost 1320318.00 Development Cost 0.00 14,91,000 14 Lacs+ Arambakkam I Village, Gummidipoondi, S.No.116/6, 116/6A Total Area Acre 1.33 cents Built Up Area Whether Inherited N Purchase Date 2019-09-09 Purchase Cost 2750303.00 Development Cost 0.00 30,60,000 30 Lacs+ Arambakkam I Village, Gummidipoondi, S.No.2/6, 2/6B, 2/7A Total Area Acre 0.65 cents Built Up Area Whether Inherited N Purchase Date 2019-12-12 Purchase Cost 1208513.00 Development Cost 0.00 14,95,000 14 Lacs+ Arambakkam I Village, Gummidipoondi, S.No.235 Total Area Acre 1.12 cents Built Up Area Whether Inherited N Purchase Date 2019-09-09 Purchase Cost 2082360.00 Development Cost 0.00 23,52,000 23 Lacs+ Arambakkam I Village, Gummidipoondi, S.No.1/9M2, 1/9N2, 1/6A2, 1/901, 1/9H1, 1/6A1A1, 1/9E Total Area Acre 0.40 cents Built Up Area Whether Inherited N Purchase Date 2019-12-12 Purchase Cost 743700.00 Development Cost 0.00 9,20,000 9 Lacs+ Arambakkam I Village, Gummidipoondi, S.No.1/11?, 1/9H1, 1/901 Total Area Acre 1.00 cents Built Up Area Whether Inherited N Purchase Date 2019-12-12 Purchase Cost 1859250.00 Development Cost 0.00 21,00,000 21 Lacs+ Arambakkam II Village, Gummidipoondi, S.No.340/1A, 340/1A1, 340/1B, 340/1?1 Total Area Acre 1.49 cents Built Up Area Whether Inherited N Purchase Date 2019-09-09 Purchase Cost 2770527.00 Development Cost 0.00 31,29,000 31 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, S.No.257/1, 257/4 Total Area Acre 2.28 cents Built Up Area Whether Inherited N Purchase Date 2019-10-10 Purchase Cost 14774000.00 Development Cost 0.00 1,63,00,000 1 Crore+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, S.No.257/2, 257/8C, 257/8B1, 257/ 8B2, 257/13A1, 257/13A2, 213/BA, 257/16 Total Area Acre 2.27 cents Built Up Area Whether Inherited N Purchase Date 2020-10-16 Purchase Cost 17161200.00 Development Cost 0.00 1,89,00,000 1 Crore+ ERAKKUM VILLAGE, Tada Revenue Mandal, Sullurpet Taluk, S.No.566/3AC Total Area Acre 1.02 cents Built Up Area Whether Inherited N Purchase Date 2010-10-22 Purchase Cost 243000.00 Development Cost 0.00 2,70,000 2 Lacs+ ERAKKUM VILLAGE, Tada Revenue Mandal, Sullurpet Taluk, S.No.566/3AB, 566/3B Total Area Acre 1.50 cents Built Up Area Whether Inherited N Purchase Date 2019-12-12 Purchase Cost 356400.00 Development Cost 0.00 3,92,000 3 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, S.No.257/10, 257/12, 257/14A, 257/15, 257/16B, 257/3A, 257/3B1, 257/5, 257/6, 257/7, 257/8D, 257/8E, 257/9 Total Area Acre 3.00 cents Built Up Area Whether Inherited N Purchase Date 2021-01-28 Purchase Cost 22680000.00 Development Cost 0.00 2,49,00,000 2 Crore+ Arambakkam I Village, Gummidipoondi, S.No.163/2, 163/3, 163/4, 163/11, 164/2, 164/3, 164/4, 164/5, 164/9, 164/10, 164/11, 164/12 Total Area Acre 4.30 cents Built Up Area Whether Inherited N Purchase Date 2020-12-03 Purchase Cost 4949693.00 Development Cost 0.00 55,00,000 55 Lacs+ Arambakkam II Village, Gummidipoondi, S.No.397/2, 397/4 Total Area Acre 0.80 cents Built Up Area Whether Inherited N Purchase Date 2021-05-29 Purchase Cost 1487400.00 Development Cost 0.00 18,00,000 18 Lacs+ Arambakkam I Village, Gummidipoondi, S.No.415/5A Total Area Acre 0.95 cents Built Up Area Whether Inherited N Purchase Date 2020-10-03 Purchase Cost 3585300.00 Development Cost 0.00 39,50,000 39 Lacs+ Arambakkam I Village, Gummidipoondi, S.No.415/12 Total Area Acre 0.14 cents Built Up Area Whether Inherited N Purchase Date 2020-10-03 Purchase Cost 788100.00 Development Cost 0.00 8,60,000 8 Lacs+ Arambakkam II Village, Gummidipoondi, S.No.468/2A Total Area Acre 3.21 cents with mango trees Built Up Area Whether Inherited N Purchase Date 2021-02-01 Purchase Cost 6101393.00 Development Cost 0.00 67,00,000 67 Lacs+ Veerakelaram Village, Perur Taluk, Coimbatore District, S.No.210/2 Total Area Acre 0.83 cent Built Up Area Whether Inherited N Purchase Date 2025-04-19 Purchase Cost 36868687.00 Development Cost 0.00 3,68,68,687 3 Crore+ Veerakelaram Village, Perur Taluk, Coimbatore District, S.Nos.207/2B1, 207/2B2, 207/2B3, 208/2A, 208/2B, 208/2C, 208/2D, 209 Total Area Acre 8.61 cent Built Up Area Whether Inherited N Purchase Date 2025-04-19 Purchase Cost 113131313.00 Development Cost 24174340.00 13,73,05,653 13 Crore+ Arambakkam I Village, Gummidipoondi, S.No.59/1B Total Area Acre 2.00 cents Built Up Area Whether Inherited N Purchase Date 2021-10-01 Purchase Cost 3350000.00 Development Cost 0.00 38,00,000 38 Lacs+ Arambakkam II Village, Gummidipoondi, S.No.220/5A Total Area Acre 0.28 cents Built Up Area Whether Inherited N Purchase Date 2021-09-28 Purchase Cost 519000.00 Development Cost 0.00 6,00,000 6 Lacs+ Arambakkam Village, Gummidipoondi, S.No.163/12, 164/4, 164/5, 164/9 Total Area Acre 0.50 cent Built Up Area Whether Inherited N Purchase Date 2021-09-28 Purchase Cost 1005000.00 Development Cost 0.00 14,00,000 14 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, S.No.257/8? Total Area Acre 0.18 cents Built Up Area Whether Inherited N Purchase Date 2024-09-02 Purchase Cost 756000.00 Development Cost 0.00 8,00,000 8 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "CHEMMENCHERI VILLAGE, Tambaram Taluk, Kancheepuram District, Survey No.421/3, 421/10C Total Area 2400 Sq.ft. Built Up Area Whether Inherited Y Purchase Date 2007-06-21 Purchase Cost 327140.00 Development Cost 0.00 40,00,000 40 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, Survey No.252/5, 252/6, 252/7A, 252/7B Total Area 1306.80 Sq.yd. Built Up Area Whether Inherited N Purchase Date 2015-02-23 Purchase Cost 73000.00 Development Cost 0.00 1,50,000 1 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, S.No.252/13 Total Area 968 Sq.yd. Built Up Area Whether Inherited N Purchase Date 2017-01-28 Purchase Cost 1045440.00 Development Cost 0.00 12,00,000 12 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, Survey No.252/13 Total Area 968 Sq.yd. Built Up Area Whether Inherited N Purchase Date 2017-03-15 Purchase Cost 1045440.00 Development Cost 0.00 12,00,000 12 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, S.No.253/1 Total Area 161.33 Sq.yd Built Up Area Whether Inherited N Purchase Date 2019-12-12 Purchase Cost 540000.00 Development Cost 0.00 6,40,000 6 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, Survey No.257/14 Total Area 290.40 Sq.yd Built Up Area Whether Inherited N Purchase Date 2020-10-22 Purchase Cost 439560.00 Development Cost 0.00 5,80,000 5 Lacs+ BHEEMULAVARI PALAYAM VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, S.No.49 Total Area 155.25 Sq.yd Built Up Area Whether Inherited N Purchase Date 2020-10-22 Purchase Cost 235440.00 Development Cost 0.00 3,00,000 3 Lacs+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, Survey No.257/14 Total Area 19.36 Sq.yd Built Up Area Whether Inherited N Purchase Date 2021-01-28 Purchase Cost 30240.00 Development Cost 0.00 36,000 36 Thou+ KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, Survey No.257/13 Total Area 677.6 Sq.yd Built Up Area Whether Inherited N Purchase Date 2021-01-28 Purchase Cost 1058400.00 Development Cost 0.00 12,60,000 12 Lacs+ Kovilpatti of Villipatti Village, Kodaikanal, Dindukal, new Survey No.1751/1 Total Area 50 cents (25 cent + 25 cent) Built Up Area Whether Inherited N Purchase Date 2018-06-18 Purchase Cost 444000.00 Development Cost 0.00 7,00,000 7 Lacs+ Vedavalli Village, Perur Taluk, Coimbatore District, Azhagu Murugan Nagar, S.No.388/1A Total Area 6000 Sq.ft. Built Up Area Whether Inherited N Purchase Date 2025-08-14 Purchase Cost 3561000.00 Development Cost 0.00 1,12,20,000 1 Crore+ Vedavalli Village, Perur Taluk, Coimbatore District, Azhagu Murugan Nagar, S.No.388/1A Total Area 6300 Sq.ft. Built Up Area Whether Inherited N Purchase Date 2025-08-14 Purchase Cost 3739000.00 Development Cost 0.00 1,17,81,000 1 Crore+",
+        "spouse": "KARURU VILLAGE, Tada Revenue Mandal, Sri Potti Sreeramulu Nellore District, Survey No.255/12 Total Area 338.80 Sq.yd Built Up Area Whether Inherited N Purchase Date 2019-01-30 Purchase Cost 439560.00 Development Cost 0.00 6,00,000 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "PULIYUR VILLAGE, Town Survey No.6, Block No.9, Door No.16/2, Parameswari Colony, Andavar Nagar, Kodambakkam, Chennai-600 024 Total Area 1190 Sq.ft. Built Up Area 2400 Sq.ft. Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,10,00,000 1 Crore+ PULIYUR VILLAGE, Town Survey No.59 & 60, Block No.3, Door No.9, Nerkundram Lane, Vadapalani, Chennai-600 026 Total Area 2100 Sq.ft. Built Up Area 4000 Sq.ft. Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 4,35,00,000 4 Crore+ PULIYUR VILLAGE, Town Survey No.11/3, Block No.2, Door No.7/5, Thiru Nagar First Street, Vadapalani, Chennai-600026 Total Area Land undivided share -480 Sq.ft. in 2400 Sq.ft. Built Up Area Flat - 1200 Sq.ft. Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 48,00,000 48 Lacs+ PULIYUR VILLAGE, Town Survey No.82/3, Block No.2, Door No.47/S-4, Alagriri Nagar Main Road, Vadapalani, Chennai- 600026 Total Area Land undivided share - 75 Sq.ft. in 3300 Sq.ft. Built Up Area Flat -530 Sq.ft. Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 20,00,000 20 Lacs+ CHITTUR DISTRIC?, THIRUPATHI, ANDHRA PRADESH, Survey No.257, Flat No.405, 4th Floor, Padmavathi Towers Total Area 650 Sq.ft. Built Up Area Flat -1200 Sq.ft. Whether Inherited N Purchase Date 2012-08-30 Purchase Cost 1233680.00 Development Cost 0.00 25,00,000 25 Lacs+ Kodambakkam Village Part-1 1167, 14th Street. Ashok Nagar, Chennai-600083 Total Area Land 974 sq.ft. Built Up Area 300 sq.ft. ACC Whether Inherited N Purchase Date 2024-11-15 Purchase Cost 4907000.00 Development Cost 0.00 49,07,000 49 Lacs+ Old No.2, New 4/5, Thangavelu (Gramani) Street, T. Nagar Village, Chennai-600017, T.S.No.8175, 8176, Block No.107 Total Area 560 sq.ft. undivided share of land out of 8009 Sq.ft. Built Up Area New Residential Flat measuring 1667 sq.ft. Flat 5A, Fifth Floor Whether Inherited N Purchase Date 2025-03-17 Purchase Cost 16670000.00 Development Cost 0.00 1,66,70,000 1 Crore+ Old No.2, New 4/5, Thangavelu (Gramani) Street, T. Nagar Village, Chennai-600017, T.S.No.8175, 8176, Block No.107 Total Area 500 sq.ft. undivided share of land out of 8009 Sq.ft. Built Up Area New Residential Flat measuring 1422 sq.ft. Flat 5B, Fifth Floor Whether Inherited N Purchase Date 2025-03-17 Purchase Cost 3650000.00 Development Cost 0.00 1,42,20,000 1 Crore+ Old No.2, New 4/5, Thangavelu (Gramani) Street, T. Nagar Village, Chennai-600017, T.S.No.8175, 8176, Block No.107 Total Area 540 sq.ft. undivided share of land out of 8009 Sq.ft. Built Up Area New Residential Flat measuring 1583 sq.ft. Flat 5C, Fifth Floor Whether Inherited N Purchase Date 2025-03-17 Purchase Cost 15830000.00 Development Cost 0.00 1,58,30,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Karnataka Bank Limited, Kodambakkam Branch, 90,000 90 Thou+ Karnataka Bank Limited, Kodambakkam Branch, FD 1,00,000 1 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Arhiant Shelters 22,00,000 22 Lacs+ Arhiant Finance India Pvt Ltd 90,52,788 90 Lacs+ E. Velu 1,04,00,000 1 Crore+ K.K.Builders 44,50,000 44 Lacs+ P. Manohar 20,00,000 20 Lacs+ Shanthi Devi 30,00,000 30 Lacs+ S.Jayachitra 5,65,38,537.31 5 Crore+ Bhawarlal 30,00,000 30 Lacs+ Dhanasekar 10,00,000 10 Lacs+ Ewa Spa 9,96,880.92 9 Lacs+ Lavanya Raja 2,50,000 2 Lacs+ Meenakshi Sundaram 18,00,000 18 Lacs+ Prema 5,00,000 5 Lacs+ Sriram Constn 25,00,000 25 Lacs+ TAAS Properties Private Limited 15,00,000 15 Lacs+ V. Venkataraman 10,00,000 10 Lacs+ Yusaf Sidique 7,00,000 7 Lacs+ Dasarathan 3,05,00,000 3 Crore+ Dr. Muthus Hospitals Pvt 1,45,00,000 1 Crore+ DVR Enterprises 10,00,000 10 Lacs+ Elite Marketing 60,00,000 60 Lacs+ Gummala Mounish 75,00,000 75 Lacs+ Manjula Motla 12,00,000 12 Lacs+ Padmapriya 30,00,000 30 Lacs+ Pusha Kalyan 10,00,000 10 Lacs+ RSR Energie 4,64,00,000 4 Crore+ Srinvasa Balaji 50,00,000 50 Lacs+ Sachiya Investments 15,00,000 15 Lacs+ Sadishkumar 50,00,000 50 Lacs+ Sivasami Velumani 9,50,000 9 Lacs+ V.M. Jain 12,50,000 12 Lacs+ Rajeswari Constructions 5,00,000 5 Lacs+ KB Homes 3,57,70,000 3 Crore+",
+      "spouse": "C. Thilip Kumar 11,00,000 11 Lacs+ S Kavitha 56,81,870 56 Lacs+ Arihiant Shelters 25,00,000 25 Lacs+ Khaznavi 45,00,000 45 Lacs+",
+      "huf": "Nil",
+      "dependent1": "B.SATHAYANARAYANAN 1,07,31,402 1 Crore+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Rental Deposit 4,00,000 4 Lacs+ Lease Deposit 5,00,000 5 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 26,32,610 | 2023 - 2024: Rs 29,56,660 | 2022 - 2023: Rs 27,70,293 | 2021 - 2022: Rs 40,21,142 | 2020 - 2021: Rs 1,07,35,886"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 59,00,650 | 2023 - 2024: Rs 21,24,920 | 2022 - 2023: Rs 15,02,180 | 2021 - 2022: Rs 9,10,900 | 2020 - 2021: Rs 23,55,270"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 8,52,200 | 2023 - 2024: Rs 6,84,000 | 2022 - 2023: Rs 6,36,000"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 14,49,110 | 2023 - 2024: Rs 14,10,700 | 2022 - 2023: Rs 5,88,150 | 2021 - 2022: Rs 8,96,630 | 2020 - 2021: Rs 9,38,810"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (8 case(s))",
+    "case_numbers_xls": "CR No.507/2006; FIR No.5/2022; FIR No.1613/2021; FIR No.79/2022; FIR No.347/2023; FIR No.489/2022; Crime No.4/2023; Crime No.2/2024",
+    "criminal_cases_json": {
+      "count": "8",
+      "summary": "Number of Criminal Cases:8",
+      "ipc_charges": [
+        "2 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Voluntarily causing hurt by dangerous weapons or means (IPC Section-324)",
+        "1 charges related to Punishment for criminal breach of trust (IPC Section-406)",
+        "1 charges related to Criminal breach of trust by public servant, or by banker, merchant or agent (IPC Section-409)",
+        "3 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Punishment for public nuisance in cases not otherwise provided for (IPC Section-290)",
+        "2 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)",
+        "1 charges related to Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse (IPC Section-151)",
+        "1 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Illegal, Legally bound to do (IPC Section-43)",
+        "1 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Public servant farming an incorrect document with intent to cause injury (IPC Section-167)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "CR. No. 507/2006 Central Crime Branch Chennai City, Tamil Nadu dated 27.06.2006",
+          "case_no": "CC No.2394/2007",
+          "court": "In The Court Of Exclusive Trial Of CCB Case Egmore Chennai",
+          "law_type": "IPC",
+          "ipc_sections": "420",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "5/2022, CBCID Head Quarters, PSATC-Chennai dated 02.09.2022,",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 341, 324, 506(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "1613/2021 North Beach PS Flower Bazaar Chennai dated 17.12.2021,",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 290",
+          "other_details": "Section 3-ED Act 1897 Sec. 4A (1b) TNOPPD Act Sec. 71A (1) TNCP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "489/2022, dated 21.12.2022, Aminjikarani Anna Nagar Chennai",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "43, 188",
+          "other_details": "Section- 41(6) (a) TNCP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Crime No. 4/2023 DVAC RC 205/2023/PUB/HQ Dated 18.06.2024",
+          "case_no": "SPLCCC/0000002/2026",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "109",
+          "other_details": "Section- 13(2) r/w 13(1) (e), Of Prevention Of Corruption Act, 1998 & Sec. 12 r/w 13(2) r/w 13(1)(b), Of PC Amendment Act 2018",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "79/2022, dated 28.02.2022,, North Beach PS Flower Bazaar, Chennai",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 290, 341",
+          "other_details": "Section 4A(1b), TNOPPD Act Sec. 71A(1)- TNCP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "347/2023, dated 22.05.2023, Guindy Adyar Chennai",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 151",
+          "other_details": "Section- 41 TNCP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Crime No. 2/2024 DVAC CC-1 Dated 21.05.2024",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "120B, 167, 406, 409, 420",
+          "other_details": "Section 7(c), 13(2) r/w 13(1)(a) PC Act (Amended) 2018, Sec. 12 r/w 13(2) r/w (13)(1)(a) PC Act (Amended) 2018",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 64,74,75,082 ~64 Crore+",
+    "Liabilities:": "Rs 28,75,61,478.23 ~28 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹130,849,949, but 5-year family income is only ₹41,193,911. Unexplained wealth discrepancy of ₹89,656,038."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2007 for ₹186,780 (CII Indexed Cost: ₹544,413) is declared at highly inflated value of ₹2,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2007 for ₹327,140 (CII Indexed Cost: ₹953,524) is declared at highly inflated value of ₹4,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "2078.0g gold declared at ₹23,188,000 (Implied rate: ₹11,159/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹145,371,351) does not match declared total assets (₹647,475,082). Difference: ₹502,103,731"
+    }
+  ]
+}

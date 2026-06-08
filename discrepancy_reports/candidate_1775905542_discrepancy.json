@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905542",
+    "candidate_name": "K.Palanisamy",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "Bahujan Samaj Party",
+    "constituency": "Yercaud (SC) (83), Tamil Nadu",
+    "pan": "EINPP8684N",
+    "phone": "7598109360",
+    "email": "sabaripriya877841@gmail.com",
+    "address": "Door No. 999, Valapady, Yercaud Taluk, Salem District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (1988), Government High School, Yercaud",
+    "profession": "Wage work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1101000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1101000.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

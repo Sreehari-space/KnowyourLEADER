@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917897",
+    "candidate_name": "V. Thanasekar",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Independent",
+    "constituency": "170, Thiruvidaimaruthur, Tamilnadu",
+    "pan": "CBXPD1682B",
+    "phone": "9600428030",
+    "email": "NIL",
+    "address": "M.C. Road No.14, Balaji Nagar 5th Street, Thanjavur Town & Post, Thanjavur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E.",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1100000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1100000.0,
+    "cash_xls": 575000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

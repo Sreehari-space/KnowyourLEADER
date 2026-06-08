@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923105",
+    "candidate_name": "MAHESH KUMAR",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "INDEPENDENT CANDIDATE",
+    "constituency": "96 THIRUCHENGODU CONSTITUENCY",
+    "pan": "CATPM0185M",
+    "phone": "9345701708",
+    "email": "maheshsanjiv03@gmail.com",
+    "address": "86, Ganapathipalayam, Mangalam, Tiruppur, Tamil Nadu - 641 663",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "HSC, The Wisdom matriculation higher secondary school, Iduvai, Tirupur passed out in the year 2012",
+    "profession": "Real estate, Politician"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15.82,
+    "total_liabilities_xls": 8644.0,
+    "net_worth_xls": 8628.18,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

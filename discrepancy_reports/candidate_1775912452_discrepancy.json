@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912452",
+    "candidate_name": "P. Vijayaraj",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "33 Thirupporur",
+    "pan": "FHKPB1087A",
+    "phone": "9710069435",
+    "email": "advocatevijayaraj1216@gmail.com",
+    "address": "No. 174, Hill View Residency, Ganapathy Nagar, Vandalur, Vandalur Taluk, Chengalpattu District.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Sri Natesan Vidyasala Matriculation Higher Secondary School, Manivakkam, 2010; 12th Standard, Anandavalli Matriculation Higher Secondary School, 2012; B.A. (History), Saraswathi Arts and Science College, Tindivanam, 2012-2015; LLB (Hons.), SRM Institute of Science and Technology (SRM School of Law), 2015-2018",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5986200.0,
+    "total_liabilities_xls": 1167447.0,
+    "net_worth_xls": 4818753.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

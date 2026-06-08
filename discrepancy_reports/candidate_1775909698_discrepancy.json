@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909698",
+    "candidate_name": "ANANDAKUMAR. P.M",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "THAKKAM KATCHI",
+    "constituency": "(73) VANUR (SC), TAMILNADU",
+    "pan": "BDKPA5029H",
+    "phone": "7010726954",
+    "email": "anandnisha2015@gmail.com",
+    "address": "NO. 7, NEW STREET, SINGANUR VILLAGE & POST, TINDIVANAM TALLUK, VILLUPURAM DISTRICT - 604 001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.SC. Mathematics - BWDA Arts & Science College, Tindivanam - 2015",
+    "profession": "Private Sector"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1309000.0,
+    "total_liabilities_xls": 800000.0,
+    "net_worth_xls": 509000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

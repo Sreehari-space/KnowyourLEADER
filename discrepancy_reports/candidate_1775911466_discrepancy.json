@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911466",
+    "candidate_name": "Kani Pandi M",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "PUTHIYA TAMILAGAM",
+    "constituency": "206 - Viruthunagar Assembly Constituency, Tamilnadu",
+    "pan": "GUTPM4472D",
+    "phone": "8838049855",
+    "email": "kanipandi87@gmail.com",
+    "address": "8, Sengamalapatty, Murugan Colony, Alamarathupatty (Post), Sivakasi Taluk, Viruthunagar District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7th (incomplete) from Government Higher Secondary School, Alamarathupatty, Sivakasi (April' 2009)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4850000.0,
+    "total_liabilities_xls": 1600000.0,
+    "net_worth_xls": 3250000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr. No: 288/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

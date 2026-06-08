@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907987",
+    "candidate_name": "A. Vimala",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Bahujan Samaj Party",
+    "constituency": "166 Thiruthuraipoondi (SC) Tamil Nadu",
+    "pan": "CVFPV3345H",
+    "phone": "94434996290",
+    "email": "vimalaarul145@gmail.com",
+    "address": "167, Nadutheru, Vittukatti, Varambiyam Theevambalpuram, Thiruthuraipoondi, Thiruvarur District - 614715",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C. - Government High School, Ettukudi, Nagai District.",
+    "profession": "Housewife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 352000.0,
+    "total_liabilities_xls": 132000.0,
+    "net_worth_xls": 220000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

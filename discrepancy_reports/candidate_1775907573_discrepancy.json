@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907573",
+    "candidate_name": "KARTHIK DHANDAPANI",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "TAMILNADU",
+    "pan": "AMBPK7252R",
+    "phone": "9962233322",
+    "email": "mkdkarthik@gmail.com",
+    "address": "No 51, Periyar Ramasamy Street, Guduvancherry, Vandalur Taluk, Chengalpattu District- 603202",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1.Bharathivar MHSS, Guduvanchery-+2; 2.B.A.,B.L., Dr. Ambedkar Govt. Law College, Chennai-Year of Completion-2007",
+    "profession": "Self: Business; Spouse: Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 70467667.85,
+    "total_liabilities_xls": 9998087.0,
+    "net_worth_xls": 60469580.84999999,
+    "cash_xls": 210000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

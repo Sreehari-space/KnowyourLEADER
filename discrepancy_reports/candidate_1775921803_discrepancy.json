@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921803",
+    "candidate_name": "க.சந்திரசேகர்",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "சுயேட்சை",
+    "constituency": "022, விருகம்பாக்கம் சட்டப்பேரவை தொகுதி, தமிழ்நாடு",
+    "pan": "AYEPC1518P",
+    "phone": "6385046494",
+    "email": "saiframeworks@gmail.com",
+    "address": "34, பாரதிதாசன் தெரு, நேரு நகர், வேளச்சேரி, சென்னை-600042",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "+2 ம் வகுப்பு தேர்ச்சி 1999, GENERAL CARIYAPPA HIGHER SECONDARY SCHOOL சாலிகிராமம், சென்னை.600093",
+    "profession": "தனி நபர் \"படம் பிரேம்போடும் கடை\""
+  },
+  "financial_summary": {
+    "total_assets_xls": 666680.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 666680.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

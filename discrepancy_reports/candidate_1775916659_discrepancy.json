@@ -1,0 +1,335 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916659",
+    "candidate_name": "R. Vasanthi",
+    "candidate_name_json": "VASANTHI. R",
+    "age": "42",
+    "party": "Independent",
+    "constituency": "230, Nagercoil, Tamil Nadu",
+    "pan": "AUVPV2580K",
+    "phone": "9487703937",
+    "email": "vasanthi11041983@gmail.com",
+    "address": "1A, CRR House, Konam, Kanyakumari District, 629004",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Bachelor's degree in Pharmacy, 2005, SA Raja Pharmacy College, Kavalkinaru, Tamil Nadu, Dr. MGR Medical University",
+    "profession": "Private sector employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10073026.41,
+    "total_liabilities_xls": 2231679.33,
+    "net_worth_xls": 7841347.08,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,000 10 Thou+",
+        "spouse": "2,000 2 Thou+",
+        "huf": "Nil",
+        "dependent1": "1,000 1 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Bharath State Bank, Nagercoil Town Branch 56,790 56 Thou+ IOB, Konam Branch 54,583 54 Thou+ PNB Konam Branch 9,943 9 Thou+ KDCC Vadacheri 6,980 6 Thou+ SBI, Nagercoil Town Branch FD 25,000 25 Thou+ EPF 2,11,141 2 Lacs+ Election Purpose in IOB Kottar Branch 5,000 5 Thou+",
+        "spouse": "SBI, Vadacheri 78,946 78 Thou+ IOB, Konam Branch 21,300 21 Thou+ Central Bank of India, Nagercoil Branch 4,226 4 Thou+ PNB Konam Branch 9,616 9 Thou+",
+        "huf": "Nil",
+        "dependent1": "Federal Bank, Nagercoil Branch 29,240 29 Thou+ SBI, Nagercoil Town Branch 2,078 2 Thou+ HDFC, Nagercoil Town Branch 21,669 21 Thou+ Canara Bank, Kottar Branch 1,306 1 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC 62,500 62 Thou+ LIC 1,00,000 1 Lacs+",
+        "spouse": "LIC 1,00,000 1 Lacs+ LIC 50,000 50 Thou+ LIC 25,000 25 Thou+",
+        "huf": "Nil",
+        "dependent1": "LIC 2,00,000 2 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TVS Wego, TN74S8002 Year 2011 80,000 80 Thou+ TVS Jupiter TN74BJ1372 Year 2025 1,10,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "375 Grams of Gold 51,50,000 51 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Neendakarai A, Nagercoil Muncipal COrporation, 512/2A1 Total Area 1742.4 Sqft Built Up Area Whether Inherited N Purchase Date 2020-07-15 Purchase Cost 900000.00 Development Cost 1500000.00 26,00,000 26 Lacs+",
+        "spouse": "Boothapandi Vill, 110/10 Total Area 431 Sqft Built Up Area Whether Inherited N Purchase Date 2014-07-07 Purchase Cost 1200000.00 Development Cost 0.00 13,00,000 13 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "PNB Konam Branch, Gold Loan 4,36,000 4 Lacs+",
+      "spouse": "SBI, Nagercoil Town Branch House Loan 3,38,356 3 Lacs+ SBI, Vadacheri Branch, Personal Loan 10,04,193 10 Lacs+ SBI, Nagercoil Town Branch House Loan 2,17,850 2 Lacs+ SBI, Vadacheri Branch, Personal Loan 30,280 30 Thou+ TNSTC-SETC Employees Co-operative Society, Nagercoil 2,05,000 2 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 8,69,361 | 2024 - 2025: Rs 4,91,610 | 2023 - 2024: Rs 4,67,660 | 2022 - 2023: Rs 4,82,530 | 2021 - 2022: Rs 4,09,250"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,03,28,320 ~1 Crore+",
+    "Liabilities:": "Rs 22,31,679 ~22 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹9,670,476) does not match declared total assets (₹10,328,320). Difference: ₹657,844"
+    }
+  ]
+}

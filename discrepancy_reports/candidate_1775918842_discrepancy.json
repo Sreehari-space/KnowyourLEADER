@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918842",
+    "candidate_name": "M.A.Michaelraj",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Independent",
+    "constituency": "Tiruvottiyur No.10",
+    "pan": "AHRPM0553E",
+    "phone": "9962558477",
+    "email": "angelemimal@gmail.com",
+    "address": "27, 1st Street, Kalaignar Nagar, Wimco Nagar, Chennai - 600057.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., (Discontinue)",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 35399644.0,
+    "total_liabilities_xls": 1200000.0,
+    "net_worth_xls": 34199644.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

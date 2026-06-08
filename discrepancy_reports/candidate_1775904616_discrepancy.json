@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904616",
+    "candidate_name": "Thiru. R.B.Udhayakumar",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "196 Thirumangalam Assembly Constituency, Tamil Nadu",
+    "pan": "ABJPU2723J",
+    "phone": "9943911167",
+    "email": "rbudhayakumar@gmail.com",
+    "address": "241, Rajapalayam Road, T.Kunnathur, T.Kallupatti, Peraiyur Taluk, Madurai District.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A (Social Work) from Madurai Kamaraj University (1994-1996), B.L. from Madurai Government Law College Ambedkar University (1996-1999)",
+    "profession": "Lawyer, Member of Tamil Nadu Legislative Assembly, Minister, Deputy Leader of Opposition Party"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6360178.0,
+    "total_liabilities_xls": 6470287.0,
+    "net_worth_xls": 110109.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "995/2025; 359/2025; 302/2022; 715/2021",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

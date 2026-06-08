@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914034",
+    "candidate_name": "Thiru. Se. Nandakumar",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "All India Puratchi Thalaivar Makkal Munnetra Kazhagam",
+    "constituency": "141 Trichy East Assembly Constituency",
+    "pan": "AVWPN8135G",
+    "phone": "9361762532",
+    "email": "cnandakumar99@gmail.com",
+    "address": "Door No. 6, Thondaiman Colony, K.K. Nagar, Tiruchirappalli District - 620021",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th: St.Peter's Matriculation Hr.Sec School, Kodaikanal (2011); 12th: St.Peter's Matriculation Hr.Sec School, Kodaikanal (2013); B.Sc., Computer Science Mangalore Institute of Technological Science (MITS) Karnataka (2016); M.B.A, Mangalore Institute of Technological Science (MITS) Karnataka (2018)",
+    "profession": "Self-employed"
+  },
+  "financial_summary": {
+    "total_assets_xls": 168448002.0,
+    "total_liabilities_xls": 51178113.0,
+    "net_worth_xls": 117269889.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "PEW-Trichy City CR.No. 313/2024, Sc.No.342/2025 (TN PROHIBITION ACT - 4 (1) (aaa), 4 (1-A) & 24, 18A r/w IPC 468, 471,420) - அரசு அனுமதியின்றி புதுச்சேரி மாநில அரசு மதுபான பாட்டில்களை குறைந்த விலைக்கு தமிழ்நாடு அரசுக்கு செலுத்த வேண்டிய கலால் வரியை செலுத்தாமல் வருவாய் இழப்பு ஏற்படுத்தியும் ஏமாற்றும் நோக்கிலும் செயல்பட்டதாக வழக்கு. குற்றச்சாட்டுகள் பதியப்பட்ட நாள்: 29.08.2025 / Case for causing revenue loss and cheating by not paying excise duty to the Tamil Nadu government for liquor bottles from Puducherry state government without government permission. Charges framed on 29.08.2025.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

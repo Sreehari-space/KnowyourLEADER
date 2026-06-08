@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909521",
+    "candidate_name": "S. Anandhi",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Independent",
+    "constituency": "101-Dharapuram Constituency, Tamil Nadu",
+    "pan": "EBVPA4518R",
+    "phone": "9790996500",
+    "email": "NIL",
+    "address": "181 Aathikattu Thottam Elugam Valasu Ponniwadi Post Dharapuram Taluk Tiruppur District-638 673",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.Sc., B.Ed., - Gandhigram University Dindigul - 2010",
+    "profession": "Daily wage worker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1002500.0,
+    "total_liabilities_xls": 77000.0,
+    "net_worth_xls": 925500.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904826",
+    "candidate_name": "T. Karthik Raja",
+    "candidate_name_json": null,
+    "age": "34",
+    "party": "We Tamils Party",
+    "constituency": "187-Manamadurai Assembly Constituency, Sivaganga District, Tamil Nadu",
+    "pan": "CZEPK8429G",
+    "phone": "8838984676",
+    "email": "karthik9024@gmail.com",
+    "address": "28AA, Avarangadu, Vellikkurichi-Post, Manamadurai-Taluk, Sivaganga -630610.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BE (2008-2012, Jayaram Engineering College, Trichy), BL (2013-2016, Government Law College, Trichy), LLM (2018-2020, Tamil Nadu Dr. Ambedkar Law University, Chennai)",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 17282781.0,
+    "total_liabilities_xls": 7951299.0,
+    "net_worth_xls": 9331482.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

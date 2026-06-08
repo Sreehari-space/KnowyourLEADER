@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904414",
+    "candidate_name": "Archana.D",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "060 Pappireddipatti Assembly Constituency, Tamil Nadu",
+    "pan": "DHPPM8601G",
+    "phone": "8695669859",
+    "email": "thavmikashree1990@gmail.com",
+    "address": "H.No. 15A, Rangasamy Udayar Street, Kadathur Village & Post, Pappireddipatti Taluk, Dharmapuri District, Tamil Nadu-635303",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Arts B.A., (English) - 2015, Distance Education, Annamalai University, Chidambaram",
+    "profession": "Goat herding"
+  },
+  "financial_summary": {
+    "total_assets_xls": 552000.0,
+    "total_liabilities_xls": 995000.0,
+    "net_worth_xls": 443000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907878",
+    "candidate_name": "Rajasekaran Su",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "We Tamils Party",
+    "constituency": "94 Namakkal Assembly Constituency, Namakkal District, Tamil Nadu",
+    "pan": "BOFPR1858R",
+    "phone": "9944670080",
+    "email": "nsraja.tn@gmail.com",
+    "address": "Door No. 4-51, Aaval Naickenpatti Post, Sellappampatti Way, Namakkal- 637019",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Ph.D (Bio Chemistry) from University of Madras, Chennai (2001); M.Phil (Bio Chemistry) from University of Madras, Chennai (1996); M.Sc (Spl.Zoology) from University of Madras, Chennai (1994); B.Sc (Zoology) from Jamal Mohammed College, Trichy (1992); HSC (12th) from Government Higher Secondary School, Sellappampatti, Namakkal (1989); SSLC (10th) from Government Higher Secondary School, Sellappampatti, Namakkal (1987)",
+    "profession": "Professor, University of Alabama, Birmingham, America"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1181808090.0,
+    "total_liabilities_xls": 7845000.0,
+    "net_worth_xls": 1173963090.0,
+    "cash_xls": 60000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

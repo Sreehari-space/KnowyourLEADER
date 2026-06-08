@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920927",
+    "candidate_name": "Kailasam Raja",
+    "candidate_name_json": null,
+    "age": "65",
+    "party": "Independent",
+    "constituency": "Edappadi (Constituency No. 86), Tamilnadu",
+    "pan": "AFKPK1710N",
+    "phone": "7010142286",
+    "email": "kailairasa@gmail.com",
+    "address": "11-1-19, Palani Chetti Street, Malayampalayam, Chinnappampatti Main Road, Jalakandapuram - 636 501, Mettur(Taluk), Salem (District), Tamilnadu (State)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Science (B.Sc.) (Mathematics) from Sacred Heart College, Tirupattur, affiliated to University of Madras, completed 1980; Bachelor of Technology (B. Tech.) (Electronics) from Madras Institute of Technology, Chromepet, Chennai, affiliated to Anna University, completed 1983",
+    "profession": "Govt. of India Pensioner"
+  },
+  "financial_summary": {
+    "total_assets_xls": 27362122.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 27362122.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

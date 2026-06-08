@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916551",
+    "candidate_name": "P. Loganathan",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "Independent",
+    "constituency": "144-Manachanallur, Tamil Nadu",
+    "pan": "AHWPL73755",
+    "phone": "9600766210",
+    "email": "loganathanp78@gmail.com",
+    "address": "79, Neyveli Village, Neyveli Panchayat, Musiri Taluk, Trichy District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.Sc (2015) M.Phil (2016) Arignar Anna Government Arts College, Musiri",
+    "profession": "Agriculture, wage labor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 663000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 663000.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

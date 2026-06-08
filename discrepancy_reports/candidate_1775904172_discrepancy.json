@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904172",
+    "candidate_name": "Mrs. R. Sathya",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "213, Vilathikulam Assembly Constituency",
+    "pan": "BTMPS7600A",
+    "phone": "9443105789",
+    "email": "sathyarajkumar88@gmail.com",
+    "address": "3, North Street, Pudur-Duraisamipuram Village, Mudukumeendanpatti Post - 628 716, Kovilpatti Taluk, Thoothukudi District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc., 2010 University of Chennai",
+    "profession": "Paint, Tiles and Marbles Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 36602654.0,
+    "total_liabilities_xls": 9847272.0,
+    "net_worth_xls": 26755382.0,
+    "cash_xls": 180000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912510",
+    "candidate_name": "S. Siddharthan",
+    "candidate_name_json": null,
+    "age": "62",
+    "party": "National People's Power Party",
+    "constituency": "152, Virudhachalam, Tamil Nadu",
+    "pan": "KKSPS99248",
+    "phone": "80980513",
+    "email": "NIL",
+    "address": "13 Bharathidasan, PIN-606001, Cuddalore District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "N.com Madurai Kamaraj University, Distance Education School Education 1994",
+    "profession": "Typist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 5000.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920222",
+    "candidate_name": "K.DURAI",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "INDEPENDENT",
+    "constituency": "VRIDDHACHALAM, TAMILNADU",
+    "pan": "AWQPD3541F",
+    "phone": "7904532710",
+    "email": "duraik108@gmail.com",
+    "address": "NO:33D, NEW NO.14, PENNADAM ROAD, KARUNANITHI NAGAR, VRIDDHACHALAM & TK, CUDDALORE DT, PIN:606001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A. from ANNAMALAI UNIVERSITY (APRIL-2004)",
+    "profession": "Self employee"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3435215.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 3435215.0,
+    "cash_xls": 115875.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

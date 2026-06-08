@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905442",
+    "candidate_name": "Lakshmanan",
+    "candidate_name_json": null,
+    "age": "27",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "206- Virudhunagar, Tamil Nadu",
+    "pan": "AXDPL4568N",
+    "phone": "7904712205",
+    "email": "lakshlaksh98@gmail.com",
+    "address": "336-8A, Valluvan Nagar, Mathanaickanpatti Road, Kuraikundu, Virudhunagar 626003",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc. (Computer Science) from VHNSN College, Virudhunagar in 2018",
+    "profession": "Individual poultry farm"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3983769.0,
+    "total_liabilities_xls": 1171484.0,
+    "net_worth_xls": 2812285.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

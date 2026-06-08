@@ -256,7 +256,7 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
         onClick={(e) => e.stopPropagation()}
       >
         {/* Mobile Sticky Header (Hidden on Desktop) */}
-        <div className="md:hidden sticky top-0 z-20 bg-neutral-950 text-white p-4 flex justify-between items-center shadow-md">
+        <div className="md:hidden sticky top-0 z-20 bg-neutral-950 text-white p-4 pt-[max(1rem,env(safe-area-inset-top))] flex justify-between items-center shadow-md">
           <div className="flex items-center space-x-3">
              <div className={`w-10 h-10 rounded-full overflow-hidden flex items-center justify-center text-white font-bold text-lg border border-white/20 ${getPartyBg(candidate.party)}`}>
               {candidate.photo ? (
@@ -705,6 +705,38 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
                     </p>
                   </div>
                 </div>
+
+                {/* Discrepancies (if any) */}
+                {candidate.discrepancies && candidate.discrepancies.length > 0 && (
+                  <div className="pt-4">
+                    <h3 className="text-xl font-display font-black text-rose-600 tracking-tight flex items-center space-x-2 mb-4">
+                      <ShieldAlert className="w-6 h-6" />
+                      <span>{lang === 'en' ? 'Discrepancies Found' : 'கண்டறியப்பட்ட முரண்பாடுகள்'}</span>
+                    </h3>
+                    <div className="space-y-4">
+                      {candidate.discrepancies.map((disc, idx) => (
+                        <div key={idx} className="bg-rose-50 border border-rose-200 rounded-2xl p-5 shadow-sm relative overflow-hidden">
+                          <div className={`absolute left-0 top-0 bottom-0 w-1 ${
+                            disc.severity === 'CRITICAL' ? 'bg-rose-600' :
+                            disc.severity === 'HIGH' ? 'bg-orange-500' : 'bg-amber-400'
+                          }`}></div>
+                          <div className="pl-3">
+                            <div className="flex items-center space-x-2 mb-1">
+                              <span className={`text-[10px] font-bold uppercase tracking-widest px-2 py-0.5 rounded ${
+                                disc.severity === 'CRITICAL' ? 'bg-rose-100 text-rose-700' :
+                                disc.severity === 'HIGH' ? 'bg-orange-100 text-orange-700' : 'bg-amber-100 text-amber-700'
+                              }`}>
+                                {disc.severity}
+                              </span>
+                            </div>
+                            <h4 className="text-sm font-bold text-slate-900 mb-1">{disc.title}</h4>
+                            <p className="text-sm text-slate-700 leading-relaxed">{disc.description}</p>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
 
                 {/* Criminal Record */}
                 <div className="pt-4">

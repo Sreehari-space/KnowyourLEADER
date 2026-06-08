@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915101",
+    "candidate_name": "B.Ajay Subash",
+    "candidate_name_json": null,
+    "age": "26",
+    "party": "Independent",
+    "constituency": "190-Cholavandan Assembly Constituency",
+    "pan": "IBIPB1045P",
+    "phone": "7708665256",
+    "email": "ajay281199@gmail.com",
+    "address": "4, Thulasi Street, Bharathiar Nagar, Vilangudi, Madurai 625018",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (Vikaasa ICSE School - 2015), 12th Standard (Mahatma CBSE School - 2017), U.G (School of excellence in Law - Tamilnadu Dr. Ambedkar Law University - 2022), P.G (Queen Mary University of London - 2025)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 25813.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 25813.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

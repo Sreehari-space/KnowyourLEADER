@@ -1,0 +1,394 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906439",
+    "candidate_name": "I.P. SENTHILKUMAR",
+    "candidate_name_json": "SENTHILKUMAR. I.P",
+    "age": "47",
+    "party": "DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "132, DINDIGUL.TAMIL NADU",
+    "pan": "ARQPK7756G",
+    "phone": "9176133333",
+    "email": "kumaripsenthil@gmail.com",
+    "address": "28 DURAIRAJ NAGAR WARD-3 MURUGAN KOIL STREET, WEST GOVINDAPURAM, DINDIGUL-624 001",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Bachelor of Law (The TamilNadu Dr.Ambedkar Law University, 2003); Master of Arts Sociology (Madurai Kamaraj University, 2005)",
+    "profession": "Business, Social Work, Agriculturist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 108545139.0,
+    "total_liabilities_xls": 21254175.0,
+    "net_worth_xls": 87290964.0,
+    "cash_xls": 1481062.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "14,81,062 14 Lacs+",
+        "spouse": "1,30,630 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Canara Bank Batlagundu 1,38,137 1 Lacs+ Karur Vysya Bank Batlagundu 0*(Value Not Given) I.O.B Dingul (Joint With Mercy) 42,97,609 42 Lacs+ I.O.B Batlagundu 46,424 46 Thou+ Canara Bank Dingul 34,90,722 34 Lacs+ I.O.B Batlagundu 7,783 7 Thou+ SBI 0*(Value Not Given) HDFC 0*(Value Not Given) Karur Vysya Bank Batlagundu 36,100 36 Thou+ The Dindigul Central Co-Operative Bank includes Rs 2500000 Of Election Fund Received From Party 25,04,940 25 Lacs+",
+        "spouse": "Indian Overseas Bank 62 Indian Overseas Bank 7,29,619 7 Lacs+ Indian Overseas Bank 36,656 36 Thou+ Indian Overseas Bank 83,246 83 Thou+ Indian Overseas Bank 83,941 83 Thou+ Canara Bank Thamaraipadi A/c 11,181 11 Thou+ REPCO Bank Chennai 24,480 24 Thou+ REPCO Bank Dindigul 1,659 1 Thou+ ChettinaickenPatti Cooperative Bank 500 5 Hund+ Seelapadi Co-operative Bank 5,100 5 Thou+ Seelapadi Co-operative Bank 0 Adavan Foods Canara Bank Thamaraipadi 0 Adavan Foods Canara Bank Gandhigram 0 Adavan Foods SBI Vadipatti Branch 0 IOB FD 1,00,000 1 Lacs+ REPCO Bank FD 24,480 24 Thou+ REPCO Bank FD 70,789 70 Thou+ REPCO Bank FD 1,24,913 1 Lacs+ REPCO Bank FD 56,709 56 Thou+ REPCO Bank FD 4,02,233 4 Lacs+ REPCO Bank FD 35,696 35 Thou+ REPCO Bank FD 18,838 18 Thou+ REPCO Bank FD 1,659 1 Thou+ Locker Deposit @ Canara Bank 10,563 10 Thou+ Locker Deposit @ IOB Bank 29,789 29 Thou+",
+        "huf": "Nil",
+        "dependent1": "IOB FD A/c 1,19,399 1 Lacs+",
+        "dependent2": "IOB FD A/c 1,19,399 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Furniture & Fittings 42,291 42 Thou+ Plant and Machinery 24,606 24 Thou+ BPCI Deposit 3,00,000 3 Lacs+ Telephone and other Deposit 21,000 21 Thou+ Sundry Debtors 27,02,470 27 Lacs+ Closing stock 33,09,180 33 Lacs+ GST ITC 3,40,518 3 Lacs+",
+        "spouse": "Plant and Machinery 3,04,308 3 Lacs+ Advances paid 1,00,000 1 Lacs+ Sundry Debtors 73,69,814 73 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC 11,66,099 11 Lacs+",
+        "spouse": "LIC 11,30,012 11 Lacs+",
+        "huf": "Nil",
+        "dependent1": "LIC 9,40,837 9 Lacs+",
+        "dependent2": "LIC 9,07,905 9 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "A.Selvam 1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Toyota Innova Car 2012 TN57AF 6789 5,00,000 5 Lacs+ Toyota Fortuner Car 2018 TN578M6 789 23,00,000 23 Lacs+",
+        "spouse": "Hundai i 20 2015 TN 57 BD 0555 8,10,452 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "132.58 Gm (Gold Jewels) @ Rs.13000 Grm 17,23,540 17 Lacs+ 4.020 Crt Diamond @Rs 60000 Crt 2,41,200 2 Lacs+",
+        "spouse": "Gold Jewel 1536.92 gm @ Rs.13000/grm 1,99,79,760 1 Crore+ Silver 784.31 Grm @ Rs 255/grm 2,00,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Gold Jewel 671.57 gm @ Rs.13000/grm 87,30,410 87 Lacs+ Silver 750gm @Rs.255/grm 1,91,250 1 Lacs+",
+        "dependent2": "Gold Jewel 2676.85 grm Rs. 13000 Grm 3,49,99,050 3 Crore+ Silver 6420 grm @ 255/grm 16,37,100 16 Lacs+ Diamond 22.24 crt @ Rs 60000/Crt 13,34,400 13 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": ".Partner Capital Invested in Susee Networks (50%) (PAN:ABJFS1579C) 3,00,000 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Genguvarpatti Sy No 2534/5B Total Area 0.60 Built Up Area Whether Inherited N Purchase Date 1994-03-09 Purchase Cost 10155.00 Development Cost 60450.00 1,58,700 1 Lacs+ Genguvarpatti Sy No 2541 Total Area 4.18 Built Up Area Whether Inherited N Purchase Date 1994-03-24 Purchase Cost 46816.00 Development Cost 106450.00 9,61,400 9 Lacs+ Genguvarpatti Sy No 2541 Total Area 2.57 Built Up Area Whether Inherited N Purchase Date 1994-03-08 Purchase Cost 28200.00 Development Cost 105450.00 5,91,100 5 Lacs+ Genguvarpatti Sy No 2544/2B Total Area 0.25 Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 25485.00 57,500 57 Thou+ Genguvarpatti Sy No 2545/2 Total Area 0.93 Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 60250.00 2,13,900 2 Lacs+ Genguvarpatti Sy No 2539/1 Total Area 1.68 Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 99455.00 3,86,400 3 Lacs+ Genguvarpatti Sy No 2536/2539/2 Total Area 0.86 Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 45450.00 1,97,800 1 Lacs+ Genguvarpatti Sy No 2536/2539/2 Total Area 8.29 Built Up Area Whether Inherited N Purchase Date 2012-05-25 Purchase Cost 214829.00 Development Cost 1482240.00 85,100 85 Thou+ Genguvarpatti Sy No 2545/1 Total Area 0.37 Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 25250.00 87,400 87 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Dindigul Main Road Sy No 398/1, 398/3& 398/4 Total Area 2687 Built Up Area Whether Inherited N Purchase Date 2009-01-23 Purchase Cost 374430.00 Development Cost 0.00 20,15,250 20 Lacs+ Dindigul Main Road Sy No 398/1, 398/3& 398/4 Total Area 8680 Built Up Area Whether Inherited N Purchase Date 2009-01-23 Purchase Cost 1254090.00 Development Cost 0.00 65,10,000 65 Lacs+ Dindigul Main Road Sy No 398/1, 398/3& 398/4 Total Area 3060 Built Up Area Whether Inherited N Purchase Date 2009-01-23 Purchase Cost 443055.00 Development Cost 0.00 22,95,000 22 Lacs+ Dindigul Main Road Sy No 398/1, 398/3& 398/4 Total Area 900 Built Up Area Whether Inherited N Purchase Date 2009-01-28 Purchase Cost 245625.00 Development Cost 0.00 6,75,000 6 Lacs+ Seelapadi Dindigul Sy No 431/3 & 431/2A1 Total Area 9584 Built Up Area Whether Inherited N Purchase Date 2013-09-16 Purchase Cost 4145910.00 Development Cost 0.00 1,58,14,425 1 Crore+",
+        "spouse": "Seelapadi Village Sy No 759/286, 759/286A Total Area 2670 Built Up Area Whether Inherited N Purchase Date 2020-08-20 Purchase Cost 399110.00 Development Cost 0.00 5,34,000 5 Lacs+ Seelapadi Village Sy No759/46 Total Area 1440 Built Up Area Whether Inherited N Purchase Date 2020-08-31 Purchase Cost 215075.00 Development Cost 0.00 2,88,000 2 Lacs+ Seelapadi Village Sy No 759/62 Total Area 4125 Built Up Area Whether Inherited N Purchase Date 2020-08-31 Purchase Cost 615460.00 Development Cost 0.00 8,25,000 8 Lacs+ Seelapadi Village Sy No 759/6 Total Area 999 Built Up Area Whether Inherited N Purchase Date 2020-09-03 Purchase Cost 144000.00 Development Cost 0.00 1,99,800 1 Lacs+ Seelapadi Village Sy No 759/12A Total Area 823.28 Built Up Area Whether Inherited N Purchase Date 2020-10-19 Purchase Cost 123470.00 Development Cost 0.00 1,64,800 1 Lacs+ Seelapadi Village Sy No 759/12B Total Area 1633.50 Built Up Area Whether Inherited N Purchase Date 2020-10-19 Purchase Cost 224770.00 Development Cost 0.00 3,27,000 3 Lacs+ Seelapadi Village Sy No 523/283A, 523/2A5A Total Area 2754 Built Up Area Whether Inherited N Purchase Date 2021-06-09 Purchase Cost 592780.00 Development Cost 0.00 8,26,200 8 Lacs+ Seelapadi Village Sy No 525/2A5A1 Total Area 1200 Built Up Area Whether Inherited N Purchase Date 2021-06-14 Purchase Cost 350290.00 Development Cost 0.00 3,60,000 3 Lacs+ Seelapadi Village Sy No 523/30 Total Area 1800 Built Up Area Whether Inherited N Purchase Date 2021-06-30 Purchase Cost 517810.00 Development Cost 0.00 5,40,000 5 Lacs+ Seelapadi Village Sy No 541/381A Total Area 1380 Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 297038.00 Development Cost 0.00 2,76,000 2 Lacs+ Seelapadi Village Sy No 758/7D Total Area 1062 Built Up Area Whether Inherited N Purchase Date 2023-04-20 Purchase Cost 228560.00 Development Cost 0.00 2,12,400 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Seelapandi Village 759/9,759/10 Total Area 2655 Built Up Area Whether Inherited N Purchase Date 2011-02-09 Purchase Cost 110300.00 Development Cost 0.00 5,31,000 5 Lacs+ Seelapandi Village 758/43 Total Area Built Up Area Whether Inherited N Purchase Date 2023-08-18 Purchase Cost 917100.00 Development Cost 0.00 8,56,150 8 Lacs+",
+        "dependent2": "Thamaraipadi S.no;289/4, 316/1, 327/4 Total Area 43124 sq ft Built Up Area Whether Inherited N Purchase Date 2020-03-18 Purchase Cost 78670.00 Development Cost 0.00 1,97,941 1 Lacs+ Seelapadi Village S.no 2 759/19 Total Area 1873 sq ft Built Up Area Whether Inherited N Purchase Date 2020-09-07 Purchase Cost 170160.00 Development Cost 0.00 3,74,600 3 Lacs+ Seelapadi Village S.no 759/53 Total Area 1460 sq ft Built Up Area Whether Inherited N Purchase Date 2020-09-09 Purchase Cost 212170.00 Development Cost 0.00 2,91,900 2 Lacs+ Seelapadi Village S.no 759/62 Total Area 3184 Built Up Area Whether Inherited N Purchase Date 2020-10-01 Purchase Cost 476420.00 Development Cost 0.00 6,36,850 6 Lacs+ Seelapadi Village S.no 759/7 Total Area 84 Built Up Area Whether Inherited N Purchase Date 2020-10-07 Purchase Cost 13360.00 Development Cost 0.00 16,875 16 Thou+ Seelapadi Village S.no 759/3A1 Total Area 91 Built Up Area Whether Inherited N Purchase Date 2020-10-07 Purchase Cost 14430.00 Development Cost 0.00 18,228 18 Thou+ Seelapadi Village S.no 759/62 Total Area 647 Built Up Area Whether Inherited N Purchase Date 2020-10-08 Purchase Cost 93950.00 Development Cost 0.00 1,29,300 1 Lacs+ Seelapadi Village S.no 759/3A1 Total Area 132 Built Up Area Whether Inherited N Purchase Date 2020-10-08 Purchase Cost 19050.00 Development Cost 0.00 26,400 26 Thou+ Seelapadi Village S.no 759/2B8 Total Area 1530 sq ft Built Up Area Whether Inherited N Purchase Date 2021-02-18 Purchase Cost 205435.00 Development Cost 0.00 3,06,000 3 Lacs+ Seelapadi Village S.no 523/2B4A1 Total Area 2251 Sq ft Built Up Area Whether Inherited N Purchase Date 2021-05-03 Purchase Cost 484710.00 Development Cost 0.00 6,75,300 6 Lacs+ Seelapadi Village S.no 759/28B7 Total Area 1276 sq ft Built Up Area Whether Inherited N Purchase Date 2021-05-05 Purchase Cost 183510.00 Development Cost 0.00 2,55,100 2 Lacs+ Seelapadi Village S.no 523/2A4A,528/2 Total Area 2330 Built Up Area Whether Inherited N Purchase Date 2021-10-06 Purchase Cost 688750.00 Development Cost 0.00 6,99,000 6 Lacs+ Seelapadi Village S.no 523/2A4A,528/2 Total Area 2160 sq ft Built Up Area Whether Inherited N Purchase Date 2021-10-06 Purchase Cost 619530.00 Development Cost 0.00 6,48,000 6 Lacs+ Seelapadi Village S.no 523/2 Total Area 3840 sq ft Built Up Area Whether Inherited N Purchase Date 2022-11-23 Purchase Cost 1102110.00 Development Cost 0.00 11,52,000 11 Lacs+ Seelapadi Village S.no 523/2 Total Area 2400 sq ft Built Up Area Whether Inherited N Purchase Date 2022-11-28 Purchase Cost 688550.00 Development Cost 0.00 7,20,000 7 Lacs+ Seelapadi Village S.no 523/2 Total Area 2400 sq ft Built Up Area Whether Inherited N Purchase Date 2022-11-23 Purchase Cost 683950.00 Development Cost 0.00 7,20,000 7 Lacs+ Seelapadi Village S.no 759/2B Total Area 1717 sq ft Built Up Area Whether Inherited N Purchase Date 2022-12-02 Purchase Cost 252180.00 Development Cost 0.00 3,43,300 3 Lacs+ Seelapadi Village S.no 759/1B Total Area 12850 sq ft Built Up Area Whether Inherited N Purchase Date 2024-08-06 Purchase Cost 2755400.00 Development Cost 0.00 25,66,600 25 Lacs+ Seelapadi Village S.no 759/8 Total Area 1076 sq ft Built Up Area Whether Inherited N Purchase Date 2024-09-23 Purchase Cost 173350.00 Development Cost 0.00 2,14,800 2 Lacs+ Seelapadi Village S.no 759/2B7 Total Area 1400 sq ft Built Up Area Whether Inherited N Purchase Date 2021-09-15 Purchase Cost 201160.00 Development Cost 0.00 2,80,000 2 Lacs+ Seelapadi Village S.no 759/2B7 Total Area 1205 sq ft Built Up Area Whether Inherited N Purchase Date 2021-04-15 Purchase Cost 173350.00 Development Cost 0.00 2,40,850 2 Lacs+ Seelapadi Village S.no 759/1D Total Area 5663 sq ft Built Up Area Whether Inherited N Purchase Date 2021-04-15 Purchase Cost 815270.00 Development Cost 0.00 11,31,000 11 Lacs+ Seelapadi Village S.no 759/1D2A Total Area 1028 sq ft Built Up Area Whether Inherited N Purchase Date 2021-04-19 Purchase Cost 215407.00 Development Cost 0.00 2,05,400 2 Lacs+ Seelapadi Village S.no 759/1D Total Area 3435 sqft Built Up Area Whether Inherited N Purchase Date 2021-06-24 Purchase Cost 503090.00 Development Cost 0.00 6,86,930 6 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Batlagundu Sy No 412/A3 Total Area 2500 Built Up Area 2580 Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 185364.00 Development Cost 574000.00 14,45,364 14 Lacs+",
+        "spouse": "Seelapadi Village Sy No 759/54 Total Area 1.395 Built Up Area 668 Whether Inherited N Purchase Date 2020-10-15 Purchase Cost 266055.00 Development Cost 0.00 2,79,000 2 Lacs+ Seelapadi Village Sy No 541/31 Total Area 1159 Built Up Area 1000 Whether Inherited N Purchase Date 2023-04-05 Purchase Cost 249850.00 Development Cost 1800000.00 20,31,800 20 Lacs+ Seelapadi Village Sy No 758/7A Total Area 1646 Built Up Area 1400 Whether Inherited N Purchase Date 2023-04-12 Purchase Cost 360370.00 Development Cost 3000000.00 33,29,150 33 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Seelapandi Village 758/30.758/7C 2,758/7G1B,7 58/712,758/7J 1A Total Area 1423.5 sq ft Built Up Area 1200 sq ft Whether Inherited N Purchase Date 2023-08-29 Purchase Cost 311410.00 Development Cost 2200000.00 26,34,700 26 Lacs+",
+        "dependent2": "Seelapadi Village S.no 759/2B7 Total Area 1400 sq ft Built Up Area 1100 sq ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 223525.00 Development Cost 0.00 2,80,000 2 Lacs+ Seelapadi Village S.no 759/7 Total Area 749.25 Built Up Area 447 sq ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 117625.00 Development Cost 0.00 1,49,850 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "1).Batagundu Sy No 398/3B1A Area 630 Inherited No Built Up Area 2214 Date of Purchase 2023-01-18 Cost of Purchase 118700 investment 4381300 2)Batagundu Sy No 398/1, 398/3& 398/4 Area 1755 Inherited No Cost of Purchase 264255 Date of Purchase 2010-07-2023 Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 49,77,550 49 Lacs+",
+        "spouse": "Survey No 759/41, Seelapadi V Total Area 4384 1/2 sqft Built Up Area 4000sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 0 Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 49,29,330 49 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Seelapadi Village S.no 759/6 Total Area 1983 sq ft Built Up Area 3148 sq ft Whether Inherited N Purchase Date 2020-09-17 Purchase Cost 4067122.00 Development Cost 0.00 40,67,622 40 Lacs+ Seelapadi Village S.no 759/1C1,75 759/1C1,759/1D 1 Total Area 14728 sq ft Built Up Area 2692 sq ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 3450000.00 Development Cost 0.00 63,95,528 63 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Canara Bank Vehicle Loan A/c 46,487 46 Thou+ IOB, Batlagundu Branch Housing Loan 23,25,356 23 Lacs+ JOB. Batlagundu. Housing Loan 9,72,594 9 Lacs+ SBI OD in the name of Susee Agency 7,00,570 7 Lacs+",
+      "spouse": "Seelapadi UCS Ltd Housing Loan 4,09,062 4 Lacs+ Seelapadi UCS Meenatchij 4,68,943 4 Lacs+ PACCS, Chettinaickenpatti.Housing Loan 9,71,753 9 Lacs+ IOB., Seelapadi Branch Jewel Loan 10,00,000 10 Lacs+ IOB., Seelapadi Branch Jewel Loan 10,00,000 10 Lacs+ IOB., Seelapadi Branch Jewel Loan 15,00,000 15 Lacs+ IOB., Seelapadi Branch Jewel Loan 15,00,000 15 Lacs+ IOB., Seelapadi Branch Jewel Loan 5,00,000 5 Lacs+ IOB., Seelapadi Branch Jewel Loan 4,99,410 4 Lacs+ IOB Dindigul Fort Branch Jewel Loan 9,00,000 9 Lacs+ 5.IOB Dindigul Fort Branch Jewel Loan 11,00,000 11 Lacs+ CANARA BANK, Thamaraipadi Branch Jewel loan 10,00,000 10 Lacs+ CANARA BANK, Thamaraipadi Branch Jewel loan 7,50,000 7 Lacs+ CANARA BANK, Thamaraipadi Branch Jewel loan 12,50,000 12 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Rent Advance 20,50,000 20 Lacs+ Unsecured Loan (A SAHAYA PRAKASH) 23,10,000 23 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 45,29,148 | 2023 - 2024: Rs 33,09,554 | 2022 - 2023: Rs 38,38,815 | 2021 - 2022: Rs 39,85,294 | 2020 - 2021: Rs 37,63,324"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 60,14,770 | 2023 - 2024: Rs 53,44,450 | 2022 - 2023: Rs 47,82,350 | 2021 - 2022: Rs 20,80,370 | 2020 - 2021: Rs 16,94,500"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "Crime no.1/2012, V & AC, Dindigul (SLP(crl).No.12719/2025, Supreme court): Possession of assets disproportionate to the known source of income 13.05.2006 to 31.03.2010 during with respect to the above alleged to be proceeds of crime.; ECIR No. CEZO-II/17/2025 Directorate of Enforcement, Chennai II Zone (OA.No.269/25 Adjudicating Authority, Delhi): Possession of assets disproportionate to the known source of income during 13.05.2006 to 31.03.2010 with respect to the above alleged to be proceeds of crime.",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "1 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No 1/2012 V & AC Dindigul",
+          "case_no": "SLP(crl).No. 12719/2025.",
+          "court": "Supreme court (Special Case No.27/2014, PDJ Court, Dindigul",
+          "law_type": "IPC",
+          "ipc_sections": "109",
+          "other_details": "Section- 13(2), 13(1)(e) PC Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "Spl Crl.No 12719/2025 Supreme Court"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "ECIR No CEZO II 17/2025 Directorate of Enforcement Chenna-II Zone",
+          "case_no": "OA NO- .269/25",
+          "court": "Adjudicating Authority Delhi",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section- 13(2), 13(1)(e) Of PC Act Sec- 3 & 4 of PMLA",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 18,49,76,113 ~18 Crore+",
+    "Liabilities:": "Rs 2,12,54,175 ~2 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹93,897,818, but 5-year family income is only ₹39,342,575. Unexplained wealth discrepancy of ₹54,555,243."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Dependent1 Commercial Buildings purchased in 2023 for ₹311,410 (CII Indexed Cost: ₹336,466) is declared at highly inflated value of ₹2,634,700."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "38972.2g gold declared at ₹21,703,300 (Implied rate: ₹557/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹53,528,263 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹96,403,367) does not match declared total assets (₹184,976,113). Difference: ₹88,572,746"
+    }
+  ]
+}

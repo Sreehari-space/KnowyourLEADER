@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922294",
+    "candidate_name": "ஆர் மோகன்ராஜ்",
+    "candidate_name_json": null,
+    "age": "26",
+    "party": "சுயேட்சை",
+    "constituency": "ஜோலார்பேட்டை சட்டமன்ற தொகுதி",
+    "pan": "FVQPS6056C",
+    "phone": "6384643709",
+    "email": "mohanraj374663@gmail.com",
+    "address": "72, சுண்ணாம்புகுட்டை, மல்லபள்ளி, நாட்றம்பள்ளி தாலுக்கா மற்றும் மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10 ஆம் வகுப்பு, புதுப்பேட்டை அரசு பள்ளி மேல்நிலைப்பள்ளி, 2015",
+    "profession": "விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1450000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1450000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "36/2026",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

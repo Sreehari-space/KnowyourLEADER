@@ -1,0 +1,341 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904371",
+    "candidate_name": "R. Sakkarapani",
+    "candidate_name_json": "SAKKARAPANI. R",
+    "age": "64",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "128, Oddanchatram, Tamil Nadu",
+    "pan": "AUZPS8898K",
+    "phone": "9401199999",
+    "email": "sakkarapani.128@gmail.com",
+    "address": "102 A1, Semmozhi Nagar, Kallimandayam Village, Oddanchatram Taluk, Dindigul District - 624616",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.A., Economics, American College, Madurai. Madurai Kamaraj University, 1983",
+    "profession": "Agriculture, Indian Oil Corporation Limited Retailer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 156514971.62,
+    "total_liabilities_xls": 22772697.2,
+    "net_worth_xls": 133742274.42,
+    "cash_xls": 700000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "7,00,000 7 Lacs+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank,MLA Hostel Br , Chennai 21,21,744.13 21 Lacs+ TMB,Kallimanthayam Br 31,20,174.98 31 Lacs+ D.D.19 Primary Agriculture Co operative Society,Kallimanthayam 2,083 2 Thou+ TMB,Kallimanthayam Br 5,00,000 5 Lacs+ TMB,Kallimanthayam Br 2,09,91,203 2 Crore+",
+        "spouse": "TMB,Kallimanthayam Br 87,53,278.74 87 Lacs+ TMB,Kallimanthayam Br 1,38,397.07 1 Lacs+ D.D.19 Primary Agriculture Co operative Society,Kallimanthayam 2,736 2 Thou+ TMB,Kallimanthayam Br 58,007.80 58 Thou+ Dindugal Central co operative Bank Ltd,Dindigul CC. Bank Ltd. 24,86,010.90 24 Lacs+ D.D.19 Primary Agriculture Co operative Society,Kallimanthayam 7,230 7 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "D.D.19 Primary Agriculture Co operative Society,Kallimanthayam 7,190 7 Thou+ MDA-HSG-118,Oddanchatram,Cooperative housing society 220 2 Hund+ DRL(S)14,Oddanchatram,Primary agriculture and rural developemant bank 10 D.D.115Pallani,Primary agriculture and rural developemant bank 700 7 Hund+ D.B 11,Oddanchatram,producers co operative association 10,000 10 Thou+ Yamaha Rayz bike,TN 57 AW 6706/2014 27,061 27 Thou+ Skoda Kodiyaq, TN 57 CB 1717/2024 48,55,105 48 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "LIC 7,82,450 7 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "AshokLyland Oil Tanker Lorry,TN 94D 1717/2022 2,88,212 2 Lacs+ AshokLyland Oil Tanker ,TN 94 E 1717/2022 11,26,820 11 Lacs+ AshokLyland Ecommet Oil Tanker TN 94 Y 1717 / 2020 2,03,801 2 Lacs+ Toyota Innova crysta car,TN 57 CA 1717/ 2022 31,12,275 31 Lacs+",
+        "spouse": "Mahindra Agriculture Tractor,Tailor,Cultivator TN 94Y6828/2022 10,08,880 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "40 gram gold 5,18,000 5 Lacs+ Hand Gun pistol 49,500 49 Thou+",
+        "spouse": "597.78 gram gold 77,41,251 77 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Kallimanthayam Village: 1)Survey No:257/3, Acre-1.8 2)Survey No:257/2, Acre-1.66 3)Survey No:262/2, Acre-1.09 4)Survey No:262/3, Acre-1.39 5)Survey No:226/1B2, Acre-5.9 6)Survey No:254/31A, Acre-4.93 7)Survey No:262/3A, Acre-0.031/4(29-02-2016)(22,000) Total Area 16.80 1/4 Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 22000.00 79,30,049 79 Lacs+",
+        "spouse": "Kallimanthayam Village: 1)Survey No:226/1B1, Acre-5.16,(05.11.1997) ,Rs.76840/- 2)Survey No:254/1B, Acre-1.33,(17.09.2004),,Rs.32400/- 3)Survey No:224/1,4,5, Acre-9,(14.07.2008 ),Rs.186000/- 4)Survey No:261/1,2, 262/2,258/3B,Acre-1.33 (21.08.2008 ),Rs.134500/- 5)Survey No:222/1, Acre-0.30 Cent,(14.07.2010),Rs.12800/- 6)Survey No:222/1A1, Acre-0.52.45 cent,(30.07.2020 ),Rs.196688/- chikkamanayaganpatti village: 7)Survey No:186/1A,1B,208/2B,2C,4B209/2F, Acre-6.30(14.06.2005),Rs.250000/- Total Area 23.94.45 Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 889228.00 1,06,66,820 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Kallimanthayam Village: 1) Survey No:388/1C2A, Sq ft: 13068(25.11.1985),Rs 37250/- 2) Survey No:388/1C2B, Sq ft: 2613.6(05.03.1988Rs 30610/- ) 3) Survey No:388/7, Sq ft: 2613.6 17.03.2006),Rs 60000/- 4) Survey No:388/1C2B,386/3B2, Sq ft: 13068(26.11.2007),Rs 5600/- 5) Survey No:388/6, Sq ft: 366(9.11.2007),Rs 13500/- 6) Survey No:386/18B2, Sq ft:3099 (07.05.2012),Rs 301090/- 7) Survey No:265/37, Sq ft: 759( 10.01.2013 ),Rs 123260/- 8) Survey No:265/36,37, Sq ft: 621(30.01.2013 ),Rs 101640/- 9) Survey No:265/38, Sq ft: 667(30.01.2013),Rs 119000/- Survey no:265/39, sq ft- 700 Total Area 37575.2 Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 1406400.00 1,64,49,159 1 Crore+",
+        "spouse": "Kallimanthayam Village: 1) Survey No:397/1A,394/3B2, Sq ft: 4368(08.04.1994),Rs 37250/- 2) Survey No:388/1C2B, Sq ft: 30610(01.02.1999)Rs 30610/- ) 3) Survey No:388/1C2B, Sq ft: 4360(17.03.2006 ),Rs 60000/- 4) Survey No:386/1B2C, Sq ft: 4796(29.05.2008),Rs 5600/- 5) Survey No:386/1B3, Sq ft: 12644( 29.05.2008),Rs 13500/- 6) Survey No:386/18, Sq ft:12644(02.02.2011),Rs 301090/- 7) Survey No:386/6, Sq ft: 1076.2( 29.02.2016),Rs 123260/- Ottanchatram Housing Board ,Kurunjinagar Plot - A36,Survey No:431/3, SQ ft- 2256,(26.08.2008),187800Rs Mugappair Housing board-Survey no:442, Plot no: 1047, sq ft- 4357.8,(29.04.2010),9581855rs Network Tower, CCTV and Accessories, rs, 533895(22.12.2023), (Labour Shed, Office Room, Cow Shed, Toilet),rs 2941960/-, 19.02.2024 Total Area 42303 Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 3,58,30,128 3 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "1) Kallimanthayam village,Survey no:394/3B2, 393/2B, Door no: 2/3, sq ft-3066, (07.03.2012)947689/- 2) Kallimanthayam village,Survey no:386/1B2,386/1B,1C sq ft-17440, (29.05.2008)20000 /- Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 18239035.00 2,69,76,475 2 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "TMB,Kallimanthayam Br,O.D Loan 1,36,24,975.50 1 Crore+ TMB,Kallimanthayam Br,TN 57 CA 1717 Car Loan 16,51,010 16 Lacs+ TMB,Kallimanthayam Br,TN 57 CB 1717 Car Loan 27,61,231 27 Lacs+ TMB,Kallimanthayam Br,TN 94 D 1717 Car Loan 3,95,000 3 Lacs+ TMB,Kallimanthayam Br,TN 94 E 1717 7 Car Loan 8,75,015 8 Lacs+",
+      "spouse": "TMB,Kallimanthayam Br, Land Development Loan 1,33,945.52 1 Lacs+ TMB,Kallimanthayam Br,CC Loan 2,80,898.30 2 Lacs+ TMB,Kallimanthayam Br,TN 94 Y 6828 Car Loan 1,93,479 1 Lacs+ TMB,Kallimanthayam Br, 23,21,428.58 23 Lacs+ TMB,Kallimanthayam Br, 5,35,714.30 5 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 1,49,94,050 | 2023 - 2024: Rs 51,61,847 | 2022 - 2023: Rs 2,02,40,719 | 2021 - 2022: Rs 54,55,375 | 2020 - 2021: Rs 33,98,235"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 1,09,56,111 | 2023 - 2024: Rs 1,61,47,462 | 2022 - 2023: Rs 60,13,641 | 2021 - 2022: Rs 1,55,65,589 | 2020 - 2021: Rs 38,53,675"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 15,65,14,972 ~15 Crore+",
+    "Liabilities:": "Rs 2,27,72,697.20 ~2 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹119,873,636) does not match declared total assets (₹156,514,972). Difference: ₹36,641,336"
+    }
+  ]
+}

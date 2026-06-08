@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912220",
+    "candidate_name": "Maadasami",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Puthiya Tamizhagam",
+    "constituency": "Vilathikulam-213, Tamil Nadu",
+    "pan": "FCKPM2199K",
+    "phone": "9843181453, 6374649861",
+    "email": "smada6672@gmail.com",
+    "address": "292, Keelatheru, Ramachandrapuram, Kulathur North, Thoothukudi District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "2nd standard, Panchayat Union Primary School, Nedungulam",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2301964.0,
+    "total_liabilities_xls": 188000.0,
+    "net_worth_xls": 2113964.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910069",
+    "candidate_name": "SDK.SANKAR",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "AANAITHINTHIYA JANANAYAKA PATHUKAPPU KAZHAGAM",
+    "constituency": "Gummidipoondi, Tamilnadu",
+    "pan": "BILPS1522H",
+    "phone": "7010439559",
+    "email": "sdkp5999@gmail.com",
+    "address": "No.61, Egavalliyamman Kovil Street, Narasingapuram Village, Periyaobulaburam Post, Gummidipoondi Taluk, Thiruvallur District - 601201",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "D.Pharm, LLB. CL baid matha college 1999-2000, venkateshwara university, thiruppathi 2013-2014",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 22963574.0,
+    "total_liabilities_xls": 4594640.0,
+    "net_worth_xls": 18368934.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

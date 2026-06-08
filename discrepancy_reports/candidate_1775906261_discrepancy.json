@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906261",
+    "candidate_name": "J.L. Eswarappan",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "042 Arcot, Tamil Nadu",
+    "pan": "AADPE5257G",
+    "phone": "9443265161",
+    "email": "jleswar@yahoo.com",
+    "address": "No. 50,51, Pudutheru, Arcot 632503, Ranipet District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., (Mech) VIT UNIVERSITY, VELLORE - 2001",
+    "profession": "Business, Member of Legislative Assembly"
+  },
+  "financial_summary": {
+    "total_assets_xls": 113174164.0,
+    "total_liabilities_xls": 31152803.0,
+    "net_worth_xls": 82021361.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910617",
+    "candidate_name": "N. Senthil Kumar",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "10, Thiruvottiyur",
+    "pan": "BQGPS0850M",
+    "phone": "9884448832, 9884445587",
+    "email": "nsksupra15@gmail.com",
+    "address": "45, Apparsamy Kovil Street, Thiruvottiyur, Chennai 600019",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC: VCHSS CHENNAI(1997), DIPLOMA:STATE BOARD OF TECHNICAL EDUCATION AND TRAINING(2000), DEGREE: BE.PRODUCTION ENGINEERING ANNA UNIVERSITY(2011), L.L.B, SRI VENKATESHWARA UNIVERSITY(2014)",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 14733313.0,
+    "total_liabilities_xls": 1311935.0,
+    "net_worth_xls": 13421378.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

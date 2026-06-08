@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916990",
+    "candidate_name": "கணேசன்",
+    "candidate_name_json": null,
+    "age": "64",
+    "party": "சுயேட்சை",
+    "constituency": "222 – தென்காசி சட்டமன்றத் தொகுதி",
+    "pan": "AHCPG6614K",
+    "phone": "9600373771",
+    "email": "nathanganeshan49@gmail.com",
+    "address": "2 வடக்கத்தி அம்மன் கோவில் 2வது தெரு, இலஞ்சி, தென்காசி தாலுகா 627 805, தென்காசி மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10 ஆம் வகுப்பு தேர்ச்சி- இராமசாமி பிள்ளை மேல்நிலைப் பள்ளி, இலஞ்சி - 1979",
+    "profession": "கூலி வேலை"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1611268.0,
+    "total_liabilities_xls": 72000.0,
+    "net_worth_xls": 1539268.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

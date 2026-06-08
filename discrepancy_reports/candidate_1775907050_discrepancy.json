@@ -1,0 +1,387 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907050",
+    "candidate_name": "Natham R.Viswanathan",
+    "candidate_name_json": "NATHAM VISWANATHAN R",
+    "age": "76",
+    "party": "AIADMK",
+    "constituency": "131 Natham Assembly constituency, Tamil Nadu",
+    "pan": "ADLPV6760G",
+    "phone": "9498039485",
+    "email": "NIL",
+    "address": "2-3 East Street, Vembarpatti(PO), Dindigul District -624308",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "S.S.L.C - Natham Durai Kamalam Board High School, -1966; Degree - B.Sc., (Physics)- Alagappa College, (Madurai Kamaraj University 1968-1971)",
+    "profession": "Self: Agriculture; Spouse: Tamarind, Coconut Seller & Agriculture Product"
+  },
+  "financial_summary": {
+    "total_assets_xls": 46545624.93,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 46545624.93,
+    "cash_xls": 160000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "70,000 70 Thou+",
+        "spouse": "90,000 90 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Tamilnadu , Mercantile Bank , Dindigul 23,584 23 Thou+ Axis Bank Vembarpatty 0 Indian Bank Chennai 0 Central Cooperative Bank , Gopalpatty 4,15,927 4 Lacs+ IOB , Gopalpatty 2,31,614 2 Lacs+ SBI , Natham 10,09,000 10 Lacs+ Union Bank of India, Chennai 16,20,044 16 Lacs+",
+        "spouse": "Tamilnadu , Mercantile Bank , Dindigul 14,623 14 Thou+ Central Cooperative Bank , Gopalpatty 57,742 57 Thou+ Axis Bank Vembarpatti 22,01,068 22 Lacs+ A2125 uluppakudi PACCS 500 5 Hund+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "A2125 uluppakudi PACCS 200 2 Hund+ Kavitha traders Investment 47,88,322 47 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Innova Car TN 57 BR 6999 14,89,798 14 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "105 gm Gold 9,45,000 9 Lacs+",
+        "spouse": "820 gm Gold 73,80,000 73 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Dindigul Distrit Punnapatti Village SY NO. 630/1-0.48.0 630/2-0.51.0 Area :8.95 Acre 2.Dindigul Distrit Punnapatti Village SY NO.630/1-0.37.0 685/16-0.03.0 Area : 1.72 Acre Date of Purchase: 31.08.1995 Total Area Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 100000.00 Development Cost 0.00 49,08,200 49 Lacs+",
+        "spouse": "Dindigul Distrit Punnapatti Village SY NO. 678/1-0.50.0,678/2-0.88.0 Total Area 3.41 Acres Built Up Area Whether Inherited N Purchase Date 1994-09-14 Purchase Cost 116920.00 Development Cost 0.00 15,68,600 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Dindigul District Vembarpatti Village SY NO. 322/2B2 Total Area 10455 sq.ft Built Up Area 2534 sq.ft Whether Inherited N Purchase Date 1983-11-28 Purchase Cost 2880.00 Development Cost 0.00 96,69,900 96 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Dindigul District Vembarpatti Village SY NO.322/2b2 Total Area 5227 sq.ft Built Up Area 3724 sq.ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 1440.00 Development Cost 0.00 1,00,61,500 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 7,24,216 | 2023 - 2024: Rs 7,64,028 | 2022 - 2023: Rs 6,95,930 | 2021 - 2022: Rs 7,83,526 | 2020 - 2021: Rs 7,38,039"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2022 - 2023: Rs 4,26,635 | 2021 - 2022: Rs 4,85,984 | 2020 - 2021: Rs 13,63,821"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "FIR.No:166/2022; FIR.No:695/2024",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Causing danger or obstruction in public way or line of navigation. (BNS Section-285)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "166/2022, Oddanchathram Police Station, Dindigal District, Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "695/2024, Natham Police Station, Dindigul District Tamil Nadu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2), 285",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 4,65,45,624 ~4 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹36,221,207, but 5-year family income is only ₹5,982,179. Unexplained wealth discrepancy of ₹30,239,028."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "925.0g gold declared at ₹8,325,000 (Implied rate: ₹9,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹36,221,207) does not match declared total assets (₹46,545,624). Difference: ₹10,324,417"
+    }
+  ]
+}

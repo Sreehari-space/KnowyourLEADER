@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905776",
+    "candidate_name": "K. Palaniswami",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "86, Edappadi, Tamil Nadu",
+    "pan": "AYXPP6611P",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "77, Siluvampalayam, Nedungulam Village, Edappadi Taluk, Salem District - 637107",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc (Failed) from Sri Vasavi College, Erode (University of Madras, 1976)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 371702474.49,
+    "total_liabilities_xls": 1700000.0,
+    "net_worth_xls": 370002474.49,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (5 case(s))",
+    "case_numbers_xls": "FIR No. 15/2023 (Revision Petition 864/2023, SLP 1214/2025); FIR No. 302/2022; FIR No. 472/2022; FIR No. 35/2022; FIR No. 812/2021",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

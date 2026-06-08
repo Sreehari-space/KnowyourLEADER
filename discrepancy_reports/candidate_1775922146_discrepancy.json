@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922146",
+    "candidate_name": "G. SURESH KUMAR",
+    "candidate_name_json": null,
+    "age": "39",
+    "party": "INDEPENDENT CANDIDATE",
+    "constituency": "SHOLINGANALLUR",
+    "pan": "DUVPS3322D",
+    "phone": "9790999998",
+    "email": "advsuresh.legal@gmail.com",
+    "address": "17, ARANGANATHAN SUBWAY ROAD, KAVERI NAGAR, NORTH SAIDAPET, CHENNAI -600015",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Dr. AMBEDKAR LAW COLLEGE, CHENNAI (2012)",
+    "profession": "ADVOCATE"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3306000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 3306000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

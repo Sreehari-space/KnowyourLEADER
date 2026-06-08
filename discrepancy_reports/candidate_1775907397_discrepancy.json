@@ -1,0 +1,400 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907397",
+    "candidate_name": "A. Nallathambi",
+    "candidate_name_json": "NALLATHAMBI. A",
+    "age": "61",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "81 Gangavalli (SC), Tamil Nadu",
+    "pan": "ASAPN4662M",
+    "phone": "9786910425",
+    "email": "nallathambiangamuthu1965@gmail.com",
+    "address": "38, A.D. Colony, Govindampalayam Village & P.O, Thalaivasal Taluk, Salem District 636 101.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Eighth standard dropout, Panchayat Union Middle School, Govindampalayam, 1978",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5525126.53,
+    "total_liabilities_xls": 527477.0,
+    "net_worth_xls": 4997649.53,
+    "cash_xls": 400000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "4,00,000 4 Lacs+",
+        "spouse": "4,00,000 4 Lacs+",
+        "huf": "Nil",
+        "dependent1": "3,00,000 3 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Canara Bank 5,00,000 5 Lacs+ Indian Overseas Bank 2,739 2 Thou+ SPJ Thalaivasal Branch 86 Indian Bank 771 7 Hund+",
+        "spouse": "Indian Overseas Bank 32,329 32 Thou+ Indian Bank Thalaivasal 129 1 Hund+",
+        "huf": "Nil",
+        "dependent1": "Canara Bank 57 City Union Bank 214 2 Hund+ IDBI Bank Athur 199 1 Hund+ Indian Overseas Bank 2,739 2 Thou+ SPJ Athur 0",
+        "dependent2": "Indian Bank 2,520 2 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Post Office 1,071 1 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "LIC Insurance 12,184 12 Thou+",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Hero Honda Motors Ltd TN-77-C-9893 Model 2013 58,000 58 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Hero Motocorp Ltd TN-77-J-6611 Super Splendor Model 2017 68,000 68 Thou+ Maruthi Suzuki India Ltd TN-46-Z-4777 Brezza VXI Model 2020 10,00,000 10 Lacs+ TVS Motor Company Ltd TN-77-U-1030 Jupiter 125 Model 2024 1,25,000 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "80 Grams 8,80,000 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "80 Grams 8,80,000 8 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Govindampalayam Village SY No.63/1,2 Total Area 0.20 Acre Built Up Area Whether Inherited N Purchase Date 2003-06-20 Purchase Cost 6000.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Govindam Palayam Village ( Government Issued Site) Patta No.104, S.No.195/10, 195/11 Total Area 0.0040.0 & 0.0016.0 Built Up Area 602 sq.ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 1000000.00 12,50,000 12 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "IOB Aragalur Branch, Crop Loan 1,60,000 1 Lacs+ Agricultural Co-operative Loan Aragalur Br. 1,60,000 1 Lacs+",
+      "spouse": "Blester Micro Finance Ltd., Veeraganur Br. Loan 1,45,993 1 Lacs+ Indian Bank, Thalaivasal Br. 61,484 61 Thou+",
+      "huf": "Nil",
+      "dependent1": "Bajaj Finserve Attur 4,84,823 4 Lacs+ HDB Financial Service Attur 65,564 65 Thou+ TVS Credit Pondicherry 11,961 11 Thou+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 5,38,720 | 2024 - 2025: Rs 5,72,560 | 2023 - 2024: Rs 4,74,780 | 2022 - 2023: Rs 4,01,830 | 2021 - 2022: Rs 4,49,270"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 4,92,240 | 2024 - 2025: Rs 4,52,240 | 2023 - 2024: Rs 4,10,910"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "707/2024; 35/2022; 812/2021",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "2 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to On refusal to disclose the name and address of the printer. (BNS Section-182(2))",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No.707/2024, Omalur Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "182(2), 126(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No.35/2022, Salem Town Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No.812/2021, Salem Town Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Section-51(b) The District Management Act -2005 & Section-2 and 3 Epidemic Diseases Act 1987",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 79,16,039 ~79 Lacs+",
+    "Liabilities:": "Rs 10,89,825 ~10 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Huf Agricultural Land purchased in 2003 for ₹6,000 (CII Indexed Cost: ₹20,697) is declared at highly inflated value of ₹2,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "160.0g gold declared at ₹880,000 (Implied rate: ₹5,500/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹4,784,106) does not match declared total assets (₹7,916,039). Difference: ₹3,131,933"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904802",
+    "candidate_name": "காதர்பாட்சா முத்துராமலிங்கம்",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "திராவிட முன்னேற்றக்கழகம்",
+    "constituency": "212, முதுகுளத்தூர், தமிழ்நாடு",
+    "pan": "AMQPM2866E",
+    "phone": "7338722951",
+    "email": "ramnad.dmk.kvm@gmail.com",
+    "address": "கதவு எண்.31-25C, மேலராமநதி கிராமம், கமுதி வட்டம், இராமநாதபுரம் மாவட்டம்-623603",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "HSc., SBK Boys Higher Secondary School, Aruppukottai – March 1991",
+    "profession": "தனிநபர் பொது சேவை மற்றும் விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 26450642.73,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 26450642.73,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "1. CRL MP :696/2025; 2. STC: 2279/2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

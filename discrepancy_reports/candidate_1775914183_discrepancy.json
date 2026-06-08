@@ -1,0 +1,373 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914183",
+    "candidate_name": "Prem Alex Lawrence",
+    "candidate_name_json": "PREM ALEX LAWRENCE",
+    "age": "42",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "231 Colachel Assembly Constituency, Tamil Nadu",
+    "pan": "AUEPP1638H",
+    "phone": "8939887201",
+    "email": "premlaury@gmail.com",
+    "address": "3, Matha Nagar, Alanchy, Kalkulam Taluk, Kanyakumari District - 629 159",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "1. MASTER OF DENTAL SURGERY, (MDS) Bharat University, 2010; 2. BACHELOR OF DENTAL SURGERY, (BDS) The TN Dr MGR Medical University, 2007",
+    "profession": "Dentist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1314139483.0,
+    "total_liabilities_xls": 23122916.0,
+    "net_worth_xls": 1291016567.0,
+    "cash_xls": 80000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "80,000 80 Thou+",
+        "spouse": "20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Overseas Bank Kodambakkam 2,15,000 2 Lacs+ IDFC Besant Nagar Branch 9,126 9 Thou+ ICICI East Mambalam Branch 500 5 Hund+ Fixed Deposit IDFC Bank 49,793 49 Thou+",
+        "spouse": "SBI Kodambakkam Branch 2,763 2 Thou+ Union Bank Of India Palwagam Branch 1,000 1 Thou+ Fixed Deposit SBI 1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Mutual Fund Invesco India Contra Fund 13,308 13 Thou+ Asian Paints 2,195 2 Thou+ HDFC Bank 9,365 9 Thou+ Titan -5 26,433 26 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Suganya Samridhi Yojna 40,000 40 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Car Kia Carens TN 09 DD 8165 12,00,000 12 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "22gm Gold 24,20,000 24 Lacs+",
+        "spouse": "89gm Gold 97,90,000 97 Lacs+ 5 Carat Gold 2,00,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "7/36, Kamaraj Colony, 2nd Street Kodambakkam Chennai Block 2/1 Total Area 700Sqft Built Up Area Whether Inherited N Purchase Date 2014-06-05 Purchase Cost 2570000.00 Development Cost 0.00 45,00,000 45 Lacs+ Kamaraj Colony, 1st Street Kodambakkam Chennai Block 8:2/1 Block 45828 Total Area 1656Sqft Built Up Area Whether Inherited N Purchase Date 2016-07-13 Purchase Cost 6600000.00 Development Cost 0.00 85,00,000 85 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Chola Finance Loan 74,43,901 74 Lacs+ Bajaj Finance Ltd 21,31,291 21 Lacs+ Punjab National Bank Auto Loan 72,69,754 72 Lacs+ Yes Bank 4,37,333 4 Lacs+ Yes Bank 4,37,333 4 Lacs+ Yes Bank 4,37,333 4 Lacs+ Yes Bank 4,37,333 4 Lacs+ Yes Bank 4,37,333 4 Lacs+ Yes Bank 4,37,333 4 Lacs+ Yes Bank 9,87,000 9 Lacs+ Yes Bank 9,87,000 9 Lacs+ Yes Bank 9,24,000 9 Lacs+ Yes Bank 7,05,600 7 Lacs+",
+      "spouse": "Union Bank Of India 50,372 50 Thou+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Punjab National Bank, Auto Loan (Gurantor), Debt Recovery Tribunal 72,69,754 72 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 7,00,560 | 2023 - 2024: Rs 4,72,260 | 2022 - 2023: Rs 4,77,850 | 2021 - 2022: Rs 4,63,740 | 2020 - 2021: Rs 4,84,620"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,20,750 | 2023 - 2024: Rs 5,26,210 | 2022 - 2023: Rs 4,33,800 | 2021 - 2022: Rs 4,23,090 | 2020 - 2021: Rs 4,63,800"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "Case 1: FIR No: 0206/2025, Police Station: குளச்சல் காவல் நிலையம் / Colachel Police Station, Sections: 189(2), 292 BNS, Description: ஒன்றிய அரசின் ONGC திட்டத்தை எதிர்த்து ஆர்ப்பாட்டம் நடத்தியது தொடர்பாக / Regarding protest against ONGC project of Union Government; Case 2: FIR No: இல்லை / None, Police Station: M/s Scandent Imaging Ltd, சார்பாக Mr. Gautam Deshpande தொடுத்த புகார் / Complaint filed by Mr. Gautam Deshpande on behalf of M/s Scandent Imaging Ltd., Court: குற்றவியல் நீதிமன்றம், நடுவர் தானே, மகாராஷ்ட்ரா / Criminal Court, Magistrate Thane, Maharashtra, Sections: IPC 409, 420",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "1 charges related to Criminal breach of trust by public servant, or by banker, merchant or agent (IPC Section-409)",
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "0206/2025, Colachal PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Complaint Filed By Mr.Gautam Deshpande, Representative Of M/s Scandent Imaging Ltd",
+          "case_no": "CC No.797/2021",
+          "court": "Criminal Court Maharashtra Arbitration Thane",
+          "law_type": "IPC",
+          "ipc_sections": "409, 420",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "15 Mar 2021",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,71,79,483 ~2 Crore+",
+    "Liabilities:": "Rs 3,03,92,670 ~3 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Overvalued (Parking Illicit Funds)",
+      "description": "111.0g gold declared at ₹12,210,000 (Implied rate: ₹110,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹18,281,071) does not match declared total assets (₹27,179,483). Difference: ₹8,898,412"
+    }
+  ]
+}

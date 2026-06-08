@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919825",
+    "candidate_name": "Mukeshkumar",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "Independent",
+    "constituency": "209 Paramakudi Assembly Constituency, Tamil Nadu",
+    "pan": "DDLPM5089J",
+    "phone": "8680036063",
+    "email": "justicesharva@gmail.com",
+    "address": "4, Pattarai Street, Mandalamanickam, Kamuthi Taluk, Ramanathapuram District 623605",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., B.L. from Government Law College, Madurai (2019)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2159000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2159000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

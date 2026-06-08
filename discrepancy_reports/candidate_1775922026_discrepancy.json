@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922026",
+    "candidate_name": "Mohaithheen Baiji",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "Independent",
+    "constituency": "230 Nagercoil, Tamil Nadu",
+    "pan": "ACAPF4914E",
+    "phone": "7418962359",
+    "email": "faigeepm@gmail.com",
+    "address": "2A, Jothi Street, Christunagar, Nagercoil, Agastheeswaram Taluk, Kanyakumari District - 629 003 Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.B.A (MADURAI KAMARAJAR UNIVERSITY DISTANCE COURSE) Passed 2009 year.",
+    "profession": "Business Profession"
+  },
+  "financial_summary": {
+    "total_assets_xls": 11874847.0,
+    "total_liabilities_xls": 1917942.0,
+    "net_worth_xls": 9956905.0,
+    "cash_xls": 1500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

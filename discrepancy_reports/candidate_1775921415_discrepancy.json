@@ -1,0 +1,383 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921415",
+    "candidate_name": "E.VALARMATHI",
+    "candidate_name_json": "VALARMATHI.B",
+    "age": "62",
+    "party": "INDEPENDENT",
+    "constituency": "20, Thousand Lights",
+    "pan": "NOTALLOTTED",
+    "phone": "8124835252",
+    "email": "anithasree086@gamil.com",
+    "address": "2, I BLOCK, PUSHPANAGAR, NUNAMBAKKAM CHENNAI 600034, TAMIL NADU",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "8TH STANDERED, KODAMBAKKAM GIRLS School, completed in 1975",
+    "profession": "Home Maker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 301000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 301000.0,
+    "cash_xls": 3000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "2,50,000 2 Lacs+",
+        "spouse": "3,00,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Savings Bank Accounts as on 25.03.2026 Indian Overseas Bank, Ashok Nagar, Branch, Chennai A/c No. 28,88,135.50 28 Lacs+ Savings Bank Accounts as on 25.03.2026 Punjab National Bank, KK Nagar branch, Chennai A/c No. 3,22,565.75 3 Lacs+ Savings Bank Accounts as on 25.03.2026 Indian Overseas Bank, Ashok Nagar, Branch, Chennai A/c No. 10,04,000 10 Lacs+",
+        "spouse": "Savings Bank Accounts as on 25.03.2026 City Union Bank, KK Nagar Branch, Chennai A/c No. 2,58,39,510.70 2 Crore+ Savings Bank Accounts as on 25.03.2026 Punjab National Bank, KK Nagar Branch, Chennai 600078, A/c No. 17,21,303.19 17 Lacs+ Savings Bank Accounts as on 25.03.2026 Axis Bank, KK Nagar Branch, Chennai A/c No. 1,59,40,318.90 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Details of Mutual Funds Market value as on 25.03.2026 SBI Multi Asset Allocation Fund Reg-Gr Qty = 3302.459 2,05,244.52 2 Lacs+ Details of Mutual Funds Market value as on 25.03.2026 Tata Multi Asset Allocation FundReg-Gr Qty = 8372.126 Market value 1,93,433.79 1 Lacs+ Details of Mutual Funds Market value as on 25.03.2026 HSBC Multi Asset Allocation Fund Reg-Gr Qty = 15996.001 Market value 1,97,059.54 1 Lacs+ Details of Mutual Funds Market value as on 25.03.2026 ICICI Prudential Multi Asset Fund Reg-Gr Qty = 258.02 Market value 1,94,137.29 1 Lacs+ Details of Mutual Funds Market value as on 25.03.2026 UTI Multi Asset Allocation FundReg-Gr Qty = 2649.562 Market value 1,90,532.12 1 Lacs+",
+        "spouse": "Balance in LLP as Partner, as on 31.03.2025 M/s. Vee 3 Constructions LLP, 2,16,40,225.12 2 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "1. Bangle -32 Nos -272 gms 2. Necklace - 6 Nos-320 gms 3. Chain - 8 Nos- 440 gms 4. Ring 9 Nos -36 gms Total 1068 gms valued at Rs.13,600 per gram 1,45,24,800 1 Crore+",
+        "spouse": "1 Chain - 1 Nos - 32 gms 2. Ring -3 Nos - 12 gms Total 44 gms valued at Rs.13,600 per gram 5,98,400 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Vacant land in Thazhambur village in old survey.No 50/3, new survey no.191/10 Total Area 0.56 acres Built Up Area Whether Inherited N Purchase Date 2003-09-17 Purchase Cost 223710.00 Development Cost 0.00 8,06,20,848 8 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Residential Flat No.1A, Sathyam, 1st floor, R.K Shanmugam salai, K.K Nagar, Chennai -600078 in Survey No.419/1. Total Area UDS-875 Sq.ft Built Up Area 1864 Sq.ft. Whether Inherited N Purchase Date 2023-05-15 Purchase Cost 22105308.00 Development Cost 0.00 2,21,05,308 2 Crore+ Residential Flat No.20C, \"The Peak\", 20th floor, MIG-120, 11th Avenue, Ashok Nagar, Chennai6000083 in Survey No.14/7 Total Area UDS-331.03 Sq.ft Built Up Area 1913 Sq.ft Whether Inherited N Purchase Date 2025-01-31 Purchase Cost 21639143.00 Development Cost 0.00 2,29,56,000 2 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,47,780 | 2023 - 2024: Rs 4,88,200 | 2022 - 2023: Rs 3,08,640 | 2021 - 2022: Rs 3,48,810 | 2020 - 2021: Rs 3,00,240"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 59,18,450 | 2023 - 2024: Rs 12,54,340 | 2022 - 2023: Rs 25,23,060 | 2021 - 2022: Rs 11,08,510 | 2020 - 2021: Rs 5,30,810"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "1 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "2/AC/2007/HQ Vigilance and Anti Corruption Head Quarters, Chennai",
+          "case_no": "C.C. No. 16 of 2011, (Old C.C. No. 7 of 2011)",
+          "court": "Special Court for the Cases Under Prevention of Corruption Act at Chennai.",
+          "law_type": "IPC",
+          "ipc_sections": "109",
+          "other_details": "Section-13(2) r/w 13(1) (e) of Prevention of Corruption Act, 1988",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "CRL.M.P.933/2012. In C.C.No. 16 of 2011(Old C.C.No. 7 of 2011) Discharge petition was allowed by the Trial court (In the Special Court for the Cases Under Prevention of Corruption Act at Chennai.) Against the order of Discharge Madras High Court, Suo Motu Reopened the case in Crl.RC.1558/2023. Appeal filed against the above Crl. R.C. before the Supreme Court in SLP(CRL)15194/2023, The Supreme Court of India STAYED the proceedings of Crl.RC.1558/2023. vide order dated 23.02.2024 in SLP(CRL) 15194/2023."
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "130/2025, Saidapet Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2)",
+          "other_details": "Section-41 of Tamil Nadu City Police Act 2023",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 21,16,91,822 ~21 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹168,972,470, but 5-year family income is only ₹13,228,840. Unexplained wealth discrepancy of ₹155,743,630."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2003 for ₹223,710 (CII Indexed Cost: ₹771,697) is declared at highly inflated value of ₹80,620,848."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "2224.0g gold declared at ₹15,123,200 (Implied rate: ₹6,800/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹168,972,470) does not match declared total assets (₹211,691,822). Difference: ₹42,719,352"
+    }
+  ]
+}

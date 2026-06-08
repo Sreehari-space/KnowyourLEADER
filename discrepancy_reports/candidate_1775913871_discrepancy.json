@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913871",
+    "candidate_name": "o Venugopal",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Independent",
+    "constituency": "182 Alangudi Assembly Constituency",
+    "pan": "CATPV3087K",
+    "phone": "7305441198",
+    "email": "NIL",
+    "address": "126 Chettitheru, Erukkalakkottai Village & Post, Aranthangi Taluk, Pudukkottai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Government Higher Secondary School, Poosaimaanar",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 701500.0,
+    "total_liabilities_xls": 50000.0,
+    "net_worth_xls": 651500.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

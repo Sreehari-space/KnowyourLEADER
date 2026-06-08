@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907816",
+    "candidate_name": "P. Seetha",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "65 Kalasapakkam Assembly Constituency",
+    "pan": "GAUPP3163F",
+    "phone": "8940527154",
+    "email": "seetha.writeme@gmail.com",
+    "address": "No. 734, Ganesapuram, Ladavaram Village, Kalasapakkam Taluk, Tiruvannamalai District - 606751",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (2004) A.U.N.I. School, Ladavaram; 12th Standard (2006) A.P.M.H.S. School, Polur; B.B.A., (2010), Annamalai University, Chidambaram; M.Com., (2012), Annamalai University, Chidambaram; B.Ed., (2013), Tamil Nadu Teachers Education University",
+    "profession": "Housewife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1040000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1040000.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

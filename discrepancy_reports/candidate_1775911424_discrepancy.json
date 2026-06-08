@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911424",
+    "candidate_name": "Suman Singh R",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "தமிழக வாழ்வுரிமைக் கட்சி",
+    "constituency": "121 சிங்காநல்லூர் சட்டமன்ற தொகுதி, கோயம்புத்தூர் மாவட்டம், தமிழ்நாடு",
+    "pan": "GNPPS9177E",
+    "phone": "8608040973, 8248903987",
+    "email": "r.sumansingh123@gmail.com",
+    "address": "கதவு எண்.75 ஸ்ரீ மகாலட்சுமி கார்டன், பீடம்பள்ளி, சூலூர் வட்டம், கோயமுத்தூர்- 641 016",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "LLB, 2021 SBRTM Law College, Yogi Vemana University, Kadappa Andhra Pradesh; HSC, 2013 PSG Sarvajana Higher Secondary School, Peelamedu, Coimbatore; SSLC, 2011 PSG Sarvajana Higher Secondary School, Peelamedu, Coimbatore",
+    "profession": "வழக்குரைஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 11142080.0,
+    "total_liabilities_xls": 2928296.0,
+    "net_worth_xls": 8213784.0,
+    "cash_xls": 5500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

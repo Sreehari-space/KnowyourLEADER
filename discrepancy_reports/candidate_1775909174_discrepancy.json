@@ -1,0 +1,401 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909174",
+    "candidate_name": "R. Esakkimuthu",
+    "candidate_name_json": "R. ESAKKIMUTHU",
+    "age": "39",
+    "party": "Amma Makkal Munnetra Kazhagam",
+    "constituency": "226 Palayamkottai",
+    "pan": "AAUPE3289K",
+    "phone": "9942658545",
+    "email": "resakki@gmail.com",
+    "address": "Door No. 36, V.O.C Nagar D Colony, V.M. Chathiram, Palayamkottai, Tirunelveli District, Tamil Nadu - 627011",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.A. Tamil Nadu Open University, Chennai (2021)",
+    "profession": "Business, Partner in Arun Land Promoters, Director in ALP Assets Private Limited"
+  },
+  "financial_summary": {
+    "total_assets_xls": 587973040.0,
+    "total_liabilities_xls": 122182289.0,
+    "net_worth_xls": 465790751.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "5,00,000 5 Lacs+",
+        "spouse": "8,00,000 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "HDFC Samathanapuram Br 73,935 73 Thou+ Bandhan Bank Tirunelveli Br 3,10,553 3 Lacs+ Axis Bank KTC Nagar Br 19,78,950 19 Lacs+ Axis Bank KTC Nagar Br 25,25,250 25 Lacs+ IOB Perumalpuram Br 0 TMB, Ariyakulam Br 38,223 38 Thou+ ICICI Maharajanagar Br 2,734 2 Thou+ Indian Bank KTC Nagar 75,124 75 Thou+ IOB KTC Nagar 1,808 1 Thou+ TMB VM Chattharam,Br 11,894 11 Thou+ HDFC Samathanapuram Br 27,31,957 27 Lacs+ Indian Bank KTC nagar 43,99,720 43 Lacs+ Indian Bank KTC nagar(for election) 40,00,000 40 Lacs+",
+        "spouse": "Indian Bank KTC Nagar 24,671 24 Thou+ Indian Bank KTC Nagar 43,29,510 43 Lacs+ Indian Bank KTC Nagar 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Indian Bank KTC Nagar 13,452 13 Thou+",
+        "dependent2": "Indian Bank KTC Nagar 27,312 27 Thou+",
+        "dependent3": "Indian Bank KTC Nagar 25,022 25 Thou+",
+        "dependent4": "Indian Bank KTC Nagar 47,550 47 Thou+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "M/S ALP Assets Private Limited Investment 50,00,000 50 Lacs+ Sriram Chit Funds Investment 3,60,600 3 Lacs+",
+        "spouse": "M/S, Arun Land Promoters Investment 17,32,413 17 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Bajaj Alliance 1,00,000 1 Lacs+ Kotak 1,01,052 1 Lacs+ Kotak 1,01,126 1 Lacs+ HDFC 12,00,000 12 Lacs+ LIC 3,13,976 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "M/S. ALP Assets Private Limited Advace for shares 6,05,00,000 6 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Merceds Benz TN 72 CK 6500(2025) 92,45,758 92 Lacs+ Hyundai Creta TN 72 BT 6500(2020) 17,83,761 17 Lacs+ TVS I Qube TN 72 CB 3800(2023) 93,925 93 Thou+",
+        "spouse": "Honda City TN 72 CC 6500(2023) 16,55,865 16 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "658 gram 89,48,800 89 Lacs+",
+        "spouse": "1200 gram 1,63,20,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "80 gram 10,88,000 10 Lacs+",
+        "dependent2": "80 gram 10,88,000 10 Lacs+",
+        "dependent3": "40 gram 5,44,000 5 Lacs+",
+        "dependent4": "40 gram 5,44,000 5 Lacs+"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "1) Muthoor s.no: 10/2, 96/1A, 1acre 49.70 cent, 2)Muthoor s.no: 96/2B1,97/1A. 98/1A, 99/1? 2acre 28.41 cent, 3)Muthoor s.no: 126/2. 127/1 6 acre 3.25 cent, 4)Muthoor s.no: 11/2 98 cent, 5)Muthoor s.no: 126/1 64.92 cent, 6)Muthoor s.no: 125/2 57 cent, 7)Muthoor s.no: 124/1 6 acre2 cent, 8)Muthoor s.no: 125/1 2 acre 35 cent, 9)Puthukulam,s.no:618/1A1,88.93 Cent 10)poolam, s.no:476/2E,98 Cent, 11) poolam, s.no:476/2D,87 Cent, 12)poolam, s.no:476/2C,95 Cent, 13)poolam, s.no:476/2B,1acre 10 Cent, 14) Rediyarpatti, s.no:207/15A1, 207/15A2. 207/15B, 48.50 Cent, 15)Rediyarpatti, s.no:236/4B, 236/4C, 41 Cent, 16 ) Rediyarpatti, s.no:208/10B, 45 Cent, 17) Rediyarpatti, s.no:236/4E, 50 Cent, 18) Rediyarpatti, s.no:236/4E, 24 Cent, 19) Rediyarpatti, s.no:236/2, 236/4, 236/6, 236/3. 236/4A, 64Cent, 20) Rediyarpatti, s.no:208/10A, 44 Cent, 21) Rediyarpatti, s.no:236/4F, 236/5, 39 Cent, 22) Rediyarpatti, s.no:219/120, 219/12G2, 59 Cent, 23) Rediyarpatti, s.no:219/120, 219/12G2, 52.50Cent, 24) Rediyarpatti, s.no:208/6C28 208/13B, 43 Cent, 25)Mudivaithanenthal S.no:940/2A,940/2B. 971,957, 8 acre 98 cent 26)Mudivaithanenthal S.no:1148A/3 , 1 acre 76 cent 27)Thanoothu S.no:22/3, 1 acre 98 cent 28) Thanoothu S.no:113/4C, 114/1, 1 acre 20 cent 29)Azhwarthirunagari S.no:859 , 21 cent 30)Azhwarthirunagari S.no:858/1 , 22 cent 31)Azhwarthirunagari S.no:860, 921/1 , 37 cent 32)Keezhavallanadu,S.No:858/1, 3 acre 43 cent 33)Keezhavallanadu,S.No:596/1C, 596/1E, 601/, 1acre 48 cent 34)Keezhavallanadu,S.No:596/1C, 596/1E, 601/3,, 2acre 9cent 35)Keezhavallanadu,S.No:601/2, 596/1A, 2 acre 23cent 36)Keezhavallanadu,S.No:596/1A, 596/1D,, 2 acre 48 cent 37)Manakarai S.No:243/1, 243/2, 2 acre 9 cent 38)Manakarai S.No:315, 2 acre 97 cent 39)Theivaseyal puram S.No:90/1, 91 cent 40)Ellainayakan patti, S.No:276/2,276/4, 276/6A1, 1 acre 40 cent. 41)Ellainayakan patti, S.No:275/1,275/3. 275/5,2 acre 87 cent. 42) Thanoothu S.No:113/3C,28 cent Total Area 68 acre22.20 cent Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 35,04,86,876 35 Crore+",
+        "spouse": "Thanuthu S.No:30/2A4, 31/5AIA. 30/2A2,56 cent(4 acre 08 cent) Thanuthu ,S. no:30/1A3, 30/3?3, 31/4A, 31/4B, 31/4C2, 31/6A1A (3 acre 52 cent) Total Area 4 acre 08 cent Built Up Area Whether Inherited N Purchase Date 2023-04-03 Purchase Cost 349500.00 Development Cost 0.00 25,20,375 25 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "1)V.M Chattharam,T.S.No:2/2,Plot no:1,2,7,8, 29.36 cent 2) Keezhavallanadu,S.No:267/1C, 267/3A, 5 acre 98 cent 3) Keezhavallanadu,S.No:668, Plot no:216 , 4.09 cent 4) Keezhavallanadu,S.No:668/1, Plot no:177, 178, 179, 180.183 , 15 cent 5)Keezhavallanadu,S.No:668/1, Plot no: 197, 198, 199, 9 cent 6)Muthoor S.no:240/, 236, 239/3, 241/3, 237, 6 acre 91 cent 7) chatiramputhukulan, S.No:763/1, 3 acre 93 cent 8)chatiramputhukulan, S.No:772/3, 3 acre 65 cent 9)chatiramputhukulan, S.No:755/1, 6.38 cent 10)Ellainayakan patti, S.no:195/3A, 1 acre 68 cent 11)Ellainayakan patti, S.no:195/3A,86 cent 12)Ellainayakan patti, S.no:195/1, 19S/4, 195, 3 acre 73 cent 13)Ramanathapuram,S.no:24/1B,90 Cent, 14)Thanoothu, S.No:107/1A, 2acre 17 cent Total Area 1326328 sq ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 20000000.00 5,48,86,195 5 Crore+",
+        "spouse": "1)Muthoor Sno:241/3A,(15.71 cent),(02.01.2026),( Rs 27,65,513/-) 2)Vijayaraghava mudhaliyar chathram,Voc Nagar,S.no:53,plot no:32(10.50 cent),(16.05.2022),( 24,00,000/-) 3)Thannuthu s.no:37/2, 37/1B, 37/3A,4 acre 31.65 cent,03.04.2023,Rs 19,41,750/- Total Area 199444 sq ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 500000.00 78,17,989 78 Lacs+",
+        "huf": "Nil",
+        "dependent1": "1)Muthoor,S.no:241/3,240/3, 1604 cent , 2)Muthoor,S.no:241/3A,15.97 cent Total Area 13943.5 sq ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 56,33,601 56 Lacs+",
+        "dependent2": "Muthoor S.no:241/3A, 239/3A, 240/3A, 15.79 Cent, Total Area 6878 sq ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 27,78,954 27 Lacs+",
+        "dependent3": "Muthoor S.no:241/3A, 240/3A, 18.66 Cent, Total Area 8128.3 sq ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 32,84,424 32 Lacs+",
+        "dependent4": "Muthoor S.no:241/3A, 240/3A, 16.46 Cent, Total Area 7170 sq ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 28,96,491 28 Lacs+"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Vijayraghava Mudaliyar chatiram,VOC nagar,T colony,S.No:53/1AI Part, 53/2 Part. TS No 13/2, 13/3 BQ, Block no:34,plot no:35.36,37, 38 Total Area 9360 sq ft Built Up Area 7938 sq ft Whether Inherited N Purchase Date 2018-01-04 Purchase Cost 4821000.00 Development Cost 25316000.00 4,25,00,000 4 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Bandhan Bank,Tirunelveli Br,Home Mortgage Loan 3,18,00,000 3 Crore+ HDFC Samathanapuram Br,Car Loan 63,36,279 63 Lacs+ Indian bank KTC nagar Gold loan 35,00,000 35 Lacs+",
+      "spouse": "HDFC Samathanapuram,Car Loan 6,22,761 6 Lacs+ Indian bank KTC nagar Gold loan 16,00,000 16 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Mr.Ramachandran 7,70,00,000 7 Crore+ Arun Land Promoters 15,55,694 15 Lacs+",
+      "spouse": "Ashraf Kani 4,82,300 4 Lacs+ Manokaran 6,85,255 6 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 1,98,54,770 | 2023 - 2024: Rs 24,77,780 | 2022 - 2023: Rs 11,06,410 | 2021 - 2022: Rs 7,41,960 | 2020 - 2021: Rs 5,65,300"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,99,570 | 2023 - 2024: Rs 6,97,270 | 2022 - 2023: Rs 4,97,400 | 2021 - 2022: Rs 4,96,700 | 2020 - 2021: Rs 4,86,660"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent4",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 60,59,43,846 ~60 Crore+",
+    "Liabilities:": "Rs 12,35,82,289 ~12 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹467,690,581, but 5-year family income is only ₹27,623,820. Unexplained wealth discrepancy of ₹440,066,761."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Agricultural Land purchased in 2023 for ₹349,500 (CII Indexed Cost: ₹377,621) is declared at highly inflated value of ₹2,520,375."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2018 for ₹4,821,000 (CII Indexed Cost: ₹6,473,914) is declared at highly inflated value of ₹42,500,000."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'M/S ALP Assets Private Limited Investment 50,00,000 50 Lacs+ Sriram Chit Funds Investment 3,60,600 3 Lacs+', 'spouse': 'M/S, Arun Land Promo..."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹14,482,765 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

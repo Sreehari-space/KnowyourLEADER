@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908747",
+    "candidate_name": "M. Nazimkhan",
+    "candidate_name_json": null,
+    "age": "25",
+    "party": "Tamizhaga Vaazhvurimai Katchi (TVK)",
+    "constituency": "183 Aranthangi Assembly Constituency, Tamil Nadu",
+    "pan": "CGAPN8395R",
+    "phone": "9566956785",
+    "email": "nazimkhanm78@gmail.com",
+    "address": "15, North Street, Kottaipattinam, Manamelkudi Taluk, Pudukkottai District - 614619",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc (Computer Science) from Alagappa University, Puduvayal Vidyagiri College of Arts and Science, Sivaganga District (2021); Currently pursuing LL.B (Third Year) at Karaikudi Government Law College, Sivaganga District.",
+    "profession": "College student"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2322000.0,
+    "total_liabilities_xls": 1991256.0,
+    "net_worth_xls": 330744.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912363",
+    "candidate_name": "V. சங்கர்",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "சுயேட்சை",
+    "constituency": "எண் 20. ஆயிரம்விளக்கு",
+    "pan": "AZOPS5273N",
+    "phone": "9444111811",
+    "email": "NIL",
+    "address": "4 - N.NO.7: யார் கோயில் தெரு, துருசர் சென்1ே-600017",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1987",
+    "profession": "சுயதொழில்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 420000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 420000.0,
+    "cash_xls": 1500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914633",
+    "candidate_name": "G Haribalakrishnan",
+    "candidate_name_json": null,
+    "age": "28",
+    "party": "New People's Tamil Nation Party\"",
+    "constituency": "218 Kovilpatti Assembly Constituency, Tamil Nadu",
+    "pan": "BGWPH7465R",
+    "phone": "7010141604",
+    "email": "haribalakrishnan23@gmail.com",
+    "address": "106, South Street, Puliyangulam, Chithirampatti, Thoothukudi District - 628502",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9th Standard, AV Higher Secondary School, Kovilpatti, Thoothukudi District. Year of completion 2011",
+    "profession": "Private job (Driver)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 556500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 556500.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

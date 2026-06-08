@@ -1,0 +1,380 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912606",
+    "candidate_name": "Mr. Thennarasu. K",
+    "candidate_name_json": "THENNARASU.K",
+    "age": "36",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "29, Sriperumbudur (Reserved) Assembly Constituency, Tamil Nadu",
+    "pan": "OQEPK4116B",
+    "phone": "99406, 19268",
+    "email": "spkthennarasu9940@gmail.com",
+    "address": "No. 55, Kurukku Street, Sirunaiperugal, Paluchettichatram Post, Kanchipuram District, Tamil Nadu 631 551",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Standard, Government Higher Secondary School, Thirupputkuzhi, 2005 (Failed)",
+    "profession": "Business (Commission Agent)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5193606.95,
+    "total_liabilities_xls": 450000.0,
+    "net_worth_xls": 4743606.95,
+    "cash_xls": 70000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank, Thiruppudkuzhi Branch, Savings 967 9 Hund+ Union Bank of India, Thiruparkadal Branch, Savings 597.31 5 Hund+ Indian Overseas Bank Kanchipuram Br SB 712.20 7 Hund+ Bharath State Bank of India Kanchipuram Br SB Election Purpose 1,10,002 1 Lacs+",
+        "spouse": "Indian Bank, Thiruppudkuzhi Branch, Savings 41,709.19 41 Thou+ South India Bank Thamal Br 2,811.75 2 Thou+ Indian Bank Thiruppudkuzhi Br, SB Joint Ac 547.50 5 Hund+ Indian Overseas Bank Kumarakottam Br SB 5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Indian Bank Thiruppudkuzhi Br Joint Ac 547.50 5 Hund+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "SWIFT DEZIRE TN-18-AZ-1111, Year 2016 5,50,000 5 Lacs+",
+        "spouse": "Honda Dio 110, TN-21-BP4457., Year 2021 73,000 73 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "40 Gram Gold Jewel 5,51,200 5 Lacs+",
+        "spouse": "252 Gram Gold Jewel 34,72,560 34 Lacs+ Silver 500 Gram 1,22,500 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Kanchipuram District, No: 19, Sirunaiperugal Village Sur No: 52/1A, 1 of 2 Part Acre 0.06 1/2 Cent Total Area 1 of 2 part Acre 0.06 1/2 cent Built Up Area Whether Inherited N Purchase Date 2026-01-14 Purchase Cost 292000.00 Development Cost 0.00 2,92,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Car Loan Shriram City Union Finance Limited 4,50,000 4 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,96,630 | 2023 - 2024: Rs 4,90,560 | 2022 - 2023: Rs 4,83,730"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "FIR NO.18/2022 SUNGUVARCHATRAM PS DATED: 06.01.2022; FIR NO.655/2024 SIVAKANCHI PS DATED 30.12.2024; FIR NO.21/2025 VISHNU KANCHI PS DATED 30.01.2025",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "1 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "2 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "2 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "2 charges related to Disobedience to order duly promulgated by public servant (BNS Section-223)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "18/2022, Sunguvarchatram Police Station",
+          "case_no": "ST 1172/2025",
+          "court": "Judicial Magistrate Court Thirupperumandur",
+          "law_type": "IPC",
+          "ipc_sections": "294B, 353",
+          "other_details": "Section 7(1)a Criminal Law Amendment Act. 2005",
+          "charges_framed": "Yes",
+          "charges_date": "18 Jul 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "655/2024, Sivakanji Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2), 223",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "21/2025, Vishnukanji Police Station, Kanchipuram",
+          "case_no": "CC 473/2025",
+          "court": "Judicial Magistrate 1 Court Kanchipuram",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2), 223",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "21 Jun 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 52,94,154 ~52 Lacs+",
+    "Liabilities:": "Rs 4,50,000 ~4 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "792.0g gold declared at ₹4,023,760 (Implied rate: ₹5,081/g vs April 2026 Market Rate of ~₹14,200/g)."
+    }
+  ]
+}

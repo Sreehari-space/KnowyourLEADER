@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906392",
+    "candidate_name": "K. Kalaivanan",
+    "candidate_name_json": null,
+    "age": "61",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "Tiruvarur, Tamil Nadu (Constituency No. 168)",
+    "pan": "AKIPK4554D",
+    "phone": "9842432977",
+    "email": "poondikalaivanan@yahoo.com",
+    "address": "Door No. 29A, Perumalagaram Road, South Mangudi, Koradacheri Post 613 703, Needamangalam Taluk, Tiruvarur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard - Koradacheri Government Higher Secondary School 1980-81",
+    "profession": "Agriculture, Rice business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 52589055.88,
+    "total_liabilities_xls": 6219827.0,
+    "net_worth_xls": 46369228.88,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr. No.429/2021; STC 1238/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

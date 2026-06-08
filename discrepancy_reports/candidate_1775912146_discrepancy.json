@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912146",
+    "candidate_name": "KAMATCHI J",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "TAMILAGA VETTRI KAZHAGAM",
+    "constituency": "30 -PALLAVARAM CONSTITUENCY, TAMIL NADU",
+    "pan": "AOPPK1137H",
+    "phone": "6385088826",
+    "email": "kamatchijayakrishnantvk@gmail.com",
+    "address": "75, AMBEDKAR STREET, SEMMANCHERRY, CHENNAI – 600 119",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Higher Secondary School – Avvai Home TVR Girl's Higher Secondary School – Completed at 1998",
+    "profession": "Business including real estate, supermarket, restaurant and cinema production. Self-employed as licensed stamp vendor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1448802540.0,
+    "total_liabilities_xls": 408988527.0,
+    "net_worth_xls": 1039814013.0,
+    "cash_xls": 126000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

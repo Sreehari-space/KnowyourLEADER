@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923368",
+    "candidate_name": "K. Thanagopal",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "Independent",
+    "constituency": "180, Pudukkottai, Tamil Nadu",
+    "pan": "AWFPD0245B",
+    "phone": "9159089226",
+    "email": "ஏதுமில்லை / nil",
+    "address": "4775, Aiyanarpuram 1st Street, Pudukkottai Taluk, Pudukkottai District, Tamil Nadu - 622001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Vayalokam Government High School, 1996",
+    "profession": "Individual wage"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5935000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 5935000.0,
+    "cash_xls": 35000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

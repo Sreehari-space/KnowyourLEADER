@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905270",
+    "candidate_name": "M. Midhunchakravarthy",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "85 Mettur Assembly Constituency, Tamil Nadu",
+    "pan": "BTKPM1348B",
+    "phone": "9047497474",
+    "email": "mithu.civil@gmail.com",
+    "address": "5-256, Chettipatti, Govindapadi Post, Kaveripuram Village, Mettur Taluk, Salem District.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Engineering (Civil) from Mohamed Sathak A.J. College of Engineering (Anna University), Egattur, Chennai-103, April 2011.",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 18371873.0,
+    "total_liabilities_xls": 185204.0,
+    "net_worth_xls": 18186669.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

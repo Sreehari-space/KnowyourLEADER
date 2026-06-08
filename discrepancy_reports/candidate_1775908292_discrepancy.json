@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908292",
+    "candidate_name": "கோ.ஜானகிராமன்",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "நாம் தமிழர் கட்சி",
+    "constituency": "35 மதுராந்தகம் சட்டமன்ற தொகுதி தமிழ்நாடு",
+    "pan": "BCLPJ2841J",
+    "phone": "9087949982",
+    "email": "js08290611@gmail.com",
+    "address": "35A கங்கை அம்மன் கோயில் தெரு, தருமாபுரம் கிராமம், பவுஞ்சூர் அஞ்சல், மதுராந்தகம் வட்டம், செங்கல்பட்டு மாவட்டம், 603312",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "DIPLOMA IN MECHANICAL ENGINEERING (படிப்பு முடித்த ஆண்டு 2010-2013) ஸ்ரீ சந்தோஷி பாலிடெக்னிக் கல்லூரி; BE (படிப்பு முடித்த ஆண்டு: 2013-2016, செண்டு பொறியியல் கல்லூரி மதுராந்தகம், அண்ணா பல்கலைக்கழகம்); MBA (படிப்பு முடித்த ஆண்டு: 2016-2018, ARM பொறியியல் கல்லூரி மறைமலைநகர், அண்ணா பல்கலைக்கழகம்)",
+    "profession": "மக்கள் தொடர்பு அலுவலர் (தனியார் கல்லூரி)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4684358.0,
+    "total_liabilities_xls": 2843000.0,
+    "net_worth_xls": 1841358.0,
+    "cash_xls": 78000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

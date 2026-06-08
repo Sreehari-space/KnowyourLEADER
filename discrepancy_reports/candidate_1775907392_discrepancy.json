@@ -1,0 +1,463 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907392",
+    "candidate_name": "Pon. Jayaseelan",
+    "candidate_name_json": "PON.JAYASEELAN",
+    "age": "53",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "109 Gudalur (SC) Assembly Constituency",
+    "pan": "AUQPP8411J",
+    "phone": "9443560165, 9655760165",
+    "email": "ponjayaseelan72@gmail.com",
+    "address": "567A5E, Ezhumuram, Marthoma Nagar Post, Gudalur, Nilgiris District, 643212",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Sc, Government Arts and Science College, Ooty, 1996; B.L., Government Law College, Coimbatore, Dr. Ambedkar Law University - May 2000",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10040780.99,
+    "total_liabilities_xls": 1896654.0,
+    "net_worth_xls": 8144126.99,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "2,00,000 2 Lacs+",
+        "spouse": "7,00,000 7 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Bharath State Bank Gudalur Br Sb 7,111.65 7 Thou+ Canara Bank Gudalur Br SB 1,325 1 Thou+ South Indian Bank Gudalur Br 7,832.42 7 Thou+ REPCO Bank Gudalur Br SB 721 7 Hund+ Union Bank of India Gudalur Br 1,00,000 1 Lacs+",
+        "spouse": "Canara Bank Gudalur Br Sb 16,927 16 Thou+ Bharath Lajna Multi state Hosuing Co R Society Ltd SB 40,000 40 Thou+ ICICI Bank Sulthan Bathery Kerala 306.92 3 Hund+",
+        "huf": "Nil",
+        "dependent1": "Bharath State Bank 114 1 Hund+",
+        "dependent2": "Bharath State Bank 1,743 1 Thou+ REPCO Bank Gudalur Br 2,50,000 2 Lacs+ REPCO Bank Gudalur Br 2,50,000 2 Lacs+",
+        "dependent3": "Bharath State Bank Deposit 4,00,000 4 Lacs+ Bharath State Bank 1,48,088 1 Lacs+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Bank share 25*4= 100 100 1 Hund+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy 1,38,285 1 Lacs+ LIC Policy 2,36,160 2 Lacs+",
+        "spouse": "LIC Policy 15Primium 1,30,662 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Maruthi Alto 800 2015 Model TN43 Y 4457 3,00,000 3 Lacs+ Bolero TN43AZ2526 2026 Model 9,20,000 9 Lacs+",
+        "spouse": "Activa TN43W3546 2023 75,000 75 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "200 Gram Gold 27,34,000 27 Lacs+",
+        "spouse": "105 Gram Gold 14,35,350 14 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Door No 12/567A5E Ezhumuram Land 926/6B9 Total Area 436 sq ft Built Up Area 800 sq ft Whether Inherited N Purchase Date 2007-02-05 Purchase Cost 27800.00 Development Cost 2000000.00 30,00,000 30 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Bharath State Bank Gudalur Br Vehicle Loan 5,86,654 5 Lacs+",
+      "spouse": "Gold Loan Canara Bank Gudalur Br 13,10,000 13 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 4,99,630 | 2024 - 2025: Rs 3,86,190 | 2023 - 2024: Rs 3,60,000"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (15 case(s))",
+    "case_numbers_xls": "FIR 12/26, நீலகிரி மாவட்டம், கூடலூர் வட்டம், தேவாலா காவல் நிலையம் / FIR 12/26, Devala Police Station, Gudalur Taluk, Nilgiris District; FIR 101/2025, நீலகிரி மாவட்டம், பந்தலூர் வட்டம், சேரம்பாடி காவல் நிலையம் / FIR 101/2025, Cherambadi Police Station, Pandalur Taluk, Nilgiris District; FIR 38/25, நீலகிரி மாவட்டம், கூடலூர் வட்டம், ஓவேலி, நியூஹோப் காவல் நிலையம் / FIR 38/25, O'Valley Newhope Police Station, Gudalur Taluk, Nilgiris District; FIR 37/2025, நீலகிரி மாவட்டம், கூடலூர் வட்டம், ஓவேலி நியூஹோப் காவல் நிலையம் / FIR 37/2025, O'Valley Newhope Police Station, Gudalur Taluk, Nilgiris District; FIR 14/2025, நீலகிரி மாவட்டம், உதகை வட்டம், மசினகுடி காவல் நிலையம் / FIR 14/2025, Masinagudi Police Station, Udhagai Taluk, Nilgiris District; FIR 250/2023, நீலகிரி மாவட்டம், கூடலூர் வட்டம், தேவாலா காவல் நிலையம் / FIR 250/2023, Devala Police Station, Gudalur Taluk, Nilgiris District; FIR 184/2023, நீலகிரி மாவட்டம், உதகை வட்டம், மசினகுடி காவல் நிலையம் / FIR 184/2023, Masinagudi Police Station, Udhagai Taluk, Nilgiris District; FIR 261/2024, நீலகிரி மாவட்டம், உதகை வட்டம், உதகை பி.1 காவல் நிலையம் / FIR 261/2024, Udhagai P.1 Police Station, Udhagai Taluk, Nilgiris District; STC 12/26, நீதித்துறை நடுவர் நீதிமன்றம், உதகை (Special Court for MP/MLA cases) / STC 12/26, Judicial Magistrate Court, Udhagai (Special Court for MP/MLA cases); STC 982/2025, நீதித்துறை நடுவர் நீதிமன்றம், உதகை (Special Court for MP/MLA cases) / STC 982/2025, Judicial Magistrate Court, Udhagai (Special Court for MP/MLA cases); STC 39/2026, நீதித்துறை நடுவர் நீதிமன்றம், உதகை (Special Court for MP/MLA cases) / STC 39/2026, Judicial Magistrate Court, Udhagai (Special Court for MP/MLA cases); STC 38/2026, நீதித்துறை நடுவர் நீதிமன்றம், உதகை (Special Court for MP/MLA cases) / STC 38/2026, Judicial Magistrate Court, Udhagai (Special Court for MP/MLA cases); STC 1132/2025, நீதித்துறை நடுவர் நீதிமன்றம், உதகை (Special Court for MP/MLA cases) / STC 1132/2025, Judicial Magistrate Court, Udhagai (Special Court for MP/MLA cases); STC 93/26, நீதித்துறை நடுவர் நீதிமன்றம், உதகை (Special Court for MP/MLA cases) / STC 93/26, Judicial Magistrate Court, Udhagai (Special Court for MP/MLA cases); STC 757/2025, நீதித்துறை நடுவர் நீதிமன்றம், உதகை (Special Court for MP/MLA cases) / STC 757/2025, Judicial Magistrate Court, Udhagai (Special Court for MP/MLA cases)",
+    "criminal_cases_json": {
+      "count": "8",
+      "summary": "Number of Criminal Cases:8",
+      "ipc_charges": [
+        "2 charges related to Assault or use of criminal force to deter public servant from discharge of his duty. (BNS Section-132)",
+        "1 charges related to Punishment for Rioting (BNS Section-191(2))",
+        "1 charges related to Punishment for Criminal intimidation. (BNS Section-351(2))",
+        "2 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse (IPC Section-151)",
+        "6 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "6 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Every member of unlawful assembly guilty of offence committed in prosecution of common object. (BNS Section-190)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No. 12/26 Nilgiris District, Gudalur Circle, Devala Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No. 101/2025 Nilgiris District, Pandalur Circle, cherambadi Police Station",
+          "case_no": "STC 982/2025",
+          "court": "Judicial Magistrate, Udupi (Special Court for MP/MLA cases)",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "26 Feb 2026",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No. 38/25 Nilgiris District, Gudalur Circle, Ovelli New hope Police Station",
+          "case_no": "STC 39/2026",
+          "court": "Judicial Magistrate, Udupi (Special Court for MP/MLA cases)",
+          "law_type": "BNS",
+          "ipc_sections": "296B, 189(2), 126(2), 132",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Crime No. 37/2025 Nilgiris District, Gudalur Circle, Ovelli New hope Police Station",
+          "case_no": "STC 38/2026",
+          "court": "Judicial Magistrate, Udupi (Special Court for MP/MLA cases)",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Crime No. 14/2025 Nilgiris District, Uthagai Circle, Masinagudi PS",
+          "case_no": "STC 1132/2025",
+          "court": "Judicial Magistrate, Udupi (Special Court for MP/MLA cases)",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 190, 191(2), 296B, 126(2),132, 351(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Crime No 250/2023 Nilgiris District, Gudalur Circle, Devala Police Station",
+          "case_no": "STC 93/26",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 147,151,341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Crime No 184/2023 Nilgiris District, Uthagai Circle, Masinagudy Police Station",
+          "case_no": "STC 757/2025",
+          "court": "Judicial Magistrate, Udupi (Special Court for MP/MLA cases)",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Crime No 261/2024, Nilgiris District, Uthagai Circle, Uthagai B 1 Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,11,18,526 ~1 Crore+",
+    "Liabilities:": "Rs 18,96,654 ~18 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2007 for ₹27,800 (CII Indexed Cost: ₹81,029) is declared at highly inflated value of ₹3,000,000."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "HIGH",
+      "title": "Vehicle Loan Exceeds Declared Vehicle Value",
+      "description": "Vehicle loans sum to ₹586,654 but declared vehicles value is only ₹375,000."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹9,139,080) does not match declared total assets (₹11,118,526). Difference: ₹1,979,446"
+    }
+  ]
+}

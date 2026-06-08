@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905343",
+    "candidate_name": "S.Ramachandaran",
+    "candidate_name_json": null,
+    "age": "65",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "64-Kilpennathur Assembly Constituency",
+    "pan": "AAEPR1906Q",
+    "phone": "9442647090",
+    "email": "aiadmktvmeast@gmail.com",
+    "address": "No.712, Bhajanai Kovil Street, Dhesurpalaiyam Village, Thandrambattu Taluk, Tiruvannamalai District - 606 707",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (March 1976)",
+    "profession": "Profession, Politics and Social Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1117377895.0,
+    "total_liabilities_xls": 155613312.0,
+    "net_worth_xls": 961764583.0,
+    "cash_xls": 1082660.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

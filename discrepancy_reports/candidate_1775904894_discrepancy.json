@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904894",
+    "candidate_name": "R.KAMARAJ",
+    "candidate_name_json": null,
+    "age": "65",
+    "party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "169.Nannilam Constituency",
+    "pan": "AAEPK9399N",
+    "phone": "9842413434",
+    "email": "r.kamaraj.official@gmail.com",
+    "address": "70, Gopalasamuthram North Street, Mannargudi - 614001, Thiruvarur District, Tamil Nadu.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A. (History) - Annamalai University (2006)",
+    "profession": "Agriculturist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 144958103.73,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 144958103.73,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (5 case(s))",
+    "case_numbers_xls": "0477/2024; 0178/2024; Crime No.4/2022; 0049/2022; Crime no. 549/2017",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

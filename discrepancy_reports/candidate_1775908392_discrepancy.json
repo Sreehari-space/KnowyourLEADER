@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908392",
+    "candidate_name": "S. Esathurai",
+    "candidate_name_json": null,
+    "age": "64",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "Thoothukudi",
+    "pan": "AABPE4549H",
+    "phone": "9994936949",
+    "email": "syesaduraiaiadmk@gmail.com",
+    "address": "1, Damodaranagar, Thoothukudi-628003, Thoothukudi District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5-ம் வகுப்பு காந்தி தொடக்கப்பள்ளி, தூத்துக்குடி - 1971",
+    "profession": "Retired Tuticorin Port Trust staff (Pensioner)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 491500.0,
+    "total_liabilities_xls": 365000.0,
+    "net_worth_xls": 126500.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Convicted (1 case(s))",
+    "case_numbers_xls": "CC no. 142/2019; CC No.120/2019",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

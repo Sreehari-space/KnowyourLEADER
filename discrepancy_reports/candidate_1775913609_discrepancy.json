@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913609",
+    "candidate_name": "பா. செல்வம்",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "இந்திய குடியரசுக்கட்சி (அத்துவாலே)",
+    "constituency": "நிலக்கோட்டை, திண்டுக்கல் மாவட்டம், தமிழ்நாடு (தொகுதி எண் 130)",
+    "pan": "EQFPS7210M",
+    "phone": "9789300217",
+    "email": "gpselvamselvam05@gmail.com",
+    "address": "180, காலணி வீதி, 1வது வீதி, நூ.கோவில்பட்டி,நூத்துலாபுரம், நிலக்கோட்டை, திண்டுக்கல் மாவட்டம் - 624208",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "பி.எல் ஐந்தாண்டு சட்டப்படிப்பு, மதுரை சட்டக்கல்லூரி (மதுரை காமராஜர் பல்கலைகழகத்திற்கு கட்டுப்பட்டது) 2003-2007",
+    "profession": "தனி நபர் வழக்கறிஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5430000.0,
+    "total_liabilities_xls": 1300000.0,
+    "net_worth_xls": 4130000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

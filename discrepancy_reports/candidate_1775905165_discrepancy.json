@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905165",
+    "candidate_name": "K.P.ANBALAGAN",
+    "candidate_name_json": null,
+    "age": "67",
+    "party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM (AIADMK)",
+    "constituency": "057. PALACODE CONSTITUENCY",
+    "pan": "AHWPA7321B",
+    "phone": "9444012777, 9443261223",
+    "email": "kp.anbalagan@rediffmail.com",
+    "address": "136A, Keragodahalli (Village & Post), Karimangalam Taluk, Dharmapuri District. PIN 635111.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "PUC, (Pre-University Course, University of Madras, 1975",
+    "profession": "Agriculture & Politics"
+  },
+  "financial_summary": {
+    "total_assets_xls": 121117632.0,
+    "total_liabilities_xls": 13009351.0,
+    "net_worth_xls": 108108281.0,
+    "cash_xls": 150000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (8 case(s))",
+    "case_numbers_xls": "Cr.No.122/2026 Dharmapuri PS; Cr.No. 03/2AC/2022 V&AC Dharmapuri; Cr.No. 241/2022 Dharmapuri PS; Cr.No. 461/2022 Dharmapuri PS; Cr.No. 261/2022 Dharmapuri PS; Cr.No. 1640/2021 Dharmapuri PS; Cr.No. 1696/2021 Dharmapuri PS; Cr.No. 216/2016 Dharmapuri PS",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

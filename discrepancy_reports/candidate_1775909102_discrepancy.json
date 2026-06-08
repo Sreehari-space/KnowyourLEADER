@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909102",
+    "candidate_name": "K. Sankar",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "125-Udumalpet, Tamil Nadu",
+    "pan": "JYPPS1501C",
+    "phone": "9943106635",
+    "email": "sankarsri7777@gmail.com",
+    "address": "807, Murugampalayam, Bhagavathinagar, 3rd Street, Tiruppur - 641 687",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "4th Standard, 1984, Government Primary School, Perichipalayam, Tiruppur",
+    "profession": "Garment Cutting Waste Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3885534.0,
+    "total_liabilities_xls": 702901.0,
+    "net_worth_xls": 3182633.0,
+    "cash_xls": 43000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

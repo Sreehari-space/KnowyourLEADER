@@ -1,0 +1,476 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908984",
+    "candidate_name": "M. Kannan",
+    "candidate_name_json": "MANAVAI KANNAN. M",
+    "age": "39",
+    "party": "Communist Party of India (Marxist-Leninist) Red Star",
+    "constituency": "231 Colachel, Tamil Nadu",
+    "pan": "FROPM6249D",
+    "phone": "9486676253",
+    "email": "manavaikannanmk@gmail.com",
+    "address": "28A, Paravilai, Vadakkankulam, Manavalakurichi Post, Kanyakumari",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "SSLC 2000 - 2001",
+    "profession": "Individual business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 35333108.0,
+    "total_liabilities_xls": 156291.0,
+    "net_worth_xls": 35176817.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "5,00,000 5 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "IOB 1,000 1 Thou+ KDCC Bank 1,268 1 Thou+ IOB 10,000 10 Thou+ IOB 2,000 2 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "IOB 1,004 1 Thou+ KDCC 1,836 1 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": ".TIRUMALA TIRUPATHI INTER NATIONAL CORPORATION 4,00,000 4 Lacs+ Samuthira International Marketing PVT Ltd 5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold, 56 gms 6,72,000 6 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Gold, 432 gms 51,84,000 51 Lacs+ 300 of Silver 60,000 60 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Manavalakuruchi Village, 630/4A,646/7,630/5A,630/5B,428/4A,663//2B Kadiyapattinam, 419/8 Total Area 16988 sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,00,00,000 2 Crore+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Manavalak Kuruchi 8/28A,8/28A1,8/28A2,9/63A1 Vellai Malai 24/16 Total Area 5300 sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 75,00,000 75 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Indel Money Nagercoil 1,45,000 1 Lacs+ KDCC Bank 11,291 11 Thou+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (8 case(s))",
+    "case_numbers_xls": "Cr.No:660/2015; Cr.No:806/2020; Cr.No:42/2021; Cr.No:321/2024; Cr.No:187/2024; Cr.No:211/2025; Cr.No:427/2025; Cr.No:428/2025",
+    "criminal_cases_json": {
+      "count": "8",
+      "summary": "Number of Criminal Cases:8",
+      "ipc_charges": [
+        "1 charges related to Putting person in fear of death or of grievous hurt, in order to commit extortion (IPC Section-387)",
+        "2 charges related to If threat be to cause death or grievous hurt, etc. (BNS Section-351(3))",
+        "2 charges related to Punishment for Rioting (BNS Section-191(2))",
+        "1 charges related to Assault or use of criminal force to deter public servant from discharge of his duty. (BNS Section-132)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Malignant act likely to spread infection of disease dangerous to life (IPC Section-270)",
+        "3 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Punishment for voluntarily causing hurt (BNS Section-115(2))",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Kotar Police Station",
+          "case_no": "Cr.No.660/2015",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "294b, 387, 306(i)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Kotar Police Station",
+          "case_no": "Cr.No.806/2020",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "188, 143, 270",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Kotar Police Station",
+          "case_no": "Cr.No.42/2021",
+          "court": "Additional Womens Court Nagercoil",
+          "law_type": "IPC",
+          "ipc_sections": "294b",
+          "other_details": "Section-4 TNPHW Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Kotar Police Station",
+          "case_no": "Cr.No.321/2024",
+          "court": "JM II Nagercoil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 296(b), 351(3)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Neshamani Nagar Police Station",
+          "case_no": "Cr.No.187/2024",
+          "court": "Additional Womens Court Nagercoil",
+          "law_type": "BNS",
+          "ipc_sections": "296(b), 126(2), 115(2), 351(3)",
+          "other_details": "Section-4 TNPHW Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Neshamani Nagar Police Station",
+          "case_no": "Cr.No.211/2025",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 191(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Vadasseri Police Station",
+          "case_no": "Cr.No.427/2025",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Vadasseri Police Station",
+          "case_no": "Cr.No.428/2025",
+          "court": "Additional Womens Court Nagercoil",
+          "law_type": "BNS",
+          "ipc_sections": "191(2), 296(b), 132, 35(2)",
+          "other_details": "Section-4 TNPHW Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,53,33,108 ~3 Crore+",
+    "Liabilities:": "Rs 1,56,291 ~1 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹34,613,004, but 5-year family income is only ₹0. Unexplained wealth discrepancy of ₹34,613,004."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "488.0g gold declared at ₹672,000 (Implied rate: ₹1,377/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': '.TIRUMALA TIRUPATHI INTER NATIONAL CORPORATION 4,00,000 4 Lacs+ Samuthira International Marketing PVT Ltd 5,00,000 5 Lacs+', 'spouse': 'Nil'..."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹33,185,004 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911328",
+    "candidate_name": "Balamurugan K",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "Ambattur",
+    "pan": "ARMPB1216A",
+    "phone": "9884248000",
+    "email": "bala.krgmurugan@gmail.com",
+    "address": "No.18A, Sree Ganesh Enclave, Ambattur, Chennai 600 053",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard, 1998 - Velammal Matriculation Higher Secondary School, Mogappair; ADCA - Intelligence for generating advanced computer education, 2001",
+    "profession": "Construction business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 23032083.01,
+    "total_liabilities_xls": 343512.0,
+    "net_worth_xls": 22688571.01,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

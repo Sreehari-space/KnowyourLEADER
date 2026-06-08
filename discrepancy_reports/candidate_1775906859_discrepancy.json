@@ -1,0 +1,385 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906859",
+    "candidate_name": "S. Thandavamoorthy",
+    "candidate_name_json": "S.THANDAVAMOORTHY",
+    "age": "42",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "98 Erode East Assembly Constituency",
+    "pan": "AJHPT0895L",
+    "phone": "8754040503",
+    "email": "mstmoorthy@gmail.com",
+    "address": "Door No. 167, Onakkaradu, Mettukadu, Karattupalayam Panchayat, Nambiyur Taluk, Erode District - 638457",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Com(CA) - Madras University - 2017",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 32246500.0,
+    "total_liabilities_xls": 2922000.0,
+    "net_worth_xls": 29324500.0,
+    "cash_xls": 35000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "35,000 35 Thou+",
+        "spouse": "10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "10,000 10 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Kotak Mahindra Bank, Gobi Branch SB A/c 6,000 6 Thou+ ESAF Bank, Sellappam palayam Branch SB A/c. No 3,000 3 Thou+ Indian Overseas Bank, Modachur, Gobichetti palayam Branch SB A/c. No 5,000 5 Thou+",
+        "spouse": "HDFC Bank, SEZ Keeranatham Branch SB A/c. No 90,000 90 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Jeevan Anand, Plan 149 Policy, LIC of India Mettur Dam Date 28.09.2013 3,00,000 3 Lacs+ LIC Jeevan Umang Plan 745 Policy LIC of India, Avinashi Date 15.04.2025 15,00,000 15 Lacs+",
+        "spouse": "HDFC Life Sanchay Plus Policy No 16.02.2022 4,96,000 4 Lacs+ TATA AIA Guaranteed Return Insurance Plan policy no 17.02.2022 6,30,000 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "MG Windsor EV TN 36 BC 0790 Model 2025 16,00,000 16 Lacs+ Bajaj Avenger 220 TN 07 CE 3976 Model 2016 1,30,000 1 Lacs+",
+        "spouse": "Honda Dio TN 36 AD 8211 model 2016 60,000 60 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "30 gram gold 3,97,500 3 Lacs+",
+        "spouse": "112 gram gold rate 14,84,000 14 Lacs+",
+        "huf": "Nil",
+        "dependent1": "56 Gram gold 7,42,000 7 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Mattukadu Karattupalayam village SF No.202/2 Total Area 1.18 acre Built Up Area Whether Inherited Y Purchase Date 2022-04-29 Purchase Cost 495300.00 Development Cost 0.00 60,00,000 60 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Mattukadu Karattupalayam Village S.F.No. 202/2 Total Area 1.18 acre Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 60,00,000 60 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Saravanampatti Residential Plot SF No.342/1 Total Area 2650 sq.ft Built Up Area Whether Inherited Y Purchase Date 2017-05-05 Purchase Cost 3347000.00 Development Cost 0.00 95,00,000 95 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Chellappam Palayam, Ambodhi Panchayat, Annur Taluk SF No.237/1E Total Area 3924 Sq.Ft. Built Up Area 600 Sq.Ft. Whether Inherited Y Purchase Date 2025-11-04 Purchase Cost 1600000.00 Development Cost 0.00 40,00,000 40 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "HDFC Bank Car Loan, Erode 10,82,000 10 Lacs+",
+      "spouse": "Canara Bank Gold Loan Punjai Puliampatt 5,00,000 5 Lacs+ Canara Bank Solar Loan Punjai Puliampatt 4,00,000 4 Lacs+ HDFC Plot Loan Coimbator 9,40,000 9 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 3,65,080 | 2024 - 2025: Rs 5,95,400 | 2023 - 2024: Rs 4,47,740 | 2022 - 2023: Rs 4,45,460 | 2021 - 2022: Rs 4,43,820"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 12,88,360 | 2024 - 2025: Rs 10,31,450 | 2023 - 2024: Rs 7,22,140 | 2022 - 2023: Rs 6,61,920 | 2021 - 2022: Rs 6,31,090"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "JM II, Gobi STC No. 87/2023 (Sections: IPC 147, 148, 447, 294(b), 323, 427, 506(ii) & Section 4 of TNPHW Act 2002, Description: பொது வழித்தட தகராறு சம்பந்தமாக / Related to public pathway dispute, Charges framed: ஆம் / Yes, Date: 14.09.2023)",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment for criminal trespass (IPC Section-447)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Mischief causing damage to the amount of fifty rupees (IPC Section-427)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No.434, Kadtur Police Station",
+          "case_no": "STC No. 87/2023",
+          "court": "JM II Gopi",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 447, 294B, 323, 427, 506(ii)",
+          "other_details": "Section-4 TNPHW Act 2002",
+          "charges_framed": "Yes",
+          "charges_date": "14 Sep 2023",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,29,98,500 ~3 Crore+",
+    "Liabilities:": "Rs 29,22,000 ~29 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹29,148,500, but 5-year family income is only ₹6,632,460. Unexplained wealth discrepancy of ₹22,516,040."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Agricultural Land purchased in 2022 for ₹495,300 (CII Indexed Cost: ₹562,637) is declared at highly inflated value of ₹6,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "198.0g gold declared at ₹1,881,500 (Implied rate: ₹9,503/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹6,752,000 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹30,730,500) does not match declared total assets (₹32,998,500). Difference: ₹2,268,000"
+    }
+  ]
+}

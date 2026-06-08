@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904933",
+    "candidate_name": "Shri.S.AMIRTHARAJ",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Indian National Congress",
+    "constituency": "215. Tiruchendur Assembly Constituency, Tamil Nadu",
+    "pan": "AFDPA9476J",
+    "phone": "9444030004",
+    "email": "amirthraj.s@gmail.com",
+    "address": "147, North Maranthalai, Suganthalai Post, Thiruchendur Taluk, Thoothukudi District - 628 207.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Technology, Anna University- Chennai - April 2006; Master of Business Administration, Cardiff University - UK - January 2009",
+    "profession": "s. RAJAM RESORTS PVT LTD)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1146762133.0,
+    "total_liabilities_xls": 57657345.0,
+    "net_worth_xls": 1089104788.0,
+    "cash_xls": 225300.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

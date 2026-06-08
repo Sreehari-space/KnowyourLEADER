@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919925",
+    "candidate_name": "Se. Ranjithkumar",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "190, Sholavandan (SC) Assembly Constituency",
+    "pan": "BTCPR6970G",
+    "phone": "7094593290",
+    "email": "NIL",
+    "address": "No. 3-30, East Street, Sembakudipatti, Vadipatti Taluk, Thanichayam, Madurai 325 221",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Master of Commerce (M.COM-2014) Madurai Kamaraj University College, Madurai",
+    "profession": "Agricultural Laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2229700.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2229700.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "குற்ற எண் 45/2019, வாடிப்பட்டி காவல் நிலையம், மதுரை மாவட்டம், CC No:399/2022 / Crime No. 45/2019, Vadipatti Police Station, Madurai District, CC No:399/2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

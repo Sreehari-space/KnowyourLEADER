@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915645",
+    "candidate_name": "V. Rokeshkumar",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "26-Velachery, Tamil Nadu",
+    "pan": "CHIPB2959L",
+    "phone": "7299600512",
+    "email": "rokeshappu0495@gmail.com",
+    "address": "No.3, Karumariamman Kovil 1st Street, Mahatma Gandhi Nagar, Taramani, Chennai-600 113",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Murugan Tutorial, Thiruvanmiyur, Chennai (2012-2013); ITI Electrical, Brilliant Institute, Velachery, Chennai (2013-2014)",
+    "profession": "Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 118500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 118500.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919202",
+    "candidate_name": "Rajashimman",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Independent",
+    "constituency": "Kolathur Constituency, Tamil Nadu",
+    "pan": "AARPE5705F",
+    "phone": "9710888817",
+    "email": "simhan84@gmail.com",
+    "address": "4, New No. 19, 2nd Street, Murugan Nagar, Kolathur, Chennai - 600 099",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Com.,L.L.B., Dr. Ambedkar Law College, Tirupati. (2009)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4076995.85,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 4076995.85,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

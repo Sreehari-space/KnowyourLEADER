@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907645",
+    "candidate_name": "P.K. Vairamuthu",
+    "candidate_name_json": null,
+    "age": "71",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "181 - Thirumayam Assembly Constituency, Tamil Nadu",
+    "pan": "AFIPV1569A",
+    "phone": "9443951731",
+    "email": "pkvthirumayam@gmail.com",
+    "address": "17, Arasamarathu Street, Virachilai Village & Post, Thirumayam Taluk, Pudukkottai District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C. (Ramanathan Chettiar High School, Narsanthupatti - 1973), P.U.C. (Pachaiyappa's College - 1974)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 756068719.6,
+    "total_liabilities_xls": 59277631.0,
+    "net_worth_xls": 696791088.6,
+    "cash_xls": 350000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr. No.73/2025, Crl.M.P.No.273/2025, U/s 147, 148, 294(b), 323, 427, 436, 506(2) IPC, related to a dispute during vote collection in the 2021 assembly election.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

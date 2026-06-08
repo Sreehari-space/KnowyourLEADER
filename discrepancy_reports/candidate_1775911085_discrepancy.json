@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911085",
+    "candidate_name": "P. Thavamani",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "Anti-Corruption Action Party",
+    "constituency": "69. Vandavasi, Tamil Nadu",
+    "pan": "BDYPT0871J",
+    "phone": "9344714665",
+    "email": "ponnthavamani@gmail.com",
+    "address": "No.275, Vinayagar Koil Street, Panampattu Village, Sathapooram",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (Government Higher Secondary School, Desur - 1985), 12th Standard (Government Higher Secondary School, Desur - 1987), B.Sc. Degree (Third year Science, State College, Chennai-5 - 1982-1999)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8860000.0,
+    "total_liabilities_xls": 4079008.0,
+    "net_worth_xls": 4780992.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

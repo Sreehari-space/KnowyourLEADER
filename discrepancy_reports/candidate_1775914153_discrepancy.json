@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914153",
+    "candidate_name": "S.கார்த்திக் நாராயணன்",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "சுயேட்சை",
+    "constituency": "226 பாளையங்கோட்டை, தமிழ்நாடு",
+    "pan": "AFWPN7928M",
+    "phone": "9043234567",
+    "email": "skarthicknarayanans@g.mail.com",
+    "address": "கதவு எண் 22A, முத்தாரம்மன் கோவில் தெரு, பாளையங்கோட்டை, திருநெல்வேலி",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "பத்தாம் வகுப்பு (செயின்ட் ஜான்ஸ் மேல்நிலைப்பள்ளி, பாளை, 1991); பன்னிரெண்டாம் வகுப்பு (ம.தி.தா.இந்து கல்லூரி, மேல்நிலைப்பள்ளி, ஜங்ஷன், 1993); பட்டயப்படிப்பு (D.E.E.E., லட்சுமி அம்மாள் பாலிடெக்னிக் கல்லூரி, கோவில்பட்டி, 1995); பட்டப்படிப்பு (B.A., அண்ணாமலை பல்கலைக்கழகம், சிதம்பரம், 2008); சட்டப்படிப்பு (L.L.B. ஸ்ரீ.விஜயநகர் சட்டக் கல்லூரி, அனந்தபூர், 2018)",
+    "profession": "சுய தொழில்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 19701104.42,
+    "total_liabilities_xls": 2816381.0,
+    "net_worth_xls": 16884723.42,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No: 649/2022, C.C.No 1336/2025, IPC 147, 448, 353, 427, 506(i) - Political protest case, Charges framed on 22-02-2023 / முதல் தகவல் அறிக்கை எண்: 649/2022, குற்றவியல் வழக்கு எண்: 1336/2025, இந்திய தண்டனைச் சட்டம் 147, 448, 353, 427, 506(i) - அரசியல் சார்ந்த போராட்ட வழக்கு, குற்றச்சாட்டுகள் 22-02-2023 அன்று பதியப்பட்டன",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

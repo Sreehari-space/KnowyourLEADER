@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913152",
+    "candidate_name": "K Raja",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "All India Revolutionary Leader People's Progressive Federation",
+    "constituency": "174 Thanjavur, Tamil Nadu",
+    "pan": "BIQPR2738M",
+    "phone": "9840023496",
+    "email": "kraja1972@gmail.com",
+    "address": "No.5, Tamilarasan Street, Thyagi Velu Nagar, Mathankottai, Thanjavur Taluk, Thanjavur District 613005",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Com., St. Joseph's College, Tiruchirappalli - 1991",
+    "profession": "Individual Real Estate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2593172.24,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2593172.24,
+    "cash_xls": 4500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (5 case(s))",
+    "case_numbers_xls": "FIR No. 1286/2013 (IPC-342, 380, 506(2)); FIR No. 163/2019 (IPC 406, 420); FIR No. 346/2019 (IPC 406, 420); FIR No. 180/2021 (IPC 406, 420); FIR No. 78/2022 (IPC 323, 341, 506(1))",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

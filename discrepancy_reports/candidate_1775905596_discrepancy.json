@@ -1,0 +1,396 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905596",
+    "candidate_name": "M. Keerthika",
+    "candidate_name_json": "M.KEERTHIKA",
+    "age": "49",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "209 Paramakudi",
+    "pan": "AJZPM3899F",
+    "phone": "9442008888",
+    "email": "keerthika.mam@gmail.com",
+    "address": "140, Keezhapallivasal Street, Paramakudi - 623 707, Ramanathapuram District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "M.A. (Annamalai University) 2014",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 494677232.31,
+    "total_liabilities_xls": 33795079.0,
+    "net_worth_xls": 460882153.31,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "5,00,000 5 Lacs+",
+        "spouse": "4,25,000 4 Lacs+",
+        "huf": "4,00,000 4 Lacs+",
+        "dependent1": "1,00,000 1 Lacs+",
+        "dependent2": "1,00,000 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "India Bank Paramakudi Branch 1,90,145 1 Lacs+ SBI of india Paramakudi Branch 15,938 15 Thou+ Indian Bank Paramakudi Branch 21,078 21 Thou+ Karur Vysta Bank Paramakudi Branch 22,020 22 Thou+ Union Bank Emaneswaram Branch 15,418 15 Thou+ Election Purpose A/c Union Emaneswaram 20,000 20 Thou+",
+        "spouse": "City Union Bank Paramakudi Branch 50,689 50 Thou+ ICICI Bank Paramakudi Branch 26,537 26 Thou+ Union Bank Emaneswara Branch 13,486 13 Thou+ Election Purpose A/c Union Bank Emaneswaram Branch A/c 18,20,000 18 Lacs+",
+        "huf": "SBI Bakeerhikaaiadmkaramakudi Branch 18,385 18 Thou+ Indian Bank Paramakudi Branch 26,329 26 Thou+",
+        "dependent1": "Karur Vysya Bank Paramakudi Branch 4,247 4 Thou+ Indian Overases Bank Madurai Branch 13,000 13 Thou+",
+        "dependent2": "Karur Vysya Bank Paramakudi Branch 2,985 2 Thou+ Canara Bank Madurai Branch 1,560 1 Thou+ Union Bank of India Mudurai Branch 829 8 Hund+ ICICI Bank Paramakudi Branch 23,540 23 Thou+ City Union Bank Paramakudi Branch 3,34,189 3 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy (Quarterly) 5,71,584 5 Lacs+ LIC Policy (Monthly) 10,21,332 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Yasoda Yammal 50,00,000 50 Lacs+",
+        "spouse": "M Rahul Akshay 25,00,000 25 Lacs+",
+        "huf": "A. Muniyasamy 27,00,000 27 Lacs+ M Keerthika 83,00,000 83 Lacs+ Individual Persons 19,50,000 19 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Innva Car TN 65 AS 0099 03/2021 17,00,000 17 Lacs+ Mahindra XUV3X0 09/2025 11,12,500 11 Lacs+",
+        "spouse": "Innova Jeep Mahendra TN 65 BW 1000 15,00,000 15 Lacs+ Innova Car TN 65 BK 0099 26,00,000 26 Lacs+",
+        "huf": "M.G Car TN 65 AU 0099 17,28,000 17 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "595 Gram Gold 50,51,500 50 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Paramakudi Circle Kattuparamakudi Thelichathanallur Village Plot No 410/7 Total Area 70 Cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 35,00,000 35 Lacs+ Paramakudi Circle Kattuparamakudi Thelichathanallur Village Plot No 412/5 Total Area 50 Cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 25,00,000 25 Lacs+ Paramakudi Circle Kattuparamakudi Thelichathanallur Village Plot No 413/3B Total Area 77.24 cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 15,00,000 15 Lacs+ Paramakudi Circle Kattuparamakudi Thelichathanallur Village Plot No 410/9 Total Area 162 Cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 81,00,000 81 Lacs+ Paramakudi Circle Kattuparamakudi Thelichathanallur Village Plot No 413/1 Total Area 55 Cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 22,00,000 22 Lacs+ Paramakudi Circle Kattuparamakudi Thelichathanallur Village Plot No 13/2 Total Area 14 Cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 7,00,000 7 Lacs+ Paramakudi Circle Kattuparamakudi Thelichathanallur Village Plot No 412/6 Total Area 14 Cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 26,00,000 26 Lacs+ Paramakudi Circle Kattuparamakudi Thelichathanallur Village Plot No 410/8B1 Total Area 653 Cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 32,65,000 32 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Madurai Andalpuram Madakulam Village Sy N0 2019/8 Total Area 2730 Sqft Built Up Area Whether Inherited N Purchase Date 2019-10-24 Purchase Cost 4100000.00 Development Cost 13000000.00 1,90,00,000 1 Crore+ Madurai Andalpuram Madakulam Vilage 8/Part Total Area 364 Built Up Area Whether Inherited N Purchase Date 2021-08-19 Purchase Cost 570000.00 Development Cost 1000000.00 18,00,000 18 Lacs+ Paramakudi Taluk Kattuparamakudi Kurui Thelichathanallur Village Sy No 4,5, 10 & 11 Total Area 5400 Sqft Built Up Area Whether Inherited N Purchase Date 2025-06-23 Purchase Cost 2900000.00 Development Cost 1500000.00 50,00,000 50 Lacs+",
+        "spouse": "Keezhathuval Village Sy No 61/79 Total Area 3922 sqft Built Up Area Whether Inherited N Purchase Date 2007-06-15 Purchase Cost 80000.00 Development Cost 2000000.00 25,00,000 25 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Pasuvatsingh Road Sy No 54 730 Sqt Total Area 730 Sqft Built Up Area Whether Inherited N Purchase Date 2019-01-08 Purchase Cost 0.00 Development Cost 620000.00 20,00,000 20 Lacs+ Keelapallivasal Street Sy No 211, 212 160.15 Sqft Total Area 1400 Sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 6000000.00 1,20,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Gandhiji Road Paramakudi 3/60 Total Area 4203 3/4 Built Up Area Whether Inherited N Purchase Date 2004-07-14 Purchase Cost 6300000.00 Development Cost 0.00 1,70,00,000 1 Crore+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Keezhapalli Vasal Street Sy No 208 Total Area 1589-3/4 Sqft Built Up Area 1200 Sqft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 70,00,000 70 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Jewelry Loan 7,09,498 7 Lacs+ House Construction Loan 79,95,868 79 Lacs+ City Union Bank Car Loan 9,76,254 9 Lacs+",
+      "spouse": "City Union Bank Paramkudi Car Loan 23,33,743 23 Lacs+ Jewelry Loan 16,79,716 16 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Satya Agency 10,00,000 10 Lacs+ Poorvika Mobile 13,50,000 13 Lacs+ Clay Ready Made 10,00,000 10 Lacs+ Muniyasamy 20,00,000 20 Lacs+ M Muniyasamy HUF 83,00,000 83 Lacs+ M.Malaichamy 8,00,000 8 Lacs+ Nageswari 12,00,000 12 Lacs+ Serveral Individuals 17,50,000 17 Lacs+",
+      "spouse": "Ah Muniasamy HUF 27,00,000 27 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "6,08,710 6 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 23,12,900 | 2023 - 2024: Rs 22,75,990 | 2022 - 2023: Rs 16,14,020 | 2021 - 2022: Rs 14,43,260 | 2020 - 2021: Rs 16,32,990"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 14,62,720 | 2022 - 2023: Rs 13,83,670 | 2022 - 2023: Rs 7,96,000 | 2021 - 2022: Rs 7,71,600 | 2020 - 2021: Rs 9,10,240"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 5,01,200 | 2023 - 2024: Rs 4,35,810 | 2022 - 2023: Rs 3,19,110 | 2021 - 2022: Rs 9,07,150 | 2020 - 2021: Rs 11,12,150"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "STC NO 47/2026; CC NO 757/2025",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "2 charges related to Punishment for bribery (IPC Section-171E)",
+        "2 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "CC No 176/2021 Mudukulathur Police Station Mudukulathur Ramanathapuram District",
+          "case_no": "STC No 47/2026",
+          "court": "Criminal Court Mudukulathur Ramanathapuram District",
+          "law_type": "IPC",
+          "ipc_sections": "171E, 341, 353",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "CC No 102/2021 Ervadi Darha Police Station Ervadi Ramanathapuram District",
+          "case_no": "CC No 757/2025",
+          "court": "Criminal Court No-2 Ramanathapuram",
+          "law_type": "IPC",
+          "ipc_sections": "353, 171E",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 13,05,45,297 ~13 Crore+",
+    "Liabilities:": "Rs 3,44,03,789 ~3 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹40,844,199, but 5-year family income is only ₹14,603,390. Unexplained wealth discrepancy of ₹26,240,809."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2019 for ₹4,100,000 (CII Indexed Cost: ₹5,334,256) is declared at highly inflated value of ₹19,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2007 for ₹80,000 (CII Indexed Cost: ₹233,178) is declared at highly inflated value of ₹2,500,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "595.0g gold declared at ₹5,051,500 (Implied rate: ₹8,490/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹48,196,150) does not match declared total assets (₹130,545,297). Difference: ₹82,349,147"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904726",
+    "candidate_name": "A.R. Elangovan",
+    "candidate_name_json": "ELANGOVAN. A.R",
+    "age": "59",
+    "party": "Desiya Murpokku Dravida Kazhagam",
+    "constituency": "84 Omalur Tamil Nadu",
+    "pan": "AAIPE3098C",
+    "phone": "9952990538",
+    "email": "arelangovandmdkparty@gmail.com",
+    "address": "Door No 51-H, 2nd Floor, B Block, Green Park Apartment, Tamil Nadu Housing Board, Omalur Main Road, Salem Town, Salem District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "8th Standard, Government High School, Kattukottai, Attur 1981",
+    "profession": "Real Estate,Sweet stall."
+  },
+  "financial_summary": {
+    "total_assets_xls": 32437390.0,
+    "total_liabilities_xls": 3171238.0,
+    "net_worth_xls": 29266152.0,
+    "cash_xls": 700000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "7,00,000 7 Lacs+",
+        "spouse": "5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Athur Branch SB Ac No: 41,872 41 Thou+ Indian Bank Athur Branch SB Ac No: 2,372 2 Thou+ Axis Bank Villiwakkam 2,487 2 Thou+ Election Account Indian Bank Theevattipatti Branch 20,000 20 Thou+",
+        "spouse": "KVB Athur Branch SB Ac No 22,656 22 Thou+ Election Account Indian Bank Theevattipatti Branch SB AC No: 2,000 2 Thou+",
+        "huf": "Nil",
+        "dependent1": "SBI Athur Branch SB Ac No: 8.50",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Captain Media Pvt. Ltd. Chennai Share: 3 15,00,000 15 Lacs+ Dingu cable network Athur 2,50,000 2 Lacs+ Sri Arogya Sweet Stall Alagammal Nagar Nerkundram Chennai 10,00,000 10 Lacs+ Sri Arogya Sweet Stall Vazhapadi 5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Maruti Gypsy Reg No: TCE 0009 1986 1,00,000 1 Lacs+ Mahindra 300TUV TN-30BJ-7203 Year 2007 6,00,000 6 Lacs+ Yamaha bike TAI-1414 year 1987 25,000 25 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "86 gram 11,18,000 11 Lacs+",
+        "spouse": "256 grams 33,28,000 33 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Athur Tharapu Mullavadi Village Sq.No:345/1,345/5 Total Area 90 cents of which 1 share in common 45 cents Built Up Area Whether Inherited N Purchase Date 2022-07-25 Purchase Cost 211500.00 Development Cost 0.00 10,00,000 10 Lacs+ Arakkonam Arigilapadi Village Sq.No.:6/1 Total Area 91 cents of which in public / stock 451/2 cents. Built Up Area Whether Inherited N Purchase Date 2018-12-03 Purchase Cost 86450.00 Development Cost 0.00 7,50,000 7 Lacs+ Arakkonam Arigilapadi Village Sq.No.:6/2 Total Area 2.50 cents per acre Of which 1/2 share per acre is 1.25 cents. Built Up Area Whether Inherited N Purchase Date 2017-11-15 Purchase Cost 250000.00 Development Cost 0.00 18,75,000 18 Lacs+",
+        "spouse": "Namakkal District Kollimalai Taluk Valapur Nadu Village Sq.No. 138/1 Total Area 0.62 cent Built Up Area Whether Inherited N Purchase Date 2014-02-28 Purchase Cost 100000.00 Development Cost 0.00 15,00,000 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Rasipuram Town, Sq. No 38, 39, 40, 41, Area-2015 square feet Of which the common area is 1007 1/2 square feet Total Area Built Up Area Whether Inherited N Purchase Date 2019-05-13 Purchase Cost 600450.00 Development Cost 0.00 1,00,00,000 1 Crore+",
+        "spouse": "Villupuram District Nayanur Village Sq.No. 96/2 Total Area 1250 Built Up Area Whether Inherited N Purchase Date 2012-03-29 Purchase Cost 21492.00 Development Cost 0.00 1,00,000 1 Lacs+ Salem District Athur Town Sq.No. 476/2 Total Area 720 Built Up Area Whether Inherited N Purchase Date 2009-03-12 Purchase Cost 410000.00 Development Cost 5000000.00 75,00,000 75 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Home Loan Indian Bank Theevattipatti Branch 12,61,238 12 Lacs+ Car Loan HDFC Bank Salem Branch 2,00,000 2 Lacs+",
+      "spouse": "Gold loan KVB Athur Branch 7,00,000 7 Lacs+ Gold loan KVB Athur Branch 8,00,000 8 Lacs+ Gold loan KVB Athur Branch 2,10,000 2 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 4,98,720 | 2024 - 2025: Rs 4,98,720 | 2023 - 2024: Rs 4,96,690 | 2022 - 2023: Rs 4,95,450 | 2021 - 2022: Rs 4,94,140"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 4,98,790 | 2024 - 2025: Rs 4,98,270 | 2023 - 2024: Rs 4,54,670 | 2022 - 2023: Rs 4,44,060 | 2021 - 2022: Rs 4,50,500"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,24,37,399 ~3 Crore+",
+    "Liabilities:": "Rs 31,71,238 ~31 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹17,949,298, but 5-year family income is only ₹4,830,010. Unexplained wealth discrepancy of ₹13,119,288."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2022 for ₹211,500 (CII Indexed Cost: ₹240,254) is declared at highly inflated value of ₹1,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Agricultural Land purchased in 2014 for ₹100,000 (CII Indexed Cost: ₹156,667) is declared at highly inflated value of ₹1,500,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2019 for ₹600,450 (CII Indexed Cost: ₹781,208) is declared at highly inflated value of ₹10,000,000."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'Captain Media Pvt. Ltd. Chennai Share: 3 15,00,000 15 Lacs+ Dingu cable network Athur 2,50,000 2 Lacs+ Sri Arogya Sweet Stall Alagammal Naga..."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹19,910,536) does not match declared total assets (₹32,437,399). Difference: ₹12,526,862"
+    }
+  ]
+}

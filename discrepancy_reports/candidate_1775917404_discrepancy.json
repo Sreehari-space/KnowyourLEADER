@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917404",
+    "candidate_name": "G. Antony Alangaram",
+    "candidate_name_json": null,
+    "age": "65",
+    "party": "Independent",
+    "constituency": "231- Kulachal",
+    "pan": "FVWPA4487B",
+    "phone": "9944777853",
+    "email": "NIL",
+    "address": "45-B. Mamadithodu, No. 5, Kulachal Kanyakumari.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5th Standard, Government Primary School, Manakudi",
+    "profession": "Fishing profession"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2077831.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2077831.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917262",
+    "candidate_name": "S. David Sahaya Bhaskar",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Independent",
+    "constituency": "Kanyakumari",
+    "pan": "FFHPB3912M",
+    "phone": "9344610865",
+    "email": "davidspp9@gmail.com",
+    "address": "Door No. 8-1A, Raja Street, Azhagappapuram, Agastheeswaram, Kanyakumari District-629401",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th St. Antony's Higher Secondary School, Azhagappapuram (1984-1985)",
+    "profession": "Individual Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 691400.0,
+    "total_liabilities_xls": 55000.0,
+    "net_worth_xls": 636400.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "DVC/9/2021; CC/106/2022; MCOP/264/2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

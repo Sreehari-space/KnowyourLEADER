@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907973",
+    "candidate_name": "S. NAGAJOTHI",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "130, NILAKOTTAI (S.C), TAMILNADU",
+    "pan": "BYRPN8279A",
+    "phone": "9843807079",
+    "email": "sakthisajo@gmail.com",
+    "address": "NO. 76, PERUMAL KOVIL PATTI VIRALIMAYANPATTI (POST), NILAKOTTAI (TALUK) – 624 220, DINDIGUL DISTRICT",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Com., ARULMIGU PALANIYANDAVAR GIRLS ARTS COLLEGE, MADURAI KAMARAJAR UNIVERSITY, 2004",
+    "profession": "Business and Social Work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 26711324.0,
+    "total_liabilities_xls": 9920914.0,
+    "net_worth_xls": 16790410.0,
+    "cash_xls": 51028.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

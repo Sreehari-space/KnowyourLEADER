@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922941",
+    "candidate_name": "A.M.Rafeeq",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Independent",
+    "constituency": "119-Thondamuthur Assembly Constituency, Tamil Nadu",
+    "pan": "BLFPR6612G",
+    "phone": "9600601566",
+    "email": "thalapathyrafeeq69@gmail.com",
+    "address": "Door No: 4, Ponvizha Nagar, 2nd Street, South Ukkadam, Thondamuthur, Coimbatore - 641001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, City Municipal Corporation Higher Secondary School, 1985",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 601377.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 601377.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

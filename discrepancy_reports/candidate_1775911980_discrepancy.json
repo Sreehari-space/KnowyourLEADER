@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911980",
+    "candidate_name": "Thiru. M. L. Vijay Prabhu",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "09-Madhavaram Assembly Constituency, Tamil Nadu",
+    "pan": "CELPP3977C",
+    "phone": "9962694212",
+    "email": "mlprabhuvmi@gmail.com",
+    "address": "House No. 31, Apartment No. D3, Secretariat Colony, 16th Street, Lakshmipuram, Madhavaram, Kolathur, Chennai 600099",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (St. Joseph's Higher Secondary School, Chennai, 2004-2005), Diploma in Electrical and Electronics Engineering (P.T. Sengalvaraya Naicker Polytechnic College, Chennai, 2005-2008), Arts and Bachelor of Law (Vikram Simhapuri University, Andhra Pradesh, 2017-2022)",
+    "profession": "Color fish business, Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9360171.0,
+    "total_liabilities_xls": 3909033.0,
+    "net_worth_xls": 5451138.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904961",
+    "candidate_name": "Agri S.S. Krishnamoorthy",
+    "candidate_name_json": null,
+    "age": "66",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "65-Kalasapakkam Assembly Constituency, Tiruvannamalai District, Tamil Nadu",
+    "pan": "AAIPK6512F",
+    "phone": "9443233685",
+    "email": "agriyarss@gmail.com",
+    "address": "No.285, Annai Illam, Elathur Village, Elathur Post, Kalasapakkam Taluk, Tiruvannamalai District, Tamil Nadu - 606 906",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "11th Standard (Government Higher Secondary School, Melarani - 1976), PUC (Muthurangam Government Arts College, Vellore - 1978), B.Sc. (Agri) (Tamil Nadu Agricultural University, Coimbatore - 1982), B.L (Chennai Law College, Chennai - 2012)",
+    "profession": "Agriculture, Member of Legislative Assembly"
+  },
+  "financial_summary": {
+    "total_assets_xls": 119879853.0,
+    "total_liabilities_xls": 34884441.0,
+    "net_worth_xls": 84995412.0,
+    "cash_xls": 2145760.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr.No. 252/2023 (Sections: 153, 153A(i)(a), 153A(i)(b), 294(b), 504 & 506(i) of IPC) - Case for protesting with party members condemning the false case filed against former Chief Minister Mr. Edappadi Palaniswami",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

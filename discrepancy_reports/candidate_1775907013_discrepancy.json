@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907013",
+    "candidate_name": "கோ.வெங்கடாஜலம்",
+    "candidate_name_json": null,
+    "age": "61",
+    "party": "அனைத்திந்தியா அண்ணா திராவிட முன்னேற்றக் கழகம்",
+    "constituency": "85, மேட்டூர் சட்டமன்றத் தொகுதி",
+    "pan": "AMRPV1761C",
+    "phone": "9443234115",
+    "email": "gvenkatachalam3105@gmail.com",
+    "address": "கதவு எண்.169, கட்டுசோத்தான் வளவு, சோளம்பள்ளம், சூரமங்கலம், சேலம்-636 005",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9ம் வகுப்பு, நீலாம்பாள் சுப்ரமணியம் மேல்நிலைப்பள்ளி, சூரமங்கலம், சேலம்-636 005, வருடம் 1979",
+    "profession": "முன்னாள் சட்டமன்ற உறுப்பினர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 35024826.02,
+    "total_liabilities_xls": 2993059.37,
+    "net_worth_xls": 32031766.64999999,
+    "cash_xls": 1200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (5 case(s))",
+    "case_numbers_xls": "FIR No. 35/2022, Salem Town Police Station; FIR No. 73/2022, Annadhanapatti Police Station; FIR (unspecified), Pallapatti; FIR No. 489/2022, Salem Town Police Station; FIR No. 152/2024, Salem Town Police Station; FIR No. 1030/2024, Salem Town Police Station; STC No. 272/2026 (Crime No. 152/2026), Hon'ble Judicial Magistrate No. 1, Salem; STC No. 8736/2025 (Crime No. 1030/2024), Hon'ble Judicial Magistrate No. 1, Salem",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

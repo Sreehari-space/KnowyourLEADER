@@ -1,0 +1,383 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924916",
+    "candidate_name": "D. JAYAKUMAR",
+    "candidate_name_json": "D. JAYAKUMAR",
+    "age": "42",
+    "party": "INDEPENDENT CANDIDATE",
+    "constituency": "NO.17-ROYAPURAM, Tamil Nadu",
+    "pan": "AMQPD3823L",
+    "phone": "8939495162",
+    "email": "law4all1950@gmail.com",
+    "address": "65, ADAM STREET, LOCKNAGAR CHEPAUK CHENNAI -600005",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Master of Science and Bachelor of Law - Sri RKM Law College - passed in the year 2014",
+    "profession": "ADVOCATE"
+  },
+  "financial_summary": {
+    "total_assets_xls": 733689.0,
+    "total_liabilities_xls": 7390000.0,
+    "net_worth_xls": 6656311.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "75,000 75 Thou+",
+        "spouse": "1,20,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank, Santhome Branch 2,92,227 2 Lacs+ Indian Bank, Santhome Branch 64,400 64 Thou+ Chennai Central CO-operative Bank, Tondiarpet 3,020 3 Thou+ Indian Bank, Santhome Branch (election A/C ) 50,000 50 Thou+",
+        "spouse": "Chennai Central co-op Bank , MRC Nagar Branch 1,61,052 1 Lacs+ Indian Bank, Santhome Branch 56,277 56 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Shares in Meadow Farms , 75 Equity Shares 50,000 50 Thou+",
+        "spouse": "Shares in Meadow Farms , 75 Equity Shares 75,000 75 Thou+ Balance in Capital andCA in Partnership Firm JFN Fishnet Manufacturer 2,52,37,411 2 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "ICICI Prudential Plan Policy 8,50,000 8 Lacs+ Axis Max Life Policy Pension Plan 11,88,386 11 Lacs+ ICICI Pur Guaranteed Pension Plan 30,00,000 30 Lacs+",
+        "spouse": "SUD life Insurance Policy 15,00,370 15 Lacs+ HDFC life Smart Pension Plus 14,08,153 14 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "JFN Float 15,00,000 15 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "940 gm Gold Ornament 1,12,80,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Gummudipoondi, Pethi kuppam , Sy No.155-A/5B and 155-A/5C Total Area 25 Cents Built Up Area Whether Inherited N Purchase Date 1987-09-07 Purchase Cost 32512.00 Development Cost 50031.00 32,00,000 32 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Aadhi Dravidar Street, Tondiarpet ( The Land Belong to Tamilnadu Slum Clearance Board Inherited ) Total Area 400 sq.ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 5,20,000 5 Lacs+ Aadhi Dravidar Street, Tondiarpet ( The Land Belong to Tamilnadu Slum Clearance Board Inherited ) Total Area 549 sq.ft Built Up Area 1800 sq.ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 220000.00 Development Cost 1830000.00 24,88,000 24 Lacs+ Vinayagapuram Main Road, Tondiarpet, Chennai Total Area 120 sq.ft Built Up Area Whether Inherited N Purchase Date 2020-07-10 Purchase Cost 192000.00 Development Cost 0.00 1,92,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Bank of India (Jewel Loan) 31,34,209 31 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Rental Advance 1,00,000 1 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,91,670 | 2023 - 2024: Rs 6,86,460 | 2022 - 2023: Rs 5,00,000 | 2021 - 2022: Rs 3,98,980 | 2020 - 2021: Rs 18,76,140"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 55,17,770 | 2023 - 2024: Rs 62,75,390 | 2022 - 2023: Rs 30,54,610 | 2021 - 2022: Rs 18,81,250 | 2020 - 2021: Rs 43,10,020"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "1 charges related to Undue influence at elections (IPC Section-171C)",
+        "1 charges related to Voluntarily causing hurt by dangerous weapons or means (IPC Section-324)",
+        "1 charges related to Attempt to murder (IPC Section-307)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed (IPC Section-153)",
+        "1 charges related to Punishment for wrongful Confinement (IPC Section-342)",
+        "1 charges related to Assault or criminal force with intent to dishonour person, otherwise than on grave provocation (IPC Section-355)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Every member of unlawful assembly guilty of offence committed in prosecution of common object (IPC Section-149)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Disobedience to order duly promulgated by public servant (BNS Section-223)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "77/2025, E2 Thirukazhukundram Police Station, Chengalpattu",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2) , 292 , 189(2), 223",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "81/2022, H3, Tondiarpet Police Station, Chennai",
+          "case_no": "PRC No. 1/2025",
+          "court": "XV Metropolitan Magistrate Court, George Chennai",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 171C, 294b, 153, 342, 355, 323, 324, 307, 506(ii), 149",
+          "other_details": "Section 4AA(1)(a), 4AA(4), TNOP (POD) Act 1959, Sec. 66(e) IT Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 5,33,11,296 ~5 Crore+",
+    "Liabilities:": "Rs 32,34,209 ~32 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹19,623,649) does not match declared total assets (₹53,311,296). Difference: ₹33,687,647"
+    }
+  ]
+}

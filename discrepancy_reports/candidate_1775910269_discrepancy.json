@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910269",
+    "candidate_name": "Sivalingam.c",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "NAAM INDIAR PARTY",
+    "constituency": "229-Kanyakumari, Tamil Nadu",
+    "pan": "BWDPC8153Q",
+    "phone": "9384292927",
+    "email": "sivalingamsivalingm537@gmail.com",
+    "address": "125B2-Swaminathapuram, Kanyakumari- 629702",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard - Government Higher Secondary School, Agastheeswaram, Kanyakumari - 2011",
+    "profession": "businessman"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4471951.0,
+    "total_liabilities_xls": 1520000.0,
+    "net_worth_xls": 2951951.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905077",
+    "candidate_name": "Anbuselvi.A",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "201 - Cumbum",
+    "pan": "BTHPA4797F",
+    "phone": "6379123142",
+    "email": "anbuselvi.asaithambi@gmail.com",
+    "address": "Ward-1 23-Q9, Kannammal Garden, Chinnamanur, Theni District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Master of Arts (M.A) in Tamil, Annamalai University, May 2005, Master of Philosophy (M.Phil) in Tamil, Annamalai University, September 2007",
+    "profession": "Housewife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9592033.59,
+    "total_liabilities_xls": 213500.0,
+    "net_worth_xls": 9378533.59,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

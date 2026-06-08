@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917019",
+    "candidate_name": "Tamil Text: திரு தமிழரசன்",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Tamil Text: சுயேட்சை",
+    "constituency": "Tamil Text: 81 கெங்கவல்லி (தனி), தமிழ்நாடு",
+    "pan": "CAWPT8409G",
+    "phone": "9791204596",
+    "email": "tamilarasan7262@gmail.com",
+    "address": "188, ரைஸ்மில் தெரு, கூடமலை அஞ்சல், கெங்கவல்லி வட்டம், சேலம் மாவட்டம்.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Tamil Text: SSLC - Govenmnt Higher Sec School 2001",
+    "profession": "Tamil Text: தனி நபர் விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 488250.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 488250.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

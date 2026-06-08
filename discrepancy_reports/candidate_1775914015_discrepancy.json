@@ -1,0 +1,493 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914015",
+    "candidate_name": "Mr. Pandi V",
+    "candidate_name_json": "PANDI.V",
+    "age": "46",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "198-Andipatti (Constituency Name)",
+    "pan": "CCDPP2642C",
+    "phone": "9655566250",
+    "email": "idathupandi@gmail.com",
+    "address": "Valluvar Colony Thottam, Karuvelnaickanpatti, Kunnur, Theni Taluk, Theni District-625531",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "9th Standard - N.S.Boys Higher Secondary School, Theni – 1998",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 19398349.95,
+    "total_liabilities_xls": 136920.0,
+    "net_worth_xls": 19261429.95,
+    "cash_xls": 90000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "90,000 90 Thou+",
+        "spouse": "20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Union Bank of India, Theni A/C 3,14,349 3 Lacs+ IOB-Thei Government Medical Branch, A/C 2,000 2 Thou+",
+        "spouse": "India Post Payment Bank A/C 20,000 20 Thou+ IOB-Thei Government Medical Branch, A/C 2,000 2 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Car- Fortuner, TN 10 AC 1010, Model 2010 8,00,000 8 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 160 Grams 18,00,000 18 Lacs+",
+        "spouse": "Gold 320 Grams, Perumanamulla Village 35,00,000 35 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "(1) S.No. 1/1, Allinagaram Village, Area-2700 sqft, Built Up Area- 2700 sqft, Any investment 5000000/-, (2) S.No.1/3, Allinagaram Village. S.No.1132/2, Veeranayak kanpatti, Area- 2 Acres 30Cents Total Area Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 63,25,000 63 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "S.No. 458, Sy No 17/3, Area-2610 sqft , 2570 Sq.ft. Total Area Built Up Area Whether Inherited Y Purchase Date 2022-12-19 Purchase Cost 47500.00 Development Cost 0.00 2,15,000 2 Lacs+",
+        "spouse": "S.No. 458 Total Area 26100 sqft Built Up Area Whether Inherited N Purchase Date 2023-11-29 Purchase Cost 1204950.00 Development Cost 0.00 14,00,000 14 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Union Bank Of India, Theni Branch, SB A/C, 1) Jewel Loan 2) Jewel Loan 1,36,920 1 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (9 case(s))",
+    "case_numbers_xls": "Cr.No.391/2024; Cr.No.128/2026; Cr.No.86/2026; Cr.No.525/20024; Cr.No.453/2024; Cr.No.30/2022; Cr.No.237/2010; Cr.No.43/2025; Cr.No.996/2010",
+    "criminal_cases_json": {
+      "count": "9",
+      "summary": "Number of Criminal Cases:9",
+      "ipc_charges": [
+        "1 charges related to Causing death by negligence (IPC Section-304A)",
+        "1 charges related to Voluntarily causing hurt by dangerous weapons or means. (BNS Section-118(1))",
+        "1 charges related to Punishment for Rioting (BNS Section-191(2))",
+        "1 charges related to If threat be to cause death or grievous hurt, etc. (BNS Section-351(3))",
+        "1 charges related to Punishment for Criminal intimidation. (BNS Section-351(2))",
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Rash driving or riding on a public way (IPC Section-279)",
+        "1 charges related to Causing hurt by act endangering life or personal safety of others (IPC Section-337)",
+        "3 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "3 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "2 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)",
+        "1 charges related to Abetment of any offence, if the act abetted is committed in consequence, and where no express provision is made for its punishment. (BNS Section-49)",
+        "1 charges related to Negligent conduct with respect to explosive substance. (BNS Section-288)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr. No. 391/2024, Thenkarai Police Station, Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "118(1), 191(2)",
+          "other_details": "Section-4A(1a) (2) TNOPPD Act & Section-188 MV Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Cr.No.128/2026, Theni Police Station, Theni District.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "296(b), 351(3), 49",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Cr. No. 86/2026, Theni Police Station, Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "296(b), 351(2)",
+          "other_details": "Section 67 IT Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Cr. No.525/2024, Theni Police Station, Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Cr. No 453/2024, Theni Police Station, Theni District.",
+          "case_no": "STC No.118/2025",
+          "court": "Chief Judicial Magistrate Court Theni",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "07 Feb 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Cr. No. 30/2022, Theni Police Station, Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Cr. No. 2372/2010, Theni Police Station, Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 7 TNP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Cr. No. 43/2025, Andipatti Police Station. Theni District",
+          "case_no": "STC No. 201/2025",
+          "court": "Judicial Magistrate Court, Aundipaptti",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2), 288, 292",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "04 Apr 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "Cr. No. 996/2010, Allinagaram Police Station, Theni Circle.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "279, 304A, 337",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,93,98,349 ~1 Crore+",
+    "Liabilities:": "Rs 1,36,920 ~1 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹14,347,429, but 5-year family income is only ₹0. Unexplained wealth discrepancy of ₹14,347,429."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2022 for ₹47,500 (CII Indexed Cost: ₹53,958) is declared at highly inflated value of ₹215,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "480.0g gold declared at ₹5,300,000 (Implied rate: ₹11,042/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹14,484,349) does not match declared total assets (₹19,398,349). Difference: ₹4,914,000"
+    }
+  ]
+}

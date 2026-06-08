@@ -1,0 +1,383 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921092",
+    "candidate_name": "R. Karthick",
+    "candidate_name_json": "KARTHE.M",
+    "age": "26",
+    "party": "Independent",
+    "constituency": "88 Salem West Assembly Constituency",
+    "pan": "FBMPR8906Q",
+    "phone": "8072204669",
+    "email": "karthickr2452000@gmail.com",
+    "address": "96, Chengalpettai, Narasothipatti, Alagapuram, Salem, Tamil Nadu - 636 004",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Bachelor of Science (Biotechnology) KSR Arts & Science College Year - 2021",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3831149.88,
+    "total_liabilities_xls": 3107354.96,
+    "net_worth_xls": 723794.9199999999,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "3,00,000 3 Lacs+",
+        "spouse": "5,00,000 5 Lacs+",
+        "huf": "10,00,000 10 Lacs+",
+        "dependent1": "20,000 20 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Canara Bank (Election A/c 5,000 5 Thou+ Canara Bank 1,62,474 1 Lacs+ Canara Bank 64,992 64 Thou+ SBI Of india 14,330 14 Thou+ Punjan National Bank 26,743 26 Thou+ Indian Bank 1,38,506 1 Lacs+ Canara Bank Locker 42,294 42 Thou+",
+        "spouse": "SBI of India 14,489 14 Thou+ Canara Bank 1,62,177 1 Lacs+ Canara Bank 5,74,854 5 Lacs+ EB Deposit 2,75,000 2 Lacs+",
+        "huf": "Tamilnad Mercantilc Bank 35,008 35 Thou+ HDFC Bank Salem Main 5,88,811 5 Lacs+ SBI of india 1,24,848 1 Lacs+ Punjab National Bank 1,05,012 1 Lacs+ HDFC Bank Salem Main 36,558 36 Thou+ Canara Bank 28,971 28 Thou+",
+        "dependent1": "SBI Of india 3,994 3 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Viveka Refractories (P) Ltd Share & Others 51,61,100 51 Lacs+",
+        "spouse": "Viveka Refractories (P) Ltd Shares & Share Application Money 1,56,00,000 1 Crore+",
+        "huf": "Viveka Refractories (P) Ltd Shares & Share Application Money 18,00,000 18 Lacs+ Reliance Money 26,625 26 Thou+ Mahindra Holidays 79,168 79 Thou+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "6,10,16,944 6 Crore+",
+        "spouse": "7,04,90,735 7 Crore+",
+        "huf": "17,66,46,014 17 Crore+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Ambassitor Car TN 30A1000 Year 2000 40,000 40 Thou+",
+        "spouse": ".Audi Car TN07AZ8086 Year: 2009 2,93,353 2 Lacs+",
+        "huf": "Mahindra Thar TN30BP6868 Year 2019 5,50,000 5 Lacs+ SKODA TN07AX4488 Year 2007 60,000 60 Thou+ Nano TN30Af7733 Year 20,000 20 Thou+ Innova TN30 BR 6859/ yr 2021 15,00,000 15 Lacs+ Innova Hycross TN30CF1819/ Yr: 2023 20,00,000 20 Lacs+ Thar Roxx TN30CJ6869 Year 2025 22,00,000 22 Lacs+ .Toyata Glanza TN30CJ3949/Yr: 2025 10,00,000 10 Lacs+ Bolero Pickup TN30CA4646/Yr: 2021 5,00,000 5 Lacs+ Scooty TN30CJ44 year 2025 80,000 80 Thou+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "225 Gold Silver weight 2 kg 51,67,502 51 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Camera 5,49,600 5 Lacs+ SPBM Plant and Machinery Crusher Unit 1,18,90,850 1 Crore+ Others 39,92,334 39 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Kottamettupatty Omalur Sy No 71/1A 68/7 Total Area 3.96 Acres Built Up Area Whether Inherited N Purchase Date 2007-01-22 Purchase Cost 3111000.00 Development Cost 0.00 79,20,000 79 Lacs+ Yercaud S/F No.35/1A1A Total Area 1.35 Acres Built Up Area Whether Inherited N Purchase Date 2025-03-19 Purchase Cost 1472610.00 Development Cost 0.00 33,75,000 33 Lacs+ Yercaud Sy No 35/1A1A Total Area 1.95 Acres Built Up Area Whether Inherited N Purchase Date 2025-09-10 Purchase Cost 2000000.00 Development Cost 0.00 48,75,000 48 Lacs+",
+        "spouse": "Kondappanickenpatty Salem Sy No 53/2 Total Area 1.45 Acres Built Up Area Whether Inherited N Purchase Date 2008-09-11 Purchase Cost 820000.00 Development Cost 0.00 1,16,00,000 1 Crore+",
+        "huf": "Kallamanicienpatty Omallur Sy no 14/3 A 31/2, 50/6A Total Area 13.31 Acres Built Up Area Whether Inherited N Purchase Date 2007-09-17 Purchase Cost 2325000.00 Development Cost 0.00 7,98,60,000 7 Crore+ Velliyampatty, Ayothiyapattinam,Salem S/FNo.231 Total Area 3.26 Acres Built Up Area Whether Inherited N Purchase Date 2026-02-14 Purchase Cost 3018600.00 Development Cost 0.00 65,20,000 65 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Gorimedu, Ayyamperampatty village,Salem S/F No.93/2,93/4 Total Area 19517 Sqft Built Up Area Whether Inherited N Purchase Date 2023-07-06 Purchase Cost 16372700.00 Development Cost 0.00 7,80,68,000 7 Crore+",
+        "spouse": "Nil",
+        "huf": "Kondappanickenpatty. Salem, S/F No.71 Total Area 2256 Sqft 5.18 Acres Built Up Area Whether Inherited N Purchase Date 2001-03-16 Purchase Cost 3150000.00 Development Cost 0.00 10,36,00,000 10 Crore+ Velliyampatty, Ayothiyapattinam, Salem S/F No.233/3 Total Area 50965 Sqft 1.17 Acres Built Up Area Whether Inherited N Purchase Date 2009-04-16 Purchase Cost 1070000.00 Development Cost 0.00 23,40,000 23 Lacs+ Velliyampatty, Ayothiyapattinam,Salem S/FNo.37/1,17/2A,17/2?, Total Area 196455 Sqft 4.51 Acres Built Up Area Whether Inherited N Purchase Date 2008-09-04 Purchase Cost 495000.00 Development Cost 0.00 90,20,000 90 Lacs+ Velliyampatty, Ayothiyapattinam,Salem Sy No 37/1B Total Area 47916Sqft 1.10 Acres Built Up Area Whether Inherited N Purchase Date 2012-05-25 Purchase Cost 215000.00 Development Cost 0.00 20,20,000 20 Lacs+ Velliyampatty, Ayothiyapattinam,Salem Sy no 228/1 Total Area 38768 Sqft Built Up Area Whether Inherited N Purchase Date 2009-05-11 Purchase Cost 90000.00 Development Cost 0.00 17,80,000 17 Lacs+ Ayyampermapatty, Salem,S/F No.53/1 Total Area 2613 Sqft Built Up Area Whether Inherited N Purchase Date 2009-12-02 Purchase Cost 425000.00 Development Cost 0.00 78,39,000 78 Lacs+ Ayyampermapatty, Salem,S/F No.85/2 Total Area 8712 Sqft Built Up Area Whether Inherited N Purchase Date 2010-03-25 Purchase Cost 995000.00 Development Cost 0.00 2,61,36,000 2 Crore+ Ayyampermapatty, Salem, S/F No.53/2 Total Area 75794 Sqft Built Up Area Whether Inherited N Purchase Date 2008-12-22 Purchase Cost 1630000.00 Development Cost 0.00 23,49,61,400 23 Crore+ Ayyampermapatty, Salem, S/F No.85/2 Total Area 1306 Sqft Built Up Area Whether Inherited N Purchase Date 2015-09-08 Purchase Cost 1950000.00 Development Cost 0.00 52,24,000 52 Lacs+ Ayyampermapatty, Salem, S/F No.53/2 Total Area 2178 Sqft Built Up Area Whether Inherited N Purchase Date 2013-05-15 Purchase Cost 780000.00 Development Cost 0.00 76,23,000 76 Lacs+ Velliyampatty Ayothiyapattinam, Salem S/F No 271/6 Total Area 2178 Sqft Built Up Area Whether Inherited N Purchase Date 2009-04-08 Purchase Cost 137000.00 Development Cost 0.00 28,60,000 28 Lacs+ Velliyampatty, Ayothiyapattinam,Salem S/FNo.16/7,271/4,271/2 Total Area 62290Sqft (1.43 Acres) Built Up Area Whether Inherited N Purchase Date 2007-03-13 Purchase Cost 270000.00 Development Cost 0.00 96,00,000 96 Lacs+ Velliyampatty, Ayothiyapattinam, Salem S/F No.229/1 Total Area 111513 Sqft 2.56 Acres Built Up Area Whether Inherited N Purchase Date 2008-03-09 Purchase Cost 110000.00 Development Cost 0.00 51,20,000 51 Lacs+ Velliyampatty, Ayothiyapattinam,Salem S/F No.229/2 Total Area 61855 Sqft 1.42 Acres Built Up Area Whether Inherited N Purchase Date 2009-12-14 Purchase Cost 140000.00 Development Cost 0.00 28,40,000 28 Lacs+ SIDCO, Five Roads, Salem S/F No.99 Total Area 3357 Sqft Built Up Area Whether Inherited N Purchase Date 2007-12-13 Purchase Cost 1237000.00 Development Cost 0.00 1,67,85,000 1 Crore+ SIDCO, Five Roads, Salem S/F No.99/11,99/8 Total Area 1512 Sqft Built Up Area Whether Inherited N Purchase Date 2021-12-17 Purchase Cost 2500000.00 Development Cost 0.00 75,60,000 75 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Vinayagampatty, Kondappanaicke npatty, salem S/F No. 25/1E Total Area 12000 Sqft Built Up Area 3000 Sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 60,00,000 60 Lacs+",
+        "spouse": "Nil",
+        "huf": "Vinayagampatty, Kondapanaickenpatty, salem S/F No. 25/1E Total Area 11800 Sq.Ft. Built Up Area 7000 Sq.Ft. Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 80,00,000 80 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Canara Bank Ac 9,40,784 9 Lacs+ Canara Bank Ac 25,00,000 25 Lacs+",
+      "huf": "Canara Bank Car Loan 1,62,044 1 Lacs+ Canara Bank Car Loan 2,30,030 2 Lacs+ Canara Bank Jewel Loan 25,00,000 25 Lacs+ Canara Bank Car Loan 81,236 81 Thou+ Indostar Finance Car Loan 9,77,300 9 Lacs+ Indostar Finance Car Loan 6,05,920 6 Lacs+ Indostar Finance Car Loan 22,15,600 22 Lacs+ Indostar Finance CarLoan 24,61,000 24 Lacs+",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "3,54,90,454 3 Crore+",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "8,66,96,505 8 Crore+",
+      "spouse": "44,16,326 44 Lacs+",
+      "huf": "50,544 50 Thou+",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Assessement Year 2020-21 1,17,37,280 1 Crore+",
+      "huf": "Assessement Year 2012-13 44,635 44 Thou+",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 7,64,809 | 2023 - 2024: Rs 13,56,300 | 2022 - 2023: Rs 32,175 | 2021 - 2022: Rs 6,69,852 | 2020 - 2021: Rs 6,72,381"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 9,63,411 | 2023 - 2024: Rs 7,56,115 | 2022 - 2023: Rs 4,81,491 | 2021 - 2022: Rs 17,90,780 | 2020 - 2021: Rs 5,36,338"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 0 | 2023 - 2024: Rs 0 | 2022 - 2023: Rs 8,12,820 | 2021 - 2022: Rs 7,37,835 | 2019 - 2020: Rs 9,44,424"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,01,64,14,686 ~101 Crore+",
+    "Liabilities:": "Rs 15,11,09,658 ~15 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹122,662,545, but 5-year family income is only ₹8,023,652. Unexplained wealth discrepancy of ₹114,638,893."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Agricultural Land purchased in 2008 for ₹820,000 (CII Indexed Cost: ₹2,250,511) is declared at highly inflated value of ₹11,600,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Huf Agricultural Land purchased in 2007 for ₹2,325,000 (CII Indexed Cost: ₹6,776,744) is declared at highly inflated value of ₹79,860,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2023 for ₹16,372,700 (CII Indexed Cost: ₹17,690,044) is declared at highly inflated value of ₹78,068,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Huf Non Agricultural Land purchased in 2001 for ₹3,150,000 (CII Indexed Cost: ₹11,844,000) is declared at highly inflated value of ₹103,600,000."
+    },
+    {
+      "flag_id": "F3",
+      "severity": "CRITICAL",
+      "title": "Disproportionate Recent Property Purchases",
+      "description": "Properties purchased since 2020 cost ₹16,372,700, far exceeding the 5-yr total family income of ₹8,023,652."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Overvalued (Parking Illicit Funds)",
+      "description": "225.0g gold declared at ₹5,167,502 (Implied rate: ₹22,967/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00), Typo: .Toyata (should be Toyota)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹262,201,117) does not match declared total assets (₹1,016,414,686). Difference: ₹754,213,569"
+    }
+  ]
+}

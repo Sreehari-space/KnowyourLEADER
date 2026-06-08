@@ -1,0 +1,407 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907372",
+    "candidate_name": "S. Muthaiah",
+    "candidate_name_json": "DR. MUTHIAH. S",
+    "age": "69",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "209- Paramakudi (SC) Assembly Constituency, Tamil Nadu",
+    "pan": "AHIPM572G",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "845 A3 Bharathi Nagar Main Road, (Madurai Rameswaram Road) Paramakudi 623707, Ramanathapuram District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "1. M.B.B.S. KILPAUK MEDICAL COLLEGE CHENNAI; 2. M.D. MADRAS MEDICAL COLLEGE, CHENNAI (THE TAMIL NADU DR.M.G.R. MEDICAL UNIVERSITY 40, ANNA SALAI GUINDY CHENNAI 32.)",
+    "profession": "Dr. S. Muthaiah M.B.B.S. M.D. Muthaiah Clinic"
+  },
+  "financial_summary": {
+    "total_assets_xls": 76226351.0,
+    "total_liabilities_xls": 14000000.0,
+    "net_worth_xls": 62226351.0,
+    "cash_xls": 515000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "5,15,000 5 Lacs+",
+        "spouse": "2,32,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "10,000 10 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "ICICI Bank Paramakudi SB A/C as on 2026-03-23 1,02,298 1 Lacs+ Union Bank of India Emaneswaram SB A/C-as on 2026-03-23 4,66,307 4 Lacs+ SBI PARAMAKUDI SB A/C 5,306 5 Thou+ Indian Bank PARAMAKUDI SB A/C-as on 2026-03-23 4,350 4 Thou+ City Union Bank, Paramakudi A/c No-as on 2026-03-23 516 5 Hund+ HDFC Bank PARAMAKUDI A/C-as on 2026-03-23 16,23,187 16 Lacs+ HDFC Bank PARAMAKUDI A/C -Fixed Deposit-as on 2026-03-23 24,37,097 24 Lacs+ HDFC Bank PARAMAKUDI A/C-Fixed Deposit as on 2026-03-23 20,30,846 20 Lacs+ Indian Bank PARAMAKUDI A/C (For Election Purpose) 10,000 10 Thou+",
+        "spouse": "SBI Paramakudi AB A/C 26,600 26 Thou+ Union Bank Of India, SB A/C-as on 2026-03-23 1,364 1 Thou+ Indian Bank Paramakudi , SB A/C-as on 2026-03-23 13,666 13 Thou+ ICICI Bank Paramakudi SB A/C - as on 2026-03-23 1,71,989 1 Lacs+ IOB Bank Paramakudi A/C- as on 2026-03-23 10,02,025 10 Lacs+ Indian Bank Paramakudi A/C 10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Union Bank Of India SB A/C- as on 2026-03-23 0 ICICI Bank Paramakudi SB A/C - as on 2026-03-23 1,120 1 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Telephone Deposit 1,200 1 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TN 65 AX 1111, Toyota Innova Crista Car-2017 20,00,000 20 Lacs+ TN 65 AJ 1111, Maruti Suzuki Breeza Car-2016 9,00,000 9 Lacs+",
+        "spouse": "TN 65 BW 3237, Maruti Suzuki Ciaz Car-2022 15,00,000 15 Lacs+ TN 65 BW 6064, Hyundai Car-2024 9,00,000 9 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold Jewellery-1205 gram 1,64,60,300 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Hospital Equipments and Furniture 3,00,000 3 Lacs+",
+        "spouse": "Indian Medical Stocks and Furniture 1,50,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Ramanathapuram District, Paramakudi taluk,Kuttuparamakudi Group-Survey No- 280/15,24-plot no-36 Total Area 1200 Sqft Built Up Area Whether Inherited N Purchase Date 2020-05-11 Purchase Cost 138000.00 Development Cost 0.00 10,80,000 10 Lacs+ Kuttuparamakudi Group-Survey No-280/15,24, plot no-37 Total Area 1200 Sqft Built Up Area Whether Inherited N Purchase Date 2020-05-11 Purchase Cost 138000.00 Development Cost 0.00 10,80,000 10 Lacs+ Kuttuparamakudi Group-Survey No-280/14C, plot no-42 Total Area 1200 Sqft Built Up Area Whether Inherited N Purchase Date 2019-09-18 Purchase Cost 138000.00 Development Cost 0.00 10,80,000 10 Lacs+ Kuttuparamakudi Group-Survey No-280/280/14C, plot no-43 Total Area 1200 Sqft Built Up Area Whether Inherited N Purchase Date 2019-09-18 Purchase Cost 138000.00 Development Cost 0.00 10,80,000 10 Lacs+ Kuttuparamakudi Group-Survey No-280/14C, plot no-44 Total Area 1552 sqft Built Up Area Whether Inherited N Purchase Date 2019-11-08 Purchase Cost 178000.00 Development Cost 0.00 13,96,800 13 Lacs+ Kuttuparamakudi Group-Survey No-280/-plot no-45 Total Area 1495 sqft Built Up Area Whether Inherited N Purchase Date 2019-11-08 Purchase Cost 171925.00 Development Cost 0.00 13,45,500 13 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "D.No 3/598-1, 3-598-2, 3/593, 3/421, Bagavathsing Road Madurai To Rameswaram Road T.S.No Ward G Block 29, T.S.No 122 and 123/I, in Paramakudi Town 1065 3/4 Sqft Total Area 950 Sq ft Built Up Area Whether Inherited N Purchase Date 2002-01-28 Purchase Cost 470000.00 Development Cost 2000000.00 94,00,000 94 Lacs+ Plot No.11, SenBaga Nagar T.S.No 9/17, Ward D Block 23 in Kodaikanal 4100 Sqft Total Area 2200 Sqft Built Up Area Whether Inherited N Purchase Date 2019-08-03 Purchase Cost 1040000.00 Development Cost 4000000.00 1,00,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Door No:Old No 266, New No 3/845-A-3 Bharathi Nagar Main Road, T.SNo 31/1B Ward G Block 24 In Paramakudi Town Total Area 1679 Sqft Built Up Area 1500 Sqft Whether Inherited N Purchase Date 1994-06-13 Purchase Cost 120000.00 Development Cost 1778192.00 77,00,000 77 Lacs+ 2.S No.176/1 Plot No 8A Rajakilpakum Tambaram Chennai Total Area 1937.5 Sqft Built Up Area 1539 Sqft Whether Inherited N Purchase Date 2023-04-28 Purchase Cost 5500000.00 Development Cost 3539700.00 1,00,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "By lease agreement Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 12,00,000 12 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "HDFC Bank Chennai Loan (Land Purchase) Loan A/C 40,00,000 40 Lacs+ HDFC Bank Chennai Loan (Construction ) Loan A/C 60,00,000 60 Lacs+",
+      "spouse": "IOB Paramakudi- Gold Loan A/C 15,00,000 15 Lacs+ Gold Loan A/C-IOB Paramakudi 25,00,000 25 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 19,80,460 | 2023 - 2024: Rs 19,81,740 | 2022 - 2023: Rs 16,66,340 | 2021 - 2022: Rs 16,80,410 | 2020 - 2021: Rs 17,00,040"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 9,14,200 | 2023 - 2024: Rs 8,68,380 | 2022 - 2023: Rs 7,32,580 | 2021 - 2022: Rs 6,29,180 | 2020 - 2021: Rs 11,94,010"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "Cr.No. 133/2026 (U/S 126(2),189(2) BNS); Cr.NO.73/2019 (U/S 143, 285 IPC And 177 M.V Act); Cr.NO.224/2018 and PRC .NO:69/2025 (U/S 147,148,504, IPC and 3 of TNPPDL Act 1984); Cr.NO.45/2019 (U/S 143, 285 IPC And 177 M.V Act) (Acquitted on 18.02.26, but status in PVR report is pending)",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Negligent conduct with respect to fire or combustible matter (IPC Section-285)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Intentional insult with intent to provoke breach of the peace (IPC Section-504)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr.No-133/2026-Paramakudi Town Police Station, Ramanathapuram District",
+          "case_no": "Cr.No-133/2026",
+          "court": "Judicial Magistrate Court, Paramakudi, Ramanathapuram District",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Cr.No. 73/2019, Kenikarai Police Station, Ramanathapuram District",
+          "case_no": "Cr.No-73/2019",
+          "court": "J.M.-II Ramanathapuram Ramanathapuram District",
+          "law_type": "IPC",
+          "ipc_sections": "143, 285",
+          "other_details": "Section- 177 MV Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Cr.No 224/2018-Kamudhi Police Station, Ramanathapuram District",
+          "case_no": "Cr.No-224/2018 and PRC No:69/2025",
+          "court": "Judicial Magistrate Court Kamudhi, Ramanathapuram District",
+          "law_type": "IPC",
+          "ipc_sections": "147,148, 504",
+          "other_details": "Section- 3 of TNPPDL Act 1984",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 7,62,37,471 ~7 Crore+",
+    "Liabilities:": "Rs 1,40,00,000 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹35,178,518, but 5-year family income is only ₹13,347,340. Unexplained wealth discrepancy of ₹21,831,178."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2020 for ₹138,000 (CII Indexed Cost: ₹172,385) is declared at highly inflated value of ₹1,080,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Commercial Buildings purchased in 2002 for ₹470,000 (CII Indexed Cost: ₹1,683,048) is declared at highly inflated value of ₹9,400,000."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹40,678,518) does not match declared total assets (₹76,237,471). Difference: ₹35,558,953"
+    }
+  ]
+}

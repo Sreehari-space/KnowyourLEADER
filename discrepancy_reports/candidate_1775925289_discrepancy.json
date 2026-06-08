@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775925289",
+    "candidate_name": "N. Raj alias Buddha Raj",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "Independent",
+    "constituency": "12- Perambur, Tamil Nadu",
+    "pan": "NIL",
+    "phone": "9962982422",
+    "email": "NIL",
+    "address": "No.225, C Kalyanapuram, Vyasarpadi, Chennai 600 039",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Fifth standard, Chennai Corporation Middle School, Kalyanapuram, year 1985",
+    "profession": "Auto Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 40000.0,
+    "total_liabilities_xls": 2610000.0,
+    "net_worth_xls": 2570000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905214",
+    "candidate_name": "Mo. Arunkumar",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "100 Modakkurichi Assembly Constituency",
+    "pan": "AJUPA3404F",
+    "phone": "9842433561",
+    "email": "sm.arun1@gmail.com",
+    "address": "Door No. 29, Sellappa Goundanvalasu, Elumathur Post, Erode District - 638 104",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc, (Computer Technology) from K.S.R. Engineering College, Thiruchengode - 2003",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15393500.0,
+    "total_liabilities_xls": 1131380.0,
+    "net_worth_xls": 14262120.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

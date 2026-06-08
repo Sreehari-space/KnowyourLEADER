@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918758",
+    "candidate_name": "Mr. J. Santhosh Kumar",
+    "candidate_name_json": null,
+    "age": "26",
+    "party": "Independent",
+    "constituency": "137, Kulithalai Assembly Constituency, Tamil Nadu",
+    "pan": "IKLPS3905M",
+    "phone": "8883689300, 8940420489",
+    "email": "advsanthoshklt@gmail.com",
+    "address": "41, MBS Agraharam, Kulithalai Town, Kulithalai Taluk, Karur District-639104",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., LLB., (Hons) 2021 (5 Year Integrate Laws) Vels University, Chennai",
+    "profession": "Individual lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 810000.0,
+    "total_liabilities_xls": 1500000.0,
+    "net_worth_xls": 690000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

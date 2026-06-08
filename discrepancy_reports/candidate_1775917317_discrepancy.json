@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917317",
+    "candidate_name": "Dr. Jayanthi R",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Independent",
+    "constituency": "Poovirundavalli, Tamil Nadu",
+    "pan": "AQPPJ8310B",
+    "phone": "9003151700, 9176797479",
+    "email": "vetrrijayanthi@gmail.com",
+    "address": "38 Easwaran Kovil Street, Kodumanivakkam, Mangadu, Chennai-600122",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (1991, S.V.G.H.S. School, Poonamallee), HSC (1993, S.V.G.H.S. School, Poonamallee), UG (1996, J.B.A.S.W.college, Teynampet), PG (2010, M.K.U, Madurai), M.Phil (2011, UNOM, Chepauk), Ph.D (2024, UNOM, Chepauk), NET (2011, UGC, New Delhi)",
+    "profession": "Homemaker, Unemployed Graduate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 595000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 595000.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

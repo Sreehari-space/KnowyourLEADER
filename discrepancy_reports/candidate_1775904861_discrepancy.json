@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904861",
+    "candidate_name": "Ra. Thavamani",
+    "candidate_name_json": null,
+    "age": "34",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "67 Arani, Tamil Nadu",
+    "pan": "FEZPD7767H",
+    "phone": "9487124173",
+    "email": "ramesu37@gmail.com",
+    "address": "391, Kannadasan Street, Sakthi Nagar, Chettupattu Road, Arani Taluk, Tiruvannamalai District, 632317",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.B.A (2014) from Ganathipathy Tulsi's Jain Engineering College, Kaniyampadi, Vellore",
+    "profession": "Not specified"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1538501.68,
+    "total_liabilities_xls": 1547929.0,
+    "net_worth_xls": 9427.319999999832,
+    "cash_xls": 35000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

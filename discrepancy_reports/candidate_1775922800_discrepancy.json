@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922800",
+    "candidate_name": "G.NARENDRAKUMAR",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "INDEPENDENT CANDIDATE",
+    "constituency": "135-KARUR, TAMIL NADU",
+    "pan": "BMLPN7149D",
+    "phone": "7871796955",
+    "email": "naren.gunaseker@gmail.com",
+    "address": "3A, SOUTH STREET, PASUPATHIPALAYAM, PASUPATHIPALAYAM POST, KARUR TALUK, KARUR DISTRICT-639004.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A.L.L.B., (Dr. Ambedkar Global Law Institute, Tirupathi) A.Year 2013-2018",
+    "profession": "ADVOCATE"
+  },
+  "financial_summary": {
+    "total_assets_xls": 365000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 365000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

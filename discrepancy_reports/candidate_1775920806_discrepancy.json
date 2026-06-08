@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920806",
+    "candidate_name": "M. தளபதிமுருகன்",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "சுயேட்சை",
+    "constituency": "திருநெல்வேலி சட்டமன்ற தொகுதி",
+    "pan": "CQLPM2353M",
+    "phone": "9245216688",
+    "email": "thalapathymurugan1212@gmail.com",
+    "address": "1, செல்வி அம்மன் கோவில் தெரு, மதுரை ரோடு, திருநெல்வேலி சந்திப்பு, திருநெல்வேலி மாவட்டம் - 627001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8ஆம் வகுப்பு, நகராட்சி நடுநிலைப்பள்ளி, மேகலிங்கபுரம், திருநெல்வேலி - 627001, முடித்த ஆண்டு–ஏப்ரல் 1987",
+    "profession": "வியாபாரம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2831385.54,
+    "total_liabilities_xls": 20000.0,
+    "net_worth_xls": 2811385.54,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

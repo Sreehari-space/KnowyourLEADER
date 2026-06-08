@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909726",
+    "candidate_name": "M.Ravanana",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "Ruling People's Party",
+    "constituency": "150-Jayankondam, Tamil Nadu",
+    "pan": "AGCPR1248R",
+    "phone": "9786312450",
+    "email": "ravananmahalingam1967@gmail.com",
+    "address": "103, Mariamman Kovil Street, Asaveerankudikadu Village & Post, Ariyalur Taluk, Ariyalur District, P.O. No. 621 719",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "D.T.Ed., - Chennai Egmore Teacher Training School. March 93 SSLC +2 1985 Period: 1985-87",
+    "profession": "Teacher (D.T.Ed.)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 119300.0,
+    "total_liabilities_xls": 870000.0,
+    "net_worth_xls": 750700.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

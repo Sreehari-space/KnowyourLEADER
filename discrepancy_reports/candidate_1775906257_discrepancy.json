@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906257",
+    "candidate_name": "ந.கிருஷ்ணகுமார்",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "நாம் தமிழர் கட்சி",
+    "constituency": "174 தஞ்சாவூர் சட்ட மன்ற தொகுதி, தமிழ்நாடு சட்டப்பேரவை",
+    "pan": "AOZPK9266R",
+    "phone": "9443005443",
+    "email": "NIL",
+    "address": "31 சாலியத்தெரு, அம்மாப்பேட்டை, 614401, பாபநாசம் தாலுக்கா, தஞ்சாவூர் மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., இடைநிறுத்தம், AVVM ஸ்ரீ பூண்டி புஷ்பம் கல்லூரி, பூண்டி, தஞ்சாவூர் மாவட்டம், படிப்பு முடித்த ஆண்டு 1999-2000",
+    "profession": "விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6090000.0,
+    "total_liabilities_xls": 973000.0,
+    "net_worth_xls": 5117000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (9 case(s))",
+    "case_numbers_xls": "1418/2020 (Thanjavur, Ammapettai PS); 1286/2020 (Thanjavur, Ammapettai PS); 11/2020 (Thanjavur, Ammapettai PS); 237/2019 (Thanjavur, Ammapettai PS); 986/2024 (Thanjavur, Ammapettai PS); 32/2021 (Thanjavur, Ammapettai PS); 65/2020 (Ayyampettai PS); Cr.No. 11/2020 (First Additional District and Sessions Court, Thanjavur); SSC No.56/2020 (First Additional District and Sessions Court, Thanjavur)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

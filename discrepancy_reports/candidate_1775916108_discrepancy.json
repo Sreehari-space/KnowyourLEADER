@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916108",
+    "candidate_name": "Ira. Tamilvendhan",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Independent",
+    "constituency": "160 Sirkali Constituency, Tamil Nadu",
+    "pan": "ASEPT9531B",
+    "phone": "8526845731",
+    "email": "venthant005@gmail.com",
+    "address": "22-1, Nangur, Narayanapuram, Thiruvali Post -609 109, Sirkali Taluk, Mayiladuthurai District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma in Mechanical Engineering., Muthiah polytechnic, Chidambaram - 2012",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 109000.0,
+    "total_liabilities_xls": 274518.0,
+    "net_worth_xls": 165518.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "322/2022; 147/2018",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

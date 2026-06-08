@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905743",
+    "candidate_name": "Pa. Sathya",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "Thiruvottiyur, Tamil Nadu (Constituency No. 10)",
+    "pan": "BUUPS7912Q",
+    "phone": "9345103034",
+    "email": "thiruvottiyursathya@gmail.com",
+    "address": "113 Valluvar Nagar 7th Street, Ennore, Chennai 600057",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Tenth Grade, Kathivakkam Government Higher Secondary School, 1999-2000",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15960500.0,
+    "total_liabilities_xls": 4101300.0,
+    "net_worth_xls": 11859200.0,
+    "cash_xls": 16000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

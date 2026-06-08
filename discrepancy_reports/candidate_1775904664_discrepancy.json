@@ -1,0 +1,407 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904664",
+    "candidate_name": "AASSAN MAULAANA",
+    "candidate_name_json": "AASSAN MAULAANA J.M.H",
+    "age": "42",
+    "party": "INDIAN NATIONAL CONGRESS",
+    "constituency": "26, Velachery Assembly Constituency, Tamil Nadu",
+    "pan": "ABIPH1671F",
+    "phone": "7900066666",
+    "email": "hassanmoulana@yahoo.com",
+    "address": "166, Peters Road, Royapettah, Chennai – 600 014",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "M.B.A., from New College Institute of Management, Chennai, in the year 2005",
+    "profession": "Landlord and Businessman"
+  },
+  "financial_summary": {
+    "total_assets_xls": 158116050.0,
+    "total_liabilities_xls": 96453218.0,
+    "net_worth_xls": 61662832.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "5,00,000 5 Lacs+",
+        "spouse": "10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "IOB Peters Road Chennai 1,95,368 1 Lacs+ AU Small Bank Anna Salai Chennai 26,213 26 Thou+ IOB Theni Branch SB 84,751 84 Thou+ Canara Bank Bodi 47 SBI Balaji Nagar CH 14 18,311 18 Thou+",
+        "spouse": "Indian Bank Sivakasi 1,68,822 1 Lacs+ Indian Overseas Bank Peter Road Royapettah 5,136 5 Thou+ City Union Bank Sivakasi 9,03,785 9 Lacs+",
+        "huf": "Nil",
+        "dependent1": "AU Small Finance Bank 5,400 5 Thou+ AU Small Finance Bank 1,50,000 1 Lacs+",
+        "dependent2": "AU Small Finance Bank 52,000 52 Thou+ AU Small Finance Bank 4,00,000 4 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "69,27,582 69 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "33,77,935 33 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold 100svgn 0*(Value Not Given)",
+        "huf": "Nil",
+        "dependent1": "Gold 42.15svgn 45,52,000 45 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "48,500 48 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Ganayar Village Thiruvallur Dt. Sy No.439, 259/2B, 267, 524/1B2, 576 Total Area 5.69Acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 7500000.00 Development Cost 0.00 32,40,000 32 Lacs+ Uthandi Village Kanchipuram Dt Sy No.50/3, 60/1, 60/2, 60/3, 59/5, 53/1, 53/2, 53/4, 50/3c Total Area 0.88Acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,24,21,800 1 Crore+ Punganur Village Yelagiri Dt Sy No.45/1B Total Area 0.36Acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 5,14,800 5 Lacs+ Padianalur Village Thiruvallur Dt Sy No.92/4A Total Area 0.33Acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 30,88,800 30 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Allotment Of Vacnt Site Under Lease Cum Sale By TNHB At, Naravarikuppam Village Red Hills PonneriTK, Thiruvallur Dt Sy No.331 Total Area 1554Sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 1850000.00 Development Cost 0.00 4,27,200 4 Lacs+ Vacant Land At Karuvelnaickan Patti Periyakulam Theni Dt Sy No.195/1 Total Area 4410.75Sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 25,20,000 25 Lacs+ Vacant Land At Karuvelnaickan Patti Periyakulam Theni Dt Sy No.195/2 Total Area 4306.50Sqft Built Up Area Whether Inherited N Purchase Date 2008-05-20 Purchase Cost 0.00 Development Cost 0.00 24,00,000 24 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Ondikuppam Thiruvotriyur, Ch Sy No.220/1 Total Area 2400Sqft Built Up Area 1800Sqft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 8000000.00 Development Cost 2000000.00 1,56,00,000 1 Crore+ 1/3 UDS At 86/1 Anna Salai Ch-2 Sy No.192 Total Area 5700Sqft Built Up Area 5700Sqft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,40,00,000 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "1. Mada Church Road Royapuram Chennai 13 35% Share Sy No.119/7- Property 1 - 21-08-1985 2. Jinnah Street Alandur Chennai 600 016 Sy No.80, 3117Sqft, Property 2 - 25-08-1989, 3. No 1A, 1B, 1st Floor Castle Street Bangalore Sy No.148/3, 1400Sqft, Property 3-20-05-1985, 4.25% Share In 9th Street Sivakamiamal Colony Erukanchery Chennai Sy No.151, 12400Sqft , Property 4-14-07-1995. 5.25% Share In Vacnt Land At MKB Nagar Sy No.9/2, 12000Sqft, Property 5 - 18-08-2002 Property 6 - 03.11.2025 Property 7-23.05.1998 Property 8-30.06.1999 Property 9- 25.08.2021 Property 10-20.04-1995 Total Area 5217Sqft Built Up Area 11500Sqft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 35037000.00 Development Cost 4700000.00 7,03,37,000 7 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Name of the Bank of financial institution, Amount outstanding, Nature of Loan - IOB, PETERS ROAD, ROY APETTAH, CH 600 014. CLEAN LONE 1,83,355 1 Lacs+ Vehicle Loan with IOB 7,79,656 7 Lacs+ Vehicle Loan With SBI 14,65,580 14 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Income tax dues AY 2011-12 RS 4,76,499 AY 2016-17 RS 98,93,466 AY 2016-17 RS 6,59,58,270 AY 2017-18 RS 1,76,57,71 APPEALS PENDING 9,39,95,953 9 Crore+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "28,674 28 Thou+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 41,83,610 | 2023 - 2024: Rs 33,48,180 | 2022 - 2023: Rs 34,11,620 | 2021 - 2022: Rs 20,31,380 | 2021 - 2022: Rs 19,37,840"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 8,91,840 | 2023 - 2024: Rs 9,10,530 | 2022 - 2023: Rs 9,43,620 | 2021 - 2022: Rs 9,40,990 | 2020 - 2021: Rs 8,90,520"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "Cr 28/2021/ F1, Chindadripet; Cr 1055/2019, D2, Anna Salai; Cr 401/2019, J4, Kotturpuram; Cr 238/2018/ F1, Chintadripet",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "4 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "2 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Negligent conduct with respect to fire or combustible matter (IPC Section-285)",
+        "1 charges related to Joining or continuing in unlawful assembly, knowing it has been commanded to disperse (IPC Section-145)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr. No. 28/2021/F1, Chindadripet",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Cr. No. 1055/2019, D2 Anna Salai",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 285",
+          "other_details": "Section 74 TNP Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Cr. No. 401/2019, J4, Kotturpuram",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 145,",
+          "other_details": "Section 41 TNCP",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Cr. No. 238/2018, F1, Chintadripet",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 353",
+          "other_details": "Section 41(6)",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 16,32,75,450 ~16 Crore+",
+    "Liabilities:": "Rs 9,64,53,218 ~9 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹4,609,400 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹105,941,807) does not match declared total assets (₹163,275,450). Difference: ₹57,333,643"
+    }
+  ]
+}

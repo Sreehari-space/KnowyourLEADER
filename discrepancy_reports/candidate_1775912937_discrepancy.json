@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912937",
+    "candidate_name": "பா. எழில்வேந்தன்",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "சுயேட்சை",
+    "constituency": "157. புவனகிரி, தமிழ்நாடு",
+    "pan": "AAFPE6166L",
+    "phone": "9443084996",
+    "email": "none / இல்லை",
+    "address": "29,புதுபிள்ளையார் கோவில் தெரு, மேல்புவனகிரி-608601 கடலூர் மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "H.S.C (+2) (1983-84)",
+    "profession": "தொழில்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 14793540.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 14793540.0,
+    "cash_xls": 19178.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

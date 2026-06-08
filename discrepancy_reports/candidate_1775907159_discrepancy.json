@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907159",
+    "candidate_name": "Divya",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "136 - Krishnarayapuram (Individual), Tamil Nadu",
+    "pan": "AYAPD8725H",
+    "phone": "8248116461",
+    "email": "divyasushilk@gmail.com",
+    "address": "1A, North Pradakshanam Road, Ramakrishnanpuram, Sengunthapuram Post, Karur Town, Karur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MBBS, MS(OG) from Tamil Nadu Dr. M.G.R. Medical University, Chennai (2011) and Utkal University of Culture, Odisha (2017)",
+    "profession": "Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 952331304.0,
+    "total_liabilities_xls": 2650000.0,
+    "net_worth_xls": 949681304.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "237/2026 (Karur Nagar Police Station); 238/2026 (Karur Nagar Police Station); 117/2026 (Thanthonimalai, Karur District Police Station)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

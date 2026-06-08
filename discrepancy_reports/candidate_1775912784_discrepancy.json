@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912784",
+    "candidate_name": "S. Rayappan",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "Tamilaga Valvurimai Katchi",
+    "constituency": "028 - Alandur",
+    "pan": "AJVPR4347R",
+    "phone": "8939890545",
+    "email": "fbsroyappans@gmail.com",
+    "address": "16, Perumal Kovil Street, Jyothinagar, Paraniputhur, Tamil Nadu-600122",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A. Loyola College, Madaras University, April 2001",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1100500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1100500.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922956",
+    "candidate_name": "M. Marnadu",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "Independent",
+    "constituency": "Tiruchuli (208)",
+    "pan": "HWCPM1938Q",
+    "phone": "9787494346",
+    "email": "NIL",
+    "address": "3, Keelatheru, Aviyur Village, Kariapatty Taluk, Virudhunagar District 626 106",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard, Government Higher Secondary School, Aviyur. 1987.",
+    "profession": "Mason"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1627763.0,
+    "total_liabilities_xls": 325000.0,
+    "net_worth_xls": 1302763.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

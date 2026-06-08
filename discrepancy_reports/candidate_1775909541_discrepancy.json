@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909541",
+    "candidate_name": "A.GANESHKUMAR",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Pattali Makkal Katchi",
+    "constituency": "70. Gingee Assembly Constituency, Tamil Nadu",
+    "pan": "AFHPG9615H",
+    "phone": "9965241111",
+    "email": "gingeemla@gmail.com",
+    "address": "4, Vaigai Street, Kalakshetra Colony, Besant Nagar, Chennai - 600 090",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (1999), HSC (2001), Bachelor of Engineering (Mechanical Engineering) Anna University (2005), Master of Engineering (Mechanical Engineering) Anna University (2015), Doctor of Philosophy (Phd) Anna University, Chennai (2023)",
+    "profession": "Business and Trustee of Educational Institution"
+  },
+  "financial_summary": {
+    "total_assets_xls": 143080510.0,
+    "total_liabilities_xls": 7620529.0,
+    "net_worth_xls": 135459981.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "CR.No.69/2024 (U/s. 143, 447, 341, 290, 153 of IPC)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

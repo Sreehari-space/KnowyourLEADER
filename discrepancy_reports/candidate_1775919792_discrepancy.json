@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919792",
+    "candidate_name": "P Uma",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Independent",
+    "constituency": "Coimbatore Singanallur Assembly Constituency, Tamil Nadu",
+    "pan": "ACLPU7761K",
+    "phone": "9999239535",
+    "email": "umaparamasivam5@gmail.com",
+    "address": "o Paramasivam, Door No. 85, 7th Cross, Thirumagal Nagar, Peelamedu Pudur, Coimbatore District - 641 004",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MA Economics - Indira Gandhi National Open University (2021)",
+    "profession": "பொருந்தாது"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2400000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2400000.0,
+    "cash_xls": 3000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906096",
+    "candidate_name": "S. Raj",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "Bahujan Samaj Party",
+    "constituency": "63 - General Constituency, Tiruvannamalai, Tamil Nadu",
+    "pan": "APCPR9135C",
+    "phone": "8489183474",
+    "email": "NIL",
+    "address": "No. 518, Adaiyur (Village), Ward 4 Kanchi Road East, Tiruvannamalai-606 604, Tiruvannamalai Taluk, Tiruvannamalai District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1631000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1631000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

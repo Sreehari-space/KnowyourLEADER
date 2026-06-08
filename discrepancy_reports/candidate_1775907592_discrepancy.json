@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907592",
+    "candidate_name": "Dr C. NAGESH KUMAR",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Bhartiya Janata Party (BJP)",
+    "constituency": "Thalli (56), Tamil Nadu",
+    "pan": "ANFPN9801J",
+    "phone": "9047160497",
+    "email": "nageshkumar080@gmail.com",
+    "address": "No. 108, Govt. Hospital Street, Thalli (Vill & Po) – 635 118, Denkanikottai Taluk, Krishnagiri District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MBA from Pondicherry University, Pondicherry (2017)",
+    "profession": "Medical Practitioner (Physician)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 25998023.0,
+    "total_liabilities_xls": 11015644.0,
+    "net_worth_xls": 14982379.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

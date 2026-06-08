@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907825",
+    "candidate_name": "Soundarapaandiyan Luder Seth",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "நாம் தமிழர் கட்சி",
+    "constituency": "No.13, Kolathur Assembly Constituency, Tamil Nadu",
+    "pan": "GJRPS2496L",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "84, Saleem Lotus Flats, Sathyamurthy Street, Devaraj Nagar, Saligramam, Chennai-600 093",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc. LLB (Bachelor of Science, Bachelor of Laws) Bachelor of Science and Bachelor of Law - St. John's College, Palayamkottai, 1993. Bachelor of Law - KKC Law College, Puthur, Andhra Pradesh, 2013.",
+    "profession": "Individual Acupuncturist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5183137.0,
+    "total_liabilities_xls": 953210.0,
+    "net_worth_xls": 4229927.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913900",
+    "candidate_name": "A. NEWTON",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Puthiya Tamizhagam",
+    "constituency": "139 Srirangam Assembly Constituency",
+    "pan": "AOBPN6282Q",
+    "phone": "9944247930",
+    "email": "newtonsafee15@gmail.com",
+    "address": "No.503, Malaimatha Kovil Street, Neykuppai Post, Lalgudi Taluk, Tiruchirappalli District - 621 111",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BA, LLB, Sri Venkateswara University, Andhra Pradesh State - Year 2021",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 710000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 710000.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

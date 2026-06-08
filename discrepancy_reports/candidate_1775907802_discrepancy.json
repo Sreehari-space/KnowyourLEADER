@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907802",
+    "candidate_name": "O.S. MANIAN",
+    "candidate_name_json": null,
+    "age": "72",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "165 Vedaranyam, Tamil Nadu",
+    "pan": "AAKPM7871P",
+    "phone": "7604906711",
+    "email": "osmmp2010@gmail.com",
+    "address": "54, Karaivaikkal Nallar Road, Oradiyambulam, Thalaignayiru 3rd Sethi, Vedaranyam Taluk, Nagapattinam District.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Pre-University Course, Khader Mohideen College, Adirampattinam 1972",
+    "profession": "Agriculture, Former Member of Parliament and State Legislature, Former Minister, Currently Member of Legislative Assembly"
+  },
+  "financial_summary": {
+    "total_assets_xls": 22283805.42,
+    "total_liabilities_xls": 3284220.0,
+    "net_worth_xls": 18999585.42,
+    "cash_xls": 1500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

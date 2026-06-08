@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905388",
+    "candidate_name": "கு.பிச்சாண்டி",
+    "candidate_name_json": null,
+    "age": "71",
+    "party": "திராவிட முன்னேற்ற கழகம்",
+    "constituency": "64-கீழ்பென்னாத்தூர் சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "ALNPK9115A",
+    "phone": "9443219999",
+    "email": "pichandi.s.k@gmail.com",
+    "address": "165, Chengam Road, Tiruvannamalai Town, Tiruvannamalai District-606603",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "எம்.ஏ., மைசூர் பல்கலைக்கழகம்,1991",
+    "profession": "சட்டமன்ற உறுப்பினர் மற்றும் விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 308160950.0,
+    "total_liabilities_xls": 4545650.0,
+    "net_worth_xls": 303615300.0,
+    "cash_xls": 112450.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

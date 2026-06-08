@@ -1,0 +1,404 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917062",
+    "candidate_name": "N.P. Baskaran",
+    "candidate_name_json": "N P BHASHGARAN",
+    "age": "56",
+    "party": "Independent",
+    "constituency": "163, Nagapattinam, Tamil Nadu",
+    "pan": "BXKPB2838P",
+    "phone": "9578959245",
+    "email": "nppnagai@gmail.com",
+    "address": "6 Sattaiyappar Melaveethi, Nagapattinam Town, Nagapattinam Taluk, Nagapattinam District, 611001",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Standard, Government Higher Secondary School, Koradacheri (Passed Private Exam in 1986)",
+    "profession": "Individual business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2875496.64,
+    "total_liabilities_xls": 1556000.0,
+    "net_worth_xls": 1319496.64,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "25,000 25 Thou+",
+        "spouse": "5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Union Bank Nagapattinam 2,286 2 Thou+",
+        "spouse": "Tamil Nadu Mercantile Bank 21,245 21 Thou+ Nagapattinam Indian Oversease Bank 2,423 2 Thou+ The Kumbokonam Central Cooperative Bank, Nagapattinam 7,041 7 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "City Union Bank 11,000 11 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Nagail Policy 1,00,000 1 Lacs+",
+        "spouse": "PACL India Limited 30,000 30 Thou+ PACL India Limited 50,000 50 Thou+ PACL India Limited 22,500 22 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Sandhya LIC Policy 1,00,000 1 Lacs+ Mail office Selva Daugther Project 1,88,839 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Activa, TN51AR6075 50,000 50 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Pleasure, TN51AQ9469 50,000 50 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold, 250 gms 25,00,000 25 Lacs+ Silver 300 gms 60,000 60 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Union Bank Nagapattinam Jewelary Loan 1,80,000 1 Lacs+",
+      "spouse": "Tamil Nadu Mergan Tile Bank Nagapattinam 3,43,000 3 Lacs+ Indian Bank Ngapattinam 4,77,000 4 Lacs+ Indian Bank Ngapattinam 2,70,000 2 Lacs+ Indian Bank Ngapattinam 2,86,000 2 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "CC 85/2025 (Crime No.02/2022); Special SC 22/2023 Crime No.123/2023; STC 1413/2022 Crime No.144/2022; Crime No. 118/2022",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "1 charges related to Criminal breach of trust by public servant, or by banker, merchant or agent (IPC Section-409)",
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Forgery for purpose of cheating (IPC Section-468)",
+        "2 charges related to Obstructing public servant in discharge of public functions (IPC Section-186)",
+        "1 charges related to Punishment for forgery (IPC Section-465)",
+        "1 charges related to Using as genuine a forged document or electronic record (IPC Section-471)",
+        "1 charges related to Punishment for assault or criminal force otherwise than on grave provocation (IPC Section-352)",
+        "1 charges related to False information, with intent to cause public servant to use his lawful power to the injury of another person (IPC Section-182)",
+        "1 charges related to Threat of injury to public servant (IPC Section-189)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No. 02/2022 District Crime Branch Nagapattinam",
+          "case_no": "CC 85/2025",
+          "court": "JM-I Nagapattinam",
+          "law_type": "IPC",
+          "ipc_sections": "409, 420, 465, 468, 471",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "21 Apr 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No. 123/2023 Police Station Velipalayam Nagapattinam",
+          "case_no": "Special SC 22/2023",
+          "court": "JM-II Nagapattinam",
+          "law_type": "IPC",
+          "ipc_sections": "186, 506(1)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "11 Oct 2022",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No. 144/2022 Police Station Velipalayam Nagapattinam",
+          "case_no": "STC 1413/2022",
+          "court": "District Court Nagapattinam",
+          "law_type": "IPC",
+          "ipc_sections": "294B, 352, 506(1)",
+          "other_details": "Section 3(1)(R), 3(1)(S) PCR",
+          "charges_framed": "Yes",
+          "charges_date": "10 Oct 2023",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Crime NO. 118/2022 Police Station Velipalayam Nagapattinam",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "182, 186, 189, 506(1)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 32,25,335 ~32 Lacs+",
+    "Liabilities:": "Rs 15,56,000 ~15 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "550.0g gold declared at ₹2,500,000 (Implied rate: ₹4,545/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹2,894,531) does not match declared total assets (₹3,225,335). Difference: ₹330,804"
+    }
+  ]
+}

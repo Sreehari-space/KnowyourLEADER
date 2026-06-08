@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906247",
+    "candidate_name": "Chinnadurai",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "Bahujan Samaj Party (BSP)",
+    "constituency": "150-Jayankondam, Tamil Nadu",
+    "pan": "COVPC8994J",
+    "phone": "9786162419",
+    "email": "cd4061956@gmail.com",
+    "address": "53, South Street, Pilichikuzhi Village & Post, Udayarpalayam Taluk, Ariyalur District, Pincode: 621 804",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "H.Sc. from Govt.Hr.Sec.School, Udayarpalayam (1990-91)",
+    "profession": "Agricultural Laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1173668.9,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1173668.9,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

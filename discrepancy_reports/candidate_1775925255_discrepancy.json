@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775925255",
+    "candidate_name": "Mr. A. Raji alias Raji Anthonysamy",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "Independent",
+    "constituency": "13 – Kolathur Assembly Constituency",
+    "pan": "ALPPA8041H",
+    "phone": "9445217582, 6374314307",
+    "email": "spisocialpartyofindia@gmail.com",
+    "address": "6, Balamurugan Street, Vyasarpadi, Chennai 600 039",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC, Seven Wells High School, Year 1983",
+    "profession": "Civil Contractor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3183000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 3183000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

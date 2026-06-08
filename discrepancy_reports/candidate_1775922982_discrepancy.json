@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922982",
+    "candidate_name": "Deepak.R",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "Independent",
+    "constituency": "026-Velachery Assembly Constituency, Tamil Nadu",
+    "pan": "CLOPD5288A",
+    "phone": "8056032903",
+    "email": "deepakraj3202@gmail.com",
+    "address": "No. 27C, East Coast Road, Thiruvanmiyur, Chennai-600041",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BCA Pass 2016 MADRAS UNIVERSITY Chennai",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6090000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 6090000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

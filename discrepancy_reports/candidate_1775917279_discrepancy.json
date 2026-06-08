@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917279",
+    "candidate_name": "M.S. Uthumanali",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "Independent",
+    "constituency": "184, Karaikudi, Tamil Nadu",
+    "pan": "ACNPU2499L",
+    "phone": "8489467276",
+    "email": "msuthumanali786@gamil.com",
+    "address": "235A, Muslim Street, Puliyal, Puliyal Post, Devakottai Taluk, Sivagangai District - 630 312, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Std. NSMVPS Hr. Sec. School, Devakottai – 1984-1985",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 30000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 30000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

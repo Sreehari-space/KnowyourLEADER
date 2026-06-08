@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922664",
+    "candidate_name": "Mr.A.K.SENTHAMIZH SELVAN",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "INDIVIDUAL",
+    "constituency": "118, COIMBATORE NORTH Constituency",
+    "pan": "EZNPS7450A",
+    "phone": "9941186350",
+    "email": "tamilbepositive@gmail.com",
+    "address": "No.71, 9th Street, Kamaraj nagar, Avadi Thiruvallur, Tamil Nadu-600 071.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A., (SOCIAL WORKS)",
+    "profession": "BUILDER (PROP)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8710155.0,
+    "total_liabilities_xls": 1597650.0,
+    "net_worth_xls": 7112505.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

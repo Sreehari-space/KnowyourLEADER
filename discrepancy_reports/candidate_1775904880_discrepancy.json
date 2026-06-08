@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904880",
+    "candidate_name": "Thanga.Kathiravan",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "163 Nagapattinam Assembly Constituency",
+    "pan": "AACPT4817G",
+    "phone": "9842487322, 9443526848",
+    "email": "thanga.kathir@gmail.com, thanga_kathir@yahoo.com",
+    "address": "Nagapattinam District, Nagapattinam Taluk, Nagapattinam Town, Velippalayam, Public Office Road, Vallalar Nagar, House No. 16",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard CSI Higher Secondary School, Nagapattinam - 1987; B.L., Dr. Ambedkar Government Law College, Chennai - 1992; M.A., University of Madras - 1995; M.L., Annamalai University - 2005",
+    "profession": "Individual Lawyer, Notary, Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 39247888.8,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 39247888.8,
+    "cash_xls": 325000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Nagore Police Station Crime No: 200/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

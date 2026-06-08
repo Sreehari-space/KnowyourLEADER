@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908587",
+    "candidate_name": "M. Thangaraj",
+    "candidate_name_json": null,
+    "age": "67",
+    "party": "அனைத்திந்திய புரட்சித்தலைவர் மக்கள் முன்னேற்றக் கழகம்",
+    "constituency": "கீழ்வைத்தியணாள் குப்பம்",
+    "pan": "AFFPT8484D",
+    "phone": "9444158513",
+    "email": "thangarajmcmda@gmail.com",
+    "address": "128, Dr. B.R. Nagar, Ananthalai Village, Ananthalai Panchayat, Walajapet Taluk, Ranipet District-632513",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A. Sociology - Alagappa University, Chidambaram",
+    "profession": "அரசு ஊழியர் (ஓய்வு)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 13840000.0,
+    "total_liabilities_xls": 52000000.0,
+    "net_worth_xls": 38160000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

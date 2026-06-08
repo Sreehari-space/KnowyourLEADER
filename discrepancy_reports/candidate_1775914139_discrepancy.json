@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914139",
+    "candidate_name": "N. Harikrishnan",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "All India Revolutionary Leader People's Progressive Federation",
+    "constituency": "29, Sriperumbudur, Tamil Nadu",
+    "pan": "AOLPH0124H",
+    "phone": "6381936973",
+    "email": "ஏதுமில்லை / none",
+    "address": "No.229, HRNC Building, Melandai Street, Kundrathur, Chennai-600069",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Third Standard",
+    "profession": "Wage laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 575000.0,
+    "total_liabilities_xls": 40000.0,
+    "net_worth_xls": 535000.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,371 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907907",
+    "candidate_name": "V. MARAGATHAM",
+    "candidate_name_json": "MARAGATHAM VETRIVEL",
+    "age": "50",
+    "party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "060 PAPPIREDDIPATTI",
+    "pan": "AAOPM8990P",
+    "phone": "9585552095",
+    "email": "maragatham1029@gmail.com",
+    "address": "Door No.10 New Thiruppattur Road, Mathikonpalayam, Dharmapuri - 636 702.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Higher Secondary (HSC), Vellammal Hr.Sec. School, Chennai. (MAR-1994)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 225987669.0,
+    "total_liabilities_xls": 28118279.0,
+    "net_worth_xls": 197869390.0,
+    "cash_xls": 325000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "3,25,000 3 Lacs+",
+        "spouse": "4,28,750 4 Lacs+",
+        "huf": "6,82,500 6 Lacs+",
+        "dependent1": "1,25,800 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Federal Bank Dharmapuri Branch As on 31-03-2026 1,89,834 1 Lacs+ HDFC Bank Dharmapuri 9,424 9 Thou+ Indian Bank 724 7 Hund+ Indian Bank 0",
+        "spouse": "Axis Bank Dharmapuri Branch 9,503 9 Thou+",
+        "huf": "Axis Bank Dharmapuri Branch as on 31-03-2026 7,102 7 Thou+",
+        "dependent1": "ICICI Bank Dharmapuri Branch As on 31-03-2026 818 8 Hund+ Indian Bank 1,028 1 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Renuka Modern Rice Mill (Proprietary) 16,50,000 16 Lacs+ Niresh Infrastructure Private Limited 7,50,000 7 Lacs+ Maragatham Chit Funds Pvt Ltd 7,50,000 7 Lacs+",
+        "spouse": "Palacode Sugar Mill-Shares 2,500 2 Thou+",
+        "huf": "Vetri Lodge - HUF 24,50,000 24 Lacs+",
+        "dependent1": "Sri Constructions (Firm) 3,83,433 3 Lacs+ Niresh Infrastructure Pvt Ltd 7,50,000 7 Lacs+ Maragatham Chit Funds Pvt Ltd 7,50,000 7 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Sri Vetri Construcation (firm) 90,00,000 90 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Amphere Two wheeler TN29CF4308 Nov 2025 1,00,000 1 Lacs+",
+        "spouse": "Hyundai Vema TN29BM 7077 Nov 2020 9,70,184 9 Lacs+ Lexus TN29CC4636 Oct 2023 49,44,314 49 Lacs+ Toyota TN29CC5499 Sep 2023 17,81,892 17 Lacs+ Honda Bike TN29BB2333 20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Royal Enfield TN29BM9125 Oct 2020 1,20,000 1 Lacs+ Mahindra EV9E TN29CH5499 Aug 2025 28,00,000 28 Lacs+ Ather Two Wheeler TN29CE1029 Nov 2024 1,00,000 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "1860 Grams 59,15,286 59 Lacs+",
+        "spouse": "1703 Grams Gold 45,76,000 45 Lacs+",
+        "huf": "861 Grams Gold 21,52,500 21 Lacs+",
+        "dependent1": "912 Grams Gold 32,46,560 32 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Semmandakuppa m 349/4 Total Area 1.52 acre Built Up Area Whether Inherited N Purchase Date 2003-08-28 Purchase Cost 49242.00 Development Cost 0.00 9,36,200 9 Lacs+ Semmandakuppa m 349/2 Total Area 1.28 Acre Built Up Area Whether Inherited N Purchase Date 2000-09-22 Purchase Cost 50650.00 Development Cost 0.00 7,93,600 7 Lacs+ Semmandakuppa m 349/3 Total Area 1.50 Acre Built Up Area Whether Inherited N Purchase Date 2024-03-07 Purchase Cost 1020650.00 Development Cost 0.00 10,20,650 10 Lacs+",
+        "spouse": "Semmandakup pam 360/1, 1B Total Area 0.85 acre Built Up Area Whether Inherited N Purchase Date 2014-05-05 Purchase Cost 613800.00 Development Cost 0.00 8,13,800 8 Lacs+ Semmandakup pam 349/3 Total Area 1.50 Acre Built Up Area Whether Inherited N Purchase Date 2024-03-07 Purchase Cost 1027300.00 Development Cost 0.00 10,27,300 10 Lacs+ Vellegoundanpalayam 572/1A, 573/1B Total Area 84 Cents Built Up Area Whether Inherited N Purchase Date 2012-11-27 Purchase Cost 0.00 Development Cost 0.00 25,00,000 25 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Semmandakupp am 349/3 Total Area 1.32 acre Built Up Area Whether Inherited N Purchase Date 2024-03-07 Purchase Cost 930000.00 Development Cost 0.00 9,30,000 9 Lacs+ Nathahalli, 204/7 Total Area 2.50 Acre Built Up Area Whether Inherited N Purchase Date 2020-12-29 Purchase Cost 432000.00 Development Cost 0.00 4,32,000 4 Lacs+ Nathahalli, 827/2B1B Total Area 4.11 Acre Built Up Area Whether Inherited N Purchase Date 2020-12-29 Purchase Cost 1080000.00 Development Cost 0.00 10,80,000 10 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Karadihalli 378/1B & 2. 379/2 Total Area 1.11 Acre Built Up Area Whether Inherited N Purchase Date 2007-09-17 Purchase Cost 89500.00 Development Cost 0.00 5,44,100 5 Lacs+ Melavurkuppam 45/6,7,9,11,10,3,8 Total Area 1981 Sqf Built Up Area Whether Inherited N Purchase Date 2010-01-11 Purchase Cost 1083450.00 Development Cost 0.00 59,58,300 59 Lacs+",
+        "spouse": "Vellegoundanp alayam 573/1A Total Area 21.25 Cents Built Up Area Whether Inherited N Purchase Date 2983-07-05 Purchase Cost 1130000.00 Development Cost 0.00 4,03,750 4 Lacs+ Vellegoundanp alayam 573/1A Total Area 21.25 Cents Built Up Area Whether Inherited N Purchase Date 1983-07-05 Purchase Cost 1130000.00 Development Cost 0.00 4,03,750 4 Lacs+ Vellegoundanp alayam 573/1B Total Area 42.50 Cents Built Up Area Whether Inherited N Purchase Date 1988-06-17 Purchase Cost 7300.00 Development Cost 0.00 4,03,750 4 Lacs+ Nallanahalli 165/12A,165/12D, 167/3, 167/1A1A,168/2,1 68/3A, 168/3B,168/7A1,1 68/1A2A Total Area 8.96 acres Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 5,01,60,000 5 Crore+ Vellegoundanp alayam 573/1A, 573/1B Total Area 1000Sqft Built Up Area Whether Inherited N Purchase Date 2013-10-18 Purchase Cost 220500.00 Development Cost 0.00 2,20,500 2 Lacs+ Vellegoundanp alayam 528/3 Total Area 8575 Sqft Built Up Area Whether Inherited N Purchase Date 2014-12-05 Purchase Cost 2779500.00 Development Cost 500000.00 63,13,000 63 Lacs+ Vellegoundanp alayam Krishnagiri Main Road, 37 Total Area 10098 Sqft Built Up Area Whether Inherited N Purchase Date 1992-02-12 Purchase Cost 57000.00 Development Cost 0.00 95,93,100 95 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Vellegoundanpalayam Kudisai Colony Road Ward 7 TS No 123,50,4 2,82 43,44,45,47,48,81 Total Area 11026 Sqft Built Up Area 2460 Sqft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,35,22,170 1 Crore+ Vellegoundanpalayam Bye Pass Road Ward no 13 SF No 259/3B Total Area 2616 sqft Built Up Area Whether Inherited N Purchase Date 1997-01-07 Purchase Cost 56256.00 Development Cost 200000.00 1,17,10,400 1 Crore+",
+        "spouse": "Vellegoundanpalayam siddha Verrapa Street TS No 55 Ward 20 Total Area 2237 Sqft Built Up Area 11000 Sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,69,02,844 1 Crore+ T.S No 81 Ward C, Block 31 SF No 60/3 Total Area 1254 Sqft Built Up Area 1254 Sqft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 2000000.00 68,00,000 68 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Poonamalle, Chenneerkuppam S.F.No.87/3F2 Total Area 494 Sqft Built Up Area 985 Sqft Whether Inherited N Purchase Date 2013-08-21 Purchase Cost 831910.00 Development Cost 1200000.00 21,00,000 21 Lacs+ Nolambur, Chennai Villivakkam, S.No.219/1B Total Area 5400 Sqft Built Up Area 10500 Sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 4,62,15,000 4 Crore+",
+        "spouse": "Vellegoundanpalayam 518 Total Area 2340 Sqft Built Up Area 2000 Sq ft Whether Inherited N Purchase Date 1998-09-11 Purchase Cost 171000.00 Development Cost 1740000.00 54,89,000 54 Lacs+ Mathikonpalyam kalippan Gounder Street TS no 18/1, 18/2 Total Area 6211 Sqft Built Up Area 5325 sqft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,07,33,044 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Indian Bank Dharmapuri Branch As on 31-03-2026 Agri Jewel Loan 20,72,000 20 Lacs+ Fedral Bank Dharmapuri Branch Agri Loan 3,00,000 3 Lacs+",
+      "spouse": "Indain Bank Dharmapuri Branch As on 31-03-2026 1,15,10,279 1 Crore+ Indian Bank Car Loan 17,94,000 17 Lacs+ Indian Bank Car Loan 49,90,000 49 Lacs+ Indian Bank Roofttop solar 2,26,000 2 Lacs+ Axis Bank Dharmapuri Branch 70,00,000 70 Lacs+ Indian Bank Roofttop solar 2,26,000 2 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Indian Bank Dharmapuri Branch Car Loan As on 31-03-2026 23,67,111 23 Lacs+ India Bank Dharmapuri Jewel Loan 20,56,632 20 Lacs+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 15,66,799 | 2023 - 2024: Rs 14,64,950 | 2022 - 2023: Rs 16,84,914 | 2021 - 2022: Rs 24,34,272 | 2020 - 2021: Rs 33,58,638"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 24,64,610 | 2023 - 2024: Rs 11,91,350 | 2022 - 2023: Rs 9,22,330 | 2021 - 2022: Rs 18,97,390 | 2020 - 2021: Rs 13,89,780"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 12,79,030 | 2023 - 2024: Rs 10,62,940 | 2022 - 2023: Rs 5,18,320 | 2021 - 2022: Rs 1,91,900"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 10,30,070"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 24,19,99,410 ~24 Crore+",
+    "Liabilities:": "Rs 3,25,42,022 ~3 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹52,735,332, but 5-year family income is only ₹19,405,103. Unexplained wealth discrepancy of ₹33,330,229."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2003 for ₹49,242 (CII Indexed Cost: ₹169,862) is declared at highly inflated value of ₹936,200."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Undervaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2983 for ₹1,130,000 (CII Indexed Cost: ₹1,130,000) is severely undervalued at ₹403,750 (potential duty evasion)."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "5336.0g gold declared at ₹10,491,286 (Implied rate: ₹1,966/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'Renuka Modern Rice Mill (Proprietary) 16,50,000 16 Lacs+ Niresh Infrastructure Private Limited 7,50,000 7 Lacs+ Maragatham Chit Funds Pvt Lt..."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹68,684,722) does not match declared total assets (₹241,999,410). Difference: ₹173,314,688"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915238",
+    "candidate_name": "Y.Devappa",
+    "candidate_name_json": null,
+    "age": "62",
+    "party": "Independent",
+    "constituency": "56, Thali Assembly Constituency",
+    "pan": "BZAPD6109F",
+    "phone": "9994150262",
+    "email": "NIL",
+    "address": "113, Chinna Elasagiri, Titan Road, SIPCOT Post, Hosur Taluk-635 126, Krishnagiri District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard - 1979 R.V. Government Boys Higher Secondary School, Hosur",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2523000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2523000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

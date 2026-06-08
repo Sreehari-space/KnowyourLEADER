@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914259",
+    "candidate_name": "Haroon Rasheed",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "18-Thuraipakkam",
+    "pan": "ABOPH8443B",
+    "phone": "9444304550",
+    "email": "hr9444304550@gmail.com",
+    "address": "8, Moottakaran Street, Mannady, Vallal Seethakathi Nagar, Chennai - 600001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.COM - Dr. Zakir Hussain College, Ilayangudi, Sivaganga District. Madurai Kamaraj University - November - 1998",
+    "profession": "Individual Real Estate and Textile Agent"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9189944.49,
+    "total_liabilities_xls": 2566419.6,
+    "net_worth_xls": 6623524.890000001,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

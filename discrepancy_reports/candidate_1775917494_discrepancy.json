@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917494",
+    "candidate_name": "BALAJI R S RAMAYAN SUBRAMANIAN BALAJI",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "Independent",
+    "constituency": "MADAVARAM, Tamil Nadu",
+    "pan": "AHLPB5337R",
+    "phone": "9940452901",
+    "email": "saikrishcs@gmail.com",
+    "address": "NO 6 2 ND STREET RAMAMURTHY NAGER EDAPALAYAM ALAMATHI VILLAGE REDHILLS CHENNAI 600052, Thiruvallur, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "DIPLOMA IN REFRIGERATION AND AIRCONDITIONING, GOVERNMENT TECHNICAL TRAINING CENTER GUINDY CH32, DOTE CH25,2020",
+    "profession": "ELECRO MECHANICAL PLUMBING SERVICE TECHNICIAN,AIRCONDITIONER AND REFRIGERATION TECHNICIAN"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1895000.0,
+    "total_liabilities_xls": 1750000.0,
+    "net_worth_xls": 145000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

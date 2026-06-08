@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917820",
+    "candidate_name": "M.AZARUTHEEN",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "INDEPENDENT",
+    "constituency": "No.32-CHENGALPATTU, TAMILNADU",
+    "pan": "FAUPM6628B",
+    "phone": "9962226641",
+    "email": "azaradvo@gmail.com",
+    "address": "No.11, ERIKKARAI STREET, KAMARAJAPURAM, NANDHIVARAM, GUDUVANCHERI – 603202. VANDALUR TALUK, CHENGALPATTU DISTRICT.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BCA., (Bachelor of Computer Applications) - 2009, SRM ARTS & SCIENCE COLLEGE, UNIVERSITY OF MADRAS; LL.B., (Bachelor of Law) - 2018, VISAKHA LAW COLLEGE, VISAKHAPATNAM, ANDHRA PRADESH, ANDHRA UNIVERSITY.",
+    "profession": "ADVOCATE"
+  },
+  "financial_summary": {
+    "total_assets_xls": 47035600.0,
+    "total_liabilities_xls": 400000.0,
+    "net_worth_xls": 46635600.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

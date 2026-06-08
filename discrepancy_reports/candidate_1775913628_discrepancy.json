@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913628",
+    "candidate_name": "KUMARAN",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "Independent",
+    "constituency": "GUMMIDIPOONDI, Tamil Nadu",
+    "pan": "BTKPK0558D",
+    "phone": "8778291620",
+    "email": "gmkengineers2010@gmail.com",
+    "address": "No. 605 Nagarajakandigai Village S.R.Kandigai Post, Gummidipoondi Taluk, Thiruvallur, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SENIOR SECONDARY LEAVING CERTIFICATE, KLK GOVT HR SEC SCHOOL GUMMIDIPOONDI, STATE BOARD TAMILNADU, 1998; DIPLOMA IN ELECTRICAL AND ELECTRONICS ENGINEERING, SRI NALLALAGHU POLYTECHNIC PUZHAL CHENNAI, STATE BOARD OF TECHNICAL EDUCATION AND TRAINING, 2001; DEGREE OF BACHELOR OF SCIENCE IN PSYCHOLOGY, UNIVERSITY OF MADRAS CHENNAI, UNIVERSITY OF MADRAS, 2007",
+    "profession": "BUSINESS"
+  },
+  "financial_summary": {
+    "total_assets_xls": 366089.0,
+    "total_liabilities_xls": 941000.0,
+    "net_worth_xls": 574911.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

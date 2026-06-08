@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921676",
+    "candidate_name": "Mr. Poominathan M",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "Independent",
+    "constituency": "209- Paramakudi Assembly Constituency, Tamil Nadu",
+    "pan": "KLLPM8277F",
+    "phone": "9080003047",
+    "email": "mukavaiavan@gmail.com",
+    "address": "4, Ganapathiyendal, Vengalur, Paramakudi, Ramanathapuram - 623 707",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A.,B.L., Government Law College, Madurai - 2009",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2655000.0,
+    "total_liabilities_xls": 388000.0,
+    "net_worth_xls": 2267000.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

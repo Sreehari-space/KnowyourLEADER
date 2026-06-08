@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905170",
+    "candidate_name": "Dr. RAJESWARI MOHAN GANDHI",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Dravida Munnetra Kazhagam (DMK)",
+    "constituency": "45, Kilvaithinankuppam (SC) Assembly Constituency",
+    "pan": "AGPPR1210A",
+    "phone": "8825530530",
+    "email": "varshinihospital@gmail.com",
+    "address": "No.78, Varshini Hospital (Upstairs), Veppamara Street, Arni Road, Velapadi, Vellore, Vellore District, 632 001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "D.G.O, Diploma in Obstetrics and Gynecology, Government Kilpauk Medical College, 2005",
+    "profession": "Medical Professional"
+  },
+  "financial_summary": {
+    "total_assets_xls": 96837486.0,
+    "total_liabilities_xls": 9487899.0,
+    "net_worth_xls": 87349587.0,
+    "cash_xls": 1105500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

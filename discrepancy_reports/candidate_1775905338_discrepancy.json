@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905338",
+    "candidate_name": "Kumar Ganesaperumal alias Rama. Kottai Kumar",
+    "candidate_name_json": null,
+    "age": "58",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "188 Melur Assembly Constituency",
+    "pan": "AKOPK3638G",
+    "phone": "6374721117",
+    "email": "thaiherbalsrkr@gmail.com",
+    "address": "Door No. B 23, Yamuna Homes, 3rd Floor, 4th Street, Parameswari Nagar, Adyar, Chennai District - 600020",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A. (University of Madras, 1990), LL.B. (Islamiah Law College, Bengaluru, 2002)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 21763700.0,
+    "total_liabilities_xls": 6230000.0,
+    "net_worth_xls": 15533700.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

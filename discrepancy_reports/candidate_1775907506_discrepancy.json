@@ -1,0 +1,341 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907506",
+    "candidate_name": "M. Manikandan",
+    "candidate_name_json": "MANIKANDAN. M",
+    "age": "37",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "87, Sankagiri",
+    "pan": "BALPM5866N",
+    "phone": "9566790000",
+    "email": "manikandanyouthwing@gmail.com",
+    "address": "468, Anjakadu Naduvaneri, Sankagiri Taluk, Salem District-637 504",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "8th Standard -vidya mandir matriculation, vembadithalam-Year: 1989",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 56707799.0,
+    "total_liabilities_xls": 40400792.0,
+    "net_worth_xls": 16307007.0,
+    "cash_xls": 400000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "4,00,000 4 Lacs+",
+        "spouse": "4,00,000 4 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "ICICI Bank SB 794 7 Hund+ Karur Vysya Bank SB 3,611 3 Thou+",
+        "spouse": "Karur Vysya Bank SB 355 3 Hund+ Kotak Mahindra Bank Sb 19,735 19 Thou+ City Union Bank SB 9,918 9 Thou+ Indian bank SB 5,347 5 Thou+ South Indian Bank SB 44,060 44 Thou+ South Indian Bank CA 3,73,703 3 Lacs+ Karur Vysya Bank 1,04,146 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Post Office 4,30,000 4 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "LIC 9,10,000 9 Lacs+ Bajaj Life Ace 6,46,130 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TVS, TN526930 2009 model Appachi 60,000 60 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "7 Pawn (56Gram) 8,00,000 8 Lacs+",
+        "spouse": "30 Pawn 240 gram 32,00,000 32 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Sangagiri Taluk Naduaneri Village Survey No 131/9,131/1,131 /3,131/4, 131/5,131/9 Total Area 3.22 1/2 Acre Built Up Area Whether Inherited N Purchase Date 2023-12-27 Purchase Cost 2127000.00 Development Cost 0.00 35,00,000 35 Lacs+ Sangagiri Taluk Naduaneri Village Survey No 90/5A1A Total Area 0.48 1/4 Acre Built Up Area Whether Inherited N Purchase Date 2024-08-23 Purchase Cost 326000.00 Development Cost 0.00 4,00,000 4 Lacs+ Sangagiri Taluk Naduaneri Village Survey No135/2B Total Area 0.12 1/2 Acre Built Up Area Whether Inherited N Purchase Date 2024-06-06 Purchase Cost 790000.00 Development Cost 0.00 8,00,000 8 Lacs+ Sangagiri Taluk Naduaneri Village Survey No 131/2 Total Area 0.05 Acre Built Up Area Whether Inherited N Purchase Date 2019-09-27 Purchase Cost 17000.00 Development Cost 0.00 20,000 20 Thou+ Sangagiri Taluk Naduaneri Village Survey No 135/2A Total Area 0.17 1/2 Acre Built Up Area Whether Inherited N Purchase Date 2025-11-15 Purchase Cost 50000.00 Development Cost 0.00 1,40,000 1 Lacs+",
+        "spouse": "Sangagiri Taluk Avarangampalayam Survey No 40/1A2 Total Area 0.08 1/2 cent Built Up Area Whether Inherited N Purchase Date 2021-09-03 Purchase Cost 81000.00 Development Cost 0.00 1,00,000 1 Lacs+ Sangagiri Taluk Avarangampalayam Survey No 40/2 Total Area 0.12 1/2 cent Built Up Area Whether Inherited N Purchase Date 2023-11-08 Purchase Cost 546000.00 Development Cost 0.00 6,00,000 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Kotak Mahindra Prime 3,75,70,792 3 Crore+",
+      "spouse": "South Indian Bank gold loan 28,30,000 28 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 5,45,950 | 2023 - 2024: Rs 5,02,500 | 2022 - 2023: Rs 4,96,800 | 2021 - 2022: Rs 7,08,440 | 2020 - 2021: Rs 8,26,010"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,69,560 | 2023 - 2024: Rs 9,56,470 | 2022 - 2023: Rs 11,28,830 | 2021 - 2022: Rs 12,68,660 | 2020 - 2021: Rs 12,77,920"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,29,67,799 ~1 Crore+",
+    "Liabilities:": "Rs 4,04,00,792 ~4 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "HIGH",
+      "title": "Severe Negative Net Worth",
+      "description": "Calculated Net Worth is heavily negative (₹-30,600,782), indicating liabilities far exceed assets."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹9,800,010) does not match declared total assets (₹12,967,799). Difference: ₹3,167,789"
+    }
+  ]
+}

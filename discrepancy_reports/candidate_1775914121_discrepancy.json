@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914121",
+    "candidate_name": "Manikannan",
+    "candidate_name_json": null,
+    "age": "64",
+    "party": "SAMANIYA MAKKAL NALA KATCHI",
+    "constituency": "99-ERODE WEST",
+    "pan": "AZZPM0511E",
+    "phone": "9442741615",
+    "email": "NIL",
+    "address": "166, Kilakku Veethi, Perode, Chithode, Erode DT",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "Tea Sales"
+  },
+  "financial_summary": {
+    "total_assets_xls": 81235.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 81235.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918439",
+    "candidate_name": "S. Emmanuvel",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "INDEPENDENT",
+    "constituency": "NO.12, PERAMBUR ASSEMBLY CONSTITUENCY.",
+    "pan": "AAKPE2348D",
+    "phone": "98848, 73734",
+    "email": "ethirajanu@gmail.com",
+    "address": "38, Meenambal Sivaraj Street, Kodungaiyur, Chennai - 600 118",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C - 2000 [Govt Middle School, K.K.D.Nagar, Chennai – 600 118]",
+    "profession": "Business (Real Estate)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2600800.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2600800.0,
+    "cash_xls": 35000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

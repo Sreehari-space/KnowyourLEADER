@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910584",
+    "candidate_name": "S. Kamali",
+    "candidate_name_json": null,
+    "age": "28",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "112-அவிநாசி(தனி), தமிழ்நாடு",
+    "pan": "RCKPK2794C",
+    "phone": "7358863314",
+    "email": "kamalisenthilnathan98@gmail.com",
+    "address": "No. 17, Indira Colony, Rasipuram Taluk, Namakkal District - 637408",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th (2013), 12th (2015), B.A. English Lit (2018), M.A. English Lit (2020), B.Ed. (2023)",
+    "profession": "இல்லத்தரசி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3218857.0,
+    "total_liabilities_xls": 153000.0,
+    "net_worth_xls": 3065857.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

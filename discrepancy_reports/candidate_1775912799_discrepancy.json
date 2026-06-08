@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912799",
+    "candidate_name": "Pa. Naveen",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "Tamilaga Vazhvurimai",
+    "constituency": "Radhakrishnan",
+    "pan": "BUYPN2262A",
+    "phone": "8825550919, 7845200038",
+    "email": "nawin.prince.mp@gmail.com",
+    "address": "108 Mangammar Thottam, Pudhu Vallarpettai, Chennai 600081",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th-12th from K.C.S.Sankaralingan Nadar Hr.sec. School, Chennai (2011-2013); B.A.LL.B. from Dr. Ambedkar Law Institute, Thirupathi (2018-2023)",
+    "profession": "Senior Advocate (George Town Court, Chennai)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2140900.0,
+    "total_liabilities_xls": 894000.0,
+    "net_worth_xls": 1246900.0,
+    "cash_xls": 16000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "65/2026 (Vannarpet Chennai Police Station Tamil Nadu)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

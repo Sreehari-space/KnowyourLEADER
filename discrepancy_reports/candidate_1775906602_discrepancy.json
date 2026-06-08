@@ -1,0 +1,681 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906602",
+    "candidate_name": "Mr. Seeman",
+    "candidate_name_json": "SEEMAN",
+    "age": "60",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "184 Karaikudi Assembly Constituency",
+    "pan": "BAIPS8663J",
+    "phone": "8883046777",
+    "email": "seemansenthamizhan@gmail.com",
+    "address": "No.5, Sandeep Avenue, 2nd Cross Street, Chinna Neelankarai, Chennai-600155",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "BA 1985, Dr. Zakir Hussain College, Ilayangudi",
+    "profession": "Farmer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 256887360.0,
+    "total_liabilities_xls": 2350000.0,
+    "net_worth_xls": 254537360.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "35,000 35 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank Rangarajapuram 9,500 9 Thou+ Axis Bank Ltd Virugambakkam 72,000 72 Thou+ SBL Annanagar 7,00,000 7 Lacs+",
+        "spouse": "SBI S.S.Colony, Madurai 27,180 27 Thou+ SBI Annanagar, Chennai 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "UTI 3,50,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "SBI Life Insurance 95,000 95 Thou+ SBI Life Smart Privilege 10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Hyundai Verna, TN 07 DH 0024 12,00,000 12 Lacs+",
+        "spouse": ".Toyata Innova TN 07 DH 0008, 25,00,000 25 Lacs+ Hyundai CRETA TN10 BE7137 2018 4,00,000 4 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 150g 19,50,000 19 Lacs+",
+        "spouse": "Gold 1600g 2,08,00,000 2 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Kariyapatti Circle V Nangoor Village pl No 5/1, 6/1, 25/3, 21/2, 25/1, 23/2, 23/1, 25/2 Total Area 25.45 Acre Built Up Area Whether Inherited N Purchase Date 2025-09-23 Purchase Cost 5090000.00 Development Cost 0.00 51,00,000 51 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Madurai North, Chatrathondai Maanpatti, Survey No.4/1 Total Area 4 Acre Built Up Area Whether Inherited N Purchase Date 2003-06-23 Purchase Cost 130000.00 Development Cost 0.00 7,00,000 7 Lacs+ Dindugul Vilpatti Village Panchayat, Survey No.2342/4 Total Area 3 Acre Built Up Area Whether Inherited N Purchase Date 2015-05-06 Purchase Cost 1200000.00 Development Cost 0.00 15,00,000 15 Lacs+ Dindugul Vilpatti Village Panchayat, Survey No.2342/2B2 Total Area 3 Acre Built Up Area Whether Inherited N Purchase Date 2015-05-06 Purchase Cost 1200000.00 Development Cost 0.00 14,00,000 14 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "State bank Loan 5,11,000 5 Lacs+",
+      "spouse": "State bank Loan 18,39,000 18 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,65,820 | 2023 - 2024: Rs 3,18,020 | 2022 - 2023: Rs 4,99,930 | 2021 - 2022: Rs 4,97,290 | 2020 - 2021: Rs 5,12,250"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 22,67,540 | 2023 - 2024: Rs 24,39,110 | 2022 - 2023: Rs 12,12,000 | 2021 - 2022: Rs 8,98,350 | 2020 - 2021: Rs 3,90,580"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (24 case(s))",
+    "case_numbers_xls": "1.209/2015; 2.227/2018; 3.1134/2016; 4. 205/2018; 5. 64/2018; 6. 493/2010; 7.798/2021; 8.702/2021; 9. 230/2020; 10.226/2018; 11. 310/2019; 12. 186/2023; 13. 159/2022; 14. 308/2009; 15. 31/2025; 16. 27/2025; 17. 90/2023; 18. 40/2025; 19. 31/2025; 20. 30/2025; 21. 29/2025; 22. 37/2025; 23. 27/2025; 24. 236/2017",
+    "criminal_cases_json": {
+      "count": "24",
+      "summary": "Number of Criminal Cases:24",
+      "ipc_charges": [
+        "2 charges related to Sedition (IPC Section-124A)",
+        "1 charges related to Voluntarily causing hurt to deter public servant from his duty (IPC Section-332)",
+        "1 charges related to Voluntarily causing hurt by dangerous weapons or means (IPC Section-324)",
+        "1 charges related to Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony (IPC Section-153A)",
+        "1 charges related to Section 505(2) (IPC Section-505(2))",
+        "7 charges related to Punishment for Undue influence or personation at an election. (BNS Section-174)",
+        "3 charges related to Assault or use of criminal force to deter public servant from discharge of his duty. (BNS Section-132)",
+        "3 charges related to Punishment for Rioting (BNS Section-191(2))",
+        "6 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "4 charges related to Punishment for Rioting (IPC Section-147)",
+        "2 charges related to Intentional insult with intent to provoke breach of the peace (IPC Section-504)",
+        "2 charges related to Malignant act likely to spread infection of disease dangerous to life (IPC Section-270)",
+        "2 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "2 charges related to Every member of unlawful assembly guilty of offence committed in prosecution of common object (IPC Section-149)",
+        "2 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "2 charges related to Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed (IPC Section-153)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "209/2015 E.Puthur Police Station",
+          "case_no": "PRC 205/2019",
+          "court": "Judicial Magistrate II Trichy",
+          "law_type": "IPC",
+          "ipc_sections": "124A, 143, 153A",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "227/2018 D-1, Triplicane Police station",
+          "case_no": "CC 6280/2019",
+          "court": "Metropolitan Magistrate II Egmore",
+          "law_type": "IPC",
+          "ipc_sections": "147,148, 353,332, 294b, 506(ii), 149",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "22 Aug 2019",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "1134/2016 F3 Nugambakkam Police Station",
+          "case_no": "CC 5031/2018",
+          "court": "Metropolitan Magistrate XIV Egmore",
+          "law_type": "IPC",
+          "ipc_sections": "143",
+          "other_details": "Section 7(1)a Criminal Law Amendment Act 1908",
+          "charges_framed": "Yes",
+          "charges_date": "03 Jul 2018",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "205/2018 F3, Nungambakkam P.S",
+          "case_no": "CC 5033/2018",
+          "court": "Metropolitan Magistrate XIV Egmore",
+          "law_type": "IPC",
+          "ipc_sections": "143",
+          "other_details": "Section 7(1)a Criminal Law Amendment Act",
+          "charges_framed": "Yes",
+          "charges_date": "03 Jul 2018",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "64/2018 Meenambakkam P.S",
+          "case_no": "STC 302/2018",
+          "court": "Judicial Magistrate No.1 Alandur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "10 Jul 2018",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "493/2010 B-1, North Beach P.S",
+          "case_no": "CC 1056/2018",
+          "court": "Metropolitan Magistrate George Town, CH-1",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 13(1)a, 41b TN City Police Act 1888,",
+          "charges_framed": "Yes",
+          "charges_date": "26 Apr 2018",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "798/2021, F3. Nungamba kkam P.S",
+          "case_no": "CC 9733/2021",
+          "court": "MM-XIV, Egmore Chennai",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 270",
+          "other_details": "Section 41(6) TN City Police Act",
+          "charges_framed": "Yes",
+          "charges_date": "30 Dec 2021",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "702/2021, F3, Nungambakkam P.S",
+          "case_no": "CC 9734/2021",
+          "court": "MM-XIV, Egmore, chennai",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 270",
+          "other_details": "Section 41(6) TN City Police Act",
+          "charges_framed": "Yes",
+          "charges_date": "31 Dec 2021",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "230/2020, D1 Triplicane P.S",
+          "case_no": "CC 2528/2020",
+          "court": "MM-II, Egmore, Chennai",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 353, 332, 294b, 506(ii), 149",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "17 Aug 2020",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "226/2018, D1 Triplicane P.S",
+          "case_no": "CC 1748/2020",
+          "court": "MM-II, Egmore, Chennai",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 341, 353, 506(ii)",
+          "other_details": "Section 41(6) TN City police act",
+          "charges_framed": "Yes",
+          "charges_date": "12 Mar 2020",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "11",
+          "fir_no": "310/2019, Kanjanur P.S",
+          "case_no": "STC 1/2022",
+          "court": "DM cum JM, Vikravandi",
+          "law_type": "IPC",
+          "ipc_sections": "504, 153",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "11 Jan 2022",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "12",
+          "fir_no": "186/2023, SRMC P.S",
+          "case_no": "CC 231/2024",
+          "court": "JM-1, Poonamallee",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 324",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "15 Apr 2024",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "13",
+          "fir_no": "159/2022, Bramma desam P.S",
+          "case_no": "STC 1125/2023",
+          "court": "JM, Cheyyar",
+          "law_type": "IPC",
+          "ipc_sections": "153, 294b, 504",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "15 Jun 2023",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "14",
+          "fir_no": "308/2009, Palayamkottai P.S",
+          "case_no": "CC 96/2014",
+          "court": "JM-I, Tirunelveli",
+          "law_type": "IPC",
+          "ipc_sections": "506(i)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "21 Feb 2014",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "15",
+          "fir_no": "31/2025, Erode south P.S",
+          "case_no": "STC 1521/2025",
+          "court": "JM-III, Erode",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 174,132",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "09 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "16",
+          "fir_no": "27/2025, Erode South P.S",
+          "case_no": "STC 1409/2025",
+          "court": "JM-III, Erode",
+          "law_type": "BNS",
+          "ipc_sections": "174, 132",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "04 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "17",
+          "fir_no": "90/2023 Karungalpalayam P.S",
+          "case_no": "Spl.SC 9/2023",
+          "court": "PDJ, Erode",
+          "law_type": "IPC",
+          "ipc_sections": "153B(1)C, 505(1)C, 506(1)",
+          "other_details": "Section 3(1)r SC/ST act",
+          "charges_framed": "Yes",
+          "charges_date": "17 Aug 2023",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "18",
+          "fir_no": "40/2025 Erode Town P.S",
+          "case_no": "STC 1292/2025",
+          "court": "JM-II, Erode",
+          "law_type": "BNS",
+          "ipc_sections": "174",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "01 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "19",
+          "fir_no": "31/2025, Erode Town P.S",
+          "case_no": "STC 1289/2025",
+          "court": "JM-II Erode",
+          "law_type": "BNS",
+          "ipc_sections": "174",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "01 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "20",
+          "fir_no": "30/2025, Erode Town P.S",
+          "case_no": "STC 1288/2025",
+          "court": "JM-II, Erode",
+          "law_type": "BNS",
+          "ipc_sections": "191(2), 174, 132",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "01 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "21",
+          "fir_no": "29/2025, Erode Town P.S",
+          "case_no": "STC 1287/2025",
+          "court": "JM-II, Erode",
+          "law_type": "BNS",
+          "ipc_sections": "191(2), 174, 132",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "01 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "22",
+          "fir_no": "37/2025 Erode Town P.S",
+          "case_no": "STC 1290/2025",
+          "court": "JM-II, Erode",
+          "law_type": "BNS",
+          "ipc_sections": "191(2), 174, 132",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "01 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "23",
+          "fir_no": "27/2025, Erode Town P.S",
+          "case_no": "STC 1286/2025",
+          "court": "JM-II, Erode",
+          "law_type": "BNS",
+          "ipc_sections": "174",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "01 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "24",
+          "fir_no": "236/2017, Hasthampatti P.S",
+          "case_no": "SC 1/2023",
+          "court": "ADJ-III, Salem",
+          "law_type": "IPC",
+          "ipc_sections": "124A, 153A, 153B, 505(2)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "03 Jan 2023",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,83,88,680 ~3 Crore+",
+    "Liabilities:": "Rs 23,50,000 ~23 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹30,466,680, but 5-year family income is only ₹9,700,890. Unexplained wealth discrepancy of ₹20,765,790."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Typo: .Toyata (should be Toyota)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹32,816,680) does not match declared total assets (₹38,388,680). Difference: ₹5,572,000"
+    }
+  ]
+}

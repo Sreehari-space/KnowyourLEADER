@@ -1,0 +1,395 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906620",
+    "candidate_name": "S. Kirthika",
+    "candidate_name_json": "S.KIRTHIKA",
+    "age": "40",
+    "party": "Bharatiya Janata Party",
+    "constituency": "100, Modakkurichi Legislative Assembly Constituency, Tamilnadu",
+    "pan": "BFAPK4855D",
+    "phone": "9442230097",
+    "email": "kirthika.rms@gmail.com",
+    "address": "Old H-125, New H-72, Periyarnagar, Erode District, Erode Taluk, Erode-638001",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Master of Business Administration (MBA) - 2009 (Completed) - PSGR, Krishnammal College, Coimbatore",
+    "profession": "Management"
+  },
+  "financial_summary": {
+    "total_assets_xls": 599363436.0,
+    "total_liabilities_xls": 21226280.0,
+    "net_worth_xls": 578137156.0,
+    "cash_xls": 400000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "4,00,000 4 Lacs+",
+        "spouse": "12,00,000 12 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Axis Bank Erode 16,13,640 16 Lacs+ Joint Account SBI, Erode 12,92,000 12 Lacs+",
+        "spouse": "Axis Bank, Erode 1,91,25,117 1 Crore+ HDFC Bank, 5,680 5 Thou+ Bank of Baroda,Erode 10,05,000 10 Lacs+ Axis Bank 30,49,648 30 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Axis Bank,Erode 29,22,009 29 Lacs+",
+        "dependent2": "Axis Bank,Erode 10,08,056 10 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "DSP Flexi Fund(G) 15,73,778 15 Lacs+ DSP Midcap Fund (G) 16,25,040 16 Lacs+ SSC Medicals Partner 25,000 25 Thou+ SSC Associates Partner 25,000 25 Thou+ CK Medical Centre Hospital Partner 25,000 25 Thou+ Credenze Partne 50,000 50 Thou+ Green Crystal Partner 1,00,000 1 Lacs+ Sri Senthil Murugan Chit Funds Pvt. Ltd. 1,00,000 1 Lacs+ Kay Ventures Pvt., Ltd 25,00,000 25 Lacs+ Skape Edn Pvt.Ltd., (Director) 50,000 50 Thou+ Aram Charity Trust (Trustee) 0*(Value Not Given) Saks Educational Foundation (Director 0*(Value Not Given)",
+        "spouse": "DSP Flexi Fund(G) 15,73,778 15 Lacs+ DSP Midcap Fund (G 16,65,148 16 Lacs+ HDFC Multi Cap Fund 2,95,045 2 Lacs+ ICICI Pru India pportunities Fund (G) 3,02,785 3 Lacs+ ICICI Pru Multi Asset Fund (G 8,35,009 8 Lacs+ AXIS Midcap Fund (G) 13,49,946 13 Lacs+ Canara Robeco Large and Mid Cap Fund (G) 13,49,946 13 Lacs+ SSC Medicals Partner 25,000 25 Thou+ SSC Associates Partner 25,000 25 Thou+ CK Medical Centre Hospital Partner 25,000 25 Thou+ Shiva X-ray Lab Partner 25,000 25 Thou+ Kay Ventures Pvt., Ltd. 25,00,000 25 Lacs+ SSC E-Global LLP 50,000 50 Thou+ Skape Edn Pvt., Ltd. 50,000 50 Thou+ Arram Charity Trust 0*(Value Not Given) SSC Medical and Educational Trust 0*(Value Not Given) Saks Educational Foundatio 0*(Value Not Given)",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "New jeevan Anand LIC 10,15,911 10 Lacs+ TATA AIA 8,32,731 8 Lacs+",
+        "spouse": "LIC 8,17,362 8 Lacs+ TATA AIA 20,40,222 20 Lacs+ New jeevan Anand LIC 23,05,650 23 Lacs+",
+        "huf": "Nil",
+        "dependent1": "LIC 6,72,594 6 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Honda Brio,TN 331BT 5556(2018) 2,00,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold Ornaments 4200 grams 4,20,00,000 4 Crore+",
+        "spouse": "Gold Ornaments 450 grams 45,00,000 45 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Erode S.F.No.547/2A Kasipalayam Village Total Area 2.34 Acre Built Up Area Whether Inherited N Purchase Date 2021-10-01 Purchase Cost 2500000.00 Development Cost 0.00 1,28,70,000 1 Crore+ Salem Chetti savadi Village S.F No.74/1 Total Area 1.50 acres Built Up Area Whether Inherited N Purchase Date 2022-11-18 Purchase Cost 10350000.00 Development Cost 0.00 2,00,00,000 2 Crore+ Erode District Anumanpalli Village 707/2, 706/4, 706/5 Total Area 39 cents Built Up Area Whether Inherited N Purchase Date 2020-06-23 Purchase Cost 1300000.00 Development Cost 0.00 20,00,000 20 Lacs+ Erode District Anumanpalli Village 707/2C 707/2A, 706/4A Total Area 1.04 1/4 acres Built Up Area Whether Inherited N Purchase Date 2020-11-12 Purchase Cost 0.00 Development Cost 3250000.00 45,00,000 45 Lacs+ Salem Chetti savadi Village S.F No.74/1 Total Area 0.75 acres Built Up Area Whether Inherited N Purchase Date 2024-09-21 Purchase Cost 5750000.00 Development Cost 0.00 85,00,000 85 Lacs+ Namakkal District, Vasanthapuram Village Patta No. 276 Survey No. 41/1 Total Area 1.28 1/2 acres Built Up Area Whether Inherited N Purchase Date 2016-01-20 Purchase Cost 4498000.00 Development Cost 0.00 60,80,000 60 Lacs+",
+        "spouse": "Erode, SF No. 217/2 Kanagapuram Village Total Area 1.16 acre Built Up Area Whether Inherited N Purchase Date 2015-12-23 Purchase Cost 813200.00 Development Cost 0.00 20,00,000 20 Lacs+ Salem Chetti savadi Village S.F No.74/1 Total Area 1.50 acres Built Up Area Whether Inherited N Purchase Date 2022-11-18 Purchase Cost 10350000.00 Development Cost 0.00 2,00,00,000 2 Crore+ Erode District Anumanpalli Village 707/2, 706/4, 706/5 Total Area 39 cents Built Up Area Whether Inherited N Purchase Date 2020-06-23 Purchase Cost 1300000.00 Development Cost 0.00 20,00,000 20 Lacs+ Erode District Anumanpalli Village 707/2C 707/2A Total Area 1.04 1/4 acres Built Up Area Whether Inherited N Purchase Date 2020-11-12 Purchase Cost 3250000.00 Development Cost 0.00 45,00,000 45 Lacs+ Erode District Nasiyanur Village, SF No.188/3, 2A Total Area 50.90 Cent Built Up Area Whether Inherited N Purchase Date 2022-09-21 Purchase Cost 205000.00 Development Cost 0.00 50,00,000 50 Lacs+ Erode Kasipalayam Village SF No. 55 Total Area 1 acre 1/2 cent Built Up Area Whether Inherited N Purchase Date 1998-02-27 Purchase Cost 75000.00 Development Cost 0.00 75,00,000 75 Lacs+ Salem Chetti savadi Village S.F No.74/1 Total Area 0.75 acres Built Up Area Whether Inherited N Purchase Date 2024-09-21 Purchase Cost 5750000.00 Development Cost 0.00 85,00,000 85 Lacs+ Erode Kasipalayam Village SF No. 556, 546 Part, 547/2B Total Area 16.4 acres Built Up Area Whether Inherited N Purchase Date 1984-03-29 Purchase Cost 450000.00 Development Cost 0.00 12,30,00,000 12 Crore+ Erode Thindal Village SF No.31/2 52 ½ Cents 10. Erode, Kasipalayam Village, Sf.No: 548/2A, 555/1A,1?, 2,3,4 Total Area 5 acres 53 cent Built Up Area Whether Inherited N Purchase Date 2021-08-12 Purchase Cost 2500000.00 Development Cost 0.00 1,50,00,000 1 Crore+ Erode, Kasipalayam Village, Sf.No: 548/2A, 555/1A,1B, 2,3,4 Total Area 5 acres 53 cent Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 4,14,75,000 4 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Chengalpat District Surandai Mangalam Village SF No. 105/6A1, 105/7 Total Area 9000 sq ft Built Up Area Whether Inherited N Purchase Date 2023-02-08 Purchase Cost 2700000.00 Development Cost 0.00 35,00,000 35 Lacs+ Salem District Chetti savadi Village SF No.67/ 4A1A1 Site No: 40 Total Area 1600 sq ft Built Up Area Whether Inherited N Purchase Date 2022-11-18 Purchase Cost 400000.00 Development Cost 0.00 16,00,000 16 Lacs+ Salem Chetti savadi Village SF.No: 67/4 Site no: 28P & 38 Total Area 1608 sq ft Built Up Area Whether Inherited N Purchase Date 2024-09-21 Purchase Cost 555000.00 Development Cost 0.00 8,90,000 8 Lacs+ Erode, Villarasam patti Village SF No. 184/6, 184/5 184/4A Total Area 11161 Sq.ft Built Up Area Whether Inherited N Purchase Date 2016-06-16 Purchase Cost 8376750.00 Development Cost 0.00 1,50,00,000 1 Crore+",
+        "spouse": "Erode Kasipalayam RS 1200/4A Total Area 10800 sq ft Built Up Area Whether Inherited N Purchase Date 2021-08-12 Purchase Cost 2500000.00 Development Cost 0.00 1,50,00,000 1 Crore+ Erode Kasipalayam RS 1200/4 Total Area 3600 sq ft Built Up Area Whether Inherited N Purchase Date 1998-05-27 Purchase Cost 100000.00 Development Cost 0.00 50,00,000 50 Lacs+ Erode, Villarasam patti Village SF No. 184/6, 184/5, 184/4 Total Area 11,161 Sq.ft Built Up Area Whether Inherited N Purchase Date 2016-06-16 Purchase Cost 8376750.00 Development Cost 0.00 1,50,00,000 1 Crore+ Salem Chetti savadi Village SF.No: 67/4 Site no: 28P & 38 Total Area 1608 sq ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 555000.00 Development Cost 0.00 8,90,000 8 Lacs+ Salem District, Chettichavadi Village S. F.F. No. 67/ 4A 1A 3A Site No. 39 Total Area 2010 sq ft Built Up Area Whether Inherited N Purchase Date 2022-11-18 Purchase Cost 502000.00 Development Cost 0.00 20,10,000 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Erode Balasubarayalu Street T. S. No. 16/1, 15/2 Total Area 10,431 Sq. Ft. Built Up Area 38000 Sq.ft Whether Inherited N Purchase Date 2021-08-21 Purchase Cost 10000000.00 Development Cost 25000000.00 8,00,00,000 8 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Erode Anumanpalli R. S. No. 707/2A2 706/4A Total Area 13380 Sq. Ft., Built Up Area 3,400 Sq. Ft., Whether Inherited N Purchase Date 2020-11-12 Purchase Cost 1000000.00 Development Cost 15000000.00 2,00,00,000 2 Crore+",
+        "spouse": "Erode Periyar Nagar,T.S.No:2/1 Total Area 7732 sq ft Built Up Area 4800 sqft Whether Inherited N Purchase Date 2021-08-12 Purchase Cost 5000000.00 Development Cost 10000000.00 4,00,00,000 4 Crore+ Erode Anumanpalli R. S..No. 707/2A2 706/4A Total Area 13380 sq ft Built Up Area 3400 sq ft Whether Inherited N Purchase Date 2020-11-12 Purchase Cost 1000000.00 Development Cost 15000000.00 2,00,00,000 2 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Axis Bank, Loan 96,13,140 96 Lacs+ Axis Bank Jewel Loan 20,00,000 20 Lacs+",
+      "spouse": "Axis Bank Jewel Loan 96,13,140 96 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Stamp duty for sale deed 43,26,400 43 Lacs+",
+      "spouse": "Stamp duty for sale deed 43,26,400 43 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 58,10,310 | 2023 - 2024: Rs 62,52,270 | 2022 - 2023: Rs 59,29,420 | 2021 - 2022: Rs 67,36,370 | 2020 - 2021: Rs 50,60,230"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 1,43,87,150 | 2023 - 2024: Rs 99,23,320 | 2022 - 2023: Rs 69,84,400 | 2021 - 2022: Rs 68,30,460 | 2020 - 2021: Rs 64,73,270"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 36,86,850 | 2023 - 2024: Rs 37,70,540 | 2022 - 2023: Rs 37,76,390 | 2021 - 2022: Rs 36,82,790 | 2020 - 2021: Rs 38,04,850"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 60,39,66,095 ~60 Crore+",
+    "Liabilities:": "Rs 2,98,79,080 ~2 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹224,113,165, but 5-year family income is only ₹74,387,200. Unexplained wealth discrepancy of ₹149,725,965."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2021 for ₹2,500,000 (CII Indexed Cost: ₹2,965,300) is declared at highly inflated value of ₹12,870,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2021 for ₹2,500,000 (CII Indexed Cost: ₹2,965,300) is declared at highly inflated value of ₹15,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Commercial Buildings purchased in 2021 for ₹10,000,000 (CII Indexed Cost: ₹11,861,199) is declared at highly inflated value of ₹80,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2020 for ₹1,000,000 (CII Indexed Cost: ₹1,249,169) is declared at highly inflated value of ₹20,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2021 for ₹5,000,000 (CII Indexed Cost: ₹5,930,599) is declared at highly inflated value of ₹40,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "4650.0g gold declared at ₹46,500,000 (Implied rate: ₹10,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'DSP Flexi Fund(G) 15,73,778 15 Lacs+ DSP Midcap Fund (G) 16,25,040 16 Lacs+ SSC Medicals Partner 25,000 25 Thou+ SSC Associates Partner 25,0..."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹4,602,659 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹251,992,245) does not match declared total assets (₹603,966,095). Difference: ₹351,973,850"
+    }
+  ]
+}

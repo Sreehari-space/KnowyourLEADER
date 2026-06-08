@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910770",
+    "candidate_name": "Pe. Ramesh",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Nadalum Makkal Katchi",
+    "constituency": "57-Palacode Constituency, Tamil Nadu",
+    "pan": "CHYPR2771L",
+    "phone": "9943725787",
+    "email": "rameshpoultry971@gmail.com",
+    "address": "163-1, Kettur Village, Pennagaram Taluk, B. Agraharam Post, Dharmapuri District-636813",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9th Standard, Government High School, B. Agraharam, Year 1995.",
+    "profession": "Poultry wholesale dealer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1778000.0,
+    "total_liabilities_xls": 400000.0,
+    "net_worth_xls": 1378000.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

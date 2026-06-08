@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912558",
+    "candidate_name": "P. Jayaraman",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "Tamilaga Valvurimai Katchi",
+    "constituency": "Palacode",
+    "pan": "BDPPJ3200E",
+    "phone": "9965819127",
+    "email": "rjayaraman563@gmail.com",
+    "address": "தருமபுரி மாவட்டம், காரிமங்கலம் வட்டம், பெரியாணஅள்ளி, கெண்டிகானஹள்ளி அஞ்சல், நாகனம்பட்டி கிராமம், கதவு எண். 1/183 / Dharmapuri District, Karimangalam Taluk, Periyanahalli, Kendikanahalli Post, Naganampatti Village, Door No. 1/183",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9th 1987- Government Boys Higher Secondary School, Karimangalam",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2428225.0,
+    "total_liabilities_xls": 853000.0,
+    "net_worth_xls": 1575225.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

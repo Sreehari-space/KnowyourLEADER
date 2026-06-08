@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905822",
+    "candidate_name": "பை.மூ.ராமஜெயம்",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "217 - Ottapidaram (SC) (Constituency Name) Thoothukudi Dist Tamilnadu",
+    "pan": "BGHPR2344L",
+    "phone": "8883566644",
+    "email": "pmrjeyam@gmail.com",
+    "address": "181-3 Kottarvilai, Angamangalam Kurumbur Eral Taluk, Thoothukudi - 628 207",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BSc - Aditanar College of Arts and Science, Tiruchendur 2003",
+    "profession": "Individual Contractor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 23981547.88,
+    "total_liabilities_xls": 2623762.0,
+    "net_worth_xls": 21357785.88,
+    "cash_xls": 420000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

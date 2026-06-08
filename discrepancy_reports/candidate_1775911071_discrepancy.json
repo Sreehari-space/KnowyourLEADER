@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911071",
+    "candidate_name": "C.S. Karnan",
+    "candidate_name_json": null,
+    "age": "70",
+    "party": "Anti-Corruption Development Party (ACDP)",
+    "constituency": "06-Avadi",
+    "pan": "NIL",
+    "phone": "8389826234",
+    "email": "NIL",
+    "address": "No. 1122, Tamil Nadu Housing Board, Avadi, Chennai-600054",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 0.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 0.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

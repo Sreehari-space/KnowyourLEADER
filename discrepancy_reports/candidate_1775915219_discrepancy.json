@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915219",
+    "candidate_name": "சு.சங்கர்",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "சுயேட்சை",
+    "constituency": "77, உளுந்தூர்பேட்டை தொகுதி",
+    "pan": "EGFPS6302J",
+    "phone": "9790483277",
+    "email": "balaguru09111999@gmail.com",
+    "address": "நெ.7, துப்புரவு பணியாளர் குடியிருப்பு, உளுந்தூர்பேட்டை அஞ்சல் & வட்டம், கள்ளக்குறிச்சி மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "ஏதுமில்லை",
+    "profession": "பெயிண்டர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 27500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 27500.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

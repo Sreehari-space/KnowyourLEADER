@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905397",
+    "candidate_name": "K. Senthil Kumar",
+    "candidate_name_json": null,
+    "age": "38",
+    "party": "We Tamils Party",
+    "constituency": "04, Tiruvallur, Tamil Nadu",
+    "pan": "BVRPS0739P",
+    "phone": "9600709263",
+    "email": "ksk044@gmail.com",
+    "address": "No. 9, Velunachiyar Street, Kapil Nagar, Manavalanagar, Tiruvallur-602002",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.COM (Pachaiyappa's College-Chennai), M.B.A (Chennai University), L.L.B (Yogi Vemana University Kadapa)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9376000.0,
+    "total_liabilities_xls": 1547000.0,
+    "net_worth_xls": 7829000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

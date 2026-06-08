@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914169",
+    "candidate_name": "o Bhaskara Pillai",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "Independent",
+    "constituency": "Padmanabhapuram, Tamil Nadu",
+    "pan": "AOOPK5153Q",
+    "phone": "9443174087",
+    "email": "kprasath469@gmail.com",
+    "address": "4-5-116 Dwaraka, Pullai, Andoor, Kakkulam, Ventalikode P.O",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc. (1991) from Madurai Kamaraj University; B.D.S. (1995) from Dr. M.G.R. Medical College; LL.B. (2013) from Kerala University; M.L. (2015) from University of Madras",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 13196801.24,
+    "total_liabilities_xls": 19500000.0,
+    "net_worth_xls": 6303198.76,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No: AR-263/2023 Thuckalay P.S. Kanyakumari District; Case No: C.C-380/2023 Judicial Magistrate No.1 Padmanabhapuram Kanyakumari District; Sections: 294(B), 324, 506(2) IPC, Section 4 of TN Prohibition of Harassment of Woman Act 2002; Description: Criminal Intimidation, Causing Grievous Hurt, Harassment of women; Charges filed: Yes on 09/11/2023",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

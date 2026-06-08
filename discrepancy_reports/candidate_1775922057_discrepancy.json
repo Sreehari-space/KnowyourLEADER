@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922057",
+    "candidate_name": "MANOHAR.K.E",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent",
+    "constituency": "18-HARBOUR ASSEMBLY CONSTITUENCY",
+    "pan": "APEPM9416P",
+    "phone": "9884400710",
+    "email": "manoavi21@gmail.com",
+    "address": "148, 15TH EAST CROSS STREET, 4TH MAIN ROAD, MAHAKAVI BHARATHI NAGAR, CHENNAI – 600118",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BACHELOR OF SCIENCE (COMPUTER SCIENCE) IN 2003 AT MADRAS UNIVERSITY, CHENNAI",
+    "profession": "WORKING AS MANAGER IN AL MEDICALS AT MKB NAGAR"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2355500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2355500.0,
+    "cash_xls": 80000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

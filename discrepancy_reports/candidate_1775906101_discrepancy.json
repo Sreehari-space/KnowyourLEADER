@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906101",
+    "candidate_name": "S. Lakshmi",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "181. Thirumayam",
+    "pan": "NIL",
+    "phone": "9943134044",
+    "email": "lakhsps@gmail.com",
+    "address": "Pudukkottai District, Thirumayam Taluk, Keelanilaikottai, 347 Ram Nagar",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 0.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 0.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

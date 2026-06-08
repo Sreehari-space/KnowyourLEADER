@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908339",
+    "candidate_name": "N. Padmanabhan",
+    "candidate_name_json": null,
+    "age": "71",
+    "party": "ALL INDIA PURATCHITHALAIVAR MUNNETTRA KAZHAGAM",
+    "constituency": "200-Bodinayakanur Assembly Constituency",
+    "pan": "ASOPP8673Q",
+    "phone": "9952251882",
+    "email": "NIL",
+    "address": "House No. 88, Thirunagar, Sivagiripatti Village, Palani Taluk, Dindigul District - 624601",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A in Madurai Kamaraj University, Madurai 1992",
+    "profession": "Pensioner (from Electricity Board)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2620000.0,
+    "total_liabilities_xls": 686000.0,
+    "net_worth_xls": 1934000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Crime No.29/2022 in District Crime Branch, Virudhunagar, u/s 120(B), 406, 420 and 465 of IPC, Case for cheating and making a sale agreement for Hindu Endowments property",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

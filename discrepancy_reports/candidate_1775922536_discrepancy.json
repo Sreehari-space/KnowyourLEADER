@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922536",
+    "candidate_name": "பிரேம்குமார்",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "Independent",
+    "constituency": "218 - கோவில்பட்டி, தமிழ்நாடு",
+    "pan": "ARAPP9309C",
+    "phone": "9840414258",
+    "email": "premkumarinc70@gmail.com",
+    "address": "142, பெரிய கிணற்றுதெரு, வில்லிசேரி, கோவில்பட்டி தாலுகா, தூத்துக்குடி மாவட்டம் - 628716",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc SRNM College, Madurai Kamaraj University, 1990; M.A - M.S University Tirunelveli - 1993",
+    "profession": "Farming"
+  },
+  "financial_summary": {
+    "total_assets_xls": 22782000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 22782000.0,
+    "cash_xls": 90000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 123/2023, STC 996/2023 (U/s 283, 341 IPC) - ராகுல்காந்தி பதவிநீக்கம் கண்டித்து சாலை மறியல் செய்ய முயற்சி / Attempt to block road protesting Rahul Gandhi's disqualification",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

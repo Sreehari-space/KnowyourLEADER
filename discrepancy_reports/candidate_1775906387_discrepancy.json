@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906387",
+    "candidate_name": "S.T. Chellapandian",
+    "candidate_name_json": null,
+    "age": "70",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "Thoothukudi Assembly Constituency",
+    "pan": "AHAPS4306C",
+    "phone": "9443333590",
+    "email": "stchellapandian@gmail.com",
+    "address": "Door No. 88, 2nd Street, Thoothukudi Town, Thoothukudi Taluk, Thoothukudi District, Pincode 628002",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A., (Tamil), Annamalai University - May 1999",
+    "profession": "Businessman, Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 221778700.0,
+    "total_liabilities_xls": 36124707.0,
+    "net_worth_xls": 185653993.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "Case No. 128/2026 (Thoothukudi Central Police Station, TNOPPD Act sections 4A(1)(a) r/w 4B). Brief: Unauthorized party flags on road.; Case No. 113/2026 (Thoothukudi Central Police Station, BNS Act sections 189(2) and 292). Brief: Unauthorized gathering and garlanding of statues, causing public disturbance.; Case No. 163/2023 (Vilathikulam Police Station, Thoothukudi District, IPC sections 294(b), 153 and 504). Brief: Defamatory and provocative speech against former CM Karunanidhi and current CM Stalin.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918828",
+    "candidate_name": "M. Sadhuragiri",
+    "candidate_name_json": null,
+    "age": "27",
+    "party": "Independent",
+    "constituency": "Aruppukkottai (207) Assembly Constituency",
+    "pan": "MCYPS2919E",
+    "phone": "9942388030",
+    "email": "sadhuragirimuthu1997@gmail.com",
+    "address": "46, Nallatharai Village, Tiruchuli Taluk, Virudhunagar District - 626 607.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Law (2015-2020), Government Law College, Madurai (Dr. Ambedkar Law University, Chennai)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 104000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 104000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

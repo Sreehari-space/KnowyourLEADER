@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912812",
+    "candidate_name": "P. Suresh Kannan",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "Indian Ganasangam Party",
+    "constituency": "94-Namakkal, Tamil Nadu",
+    "pan": "KBFPS7250L",
+    "phone": "9976789481",
+    "email": "NIL",
+    "address": "821, Ponvizha Nagar, Trichy Road, Vagurampatti, Namakkal Taluk, Namakkal District-637002",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Knows how to read and write",
+    "profession": "Wage labor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 18059.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 18059.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

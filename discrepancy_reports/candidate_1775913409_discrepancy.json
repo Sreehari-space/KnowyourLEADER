@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913409",
+    "candidate_name": "சு.ஏழுமலை",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "சுயேட்சை",
+    "constituency": "065-கலசப்பாக்கம் சட்டமன்றத் தொகுதி, தமிழ்நாடு",
+    "pan": "ACCPE1292Q",
+    "phone": "9976927252",
+    "email": "elumalai7581@gmail.com",
+    "address": "123, மேல் தெரு, பெரியகிளாம்பாடி கிராமம் மற்றும் அஞ்சல், திருவண்ணாமலை வட்டம் மற்றும் மாவட்டம் - 606802",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC, Year 1999",
+    "profession": "விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9733205.0,
+    "total_liabilities_xls": 283500.0,
+    "net_worth_xls": 9449705.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

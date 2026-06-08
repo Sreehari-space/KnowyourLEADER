@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917561",
+    "candidate_name": "A. Kandhasamy Ammasaikutti",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "Independent",
+    "constituency": "116 - Sulur, Tamil Nadu",
+    "pan": "AMPPK6716Q",
+    "phone": "9943737037",
+    "email": "akanthasamy250@gmail.com",
+    "address": "204,E3, Kulathur Road, Venkittapuram, Neelambur, Coimbatore - 641062",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC, Government Higher Secondary School, Arasur, 1990",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 46025467.0,
+    "total_liabilities_xls": 2350000.0,
+    "net_worth_xls": 43675467.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

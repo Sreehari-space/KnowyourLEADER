@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910703",
+    "candidate_name": "M. Sivakumar",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "149 Ariyalur Assembly Constituency",
+    "pan": "MUSPS3757G",
+    "phone": "9843616797",
+    "email": "vijaysiva1974@gmail.com",
+    "address": "Nadutheru, Keelakavattankurichi, Ariyalur Taluk, Ariyalur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bharathidasan University, Trichy",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15034984.0,
+    "total_liabilities_xls": 1564500.0,
+    "net_worth_xls": 13470484.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "13/2026; 14/2026",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

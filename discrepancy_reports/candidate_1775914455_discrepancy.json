@@ -1,0 +1,353 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914455",
+    "candidate_name": "Kumaravel",
+    "candidate_name_json": "KUMARAVEL",
+    "age": "41",
+    "party": "Independent",
+    "constituency": "51 Uthangarai Assembly Constituency (SC) Tamil Nadu",
+    "pan": "CNJPK9511L",
+    "phone": "9176471542",
+    "email": "kumar2chennai@hotmail.com",
+    "address": "719, Park Avenue, Meppur, Nasarath Pettai, Thiruvallur District, Tamil Nadu 600123",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "MBA - Karnataka State Open University, Chennai (2014 to 2015)",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 21782538.0,
+    "total_liabilities_xls": 22294595.0,
+    "net_worth_xls": 512057.0,
+    "cash_xls": 1000000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,00,000 10 Lacs+",
+        "spouse": "60,000 60 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "ICICI Bank Poontamalli 14,262 14 Thou+ HDFC Vadapalani 4,243 4 Thou+ ICICI Porur 1,00,000 1 Lacs+",
+        "spouse": "ICICI Porur 6,69,793 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Mahundra XUV 700 Car 2025 , TN-12-BP-0660 28,00,000 28 Lacs+",
+        "spouse": "Honda Activa Bike 2023 , TN-12-A-2968 96,000 96 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold Jewellery 214 Grams 29,23,240 29 Lacs+",
+        "spouse": "Gold Jewellery 250 Grams 34,15,000 34 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Gold Jewellery 50 Grams 6,83,000 6 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Periyakulam Uttampalayam Taluk Theni District Sy. 288/2 Total Area 0.50 Acre Built Up Area Whether Inherited N Purchase Date 2022-10-06 Purchase Cost 74000.00 Development Cost 0.00 2,00,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Krishnagiri Salamarathupatti Village Uthankarai Taluk District Sy.No. Old Natham 148/2A New Natham Survey No.148/55, 148/57 Total Area 1098 Sqft Built Up Area Whether Inherited N Purchase Date 2022-05-06 Purchase Cost 21960.00 Development Cost 0.00 2,00,000 2 Lacs+ Tiruvallur District & Taluk Kadambattur Panchayat Union Kondancheri Village No.128 Vasanthapuram Phase 1 Old Sy.No.297/1, New Sy. No. 297/16 Total Area 1200Sqft Built Up Area Whether Inherited N Purchase Date 2025-09-11 Purchase Cost 180000.00 Development Cost 0.00 3,00,000 3 Lacs+ Tiruvallur District Maypur 236 Total Area 1581 Sqft Built Up Area Whether Inherited N Purchase Date 2022-05-23 Purchase Cost 553350.00 Development Cost 0.00 9,00,000 9 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Tiruvallur District Maypur Village SyNo. 60,61/1, 61/2 Total Area 392.5 Sqft Out Of 785 Sqft Built Up Area 392.5 Sqft Out Of 785 Sqft Whether Inherited N Purchase Date 2019-01-03 Purchase Cost 647625.00 Development Cost 647625.00 35,00,000 35 Lacs+ Krishnagiri District Uthankarai Taluk Salamarathupatti Village Sy. No Old Natham 148/2B , New Natham Sy.No. 148/58 Total Area 969.2Sqft Built Up Area 450Sqft Whether Inherited N Purchase Date 2025-09-22 Purchase Cost 101800.00 Development Cost 200000.00 6,00,000 6 Lacs+",
+        "spouse": "Tiruvallur District Maypur Village SyNo. 60,61/1, 61/2 Total Area 392.5 Sqft Out Of 785 Sqft Built Up Area 392.5 Sqft Out Of 785 Sqft Whether Inherited N Purchase Date 2019-01-03 Purchase Cost 647625.00 Development Cost 647625.00 35,00,000 35 Lacs+ Krishnagiri District Uthankarai Taluk Papparapatti (Soolakarai) Village Natham Patta No. 226 Old Natham Sy.No. 62/4 New Natham Sy. 62/46 Total Area 1219.5 Sqft Built Up Area 1219.5 Sqft Whether Inherited Y Purchase Date 2022-07-01 Purchase Cost 25830.00 Development Cost 700000.00 15,00,000 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Aditya Birla Loan Business Loan 3,59,000 3 Lacs+ TATA Capital Finance Business Loan 2,42,190 2 Lacs+ Heropin Corporation Business Loan 11,50,000 11 Lacs+ Unity Bank Business Loan 5,68,610 5 Lacs+ FED Bank Business Loan 6,20,378 6 Lacs+ IFEL Business Loan 10,08,040 10 Lacs+ Piramal Finance Business Loan 24,26,925 24 Lacs+ Piramal Finance Business Loan 17,68,306 17 Lacs+ HDFC Bank Jewel Loan 17,00,000 17 Lacs+ HDFC Bank Car Loan 23,03,569 23 Lacs+",
+      "spouse": "Kinara Capital Finance Loan Business Loan 6,04,360 6 Lacs+ ICICI Bank Business Loan 1,05,860 1 Lacs+ ICICI Bank Business Loan 1,05,860 1 Lacs+ URGO Business Loan 25,45,000 25 Lacs+ URGO Business Loan 15,00,000 15 Lacs+ Aditya Birla Loan Business Loan 23,00,000 23 Lacs+ Bajaj Finance Loan Business Loan 2,50,439 2 Lacs+ Bajaj Finance Loan Business Loan 2,75,760 2 Lacs+ ORO Money Loan Business Loan 24,60,298 24 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 6,43,750 | 2024 - 2025: Rs 14,22,640 | 2023 - 2024: Rs 7,76,840 | 2022 - 2023: Rs 6,06,630 | 2021 - 2022: Rs 4,75,680"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 6,80,670 | 2024 - 2025: Rs 14,74,270 | 2023 - 2024: Rs 8,58,400 | 2022 - 2023: Rs 5,89,570 | 2021 - 2022: Rs 6,39,400"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,24,65,538 ~2 Crore+",
+    "Liabilities:": "Rs 2,22,94,595 ~2 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2022 for ₹21,960 (CII Indexed Cost: ₹24,945) is declared at highly inflated value of ₹200,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2019 for ₹647,625 (CII Indexed Cost: ₹842,585) is declared at highly inflated value of ₹3,500,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2019 for ₹647,625 (CII Indexed Cost: ₹842,585) is declared at highly inflated value of ₹3,500,000."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹19,061,295) does not match declared total assets (₹22,465,538). Difference: ₹3,404,243"
+    }
+  ]
+}

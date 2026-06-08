@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904626",
+    "candidate_name": "R.GANDHI",
+    "candidate_name_json": null,
+    "age": "80",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "41, Ranipet Assembly Constituency, Tamilnadu",
+    "pan": "AEYPG2311N",
+    "phone": "9443222770",
+    "email": "ranipetgandhidmk@gmail.com",
+    "address": "No.7, Railway Station Road, Ranipet - 632 401, Ranipet District, Tamilnadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC 1960, Government High school Voyalpad Village Chittoor Dist",
+    "profession": "MLA, Partner in business and Social service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1119702707.0,
+    "total_liabilities_xls": 351506319.0,
+    "net_worth_xls": 768196388.0,
+    "cash_xls": 1750650.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR NO.167/2026",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

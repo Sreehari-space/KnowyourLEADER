@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921807",
+    "candidate_name": "V. Ranjith Kumar",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Independent",
+    "constituency": "87, Sankagiri, Tamil Nadu",
+    "pan": "CERPV8298A",
+    "phone": "9597586407",
+    "email": "ranjithkumar201292@gmail.com",
+    "address": "5-25-1, Naduvaneri, Mettukadu, Vempadithalam, Sankagiri, Salem- 637 504",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7th standard - Year: 2004 (Government school - Thiruvannamalai)",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3064221.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 3064221.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

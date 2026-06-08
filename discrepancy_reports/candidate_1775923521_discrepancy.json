@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923521",
+    "candidate_name": "Yaa. Isakkimuthu Naadan",
+    "candidate_name_json": null,
+    "age": "68",
+    "party": "All India Gandhi Kamaraj Congress",
+    "constituency": "Virugambakkam Assembly Constituency",
+    "pan": "ADMPE7729D",
+    "phone": "9094891076",
+    "email": "NIL",
+    "address": "No. 1, Pachaiamman Kovil Street, Virugambakkam, Chennai 600092",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "Old age pension"
+  },
+  "financial_summary": {
+    "total_assets_xls": 870000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 870000.0,
+    "cash_xls": 730000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

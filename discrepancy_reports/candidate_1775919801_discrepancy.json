@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919801",
+    "candidate_name": "PRAKASH P",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Independent",
+    "constituency": "201 - Cumbum Assembly Constituency",
+    "pan": "AQFPP3079B",
+    "phone": "7010235417",
+    "email": "unitykinginworld@gmail.com",
+    "address": "D.No. 75-D, Ward-11, Parathi Nagar, South Car Vethi, Uthamapalayam Post, Uthamapalayam Taluk, Theni District - 625533",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1) S.S.L.C., GOVT. MODEL HR.SEC. SCHOOL, UTHAMAPALAYAM, APRIL 1997; 2) H.S.C., GOVT. MODEL HR.SEC. SCHOOL, UTHAMAPALAYAM, MARCH 1999; 3) DIPLOMA IN WEAPON SYSTEM, UNIVERSITY OF PUNE, APR 2006",
+    "profession": "Coconut Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 723720.0,
+    "total_liabilities_xls": 85000.0,
+    "net_worth_xls": 638720.0,
+    "cash_xls": 17000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

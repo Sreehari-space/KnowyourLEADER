@@ -1,0 +1,372 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905591",
+    "candidate_name": "P. S. Masilamani",
+    "candidate_name_json": "MARAM MASILAMANI.B.S",
+    "age": "56",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "36. Uthiramerur Assembly Constituency, Tamil Nadu",
+    "pan": "AUPPM7874D",
+    "phone": "9443638545",
+    "email": "ஏதுமில்லை / nil",
+    "address": "No.34, Bajanai Koil Street, Kaithandalam Village, Ozhaiyur Post, Uthiramerur Taluk, Kancheepuram District - 603107",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "M.A., (Sociology) Annamalai University, Chidambaram 2009",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7984500.0,
+    "total_liabilities_xls": 5130000.0,
+    "net_worth_xls": 2854500.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "15,000 15 Thou+",
+        "spouse": "1,000 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "City Union Bank, Chengalpet, SB A/C 2,500 2 Thou+ Canara Bank, Chengalpet, SB A/C 2,500 2 Thou+ Primary Agricultural Cooperative Bank, Idaiyampudur-SB A/C 500 5 Hund+ Karur Vysya Bank Ltd (newly opened for election)-SB A/C 5,000 5 Thou+",
+        "spouse": "Indian Overseas Bank, Chengalpet, SB A/C 3,000 3 Thou+ Indian Bank, Chengalpet, SB A/C 1,000 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "City Union Bank, Chengalpet, SB A/C 2,000 2 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Mahindra Bolero Camper, TN 21 BZ 9484-2016, 2024 3,00,000 3 Lacs+ Two Wheeler Honda Duo, TN 19 P 3545, 2014 52,000 52 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "175 grams Gold Jewel 17,50,000 17 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "135 Grams -Gold jewel 13,50,000 13 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "1- Kaithandalam Village-S.Nos-26/1A, 27/3B3B, 27/4B1, 28/1A, 29/1B3, 29/2A1,29/2B, 29/3, 76/2, 76/3A, 81/1A, 81/1D, 24/1B1B, 27/3A2, 27/3B4B, 52/3, 52/3A and 2- Mangalam Village, Chengalpattu Taluk-S.Nos-171/1A, 171/2, 169/3A 2025-12-15, 2007-03-08, 2007-03-08, 2007-03-08, 2007-03-08, 2007-03-26, 2007-09-24, 2008-07-23, 2012-06-18, 2012-08-25 40000, 278250, 418250, 418250, 111300, 111300, 111300, 37100, 169600, 83300 Total Area 14 Acre 87 Cents Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 1778650.00 Development Cost 0.00 35,00,000 35 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Chengalpattu, S.No-897/2 Total Area 474 sqft Built Up Area 474 sqft Whether Inherited N Purchase Date 2012-03-26 Purchase Cost 284400.00 Development Cost 0.00 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "City Union Bank, Chengalpet Gold Loan 9,50,000 9 Lacs+ Canara Bank, Chengalpet Agricultural Loan 20,00,000 20 Lacs+ Indian Bank, chengalpet Agricultural Loan 1,80,000 1 Lacs+",
+      "spouse": "Indian Bank, chengalpet Home Loan 20,00,000 20 Lacs+",
+      "huf": "Nil",
+      "dependent1": "City Union Bank, Chengalpet Gold Loan Gold Loan 7,87,000 7 Lacs+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "CC No.2930/2025",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Punishment for wrongful Confinement (IPC Section-342)",
+        "1 charges related to Punishment for assault or criminal force otherwise than on grave provocation (IPC Section-352)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "20/2018, Salavakkam Police Station, Kanchipuram District",
+          "case_no": "CC No-2930/2025",
+          "court": "District Civil and Criminal Arbitration Court, Uthiramerur",
+          "law_type": "IPC",
+          "ipc_sections": "420, 143, 342, 294(b), 352, 506(1)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 74,84,500 ~74 Lacs+",
+    "Liabilities:": "Rs 59,17,000 ~59 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "310.0g gold declared at ₹1,750,000 (Implied rate: ₹5,645/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "HIGH",
+      "title": "Gold Loan Exceeds Expected LTV",
+      "description": "Gold loans sum to ₹1,737,000 against declared gold value of ₹1,750,000 (exceeds 90% LTV)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹1,352,000 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

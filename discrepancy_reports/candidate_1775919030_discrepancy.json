@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919030",
+    "candidate_name": "Ma. Dharanikumar",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "Independent",
+    "constituency": "98 Erode East Assembly Constituency",
+    "pan": "EHWPD1631F",
+    "phone": "7305674026, 7200574026",
+    "email": "ibelldharanikumar@gmail.com",
+    "address": "Door No. 20, Behind Solai Hospital, Perundurai Road, Erode Taluk, Erode District - 638011",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Engineering (2018) Vellaalar College of Engineering, Erode",
+    "profession": "Washing machine repairer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15009000.0,
+    "total_liabilities_xls": 37000.0,
+    "net_worth_xls": 14972000.0,
+    "cash_xls": 500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

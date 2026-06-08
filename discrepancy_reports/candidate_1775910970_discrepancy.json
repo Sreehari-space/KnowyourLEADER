@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910970",
+    "candidate_name": "MANIAN.R",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "Independent",
+    "constituency": "Udhagamandalam (108)",
+    "pan": "0PKPM6376B",
+    "phone": "8072670910",
+    "email": "manimanikumar5421@gmail.com",
+    "address": "26-A, Maragal village, Anikorai Post, Thuneri Panchayat, The Nilgiris-643206",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th standard- Discontinued- Government School, Annikorai. Year: 1994",
+    "profession": "Tourist Taxi Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3088500.0,
+    "total_liabilities_xls": 466000.0,
+    "net_worth_xls": 2622500.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (6 case(s))",
+    "case_numbers_xls": "Cr. No: 334/2023, B1 Ooty Town Central Police Station, Udhagamandalam; Cr.No:144/24, B1 Ooty Town Central Police Station, Udhagamandalam; Cr.No:385/2023, B1 Ooty Town Central Police Station, Udhagamandalam; Cr. No: 251/2024, B1 Ooty Town Central Police Station, Udhagamandalam; Cr. No: 53/2016, Denaducombai Police Station, Denaducombai, Udhagamandalam, The Nilgiris; Cr. No: 414/2020, Denaducombai Police Station, Denaducombai, Udhagamandalam, The Nilgiris",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

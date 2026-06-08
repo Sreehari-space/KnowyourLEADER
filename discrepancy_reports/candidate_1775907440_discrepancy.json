@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907440",
+    "candidate_name": "M. Monisha",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "82 Attur (SC) Assembly Constituency, Tamil Nadu",
+    "pan": "GJCPM1062F",
+    "phone": "6382807408",
+    "email": "monisha.bde@gmail.com",
+    "address": "136, Old Pudukkalani, Pungavadi, Attur Taluk, Pungavadi, Salem District - 636 141",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard - VELANKANNI MATRICULATION Hr.Sec. School, Ashok Nagar Chennai (2003-2004); 12th Standard - VELANKANNI MATRICULATION Hr.Sec. School, Ashok Nagar Chennai (2005-2006); Bachelor Of Engineering - Computer Science - Rajareshwarai Engineering College (2006-2010)",
+    "profession": "Individual Tiles Showroom"
+  },
+  "financial_summary": {
+    "total_assets_xls": 19100000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 19100000.0,
+    "cash_xls": 150000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

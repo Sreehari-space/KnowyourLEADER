@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912359",
+    "candidate_name": "S. Suresh Kasiniventhan)",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "ALL INDIA FORWARD BLOC",
+    "constituency": "210 THIRUVADANAI",
+    "pan": "FXGPS2358P",
+    "phone": "9442000083",
+    "email": "sureshthevarsrivai13@gmail.com",
+    "address": "Door No 4, PERUMPATHU STREET, SRIVAIKUNTAM, TUTICORIN-628601",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Sri Kumaraguruparar Hr Sec School, Srivaikuntam, Turicorin.1991-1992",
+    "profession": "AGRICULTURIST"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10292810.91,
+    "total_liabilities_xls": 2982339.99,
+    "net_worth_xls": 7310470.92,
+    "cash_xls": 350000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Convicted (1 case(s))",
+    "case_numbers_xls": "FIR No. 279/2021, SC No-187/2025 (Pending); FIR No. 115/2019 (Pending); FIR No. 243/2016 (Pending); FIR No. 244/2016 (Pending); FIR No. 2/2015, SC No-38/2021 (Pending); SC No 42/1996 (Convicted)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

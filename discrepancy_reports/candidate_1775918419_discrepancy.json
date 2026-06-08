@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918419",
+    "candidate_name": "R. காளிதாஸ்",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "சுயேட்சை",
+    "constituency": "184 காரைக்குடி சட்டமன்றம், தமிழ்நாடு",
+    "pan": "NOTAVAILABLE/இல்லை",
+    "phone": "8438113829",
+    "email": "not available / இல்லை",
+    "address": "20 பெரியார் தெரு, தேவகோட்டை, தேவகோட்டை தாறுகா, 630302",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5 ஆம் வகுப்பு தேர்ச்சி",
+    "profession": "தின கூலி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1371000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1371000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

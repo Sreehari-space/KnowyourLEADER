@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912418",
+    "candidate_name": "VIJAY R BARANIBALAAJI",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "THAMIZHAGA VETTRI KAZHAGAM",
+    "constituency": "76 THIRUKOVILUR",
+    "pan": "AKUPB2586J",
+    "phone": "8523964117",
+    "email": "vijayr.baranibalaaji@gmail.com",
+    "address": "A, ANJANEYAR KOVIL STREET, NGGO NAGAR, THIRUKOVILUR AND TALUK, KALLAKURICHI DISTRICT, TAMIL NADU Pin Code No-605 757",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Not Specified",
+    "profession": "ADVOCATE (LAWYER)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15883257.64,
+    "total_liabilities_xls": 5193037.14,
+    "net_worth_xls": 10690220.5,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

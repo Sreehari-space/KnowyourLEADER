@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921915",
+    "candidate_name": "J. Muthupava",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "Independent",
+    "constituency": "98 Erode East Assembly Constituency, Tamil Nadu",
+    "pan": "FAHPM4049F",
+    "phone": "7402095295",
+    "email": "muthumutha0333@gmail.com",
+    "address": "82, Joseph Thottam, B.P. Agraharam, Erode Taluk, Erode District, Erode-638 005, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7th - Government Higher Secondary School, BP Agraharam, Erode - 2007",
+    "profession": "Meat shop and leather business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2305500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2305500.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "SC No. 231/2025 (FIR No. 254/2024, Police Station: கருங்கல் பாளையம் காவல் நிலையம் / Karungalpalayam Police Station, Sections: 147, 148, 294(b), 363, 307, 120B, 323 IPC, Description: கூட்டுச்சதி மற்றும் அடிதடி வழக்கு / Conspiracy and assault case, Charges framed: ஆம் / Yes, Date: 07.06.2024)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

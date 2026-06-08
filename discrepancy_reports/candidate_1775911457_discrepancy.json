@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911457",
+    "candidate_name": "Kaliswaran",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Independent candidate supported by Tamilaga Vazhvurimai Katchi",
+    "constituency": "Thiruvadanai - 210",
+    "pan": "CYDPK0695Q",
+    "phone": "9080501997",
+    "email": "NIL",
+    "address": "298, Orikkottai Post and Village, Thiruvadanai Taluk, Ramanathapuram District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard, Orikkottai Nadunilaippalli, Thiruvadanai Taluk, Ramanathapuram, 2001",
+    "profession": "Individual business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1577000.0,
+    "total_liabilities_xls": 300000.0,
+    "net_worth_xls": 1277000.0,
+    "cash_xls": 80000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

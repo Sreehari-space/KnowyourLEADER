@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905379",
+    "candidate_name": "M. Ranjithkumar",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "Bahujan Samaj Party",
+    "constituency": "71, Mailam Assembly Constituency (Reserved) Tamil Nadu",
+    "pan": "FUPPR9272H",
+    "phone": "7305925113",
+    "email": "no / nil",
+    "address": "K. No. 531, Kallankuppam, Molasur Village & Post, Tindivanam Taluk-604 102, Villupuram District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "H.S.C",
+    "profession": "Car Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1625000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1625000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

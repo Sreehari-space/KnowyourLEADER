@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909822",
+    "candidate_name": "Sinora P S Ashok",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "24, T. Nagar, Tamil Nadu",
+    "pan": "AIJPA3029Q",
+    "phone": "9444022448",
+    "email": "sinoraashok@gmail.com",
+    "address": "New No. 14, Old No. 52, Moosa Street, T. Nagar, Chennai 600 017",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.Phil (History) - Sri Venkadeswara University, Nov.2010; M.A. History - (Annamalai University), May 1995; B.L. - Dr. Ambedkar Law College, Chennai, Dec.2009; B.Sc., Chemistry - Kandaswami Naidu College for Men (Madras University), April 2021; +2 - T.Nagar Higher Secondary School, April 1984; S.S.L.C.- T.Nagar Higher Secondary School, March 1982",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 663937208.06,
+    "total_liabilities_xls": 12157283.88,
+    "net_worth_xls": 651779924.18,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

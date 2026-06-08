@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923559",
+    "candidate_name": "A. Pushparani",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Independent",
+    "constituency": "Nanguneri Assembly Constituency, Tamil Nadu (Constituency No. 227)",
+    "pan": "CAJPP9279D",
+    "phone": "8489359122",
+    "email": "pushparani.a1712@gmail.com",
+    "address": "No. 48, Kamaraj Street, Kallathi, Moolaikaraipatti, Tirunelveli District - 627354, Nanguneri Taluk",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1. 12th standard, Government Higher Secondary School, Moolaikaraipatti-1996; 2. B.Sc. discontinued, Nazareth Margoschis College-1998",
+    "profession": "Nil"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1445140.0,
+    "total_liabilities_xls": 130000.0,
+    "net_worth_xls": 1315140.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

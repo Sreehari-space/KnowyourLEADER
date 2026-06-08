@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912736",
+    "candidate_name": "ஏ.செல்வகோட்டி",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "வீரத்தியாகி விஸ்வநாததாஸ் தொழிலாளர்கள் கட்சி",
+    "constituency": "67 ஆரணி சட்டமன்ற தொகுதி தமிழ்நாடு மாநிலம்",
+    "pan": "FXWPS5491D",
+    "phone": "6384056142",
+    "email": "selvakotti3680@gmail.com",
+    "address": "கதவு எண் 217, ரோடு தெரு, அண்ணா நகர், கெங்கை சூடாமணி, போளூர் வட்டம், திருவண்ணாமலை மாவட்டம் - 606 801",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5ஆம் வகுப்பு தேர்ச்சி - 1991 - ஊ.ஒ.து.பள்ளி, கெங்கை சூடாமணி",
+    "profession": "A to Z சலூன்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1211000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1211000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

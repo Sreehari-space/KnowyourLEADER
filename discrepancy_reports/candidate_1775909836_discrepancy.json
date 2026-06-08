@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909836",
+    "candidate_name": "K. Dhivya",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "RASHTRIYA SAMAJDAL (R)",
+    "constituency": "Musiri Assembly Constituency",
+    "pan": "DYMPD2443F",
+    "phone": "9840989533",
+    "email": "dhivyasabarish4@gmail.com",
+    "address": "40-2, North Street, Appanallur, Thottiyam Taluk, Tiruchirappalli District 621208",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9th Standard (Failed), Government Higher Secondary School, Kolakudi, 2004",
+    "profession": "Housewife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1137200.0,
+    "total_liabilities_xls": 253000.0,
+    "net_worth_xls": 884200.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

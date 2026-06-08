@@ -1,0 +1,353 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908187",
+    "candidate_name": "Thiru. Rajasimha Mahendra",
+    "candidate_name_json": "RAJASIMHA MAHENDRA",
+    "age": "49",
+    "party": "Bharatiya Janata Party",
+    "constituency": "006 Avadi, Tamil Nadu",
+    "pan": "AHQPR2801P",
+    "phone": "9445553555, 7338964721",
+    "email": "rsmbjp@gmail.com",
+    "address": "No. 25, Perumal Agaram, Thiruverkadu, Chennai - 600 077",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Twelfth standard, Padma Sarangapani Matriculation, Higher Secondary School 1994",
+    "profession": "Individual agriculture, medicine business and rental income"
+  },
+  "financial_summary": {
+    "total_assets_xls": 120628592.93,
+    "total_liabilities_xls": 7412156.5,
+    "net_worth_xls": 113216436.43,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,00,000 1 Lacs+",
+        "spouse": "2,00,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "12,000 12 Thou+",
+        "dependent2": "8,000 8 Thou+",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "CBI 4,35,785 4 Lacs+ AXIS 1,12,191 1 Lacs+ UBI 1,484 1 Thou+ IOB 18,267 18 Thou+ IOB 10,000 10 Thou+ IOB 10,000 10 Thou+ IOB 10,000 10 Thou+ IOB 20,000 20 Thou+ IOB 10,000 10 Thou+ IOB 10,000 10 Thou+",
+        "spouse": "IOB 5,06,967 5 Lacs+ CBI 4,40,472 4 Lacs+ IOB 36,541 36 Thou+ IOB 87,137 87 Thou+ IOB 1,25,510 1 Lacs+ IOB 1,03,312 1 Lacs+ IOB 0",
+        "huf": "Nil",
+        "dependent1": "AXIS 454 4 Hund+ CBI 1,50,000 1 Lacs+ CBI 50,000 50 Thou+",
+        "dependent2": "UBI 2,000 2 Thou+ CBI 1,50,000 1 Lacs+ UBI 50,000 50 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC POLICY 20,00,000 20 Lacs+",
+        "spouse": "LIC POLICY 20,00,000 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TN12W1414,INNOVA, 2017 23,80,113 23 Lacs+ TN20BL4111 Bullet, 2011 1,12,000 1 Lacs+ TN13L8962 Fascino, 2018 54,593 54 Thou+",
+        "spouse": "TN12D8089 DZIRE -2014 5,03,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "48 gram 6,60,000 6 Lacs+",
+        "spouse": "672 gram 92,40,000 92 Lacs+",
+        "huf": "Nil",
+        "dependent1": "120 gram 16,50,000 16 Lacs+",
+        "dependent2": "32 Gram 4,40,000 4 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Koladi,159,160/2, 158/1, Karadiputhur,80/1(5 acre 84 cent) Total Area 50 cent Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,02,28,000 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Thiruvoor,92/21,(2350sq ft) noombal,20/1(10 cent) Total Area Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 42,32,460 42 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Velappansavadi,36/1F part(1026 sq ft) Perumal Agaram,58/1,2, 3, 16/1A, 1B, 2A, 2B, 3A, 3B(45 cent)(3000 sq ft) Total Area 1200 sq ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 5,53,09,320 5 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Perumal Agaram,56/3(12 cent)(100 sq ft), Virukampakkam 18& 36 part(510 sq ft)(1200 sq ft) Total Area Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,15,39,040 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Bajaj Finance, 403LAP 26,33,734 26 Lacs+ PL 1,93,717 1 Lacs+ PL 6,02,008 6 Lacs+",
+      "spouse": "IOB, Tiruverkadu JL 5,92,234 5 Lacs+ IOB, Tiruverkadu JL 5,38,395 5 Lacs+ IOB, Tiruverkadu JL 4,84,555 4 Lacs+ CBI, Aminjikarai JL 5,36,423 5 Lacs+ CBI, Aminjikarai JL 6,02,827 6 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Malini Individual loan 8,66,575 8 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "3,61,688 3 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 33,89,560 | 2023 - 2024: Rs 0 | 2022 - 2023: Rs 0 | 2021 - 2022: Rs 23,89,410 | 2020 - 2021: Rs 18,06,490"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 12,33,41,395 ~12 Crore+",
+    "Liabilities:": "Rs 74,12,156 ~74 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹116,992,458, but 5-year family income is only ₹7,585,460. Unexplained wealth discrepancy of ₹109,406,998."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "872.0g gold declared at ₹9,900,000 (Implied rate: ₹11,353/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹2,112,004 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907673",
+    "candidate_name": "M. Muthukumar",
+    "candidate_name_json": "MUTHUKUMAR M",
+    "age": "38",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "230 Nagercoil Assembly Constituency",
+    "pan": "BFVPM4011E",
+    "phone": "6382771482",
+    "email": "muthu_june8@yahoo.com",
+    "address": "115, Kulalar Street, Kottar, Nagercoil, Kanyakumari District - 629 002",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Certificate Course on Catering and Hotel Management, Tamil Nadu Polytechnic College, Madurai, 2004",
+    "profession": "Self-employed"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15173110.4,
+    "total_liabilities_xls": 6640886.310000001,
+    "net_worth_xls": 8532224.09,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,000 10 Thou+",
+        "spouse": "1,000 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "IOB 6,00,000 6 Lacs+ SBI Sb 5,000 5 Thou+",
+        "spouse": "IOB 1,000 1 Thou+ HDFC SB 8,113.75 8 Thou+ ICICI 100 1 Hund+",
+        "huf": "Nil",
+        "dependent1": "IOB 500 5 Hund+",
+        "dependent2": "IOB 500 5 Hund+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Postal Policy Sum assured 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "M-cycle/ scooter classic 250 BS IV 2018 TN74 AS7665 1,46,939 1 Lacs+",
+        "spouse": "Renault Kwid TN74 AV 2887 5,00,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "184.600 Grams Gold Jewelry 26,49,748.40 26 Lacs+",
+        "spouse": "88.500 Grams Gold Jewelry 12,70,329 12 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Kollumadai 102/1A1 Total Area 11.336 Built Up Area Whether Inherited N Purchase Date 2024-05-08 Purchase Cost 2268110.00 Development Cost 0.00 30,00,000 30 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Kollumadai 102/1A1 Total Area 3500 Built Up Area Whether Inherited N Purchase Date 2024-05-08 Purchase Cost 231890.00 Development Cost 300000.00 10,00,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Ashram 31/13C/13F Total Area 1744 Built Up Area 1722.22 Whether Inherited N Purchase Date 2017-03-09 Purchase Cost 3200000.00 Development Cost 0.00 90,00,000 90 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Loan from IOB Mudra Loan 9,91,701.31 9 Lacs+ Loan from IOB Mudra Loan 5,31,185 5 Lacs+ Gold Loan IOB 11,68,000 11 Lacs+",
+      "spouse": "Loan from LIC Housing Finance 28,00,000 28 Lacs+ Loan from LIC Housing Finance 5,00,000 5 Lacs+ Gold Loan IOB 4,50,000 4 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Thiru. Kumaran 1,00,000 1 Lacs+ Thiru Sujan 1,00,000 1 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 7,05,650 | 2023 - 2024: Rs 6,87,550 | 2022 - 2023: Rs 4,83,910"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "0569/2025; 0562/2025; 0563/2025; 0570/2025",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "2 charges related to Assault or use of criminal force to deter public servant from discharge of his duty. (BNS Section-132)",
+        "3 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "3 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "2 charges related to Continuance of nuisance after injunction to discontinue. (BNS Section-293)",
+        "1 charges related to Defines Bribery (BNS Section-170)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (BNS Section-223)",
+        "1 charges related to Punishment for Criminal trespass. (BNS Section-329(3))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "0569/2025 Iranial Police Station, Iranial, Kanyakumari District.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "170",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "02 Nov 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "0562/2025 Iranial Police Station, Iranial, Kanyakumari District.",
+          "case_no": "STC 1127/2025",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 223, 329(3), 293,132",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "27 Oct 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "0563/2025 Iranial Police Station, Iranial, Kanyakumari District.",
+          "case_no": "STC 1128/2025",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 293",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "28 Oct 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "0570/2025 Iranial Police Station, Iranial, Kanyakumari District.",
+          "case_no": "PRC 10/2026",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 296(6), 126(2), 132",
+          "other_details": "Section TN Public Property (PRVNT, Damage and Lost) Act 1992",
+          "charges_framed": "Yes",
+          "charges_date": "02 Nov 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,81,74,110 ~1 Crore+",
+    "Liabilities:": "Rs 66,40,886.31 ~66 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹14,787,325, but 5-year family income is only ₹1,877,110. Unexplained wealth discrepancy of ₹12,910,215."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Commercial Buildings purchased in 2024 for ₹231,890 (CII Indexed Cost: ₹240,195) is declared at highly inflated value of ₹1,000,000."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904722",
+    "candidate_name": "A.P. Nandakumar",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "44 Anaikattu",
+    "pan": "ADCPN6697F",
+    "phone": "9626656666",
+    "email": "virmaindmk@gmail.com",
+    "address": "Elatteri Village & Post, Gudiyatham Main Road, Kilvaithiyanankuppam Taluk, Vellore District-632202",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "HSC from Thiruvalluvar Higher Secondary School, Gudiyatham (1988-1989)",
+    "profession": "Hotel Owner"
+  },
+  "financial_summary": {
+    "total_assets_xls": 540256449.0,
+    "total_liabilities_xls": 223635775.0,
+    "net_worth_xls": 316620674.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (10 case(s))",
+    "case_numbers_xls": "Cr.No 0071/2026/29.03.2026; Cr.No, 0097/2021/02.04.2021; Cr.No, 1225/2020/30.11.2020; Cr.No, 1344/2020/16.11.2020; Cr.No, 2249/2020/28.09.2020; Cr.No, 0271/2020/08.06.2020; Cr.No, 0903/2019/17.12.2019; Cr.No, 0219/2017/25.04.2017; Cr.No, 94/2017/12.04.2017; Cr. No, 0056/2017/13.03.2017",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

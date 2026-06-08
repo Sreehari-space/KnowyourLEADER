@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912698",
+    "candidate_name": "Dr. K. K. SHYAM",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "PUTHIYA TAMILAGAM",
+    "constituency": "203 - SRIVILLIPUTHUR (SC) Assembly Constituency",
+    "pan": "EHIPS4923K",
+    "phone": "9443930000",
+    "email": "shyam2991@gmail.com",
+    "address": "402H, Ward No. 87, Thirumoorthi Nagar, Kuniyamuthur, Coimbatore – 641 008",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.S (General Surgery) from S.C.B. Medical College, Cuttack (December 2020)",
+    "profession": "Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 160253742.0,
+    "total_liabilities_xls": 1130620.0,
+    "net_worth_xls": 159123122.0,
+    "cash_xls": 175000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "Cr. No 290/2025; Cr.No: 458/2024; Cr. No: 6/2021 C2",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

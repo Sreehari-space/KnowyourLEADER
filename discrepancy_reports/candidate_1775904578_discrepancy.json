@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904578",
+    "candidate_name": "C. Udhayakumar",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "Bharatiya Janata Party (BJP)",
+    "constituency": "178- Gandarvakottai (SC)",
+    "pan": "ABBPU6892L",
+    "phone": "9750976275",
+    "email": "mcudhayakumar252@gmail.com",
+    "address": "புதுக்கோட்டை மாவட்டம், கந்தர்வகோட்டை தாலுகா, தெத்துவாசல்பட்டி அஞ்சல், புனல்குளம் வருவாய் கிராமம் & ஊராட்சி, நடுத்தெரு, எண்.1/85 / Pudukkottai District, Gandarvakottai Taluk, Thethuvachalpatti Post, Punalkulam Revenue Village & Panchayat, Nadutheru, No.1/85",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9th Standard, Government Higher Secondary School, Vallam, Thanjavur District, 1987",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 16935500.0,
+    "total_liabilities_xls": 150000.0,
+    "net_worth_xls": 16785500.0,
+    "cash_xls": 130000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913429",
+    "candidate_name": "Arun",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Independent",
+    "constituency": "34-Cheyyur (SC) Assembly Constituency",
+    "pan": "BLXPC5920N",
+    "phone": "9940040958",
+    "email": "aruncabs1812@gmail.com",
+    "address": "2, Mariamman Kovil Street, Perumattunallur, Chengalpattu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Std, Year of Passing 2006, Government Boys Higher Secondary School, Nandhivaram, Guduvancheri. D.M.E, - Discontinued. Sri Balaji Polytechnic School, Kolappakkam.",
+    "profession": "Arun Cabs & Travels"
+  },
+  "financial_summary": {
+    "total_assets_xls": 12500.0,
+    "total_liabilities_xls": 55000.0,
+    "net_worth_xls": 42500.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

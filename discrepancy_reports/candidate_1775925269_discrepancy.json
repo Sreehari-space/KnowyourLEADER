@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775925269",
+    "candidate_name": "T. Seethalakshmi",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Independent",
+    "constituency": "136, Krishnarayapuram Assembly Constituency",
+    "pan": "HJHPD5634Q",
+    "phone": "7598159129",
+    "email": "seethaadvocate18@gmail.com",
+    "address": "154, Kandasamy Nagar, Veerarakkiyam, Palarajapuram, Krishnarayapuram Taluk, Karur District, Karur Circle",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.L. Law, Tamil Nadu Dr. Ambedkar University, Chennai - 2020.",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1733600.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1733600.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

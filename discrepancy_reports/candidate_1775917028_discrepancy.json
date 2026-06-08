@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917028",
+    "candidate_name": "T. Nataraj",
+    "candidate_name_json": null,
+    "age": "73",
+    "party": "Independent",
+    "constituency": "102. Kangayam",
+    "pan": "AMMPT8084D",
+    "phone": "99763, 96316",
+    "email": "இல்லை / none",
+    "address": "Door No: 15, Kadaiyurana Valasu, Vellakovil, Kangayam circle, Tiruppur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5th Standard, Panchayat Union Primary School, Kadaiyuranvalasu, Vellakovil - 1963",
+    "profession": "Individual agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8900500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 8900500.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

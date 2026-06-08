@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906410",
+    "candidate_name": "A.M.V. Prabhakararaja",
+    "candidate_name_json": null,
+    "age": "38",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "22, Virugambakkam, Tamil Nadu",
+    "pan": "ASEPP8200H",
+    "phone": "9962159159",
+    "email": "dmkprabhakar@gmail.com",
+    "address": "No. 33, Ganga Nagar 1st street, Jaffarkhanpet, Chennai-600083",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Mtech., MBA., 10th standard (2003-2004, M.C.C. Higher Secondary School, Chetpet), 12th standard (2005-2006, M.C.C. Higher Secondary School, Chetpet), B.Tech Civil (2007-2011, M.G.R. University), M.Tech (2011-2013, S.R.M. University), MBA (2013-2015, Chennai University)",
+    "profession": "Partner - Apple Builders, Member of Legislative Assembly, Public Service, Ready Basket Super Market (P) Ltd (Director)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 358157985.0,
+    "total_liabilities_xls": 28223579.0,
+    "net_worth_xls": 329934406.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr.1301/2016, R7, KK.Nagar, Chennai, CC.2743/2019 before the learned 23rd MM, Saidapet court in CR.NO. 1301/2016 on the file of R-7, K.K.Nagar P.S., Chennai, U/S 143, 188, 341, 285 of I.P.C.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

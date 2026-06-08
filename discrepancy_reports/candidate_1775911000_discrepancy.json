@@ -1,0 +1,353 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911000",
+    "candidate_name": "Se. Samayan",
+    "candidate_name_json": "SAMAYAN.S",
+    "age": "35",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "Tiruchuli (208) Assembly Constituency",
+    "pan": "IPZPS5567A",
+    "phone": "8072477752",
+    "email": "NIL",
+    "address": "1, East Street, Aviyur, Kariapatti Taluk, Virudhunagar District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "6th standard dropout - Aviyur Government Higher Secondary School (2002)",
+    "profession": "Building contractor, construction work, agricultural laborer and livestock rearing"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6061906.0,
+    "total_liabilities_xls": 2089000.0,
+    "net_worth_xls": 3972906.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "25,000 25 Thou+",
+        "spouse": "20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "State Bank of India Aaviyur Branch, Savings Account 150 1 Hund+ Current bank account opened only for election expenses. Indian Overseas Bank Current Account 06.04.2026 6,000 6 Thou+",
+        "spouse": "State Etum. Bank of India Avyur Branch, Savings Account 1,000 1 Thou+ Indian Overseas Bank Kariyapatti Branch Savings Account 1,264 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "State Bank of India Aviyur Branch, Savings Account 20,000 20 Thou+",
+        "dependent2": "State Bank of India Aviyur Branch, Savings Account 10,000 10 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Post Office Joint Account, Aviyur Branch Savings Account 646 6 Hund+",
+        "spouse": "Post Office Joint Account, Aviyur Branch Savings Account 646 6 Hund+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Post Office Scheme SSA (Aviyur) Savings Account 10,782 10 Thou+",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Hero Honda Splender Bike-2011 TN67AD8955 10,000 10 Thou+ Royal Enfeild Classic 350 2015 TN64L2122 1,10,000 1 Lacs+ Hero Splender Bike-2018 TN64S8599 25,000 25 Thou+ Mahindra Bolero car 2024 TN64AC1939 12,00,000 12 Lacs+",
+        "spouse": "TVS JupiIter Bike -2025 TN67BU2506 80,000 80 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "76 grams of gold jewelry 7,60,000 7 Lacs+",
+        "spouse": "262.22 grams of gold 26,22,200 26 Lacs+",
+        "huf": "Nil",
+        "dependent1": "40 Grams Gold 4,00,000 4 Lacs+",
+        "dependent2": "40 Grams Gold 4,00,000 4 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Aviyur Field Voice 242/50 242/51 Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 6,00,000 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "South Gate No. 3/1 Panchayat Tax Assessment in Survey No. 104/1, Aviyur Village, Kariyapatti Taluka, Virudhunagar District. 1446 Total Area 450Sq.ft Built Up Area 450Sq.ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 12,00,000 12 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Mahindra Finance, Kappalur Branch, Vehicle Loan total 900000 7,50,000 7 Lacs+ Estate Bank of India Aviyur Branch, Jewelry Loan 2,00,000 2 Lacs+",
+      "spouse": "State Bank of India Aviyur Branch, Jewellery Loans amount 2,26,000 2 Lacs+ State Bank of India Aviyur Branch, Jewellery Loans 2,75,000 2 Lacs+ State Bank of India Aviyur Branch, Jewellery Loans 3,74,000 3 Lacs+ State Bank of India Aviyur Branch, Jewellery Loans 1,30,000 1 Lacs+ Primary Agricultural Cooperative Credit Society. Arasakulam Branch, Jewelry Loan 28,000 28 Thou+ Primary Agricultural Cooperative Credit Society. Aviyur Branch, Jewelry Loans 75,000 75 Thou+ Primary Agricultural Cooperative Credit Society. Aviyur Branch, Jewelry Loans 31,000 31 Thou+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 75,02,688 ~75 Lacs+",
+    "Liabilities:": "Rs 20,89,000 ~20 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "418.2g gold declared at ₹3,382,200 (Implied rate: ₹8,087/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "HIGH",
+      "title": "Vehicle Loan Exceeds Declared Vehicle Value",
+      "description": "Vehicle loans sum to ₹750,000 but declared vehicles value is only ₹90,000."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹6,158,995) does not match declared total assets (₹7,502,688). Difference: ₹1,343,693"
+    }
+  ]
+}

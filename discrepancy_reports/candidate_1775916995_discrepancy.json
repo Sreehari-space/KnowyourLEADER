@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916995",
+    "candidate_name": "D. Mohamed Ismail",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Independent",
+    "constituency": "191. Madurai North Assembly Constituency, Tamil Nadu",
+    "pan": "GJKPM1039N",
+    "phone": "9942982828",
+    "email": "mohamedismail282828@gmail.com",
+    "address": "125, Singaravelar 2nd Street, K.Pudur, Madurai-625007",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "6th Standard (1993), Al-Ameen Higher Secondary School, K.Pudur, Madurai-7",
+    "profession": "Private Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 44913.17,
+    "total_liabilities_xls": 42336.0,
+    "net_worth_xls": 2577.169999999998,
+    "cash_xls": 1000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

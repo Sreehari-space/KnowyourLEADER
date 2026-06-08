@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920532",
+    "candidate_name": "D. Manikandan (D. மணிகண்டன்)",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "Independent (சுயேட்சை)",
+    "constituency": "87 Sankagiri, Tamil Nadu (87 சங்ககிரி, தமிழ்நாடு)",
+    "pan": "CGOPM2867D",
+    "phone": "8072512469",
+    "email": "kvpmani6@gmail.com",
+    "address": "91, Sembadavar Street, Kaveripatti Post, Sankagiri Taluk, Salem District-637104 (க.எண் 5-91, செம்படவர் தெரு, காவேரிப்பட்டி அஞ்சல், சங்ககிரி வட்டம், சேலம் மாவட்டம்-637104)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc (Electronics), Erode Arts and Science College, Erode, 2013 (பி.எஸ்.சி (எலக்ட்ரானிக்ஸ்), ஈரோடு கலை மற்றும் அறிவியல் கல்லூரி, ஈரோடு, 2013-ஆம் வருடம்)",
+    "profession": "Petty shop (பெட்டிகடை)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 164796.0,
+    "total_liabilities_xls": 17000.0,
+    "net_worth_xls": 147796.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

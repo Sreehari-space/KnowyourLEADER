@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911375",
+    "candidate_name": "K. Jeya",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "Independent",
+    "constituency": "Madurai South Assembly Constituency",
+    "pan": "இல்லை/NONE",
+    "phone": "9842864355",
+    "email": "இல்லை / none",
+    "address": "556, Ambedkar Nagar, Anuppanadi, Madurai - 625009",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Eighth standard pass - Aloysius Higher Secondary School, Uthamapalayam, Theni District, 1982-83",
+    "profession": "Grocery shop"
+  },
+  "financial_summary": {
+    "total_assets_xls": 16000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 16000.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

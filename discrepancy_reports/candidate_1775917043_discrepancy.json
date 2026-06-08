@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917043",
+    "candidate_name": "K. Anitha",
+    "candidate_name_json": null,
+    "age": "39",
+    "party": "Independent",
+    "constituency": "52 Bargur",
+    "pan": "AXQPA9192G",
+    "phone": "9585895228",
+    "email": "anithamaya2021@gmail.com",
+    "address": "394A, Maya Nagar, Kattinayanapalli, Sridevaraj Mahal Opp., Chennai Road, Krishnagiri District, Tamil Nadu 635 001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A., English - Annamalai University Distance Education, D.T.Ed., - Tamil Nadu Teachers Education Chennai",
+    "profession": "Housewife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4456250.0,
+    "total_liabilities_xls": 1396258.0,
+    "net_worth_xls": 3059992.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,353 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911830",
+    "candidate_name": "S. Vijayakumar",
+    "candidate_name_json": "S.VIJAYAKUMAR",
+    "age": "56",
+    "party": "Tamilaga Vettri Kazhagam",
+    "constituency": "01 Gummidipoondi Assembly Constituency",
+    "pan": "ABYPV5039K",
+    "phone": "9445004012",
+    "email": "vijayakumarvarmavk@gmail.com",
+    "address": "No. 12, M.P.C. Nagar, 1st Street, Old Gummidipoondi, Tiruvallur - 601201",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "SSLC (1986) - Govt. High School, Koppur; HSC (1988) - DRBCCC Hindu Hr.Sec. School, Tiruvallur; B.Sc.(1991) - Presidency College, Chennai; B.L., (2012) - Sri Venkateswara College of Law, Tirupati",
+    "profession": "Individual - Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 36395500.0,
+    "total_liabilities_xls": 10300000.0,
+    "net_worth_xls": 26095500.0,
+    "cash_xls": 600000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "6,00,000 6 Lacs+",
+        "spouse": "8,45,000 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Axis Bank 10,000 10 Thou+ Karur Vysya Bank 20,000 20 Thou+ Karur Vysya Bank 10,000 10 Thou+ City Union Bank 20,000 20 Thou+ Indian Bank ( Election A/C ) 1,000 1 Thou+",
+        "spouse": "Karnataka Bank 10,000 10 Thou+ Indian Bank 5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "120 gm gold 16,32,000 16 Lacs+",
+        "spouse": "160 gm gold 21,76,000 21 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Kanchipuram District, Sriperumbur Taluk ,Llupur Village 27/3B Total Area 2 Acre 61 1/2 Cent Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 1500000.00 1,00,67,500 1 Crore+ Kanchipuram District Sriperumbbudur Taluku , Llupur 34/1 , 41/2A , 114/1c ( 1155000 , 1190000 ,245000, ) purchase date 15-02-2022, 14-06-2022, 14-07-2021, 14-09-2021 Total Area 0.74 Acre Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 25,90,000 25 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Thiruvallur District , Thiruvallur Taluk , Ekattur Village 39/1A , 39/1A1 Total Area 2400 sq,ft Built Up Area Whether Inherited N Purchase Date 2015-07-20 Purchase Cost 500000.00 Development Cost 0.00 30,00,000 30 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Thiruvallur District , Thiruvallur Taluk, Venkathur Village ( Settlement Through father) Total Area 2400 sq.ft Built Up Area 2300 sq.ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 2300000.00 72,00,000 72 Lacs+ 334/132 Total Area 1253 sq.ft Built Up Area 588 sq.ft Whether Inherited N Purchase Date 2004-06-23 Purchase Cost 500000.00 Development Cost 0.00 25,06,000 25 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Thiruvallur District , Thiruvallur Taluk Llupur village Sy.No. 110/1A3 0.32 cent 5,00,000 5 Lacs+ Thiruvallur District , Thiruvallur Taluk Sy. No 377/1A , 1.00 Acre 20,00,000 20 Lacs+ Thiruvallur District , Thiruvallur Taluk , Venkathur Village, (Mortagae Loan )SY Np.331/19 68,00,000 68 Lacs+ Thiruvallur District , Thiruvallur Taluk , Venkathur Village, (Mortagae Loan )SY Np.331/19 10,00,000 10 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 13,63,960 | 2023 - 2024: Rs 15,59,980 | 2022 - 2023: Rs 8,76,230 | 2021 - 2022: Rs 4,64,820 | 2020 - 2021: Rs 4,84,780"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,88,640 | 2023 - 2024: Rs 6,78,940 | 2022 - 2023: Rs 4,39,750 | 2021 - 2022: Rs 4,25,000"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,63,95,500 ~3 Crore+",
+    "Liabilities:": "Rs 1,03,00,000 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹25,040,500, but 5-year family income is only ₹6,782,100. Unexplained wealth discrepancy of ₹18,258,400."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2015 for ₹500,000 (CII Indexed Cost: ₹740,157) is declared at highly inflated value of ₹3,000,000."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹25,540,500) does not match declared total assets (₹36,395,500). Difference: ₹10,855,000"
+    }
+  ]
+}

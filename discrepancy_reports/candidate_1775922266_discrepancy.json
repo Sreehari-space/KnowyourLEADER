@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922266",
+    "candidate_name": "English Translation: K. பாலகிருஷ்ணன்)",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "English Translation: சுயேட்சை)",
+    "constituency": "English Translation: பூந்தமல்லி சட்டமன்ற தொகுதி, தமிழ்நாடு)",
+    "pan": "BQRPB5250M",
+    "phone": "9840435510",
+    "email": "balajune1977@gmail.com",
+    "address": "243, பஜனை கோயில் தெரு, நத்தமேடு கிராமம் பாக்கம் அஞ்சல், திருவள்ளூர்-602024)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "English Translation: சட்டம் இளங்கலை, ஸ்ரீ வெங்கடேஸ்வரா பல்கலைக்கழகம், திருப்பதி 2015 ஆம் ஆண்டு)",
+    "profession": "English Translation: தனி நபர் வழக்கறிஞர்)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 855000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 855000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

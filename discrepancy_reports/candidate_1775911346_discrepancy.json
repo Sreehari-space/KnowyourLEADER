@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911346",
+    "candidate_name": "க. சித்திரவேலு",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "புதிய தமிழகம் கட்சி",
+    "constituency": "177, பேராவூரணி தொகுதி",
+    "pan": "ALDPC3250E",
+    "phone": "9787001518",
+    "email": "advchithiravelug@gmail.com",
+    "address": "133, பள்ளர் தெரு, மாரியம்மன்கோவில், வாட்டாத்திக்கோட்டை, திருவோணம் வட்டம், தஞ்சாவூர் மாவட்டம், பின் - 614 628",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A.M.Phil.MMM., B.Ed.M.A.Edu.PGDGA., LL.B., வீரவள்ளி சட்டக்கல்லூரி, ஆந்திரா",
+    "profession": "வழக்கறிஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 36817.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 36817.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

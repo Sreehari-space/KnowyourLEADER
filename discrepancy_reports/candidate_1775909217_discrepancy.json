@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909217",
+    "candidate_name": "Natarajan",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Bahujan Samaj Party",
+    "constituency": "155, Cuddalore, Tamil Nadu",
+    "pan": "ARMPN7564M",
+    "phone": "9842757284",
+    "email": "natrajbw1981@gmail.com",
+    "address": "No.22, Main Road, Pakkiripalayam, Panruti Taluk, Cuddalore District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BCA, DCS, B.L. from SBRTM Law College, Kadapa, Andhrapradesh in 2014",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2030000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2030000.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

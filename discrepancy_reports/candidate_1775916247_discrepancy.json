@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916247",
+    "candidate_name": "N. Nagendra Babu",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "Independent",
+    "constituency": "004 - Tiruvallur Assembly Constituency, Tamil Nadu",
+    "pan": "CDBPN7347H",
+    "phone": "9629992965",
+    "email": "smbabu98@gmail.com",
+    "address": "555, Samathuva Nagar, 2nd Street, Ulunthai Post, Tiruvallur District - 602 105",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "LL.B., - 2019 - Dr. Ambedkar Global Law College, Tirupati",
+    "profession": "Individual Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2307000.0,
+    "total_liabilities_xls": 2352400.0,
+    "net_worth_xls": 45400.0,
+    "cash_xls": 2000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

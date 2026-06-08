@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910122",
+    "candidate_name": "Amirthakanthan.d",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "Naam Indiar Katchi (NAAM INDIAR PARTY)",
+    "constituency": "Pallavaram (Constituency No. 30)",
+    "pan": "CFAPA7059E",
+    "phone": "8754757638",
+    "email": "NIL",
+    "address": "31-A Sakthivinayagapuram, Thoothukudi- 628002",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma in Refrigeration and Air Conditioning Mechanic, Government Industrial Training Institute, Thoothukudi - 2001",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4771854.0,
+    "total_liabilities_xls": 1800000.0,
+    "net_worth_xls": 2971854.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

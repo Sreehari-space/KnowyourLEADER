@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910306",
+    "candidate_name": "M. Nandakumar",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "ACDP Anti-Corruption Enforcement Party",
+    "constituency": "068 Cheyyar, Tamil Nadu",
+    "pan": "CBYPN0766M",
+    "phone": "7305130722",
+    "email": "இல்லை / none",
+    "address": "No 10, Pillaiyar Kovil Street, Sirunavalpattu Village, Brahmadesam (or) Vembakkam Taluk, Tiruvannamalai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma Civil Engineering, Sree Karpaga Polytechnic College, 2011 TO 2013",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 958975.0,
+    "total_liabilities_xls": 625000.0,
+    "net_worth_xls": 333975.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

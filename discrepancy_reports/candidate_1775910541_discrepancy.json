@@ -1,0 +1,410 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910541",
+    "candidate_name": "P. Karthikeyan",
+    "candidate_name_json": "KARTHIKEYAN S",
+    "age": "57",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "134 Aravakurichi",
+    "pan": "AHSPK5907B",
+    "phone": "9443303088",
+    "email": "pkarthikeyan@gmail.com",
+    "address": "134, Muthukavundanpalayam, Nagampalli Village, Aravakurichi Taluk, Karur District, 639 109",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "9th Standard Pass, Government Higher Secondary School, Aravakurichi",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 17071534.0,
+    "total_liabilities_xls": 212660.73,
+    "net_worth_xls": 16858873.27,
+    "cash_xls": 460000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "50,000 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "10,000 10 Thou+",
+        "dependent2": "10,000 10 Thou+",
+        "dependent3": "10,000 10 Thou+"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Karur Vysya Bank, Palanganatham Branch, Madurai 133 1 Hund+ Karur Vyasa Bank, Palangatham Branch, Madurai 17,900 17 Thou+ Karur Vysya Bank, Gnanaolivupuram Branch.am Branch, Madurai. 0*(Value Not Given) Karur Vysya Bank. Thirunagar Branch, Madurai 1,412 1 Thou+ Karur Vysya Bank, Thiruppalai Branch, Madurai 127 1 Hund+ HDFC Bank, Simmakkal Branch, Madurai 2,205 2 Thou+ Kotak Mahindra Bank Bibikulam, Madurai. 8,147 8 Thou+ Indian (Bank, Thirunagar Branch, Madurai. 166 1 Hund+ Tamilnadu Mercantile Bank Nagamalai Pudukottai Branch, Madurai. 198 1 Hund+ Tamilnadu Mercantile Bank, Palanganatham Branch. Madurai. 16,165 16 Thou+ City Union Bank, S.S.Colony Branch, Madurai. 56 ICICI Bank, North Chithirai Street, Main Branch, Madurai. 3,569 3 Thou+ )ESAF Bank, Madurai 932 9 Hund+ State Bank of India. Avaniyapuram Bracnh, Madurai 9,338 9 Thou+ State Bank of India. Avaniyapuram Bracnh, Madurai 3,188 3 Thou+",
+        "spouse": "Karur Vysya Bank, Palanganatham Branch, Madurai. 11,00,742 11 Lacs+ Tamilnadu Grama Bank, Pudukottai Branch. 22,026 22 Thou+ Tamilnadu Mercantile Bank, Nagamalai Pudukottai Branch, Madurai. 6,661 6 Thou+ Tamilnadu Mercantile Bank, Villapuram Branch, Madurai 956 9 Hund+",
+        "huf": "Nil",
+        "dependent1": "Karur Vysya Bank, Palanganatham Branch, Madurai. 1,510 1 Thou+ Karur Vysya Bank, Palangantham Branch, Madurai. 15,651 15 Thou+ HDFC Bank, Simmakkal Branch, Madurai. 561 5 Hund+ Kotak Bank, Bibikulam Branch, Madurai. 0*(Value Not Given)",
+        "dependent2": "Indian Bank Ramachandra Medical College and Research Branch, Porur. Chennai. 8,141 8 Thou+ Punjab National Bank Chrompet Branch, Chennai 0 Karur Vysya Bank, Palanganatha m Branch, Madurai. 155 1 Hund+",
+        "dependent3": "HDFC Bank, Simmakkal Branch, Madurai. 2,308 2 Thou+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Star Health Insurance Madurai 10,00,000 10 Lacs+ LIC of India, Unit Madurai 1,00,000 1 Lacs+",
+        "spouse": "Star Health Insurance Madurai 10,00,000 10 Lacs+ LIC India,of Mahal Branch, (unit II) Madurai 1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Star Health Insurance, Madurai 10,00,000 10 Lacs+ LIC of India - Unit Madurai 18,30,000 18 Lacs+",
+        "dependent2": "Star Health Insurance. Madurai 10,00,000 10 Lacs+",
+        "dependent3": "Star Health Insurance. Madurai 10,00,000 10 Lacs+"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Toyota Innova Car, TN64S5454 21,50,000 21 Lacs+ Morris Garages Astor Car, TN 64 AA 0055 24,15,000 24 Lacs+ Honda City Car, TN 59 BM 5926 6,00,000 6 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Toyota Lagendar Car, TN 58 CC 6666 59,78,206 59 Lacs+ Suzuki Acces Two Wheeler, TN 64 AA 3888 1,17,000 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "632 gms of Gold 86,01,520 86 Lacs+",
+        "spouse": "228 gms of Gold 31,03,080 31 Lacs+",
+        "huf": "Nil",
+        "dependent1": "784 gms of Gold 1,06,70,240 1 Crore+",
+        "dependent2": "Nil",
+        "dependent3": "80 gms of Gold 10,88,800 10 Lacs+"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Dindigul Disrict, Nilakottai Circle, Malayagauntan Patti Vilage Survey No. 1)416/3B, Area:2 acrs, 50 cents, Date:29/07/2022, Purchase Cost:276250 2)417/3B, Area:2 acrs, 50 cents, Date:29/07/2022, Purchse Cost:276250 3)424/1, Area:1 acrs, 20 cents, Date:29/07/2022, Purchase Cost:120600 4)424/10, Area:50 cents, Date:29/07/2022,Purchase Cost:33500 5)424/2, Area:1 acre, 4 cents, Date: 29/07/2022, Purchase Cost:104520 6)424/3B, Area:1 acre, 66 cents, Date:29/07/2022, Purchase Cost:11220 7)424/5B, Area: 37 cents, Date:29/07/2022, Purchase Cost:74790 8)424/6B, Area: 33 cents, Date:29/07/2022, Purchase Cost:22110 9)424/7B, Area: 33 cents, Date:29/07/2022, Purchase Cost:22110 10)425/1?, Area: 80 cents, Date: 29/07/2022, Purchase Cost:53600 11) 425/1A, Area: 2 acrs, 40 cents, Date: 29/07/2022, Purchase Cost:160130 12)425/1B, Area: 1 acrs, 69 cents, Date: 29/07/2022, Purchase Cost:163230 13)426/3?, Area: 1 acre, 17 cents, Date: 29.07.2022, Purchase Cost:160130 14)426/1, Area: 3 acrs, 56 cents, Date: 29/07/2022, Purchse Cost:357780 15)424/9, Area: 9 cents, Date: 15/02/2016, Purchase Cost:196200 16)426/2, Area: 3 acrs, 98 cents, Date: 15/02/2016, Purchase Cost:199000 II) Virudhunagar District, Kariyapatti Taluk, S.Kallupatti Village, 166/6A, Area:70 cents , Date: 11/08/2021, Purchase Cost: 1043000 III) Madurai District, Thirumangalam Circle, Setikulam Vilage, Survey, 40/10B, Area: 60 cents, Date: 04/02/2021, Purchase Cost:37200 IV) Madurai District, Madurai District, South Circle Kusavapatti Village, Survey 1) 50/1A, Area:1 acre, Date:10/02/2011, Purchase Cost:26000 2) 50/1C, Area: 30 cent, Date: 10/02/2011, Purchase Cost: 26000, Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,00,00,000 1 Crore+",
+        "spouse": "Pudukote Distrcit Ilupur Circle Tiruuvenkaidoor Village Survey No. 1) 56/1, Area:71 cent, Date:20/02./2009, Purchase Cost:41890 2) 59/3B, Area:74 cent, Date: 20/02/2009, Purchsae Cost:43660 Pudukottai District,Ilupur Circle Tiruvenkai Door Village, 49/4, Area: 25 acrs, Purchase Cost:111391 Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 3,00,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Madurai District, South Circle, Perungudi Village, 201/1, Area:2 acrs, 2.50 cents, Date: 25/09/2023, Purchase Cost: 1012500 Madurai District South Circle Perungudi Village, 201/2, Area:2 acrs, Date: 25/09/2023, Purchase Cost:1000000 Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 30,00,000 30 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Madurai District, North Circle Nayakkanpatti Village, 91/1 Total Area 8700 acrs Built Up Area Whether Inherited N Purchase Date 2009-11-05 Purchase Cost 217500.00 Development Cost 0.00 1,00,000 1 Lacs+ Mdurai District Thiruparankunram Taluk, Village, 110/4 Total Area 2635 acrs Built Up Area Whether Inherited N Purchase Date 2023-05-26 Purchase Cost 3689000.00 Development Cost 0.00 40,00,000 40 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Madurai District Tiruparangu Day Taluk, Attic Village, 110/4 Total Area 2533 acrs Built Up Area Whether Inherited N Purchase Date 2023-05-26 Purchase Cost 3546200.00 Development Cost 0.00 40,00,000 40 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Door No. 18 Sanjeevi Street Meenakshi City Villapuram Madurai, 84/3B2A, Date of Purchase 22.11.2004, 22.08.2005 Total Area 1289.50 acrs Built Up Area 1289.50 acrs Whether Inherited N Purchase Date 0205-08-22 Purchase Cost 625000.00 Development Cost 2500000.00 40,00,000 40 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Madurai District Tiruparangunram Circle, Attic Village, 110/4 Total Area 2520 sqft Built Up Area 450 sqft Whether Inherited N Purchase Date 2023-05-26 Purchase Cost 3628000.00 Development Cost 0.00 46,00,000 46 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": ")Kotak Mahindra Bank, Madurai - Car Loan 8,80,798 8 Lacs+ ESAF Bank, Madurai - Car Loan 8,99,000 8 Lacs+ Credit Card: Kotak Mahindra Bank 96,672 96 Thou+ Gold Loans: )Karur Vysya Bank, Palanganatha m Branch, Madurai. 19,00,000 19 Lacs+ i)HDFC Bank Ltd, Simmakkal Branch, Madurai 24,62,000 24 Lacs+",
+      "spouse": "Gold Loan: Karur Vysya Bank, Palangantha m Branch, Madurai. 19,99,000 19 Lacs+",
+      "huf": "Nil",
+      "dependent1": ")HDFC Bank, Madurai - Car Loan 34,37,073 34 Lacs+ Mortgaged Loan: Chola Finance Ltd. Madurai 84,11,720 84 Lacs+ CREDIT CARD: Bank Biz Power 21,178 21 Thou+ HDFC MARRIOTT BONVOY CARD 3,540 3 Thou+ Gold Loans: )Karur Vysya Bank, Palanganatham Branch, Madurai. 11,02,000 11 Lacs+ Karur Vysya Bank, Palanganatham Branch, Madurai. 5,02,000 5 Lacs+ Karur Vysya Bank, Palanganatham Branch, Madurai. 9,25,000 9 Lacs+ Karur Vysya Bank, Palanganatham Branch, Madurai. 3,63,000 3 Lacs+ HDFC Bank. Simmakkal Branch. Madurai 24,95,000 24 Lacs+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Murugesan PAN No: ALFPM5911L 50,00,000 50 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Mrugesan: PAN NO: ALFPM5911L 30,00,000 30 Lacs+",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 8,01,380 | 2023 - 2024: Rs 14,93,430 | 2022 - 2023: Rs 6,09,900 | 2021 - 2022: Rs 7,584 | 2020 - 2021: Rs 13,33,060"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,93,100 | 2023 - 2024: Rs 14,50,450 | 2022 - 2023: Rs 4,92,680 | 2021 - 2022: Rs 4,96,690 | 2020 - 2021: Rs 4,06,250"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 31,960 | 2023 - 2024: Rs 6,03,870 | 2022 - 2023: Rs 5,81,200 | 2021 - 2022: Rs 2,94,170 | 2020 - 2021: Rs 4,67,120"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,94,540 | 2023 - 2024: Rs 6,97,260 | 2022 - 2023: Rs 5,00,000"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Crime No. 90/2023, Vedasandur Police Station, Dindigul; Court Case No. STC/425/2024, District Munsif-cum-Judicial Magistrate, Vedasandur; Sections 8,9 Tamil Nadu Gaming and Police Act Amendment, 2021",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Forgery of valuable security, will, etc. (IPC Section-467)",
+        "1 charges related to Forgery for purpose of cheating (IPC Section-468)",
+        "1 charges related to Making preparation to commit dacoity (IPC Section-399)",
+        "1 charges related to Assembling for purpose of committing dacoity (IPC Section-402)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)",
+        "1 charges related to Using as genuine a forged document or electronic record (IPC Section-471)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No 26/2024, Central Crime Branch Madurai City",
+          "case_no": "Nil",
+          "court": "JM-I Madurai District Court",
+          "law_type": "IPC",
+          "ipc_sections": "120b, 420, 467, 468, 471",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No 347/2008, Austinpatti Police Station Madurai District",
+          "case_no": "Nil",
+          "court": "JM Court Thirumangalam Madurai District",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294b, 323, 506(i)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "21 Nov 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crome No 309/2003, Avaniapuram Police Station, Madurai City",
+          "case_no": "Nil",
+          "court": "JM-VI, Madurai District Court",
+          "law_type": "IPC",
+          "ipc_sections": "399, 402",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "09 Jun 2006",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 7,31,06,112 ~7 Crore+",
+    "Liabilities:": "Rs 3,34,97,981 ~3 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹49,517,677, but 5-year family income is only ₹11,654,644. Unexplained wealth discrepancy of ₹37,863,033."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Undervaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2009 for ₹217,500 (CII Indexed Cost: ₹552,568) is severely undervalued at ₹100,000 (potential duty evasion)."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1724.0g gold declared at ₹11,704,600 (Implied rate: ₹6,789/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹63,834,548) does not match declared total assets (₹73,106,112). Difference: ₹9,271,564"
+    }
+  ]
+}

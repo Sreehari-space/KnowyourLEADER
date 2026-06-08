@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921144",
+    "candidate_name": "S. பெரியக்கா",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "சுயேட்சை",
+    "constituency": "138, Manapparai",
+    "pan": "DIDPP8091Q",
+    "phone": "9585433697",
+    "email": "NIL",
+    "address": "11, Asaritheru, Mudaliyar Sathiram, Tiruchirappalli 620001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5ம் வகுப்பு",
+    "profession": "இல்லத்தரசி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 110000.0,
+    "total_liabilities_xls": 80000.0,
+    "net_worth_xls": 30000.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

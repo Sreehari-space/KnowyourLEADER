@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913657",
+    "candidate_name": "S. Malathi",
+    "candidate_name_json": null,
+    "age": "28",
+    "party": "Tamilaga Murpokku Makkal Katchi",
+    "constituency": "Ponnneri No.2 constituency",
+    "pan": "FYPPM3850L",
+    "phone": "7338865326",
+    "email": "kalai8234@gmail.com",
+    "address": "No. 158, Durgadevi Nagar, Ennore Nedunchalai, Tondiarpet, Chennai-600081.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "+2 Pass Government School, Tondiarpet, Chennai. Year 2012",
+    "profession": "Housewife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1045000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1045000.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

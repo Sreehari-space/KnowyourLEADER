@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906396",
+    "candidate_name": "D. Shanmugaprabhu",
+    "candidate_name_json": null,
+    "age": "38",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "172 - Papanasam Assembly Constituency, Tamil Nadu",
+    "pan": "FXVPS0826R",
+    "phone": "7358105858",
+    "email": "ayyshan@gmail.com",
+    "address": "92, Andiththeru, Rajagiri Village and Post No. 614 207, Papanasam Taluk, Thanjavur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E.(E.E.E) - March 2021, Government Engineering College, Kumbakonam, Thanjavur District",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 67378880.0,
+    "total_liabilities_xls": 47805144.0,
+    "net_worth_xls": 19573736.0,
+    "cash_xls": 149000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "1.STC No.35/2026; 1.296/2024; 2.681/2024",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

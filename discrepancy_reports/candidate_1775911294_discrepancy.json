@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911294",
+    "candidate_name": "o. Saleem",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Independent Candidate",
+    "constituency": "183. Aranthangi Assembly Constituency, Tamil Nadu",
+    "pan": "BUUPA3828D",
+    "phone": "9715630851",
+    "email": "abduljaffarsaleem@gmail.com",
+    "address": "39 Manivilan 5th Street, Agni Bazaar, Aranthangi Town & Taluk, Pudukkottai District - 614616",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, D.K. Government Higher Secondary School, Natham Kovilpatti - 624 401, 05.07.2005",
+    "profession": "Driver and working in a textile shop"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3260000.0,
+    "total_liabilities_xls": 1200000.0,
+    "net_worth_xls": 2060000.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

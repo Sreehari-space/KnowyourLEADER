@@ -1,0 +1,428 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923179",
+    "candidate_name": "C. Elumalai",
+    "candidate_name_json": "ELUMALAI. C",
+    "age": "41",
+    "party": "Independent",
+    "constituency": "063.Tiruvannamalai Assembly Constituency, Tamil Nadu",
+    "pan": "இல்லை/NO",
+    "phone": "9965126557",
+    "email": "இல்லை / no",
+    "address": "Pillaiyar Kovil Street, Melsirupakkam Pudur village, Kilsirupakkam Post, Tandarampattu Taluk, Tiruvannamalai District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "8th Standard",
+    "profession": "Social service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 85000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 85000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "2,51,034 2 Lacs+",
+        "spouse": "1,36,674 1 Lacs+",
+        "huf": "34,804 34 Thou+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "1,57,919 1 Lacs+",
+        "spouse": "54,366 54 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "1,89,35,352 1 Crore+",
+        "spouse": "21,56,162 21 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "33,05,237 33 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "5,75,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "208 grams of gold 13,40,976 13 Lacs+",
+        "spouse": "416 Grams Gold 26,81,952 26 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Total Area 15.05 acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 2150984.00 Development Cost 75626.00 22,26,610 22 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 20811178.00 Development Cost 236300.00 2,10,47,478 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Polur Town, Survey No: 98/1 (New Survey No: 98/1B11) Total Area 10650 square feet Built Up Area Whether Inherited N Purchase Date 2007-10-08 Purchase Cost 4956650.00 Development Cost 15997832.00 2,09,54,482 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "S,No,318/1 Devikapuram Village Chetput Circle Total Area 2322 sq ft Built Up Area Whether Inherited N Purchase Date 1990-03-21 Purchase Cost 79852.00 Development Cost 1112600.00 11,92,452 11 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "50,00,000 50 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "1,35,00,000 1 Crore+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,96,080 | 2023 - 2024: Rs 6,57,490 | 2022 - 2023: Rs 4,99,870 | 2021 - 2022: Rs 28,00,930"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,30,800 | 2023 - 2024: Rs 5,10,780 | 2022 - 2023: Rs 4,99,920 | 2021 - 2022: Rs 4,99,890 | 2020 - 2021: Rs 2,37,600"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 2,52,650 | 2023 - 2024: Rs 3,48,650 | 2022 - 2023: Rs 3,47,030 | 2021 - 2022: Rs 2,15,478 | 2020 - 2021: Rs 1,97,880"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "5",
+      "summary": "Number of Criminal Cases:5",
+      "ipc_charges": [
+        "1 charges related to Forgery of valuable security, will, etc. (IPC Section-467)",
+        "1 charges related to Forgery for purpose of cheating (IPC Section-468)",
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Sale, etc., or obscene books, etc. (IPC Section-292)",
+        "3 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "3 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Using as genuine a forged document or electronic record (IPC Section-471)",
+        "1 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Continuance of nuisance after injunction to discontinue (IPC Section-291)",
+        "1 charges related to Punishment for public nuisance in cases not otherwise provided for (IPC Section-290)",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Disobedience to order duly promulgated by public servant (BNS Section-223)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No. 647/2006 Inspector of Police, Central Crime Branch- Group-15 Chennai-8",
+          "case_no": "CC: 5952/2023",
+          "court": "11th Metropolitan Magistrate for Exclusive Trail of CCB Cases Relating to Cheating Cases in Chennai and CBCID Metro Cases.",
+          "law_type": "IPC",
+          "ipc_sections": "467, 468, 471, 109, 420, 120B",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "14 Oct 2022",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No. 274/2016 Inspector of Police, Bolur",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Court,Polur.",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No. 420/2024 Police Inspector, Seyyar",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Court, Cheyyar",
+          "law_type": "IPC",
+          "ipc_sections": "143, 291, 292, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Crime No 397/2023 Assistant Inspector of Police, Bolur",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Court,Polur.",
+          "law_type": "IPC",
+          "ipc_sections": "143, 290, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Crime No.: 693/2024 Assistant Inspector of Police, Tiruvannamalai East",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Court,Tiruvannamalai",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 223",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 7,50,50,499 ~7 Crore+",
+    "Liabilities:": "Rs 1,85,00,000 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹56,515,694, but 5-year family income is only ₹6,833,360. Unexplained wealth discrepancy of ₹49,682,334."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "624.0g gold declared at ₹4,022,928 (Implied rate: ₹6,447/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

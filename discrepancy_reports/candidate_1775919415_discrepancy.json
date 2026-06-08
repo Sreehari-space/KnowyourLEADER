@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919415",
+    "candidate_name": "R. Mayakannan (ர. மாயக்கண்ணன்)",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Independent (சுயேட்சை)",
+    "constituency": "84, Omalur Assembly Constituency (84, ஓமலூர் சட்டமன்றத் தொகுதி)",
+    "pan": "DJVPM3245L",
+    "phone": "7397175920",
+    "email": "mayil8411@gmail.com",
+    "address": "350, ஆர்.சி. செட்டிப்பட்டி, கோட்டமேட்டுப்பட்டி கிராமம், ஆர்.சி.செட்டிப்பட்டி அஞ்சல், ஓமலூர் தாலுக்கா, சேலம் மாவட்டம்-6363455)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard, Velasamy Chettiar Higher Secondary School, Omalur, Salem District, completed year 2009 (பத்தாம் வகுப்பு நிலை, வேலாசாமி செட்டியார் மேல்நிலைப்பள்ளி, ஓமலூர், சேலம் மாவட்டம், முடித்த ஆண்டு 2009)",
+    "profession": "Individual Driver (தனிநபர் ஓட்டுநர்)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 604200.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 604200.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

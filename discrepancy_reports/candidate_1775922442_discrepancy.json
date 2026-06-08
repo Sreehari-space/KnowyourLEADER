@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922442",
+    "candidate_name": "ஸ்ரீதர்",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "சுயேட்சை",
+    "constituency": "16, எழும்பூர் (தனி) சட்டமன்றத் தொகுதி",
+    "pan": "DAKPM8343D",
+    "phone": "9962769991",
+    "email": "sridhar.pepsico@gmail.com",
+    "address": "29, குட்டி தெரு, நுங்கம்பாக்கம், சென்னை - 600 034",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th - அரசு ஆண்கள் மேல்நிலைப் பள்ளி, நுங்கம்பாக்கம்",
+    "profession": "தனியார் நிறுவன ஊழியர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1128000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1128000.0,
+    "cash_xls": 2000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

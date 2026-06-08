@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919294",
+    "candidate_name": "M. Eliyas",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "Social Democratic Party of India (SDPI) (ಸೋಶಿಯಲ್ ಡೆಮಾಕ್ರಟಿಕ್ ಪಾರ್ಟಿ ಆಫ್ ಇಂಡಿಯಾ (ಎಸ್‌ಡಿಪಿಐ))",
+    "constituency": "205 Bantwal Assembly Constituency (205 ಬಂಟ್ವಾಳ ವಿಧಾನಸಭಾ ಕ್ಷೇತ್ರ)",
+    "pan": "ACJPI3293C",
+    "phone": "7760516913",
+    "email": "elyasthumbesdpi@gmail.com",
+    "address": "Salam Manzil, M. No. 2-385, Thumbe Village and Post, Bantwal Taluk, Dakshina Kannada District, Karnataka (ಸಲಾಂ ಮಂಜಿಲ್, ಮ.ನಂ. 2-385, ತುಂಬೆ ಗ್ರಾಮ ಮತ್ತು ಅಂಚೆ, ಬಂಟ್ವಾಳ ತಾಲೂಕು, ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲೆ, ಕರ್ನಾಟಕ)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "P.U.C. (St. Aloysius College Mangaluru - 1980) (ಪಿ.ಯು.ಸಿ. (ಸೈಂಟ್ ಆಲೋಸಿಯಸ್ ಕಾಲೇಜು ಮಂಗಳೂರು - 1980))",
+    "profession": "National General Secretary of SDPI"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5800256.98,
+    "total_liabilities_xls": 385000.0,
+    "net_worth_xls": 5415256.98,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR 15/20, C.C.NO 632/2020, IPC Sec 341,504,506,186,143A r/w 149, JMFC VII Mangalore D.K",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

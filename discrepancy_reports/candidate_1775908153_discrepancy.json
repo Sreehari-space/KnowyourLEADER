@@ -1,0 +1,359 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908153",
+    "candidate_name": "ARUNRAJ K.G",
+    "candidate_name_json": "ARUNRAJ K G",
+    "age": "46",
+    "party": "TAMILAGA VETTRI KAZHAGAM",
+    "constituency": "96 Tiruchengodu, Tamilnadu",
+    "pan": "ANDPG4059K",
+    "phone": "9445953976",
+    "email": "arunrajkg@gmail.com",
+    "address": "294A, NathaKadu, Kumaramangalam, Tiruchengodu, Namakkal, Tamil Nadu - 637205",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Bachelor of Medicine and Bachelor of Surgery (MBBS), The Tamil Nadu Dr. M.G.R. Medical University, passed out in the year 2002",
+    "profession": "Doctor, Ex-IRS, Tax consultant, Politician"
+  },
+  "financial_summary": {
+    "total_assets_xls": 123642350.33,
+    "total_liabilities_xls": 14096572.0,
+    "net_worth_xls": 109545778.33,
+    "cash_xls": 75000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "75,000 75 Thou+",
+        "spouse": "1,50,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Nungambakkam Branch Chennai 5,168 5 Thou+ HDFC Bank Ltd Santhome Branch Chennai 72,888 72 Thou+ Canara Bank Anna nagar P Block Branch Chennai (50% Shaares) 12,007 12 Thou+ ICICI Bank Poonamalle Branch 0 Current Accounts HDFC Bank Ltd Santhome Branch Chennai 1,500 1 Thou+ Election Bank Account HDFC Bank Ltd Tiruchengode Branch 60,000 60 Thou+ State Bank of India Nungambakkam Branch Chennai 1,61,15,000 1 Crore+ State Bank of India Nungambakkam Branch Chennai 35,95,000 35 Lacs+ State Bank of India Nungambakkam Branch Chennai 4,15,000 4 Lacs+ State Bank of India Nungambakkam Branch Chennai 1,00,00,000 1 Crore+ State Bank of India Nungambakkam Branch Chennai 1,00,00,000 1 Crore+",
+        "spouse": "SBI Jai Nagar Branch Chennai 14,93,195 14 Lacs+ Canara Bank Anna Nagar P Block Branch Chennai (Jiont Account With Husband) 12,007 12 Thou+ The Salem District Central Cooperative Bank Ltd Namakkal Branch 5,179 5 Thou+ State Bank of India Mint Street Terminus Branch Chennai 13,87,702 13 Lacs+ State Bank of India Jai Nagar Branch Chennai 61,894 61 Thou+",
+        "huf": "Nil",
+        "dependent1": "HDFC Bank Ltd Santhome Branch Chennai 190 1 Hund+",
+        "dependent2": "HDFC Bank Ltd Santhome Branch Chennai 816 8 Hund+ HDFC Bank Ltd Santhome Branch Chennai 17,431 17 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Aptus Value Housing Finance India Ltd 64,496 64 Thou+ Cerebraint Integrated Technologies Ltd 5,050 5 Thou+ Chemplast Sanmar Ltd 7,007 7 Thou+ Deccan Chronicle Holdings Ltd 200 2 Hund+ HBL Engineering Ltd 10,561 10 Thou+ Jain Irrigation Systems Ltd 296 2 Hund+ Kingfisher Airlines Ltd 11,000 11 Thou+ Nagarjuna Oil Refinery Ltd 103 1 Hund+ Vedanta Ltd 8,472 8 Thou+ Vodafone Idea Ltd 20,06,506 20 Lacs+ Bharti Airtel Ltd 22,018 22 Thou+ Cyient DLM Ltd 7,365 7 Thou+ IDFC First Bank 5,059 5 Thou+ IndusInd Bank 39,283 39 Thou+ Karnataka Bank 6,794 6 Thou+ Nippon India Gold Bees 11,332 11 Thou+ Poonawalla Fincorp Ltd 2,343 2 Thou+ Power Finance Corporation 20,172 20 Thou+ Protean Govt Technologies Ltd 2,483 2 Thou+ Tata Power Company Ltd 3,125 3 Thou+ Sovereign Gold Bond Scheme 2023 1,70,391 1 Lacs+ PRAN 64,66,802 64 Lacs+ Aditya Birla Capital 5,00,000 5 Lacs+",
+        "spouse": "Bank of Maharashtra Ltd 18,371 18 Thou+ Bharti Airtel Ltd 36,878 36 Thou+ HDFC Asset Management Company Ltd 46,278 46 Thou+ IDFC First Bank 15,467 15 Thou+ Power Finance Corporation 11,880 11 Thou+ Sical Logistics Ltd 6,450 6 Thou+ Vodafone Idea Ltd 2,98,170 2 Lacs+ Yes Bank 2,58,300 2 Lacs+ Mirae Asset Large and Midcap Fund 2,13,818 2 Lacs+ ICICI Prudential ELSS Tax Saver Fund 21,516 21 Thou+ Pension Scheme 21,50,416 21 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Deposit in Sukanya Samrithi Yojana In Post Office 2,40,268 2 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Postal Life Insurance 8,90,900 8 Lacs+ Bajaj Life Insurance, Sum Assured Rs 10000000/- (Pure life riskTerm Policy with no Policy with no surrender value and is not an investment. Hence not to be added for total investments. For disclosure only) 0*(Value Not Given)",
+        "spouse": "Postal Life Insurance 6,68,175 6 Lacs+ Bajaj Life Insurance Ltd. Sum Assured Rs 10000000/- (Pure life riskTerm Policy with no Policy with no surrender value and is not an investment. Hence not to be added for total investments. For disclosure only) 0*(Value Not Given)",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Honda Activa 2011 TN 22 CW 4350 2014 28,000 28 Thou+ Toyota Innova Crysta Hycross 2025 TN 30 CR 7000 2025 31,97,100 31 Lacs+",
+        "spouse": "Renault Kwid 2016 TN 03 U 0331 2017 3,50,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold Jewellery 88 Grams 11,98,560 11 Lacs+",
+        "spouse": "Gold Jewellery 593 Grams 95,76,660 95 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Gold Jewellery 185 Grams 25,19,700 25 Lacs+",
+        "dependent2": "Gold 95 Jewellery Grams 12,93,900 12 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Vacant Land bearing Plot No 21 in Shri Sai Garden Situated at Polivakkam Village Thiruvallur District S No. 43/2B , 46/1C ,47 Total Area 1500 sq.ft Built Up Area Whether Inherited N Purchase Date 2014-04-25 Purchase Cost 405270.00 Development Cost 0.00 10,00,000 10 Lacs+ Vacant Land bearing Plot No 14 in Salem Road Bit-2 Layout Namakkal District 12/3 Total Area 2480 sq.ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 49,60,000 49 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Flat No.55 10th Floor Block A 114 SAF Games Village Part Block No.64 Koyambedu Chennai 1/14, 1/15 (50% Shares) Total Area 291.49 sq.ft Built Up Area 1080.99 sq.ft Whether Inherited N Purchase Date 2023-11-30 Purchase Cost 8932693.00 Development Cost 750000.00 1,34,31,500 1 Crore+",
+        "spouse": "Flat No.55 10th Floor Block A 114 SAF Games Village Part Block No.64 Koyambedu Chennai 1/14, 1/15 (50% Shares) Total Area 291.49 sq.ft Built Up Area 1080.99 sq.ft Whether Inherited N Purchase Date 2023-11-30 Purchase Cost 8932693.00 Development Cost 750000.00 1,34,31,500 1 Crore+ House Property at No.A25 North TNHB Colony Kandampathy Village Salem District 52/4B Total Area 2400 sq.ft Built Up Area 1722 sq.ft Whether Inherited N Purchase Date 2014-07-04 Purchase Cost 2700000.00 Development Cost 0.00 1,90,00,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Canara Bank Anna Nagar Branch Chennai (50% Shares) 53,38,077 53 Lacs+ HDFC Bank Ltd Santhome Branch Chennai Vehicle Loan 4,20,417 4 Lacs+",
+      "spouse": "Canara Bank Anna Nagar Branch Chennai 600040 Housing Loan, (50% Shares) 53,38,077 53 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nandhini N Amount Outstanding 20,00,000 20 Lacs+ Sivabharathi P 5,00,000 5 Lacs+ Vijayalakshmi M 5,00,000 5 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 34,00,500 | 2023 - 2024: Rs 22,82,540 | 2022 - 2023: Rs 17,59,370 | 2023 - 2024: Rs 12,27,800 | 2021 - 2022: Rs 11,00,380"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 26,40,630 | 2023 - 2024: Rs 12,69,720 | 2022 - 2023: Rs 10,75,290 | 2021 - 2022: Rs 23,72,116 | 2020 - 2021: Rs 11,68,930"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 12,77,14,655 ~12 Crore+",
+    "Liabilities:": "Rs 1,40,96,571 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹33,759,248, but 5-year family income is only ₹18,297,276. Unexplained wealth discrepancy of ₹15,461,972."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "HIGH",
+      "title": "Vehicle Loan Exceeds Declared Vehicle Value",
+      "description": "Vehicle loans sum to ₹420,417 but declared vehicles value is only ₹378,000."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹4,053,877 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹46,435,402) does not match declared total assets (₹127,714,655). Difference: ₹81,279,253"
+    }
+  ]
+}

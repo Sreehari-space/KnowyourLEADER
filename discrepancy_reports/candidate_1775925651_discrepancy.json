@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775925651",
+    "candidate_name": "லா.ஸ்டீபன்ராஜ்",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "சுயேட்சை",
+    "constituency": "135 கரூர், தமிழ்நாடு",
+    "pan": "HBGPS9980B",
+    "phone": "8667491684",
+    "email": "steveraj221@gmail.com",
+    "address": "எண்.84டி, வ.உ.சி தெரு, 3வது கிராஸ், கரூர் மாவட்டம், கரூர் -639 001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., V.S.B Engineering College Karur, Year 2016; LL.B., Government Law College, Namakkal, Year 2023",
+    "profession": "வழக்கறிஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3153000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 3153000.0,
+    "cash_xls": 90000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911846",
+    "candidate_name": "Mr. P.Y. Dakshinamurthy",
+    "candidate_name_json": null,
+    "age": "72",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "113-Tiruppur North Assembly Constituency",
+    "pan": "AJVPP0301K",
+    "phone": "9600548581",
+    "email": "vellalarsangam123@gmail.com",
+    "address": "Door No. 74, AVP Lakshmi Nagar, Thirumurugan Poondi, Tiruppur - 641652",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1968 - 10th Standard, Janaki Anni High School, Alathampadi, Tiruvarur District.",
+    "profession": "Social Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 586400.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 586400.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

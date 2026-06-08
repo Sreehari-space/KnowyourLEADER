@@ -1,0 +1,359 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775925322",
+    "candidate_name": "K. Jayaraman",
+    "candidate_name_json": "FARMER JAYARAMAN S K J",
+    "age": "50",
+    "party": "Independent",
+    "constituency": "027 Sholinganallur Assembly Constituency, Tamil Nadu",
+    "pan": "AIIPJ2415Q",
+    "phone": "9710653799, 7695999942",
+    "email": "premierpropertiesskj@gmail.com",
+    "address": "House No. 11, Kumarguru Avenue, Sulaimanagar, 3rd Street, Mettukuppam, Okkiyam Thuraipakkam, Chennai-97",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Twelfth Standard Pass, Government Higher Secondary School 1992-93, DPM",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 33309942.0,
+    "total_liabilities_xls": 7679400.0,
+    "net_worth_xls": 25630542.0,
+    "cash_xls": 48000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "49,000 49 Thou+",
+        "spouse": "48,000 48 Thou+",
+        "huf": "Nil",
+        "dependent1": "45,000 45 Thou+",
+        "dependent2": "40,000 40 Thou+",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "TNSC Bank SB AC 2,500 2 Thou+ SBI Bank SB AC 3,000 3 Thou+ KVB SB AC 3,000 3 Thou+ Canara Bank SB AC 3,000 3 Thou+ TNSC Bank SB AC 2,500 2 Thou+",
+        "spouse": "IOB Bank 2,500 2 Thou+ Canara Bank 3,000 3 Thou+",
+        "huf": "Nil",
+        "dependent1": "Canara Bank 3,000 3 Thou+",
+        "dependent2": "TNSC Bank SB AC 1,500 1 Thou+ Canara Bank 2,000 2 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Splender Plus Two wheeler TN 14R7359-2018 20,000 20 Thou+",
+        "spouse": "TVS NTORQ Two wheeler TN14T5375-2019 30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "Royal Enfield Clasic 350 Two wheeler TN 07CZ7072 -2023 1,00,000 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "357 gm Gold 44,41,782 44 Lacs+",
+        "spouse": "396 gm Gold 49,24,260 49 Lacs+ 100 gm Silver 25,000 25 Thou+",
+        "huf": "Nil",
+        "dependent1": "382 gm Gold 47,50,170 47 Lacs+ Silver 30 gm 7,500 7 Thou+",
+        "dependent2": "347 gm Gold 43,14,945 43 Lacs+ 30 gm Silver 7,500 7 Thou+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "2,00,000 2 Lacs+",
+        "dependent2": "2,00,000 2 Lacs+",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "1. Tiruvannamalai, Sirunathur Plot No. 60/D, 2012/09/03 2. Villupuram, Akur , Plot No. 156/5B , 2012/04/02 3. Villupuram Melpappambadi , 5 Do Not Take . 429/12,2, 430/1, 431/1 , 2014/02/03, 4. Krishnagiri , Patadepalli , 36/2A2 , 2021/10/08 5. Kanchipuram, Kolathur ,8 409/2, 2024/11/15 Total Area 6 Acres 74 Cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 2419400.00 Development Cost 0.00 65,00,000 65 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Tiruvannamalai North Andapattur Plot No. 3/5, 3/6 Total Area 2,400 sq m Built Up Area Whether Inherited N Purchase Date 2022-03-08 Purchase Cost 756000.00 Development Cost 0.00 7,92,000 7 Lacs+",
+        "dependent2": "1.Tiruvannamalai , North Andapattu 3/5, 3/6, 2022/03/08 2. Chengalpattu 13 Pulikoradu 14/2 , 2023/03/07 3. Chengalpattu Pulikoradu 3/1C4, 3/1B4, 1C2, 3/1B5, 3/1C3. , 2025/04/11 4. Chengalpattu Poonkunam C.E 139/59, 2024/10/18 5. Chengalpattu S No. 145/6 , 2024/05/22 Total Area 12,539 sq m Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 2410000.00 Development Cost 0.00 40,00,000 40 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "1. Tiruvannamalai , Upper Thiruvadthanur 5 Plot No. 35/481, 2,4,5,6, 32/4A 2009/02/19, 2. Villupuram , Parikkalpattu No. 30/4A, 4C, 30/5 2012/03/01 3. Villupuram , Pathirapulliyur 97/3A12012/03/02 4. Villupuram , Pathirapulliyur 136/1B2013/04/15 5. Villupuram ,Kodima Plot No. 31/6 2013/04/29 6. Chengalpattu , 13 Nelli, Plot No. 14/36 2023/11/20 Total Area 98,032 Sq .m Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 3693000.00 Development Cost 0.00 97,47,700 97 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Chengalpattu, Okiyam Duraipakkam , S No. 173/1B1B Total Area 602 sqft Built Up Area 1750 sqft Whether Inherited N Purchase Date 2008-02-28 Purchase Cost 304100.00 Development Cost 2550000.00 70,00,000 70 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Canara Bank 34,16,000 34 Lacs+ TNSC Bank 5,00,000 5 Lacs+",
+      "spouse": "Canara Bank 32,63,400 32 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Canara Bank 32,64,900 32 Lacs+",
+      "dependent2": "Canara Bank 33,76,900 33 Lacs+",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "5,00,000 5 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 6,92,520 | 2024 - 2025: Rs 4,92,910 | 2023 - 2024: Rs 4,51,500 | 2022 - 2023: Rs 4,36,480 | 2021 - 2022: Rs 4,62,320"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 4,77,73,857 ~4 Crore+",
+    "Liabilities:": "Rs 1,43,21,200 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹33,891,157, but 5-year family income is only ₹2,535,730. Unexplained wealth discrepancy of ₹31,355,427."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2008 for ₹304,100 (CII Indexed Cost: ₹834,610) is declared at highly inflated value of ₹7,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1642.0g gold declared at ₹9,366,042 (Implied rate: ₹5,704/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹14,446,615 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

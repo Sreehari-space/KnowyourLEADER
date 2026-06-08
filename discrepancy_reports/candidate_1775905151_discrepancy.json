@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905151",
+    "candidate_name": "M. Satheeshkumar",
+    "candidate_name_json": null,
+    "age": "38",
+    "party": "Bahujan Samaj Party – BSP",
+    "constituency": "159-Kattumannarkoil (SC), Tamil Nadu",
+    "pan": "QFTJPS9436K",
+    "phone": "9585690730",
+    "email": "satheeshmech05@gmail.com",
+    "address": "No.15, Kamaraj Street, Vallampadugai-608 401, Ammapettai Post, Chidambaram Taluk, Cuddalore District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., Mechanical, Passed, 2010, Annamalai University, Chidambaram.",
+    "profession": "Individual - Social Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 375000.0,
+    "total_liabilities_xls": 913508.0,
+    "net_worth_xls": 538508.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

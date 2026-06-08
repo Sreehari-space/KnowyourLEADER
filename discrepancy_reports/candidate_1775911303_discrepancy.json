@@ -1,0 +1,359 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911303",
+    "candidate_name": "D. Shanmugan",
+    "candidate_name_json": "D.SHANMUGAN",
+    "age": "57",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "மொடக்குறிச்சி, தமிழ்நாடு",
+    "pan": "AJCPS0748Q",
+    "phone": "9842725925",
+    "email": "shanmugand@gmail.com",
+    "address": "118, முனியப்பன் கோவில் வீதி, மாணிக்கம்பாளையம், ஈரோடு வட்டம், ஈரோடு மாவட்டம்",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "BE (Civil) - விநாயகா மிஷன்ஸ் பொறியியல் கல்லூரி, சேலம் - 2008",
+    "profession": "தனி நபர் கட்டுமான நிறுவனம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2958662689.0,
+    "total_liabilities_xls": 30877857.0,
+    "net_worth_xls": 2927784832.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "5,00,000 5 Lacs+",
+        "spouse": "10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI, Bhavani Branch (Savings Account) 0 Indian Overseas Bank, Samapath Nagar (Current Account) 1,22,538 1 Lacs+ Karur Vysya Bank, Erode Main Branch 502 5 Hund+ Indian Overseas Bank, Samapath Nagar (Current Account) 473 4 Hund+ Indian Overseas Bank, Samapath Nagar (Current Account) 31,162 31 Thou+ Canara Bank, Veerappanchatram Branch 15,113 15 Thou+ Karur Vysya Bank, Erode Sampath City Main Branch (Election Account) 10,000 10 Thou+",
+        "spouse": "Federal Bank, Porur Branch (Savings Account) 10,25,984 10 Lacs+ SBI, Erode Main Branch (Savings Account) 7,221 7 Thou+ Karur Vysya Bank, Erode Sampath City Main Branch (Election Account) 10,000 10 Thou+",
+        "huf": "Federal Bank, Porur Branch (Savings Account) 0",
+        "dependent1": "SBI, Agraharam Branch (Savings Account) 11,932 11 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "YES AND YES INFRACON PRIVATE LIMITED 90% shares 90,00,000 90 Lacs+ Director Erode Engineers Enterprises Private Limited 6.66 % - 11200 shares 14,00,000 14 Lacs+ President - Erode Civil Engineers Trust 0*(Value Not Given) Chairman - Sri Senthur Educational Trust 0*(Value Not Given) Secretary - Sakthi Polytechnic College Alumini Association Educational Trust 0*(Value Not Given) Vice President - Erode Central Lions Club Charirable Trust 0*(Value Not Given)",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "SBI, Agraharam Branch 1,10,332 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Life Insurance 40,45,058 40 Lacs+ LIC Life Insurance 4,84,638 4 Lacs+ Star Health Insurance 5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Four Wheeled Vehicle - Toyato Innova Cresta (2017) TN 33 BV 2525 10,00,000 10 Lacs+ Four Wheeled Vehicle - Mercedes BENZ A Class (2014) TN 33 BJ 2525 12,00,000 12 Lacs+ Four Wheeled Vehicle - Mercedes BENZ GLE250 4MATIC (2016) TN 33 BR 2525 30,00,000 30 Lacs+ Four Wheeled Vehicle - VOLKSWAGEN AMEO (2017) TN 10 AY 8399 5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 125 pawan 1,25,00,000 1 Crore+",
+        "spouse": "Gold 250 pawan 2,50,00,000 2 Crore+ Silver 15 kg 35,00,000 35 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Erode District, Perundurai Taluk, Mukasi Pulavan Palayam SF No. 29/1, 29/2, 27/1, 27/2, 27/3 Total Area 0.5 Acres Built Up Area Whether Inherited N Purchase Date 2012-02-07 Purchase Cost 91000.00 Development Cost 0.00 1,00,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Erode District, Erode Taluk, Periyasemur Village Sy No. 470/2 Total Area 992.25 sqft Built Up Area Whether Inherited N Purchase Date 1999-03-31 Purchase Cost 36500.00 Development Cost 0.00 30,00,000 30 Lacs+ Erode District, Erode Taluk, Periyasemur Village Sy No. 470/2 Total Area 1704 1/2 sqft Built Up Area Whether Inherited N Purchase Date 2009-09-14 Purchase Cost 450000.00 Development Cost 0.00 58,00,000 58 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Erode District, Erode Taluk, Periyasemur Village Sy No. 470/2 Total Area 992.5 sqft Built Up Area Whether Inherited N Purchase Date 1999-03-31 Purchase Cost 36500.00 Development Cost 0.00 30,00,000 30 Lacs+ Erode District, Erode Taluk, Periyasemur Village Sy No. 465/4 Total Area 5487 sqft Built Up Area Whether Inherited N Purchase Date 2000-11-09 Purchase Cost 0.00 Development Cost 0.00 1,00,00,000 1 Crore+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Erode District, Erode Taluk, Periyasemur Village Sy No. 474/4 Total Area 5500 sqft Built Up Area 3000 sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 1500000.00 1,80,00,000 1 Crore+ Erode District, Erode Taluk, Periyasemur Village Sy No. 474/4 Total Area 6900 sqft Built Up Area 4000 sqft Whether Inherited N Purchase Date 2000-05-17 Purchase Cost 126900.00 Development Cost 1500000.00 2,00,00,000 2 Crore+ Erode District, Erode Taluk, Periyasemur Village Sy No. 280/1 Total Area 1785 sqft Built Up Area 4500 sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 4000000.00 3,00,00,000 3 Crore+ Erode District, Erode Taluk, Periyasemur Village Sy No. 473/1 Total Area 4580 sqft Built Up Area 4400 sqft Whether Inherited N Purchase Date 2002-10-07 Purchase Cost 144500.00 Development Cost 2000000.00 1,60,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Erode District, Erode Taluk, Periyasemur Village Sy No. 470/3 Total Area 1855 sqft Built Up Area 3000 sqft Whether Inherited N Purchase Date 1989-10-18 Purchase Cost 18550.00 Development Cost 2000000.00 1,00,00,000 1 Crore+ Erode District, Erode Taluk, Periyasemur Village Sy No. 470/3 Area - 2760 sqft Built Up Area - 9000 sqft Date of Purchase - 1991-02-20 Cost of Purchase - 41400 Any investment on the land by way of development, construction, etc). - 20000000 Erode District, Erode Taluk, Periyasemur Village Sy No. 470/3 Area - 280 sqft Built Up Area - 9000 sqft Date of Purchase - 280 sqft Cost of Purchase - 4200 Any investment on the land by way of development, construction, etc). - 20000000 Erode District, Erode Taluk, Periyasemur Village Sy No. 470/3 Area - 1750 sqft Built Up Area - 9000 sqft Date of Purchase - 1999-08-27 Cost of Purchase - 70100 Any investment on the land by way of development, construction, etc). - 20000000 Erode District, Erode Taluk, Periyasemur Village Sy No. 256 Area - 1671.50 sqft Built Up Area - 9000 sqft Date of Purchase - 2009-10-14 Cost of Purchase - 528194 Any investment on the land by way of development, construction, etc). - 20000000 Erode District, Erode Taluk, Periyasemur Village Sy No. 470/3 Area - 648 sqft Built Up Area - 9000 sqft Date of Purchase - 2009-07-10 Cost of Purchase - 201600 Any investment on the land by way of development, construction, etc). - 20000000 Erode District, Erode Taluk, Periyasemur Village Sy No. 470/3 Area - 636 sqft Built Up Area - 9000 sqft Date of Purchase - 2009-07-16 Cost of Purchase - 201100 Any investment on the land by way of development, construction, etc). - 20000000 Erode District, Erode Taluk, Periyasemur Village Sy No. 470/2 Area - 1877.25 sqft Built Up Area - 9000 sqft Date of Purchase - 2009-09-14 Cost of Purchase - 495000 Any investment on the land by way of development, construction, etc). - 20000000 Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 6,00,00,000 6 Crore+ Nilgiris District, Kotagiri Taluk, Nedugula Village SY No. 913/20, 913/21, 913/22, 347/10 Total Area 3139 sqft Built Up Area 2000 sqft Whether Inherited N Purchase Date 2013-05-15 Purchase Cost 392000.00 Development Cost 2500000.00 45,00,000 45 Lacs+ Erode District, Perumthurai Circle, Vedamugam Vellodu Village Sy No. 931/2B2 Total Area 10900 sqft Built Up Area 20520 sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 12,00,00,000 12 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "SBI, Bhavani Branch, Loan (CC Account) 2,00,00,000 2 Crore+ SBI, Bhavani Branch, Loan 78,453 78 Thou+ Federal Bank, Porur Branch,Loan 48,42,071 48 Lacs+ Federal Bank, Porur Branch, Loan 5,34,235 5 Lacs+ SBI, B.Periya Agraharam Branch, Erode, Jewellery Loan 9,90,000 9 Lacs+ SBI, B.Periya Agraharam Branch, Erode, Jewellery Loan 9,75,000 9 Lacs+ SBI, B.Periya Agraharam Branch, Erode, Jewellery Loan 3,17,000 3 Lacs+ LIC, Loan 18,91,098 18 Lacs+",
+      "spouse": "SBI, B.Periya Agraharam Branch, Erode, Jewellery Loan 12,50,000 12 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,62,890 | 2023 - 2024: Rs 6,56,040 | 2022 - 2023: Rs 88,880 | 2021 - 2022: Rs 6,63,480 | 2020 - 2021: Rs 4,85,030"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,51,800 | 2023 - 2024: Rs 4,56,080 | 2022 - 2023: Rs 4,70,110 | 2021 - 2022: Rs 4,88,560 | 2020 - 2021: Rs 4,15,110"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 2,95,850 | 2021 - 2022: Rs 2,38,180 | 2020 - 2021: Rs 2,32,180"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,34,590 | 2023 - 2024: Rs 4,62,560 | 2022 - 2023: Rs 4,70,970 | 2021 - 2022: Rs 4,78,540 | 2020 - 2021: Rs 4,88,350"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 37,52,73,021 ~37 Crore+",
+    "Liabilities:": "Rs 3,08,77,857 ~3 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹77,065,844, but 5-year family income is only ₹7,372,990. Unexplained wealth discrepancy of ₹69,692,854."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2012 for ₹91,000 (CII Indexed Cost: ₹171,080) is declared at highly inflated value of ₹10,000,000."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'YES AND YES INFRACON PRIVATE LIMITED 90% shares 90,00,000 90 Lacs+ Director Erode Engineers Enterprises Private Limited 6.66 % - 11200 share..."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹98,315,844) does not match declared total assets (₹375,273,021). Difference: ₹276,957,177"
+    }
+  ]
+}

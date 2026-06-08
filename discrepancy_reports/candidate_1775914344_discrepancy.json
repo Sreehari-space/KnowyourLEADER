@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914344",
+    "candidate_name": "ச.முரளி",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "அனைத்திந்திய ஜனநாயக பாதுகாப்பு கழகம்",
+    "constituency": "159, காட்டுமன்னார் கோவில்",
+    "pan": "BPWPM0741J",
+    "phone": "9787774444",
+    "email": "muraliliverpool@gmail.com",
+    "address": "கதவு எண். 194, செங்குட்டை கிராமம், சாடி அஞ்சல், காரிமங்கலம் வட்டம், தருமபுரி மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.B.A., IIPM, New Delhi. (2011-2013)",
+    "profession": "Football Coach"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1548900.0,
+    "total_liabilities_xls": 10000000.0,
+    "net_worth_xls": 8451100.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

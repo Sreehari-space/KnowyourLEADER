@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922094",
+    "candidate_name": "G.Bharathkumar",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Independent",
+    "constituency": "20 - Thousand lights - Tamil Nadu",
+    "pan": "AQBPB4034C",
+    "phone": "9941430720",
+    "email": "hotsmart89@gmail.com",
+    "address": "C-10, Gangaikarai puram, Prakasam street, T Nagar, Chennai - 600017",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.com., Pachayappa college Chennai Madras University Chennai, year of 2010",
+    "profession": "Photographer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 807756.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 807756.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Crime no 360/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

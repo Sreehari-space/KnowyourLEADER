@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907807",
+    "candidate_name": "S. Durairaj",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "139 – Srirangam Assembly Constituency",
+    "pan": "BBIPD9146E",
+    "phone": "9842151712",
+    "email": "durairajsrirangam76@gmail.com",
+    "address": "No. 133, West Street, Mullikarumbur, Srirangam Taluk, Tiruchirappalli - 620 102",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.Com. - Bharathidasan University (2002), M.Phil. - Bharathidasan University (2004)",
+    "profession": "Politician"
+  },
+  "financial_summary": {
+    "total_assets_xls": 16537331.44,
+    "total_liabilities_xls": 150000.0,
+    "net_worth_xls": 16387331.44,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "Crime No. 215/2018 – Somarasampettai, Tiruchirappalli; Crime No. 120/2023 – Trichy City Sessions Court PS (C.C. No. 424/2024 – Additional Mahila Court, Tiruchirappalli)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

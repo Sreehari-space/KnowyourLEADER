@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905528",
+    "candidate_name": "Pon.Gauthamsigamani",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "DMK",
+    "constituency": "76, Tirukkoyilur Assembly Constituency",
+    "pan": "AHJPG4436A",
+    "phone": "9600011115",
+    "email": "drsigas@yahoo.co.in",
+    "address": "No: 6-4, Thirupanazhwar Street, Villupuram Pin: 605602, Villupuram District, Tamilnadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Plus Two - Saint Micheals Acadamy Adayar, Chennai - 1991; M.B.B.S - Annamalai University, Annamalai Nagar, Chidambaram - 2000; M.S.Ortho - Ramachandra Medical College, Porur - 2005",
+    "profession": "Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1453591313.0,
+    "total_liabilities_xls": 227794937.0,
+    "net_worth_xls": 1225796376.0,
+    "cash_xls": 2815171.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "ECIR No.CEZO-II/02/2019; F.No.A.12011/02/2014-AD.ED.; Special C.C.No.12/2023; Before the Competent Authority Commissioner of Customs.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

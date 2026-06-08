@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904210",
+    "candidate_name": "Krishnan",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "70, Senji Assembly Constituency",
+    "pan": "CSIPK0227K",
+    "phone": "9994055788",
+    "email": "akact2020@gmail.com",
+    "address": "No. 786, Chozhan Nagar, Pattabiram, Chennai-600072",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E. (2011, Sri Ram Engineering College, Perumalpattu), B.L. (2018, Dr. Ambethkar Law College Chennai)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1161000.0,
+    "total_liabilities_xls": 321000.0,
+    "net_worth_xls": 840000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

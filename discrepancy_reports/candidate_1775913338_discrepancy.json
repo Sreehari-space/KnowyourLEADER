@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913338",
+    "candidate_name": "துளசி சுடலை",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "புதிய மக்கள் தமிழ் தேசம் கட்சி",
+    "constituency": "217 ஓட்டப்பிடாரம் சட்டமன்ற தொகுதி தமிழ்நாடு",
+    "pan": "BKTPT3112J",
+    "phone": "8778386332",
+    "email": "thulacithulaci30@gmail.com",
+    "address": "36, பசும்பொன்நகர், வசவப்பபுரம், ஸ்ரீவைகுண்டம் தாலுகா, தூத்துக்குடி மாவட்டம்-628809",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "08ம் வகுப்பு, ஸ்ரீசெல்லை நடுநிலைப்பள்ளி, மேலபுத்தனேரி, திருநெல்வேலி, முடித்த ஆண்டு- 2005-2006",
+    "profession": "கொத்தனார்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2188500.0,
+    "total_liabilities_xls": 330000.0,
+    "net_worth_xls": 1858500.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 177/2019, Case No. CC160/2022, JM2 Court Srivaikundam, Sections 448, 294B, 427, 506(1) IPC. Brief description: Complainant's house was broken into. Charges framed on 09.10.2025.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

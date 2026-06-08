@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906911",
+    "candidate_name": "Latha.Pa",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "Dravida Munnetra Kazhagam (DMK)",
+    "constituency": "149-Ariyalur Assembly Constituency",
+    "pan": "BKFPL8274F",
+    "phone": "9843117090",
+    "email": "ladhabalu8@gmail.com",
+    "address": "43, Main Street, Manjamedu, Karaipakkam, Ariyalur Taluk & District, Pincode - 621 715",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "January 2006",
+    "profession": "Social service, politics, tailoring training"
+  },
+  "financial_summary": {
+    "total_assets_xls": 14173661.99,
+    "total_liabilities_xls": 682000.0,
+    "net_worth_xls": 13491661.99,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

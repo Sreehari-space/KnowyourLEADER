@@ -1,0 +1,358 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907777",
+    "candidate_name": "S.P. Shanmuganathan",
+    "candidate_name_json": "SHANMUGANATHAN. S. P",
+    "age": "71",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "216-Srivaikuntam, Tamil Nadu",
+    "pan": "BHFPS7815E",
+    "phone": "9488733338",
+    "email": "shanmuganathansps@gmail.com, aiadmkthoothukudi@gmail.com",
+    "address": "6, Main Road, Pandaravilai, Perungulam Post, Eral Taluk, Thoothukudi District - 628 751",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Standard (Dropout), Thacker Higher Secondary School, Pandaravilai, 1971",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 28120727.27,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 28120727.27,
+    "cash_xls": 185000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,25,000 1 Lacs+",
+        "spouse": "60,000 60 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "TMB Bank Bandarawela Branch Savings Account 1 Number 21,967 21 Thou+ TMB Bank Bandarawela Branch Savings Account Number 23,899.95 23 Thou+ Canara Bank Chennai 2,12,436.13 2 Lacs+ Perungulam PACS Bandarawela Branch 4,090 4 Thou+ IOB Bank Pearl City Branch 3,675 3 Thou+ IOB Bank Matakad Branch Savings Account Number Election bank account 75,000 75 Thou+",
+        "spouse": "TMB Bank Bandarawela Branch Savings Account Number 5,733.19 5 Thou+ Perungulam PACS Bandarawela Branch Savings Account Number 51,238 51 Thou+ Perungulam PACS Perungulam Branch Savings Account Number 5,338 5 Thou+ IOB Bank Matakad Branch Savings Account Number 25,000 25 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "1,340 1 Thou+",
+        "spouse": "1,360 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold jewelry 800 grams 1,10,00,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Perungulam Village, Survey Nos. 38/2A1, 49/282, 50/4, 50/5 50/1, 50/10A 50/10B, 50/11, 50/13, 66/22, 75/5D Total Area 1 acre 39 cent Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 6,95,000 6 Lacs+",
+        "spouse": "1.Iruvappapuram! Village, Survey No. 456/1A4, -30 cents 2)Perungulam village, survey 67 veins 76/5, 77/38 -2 acres 30 cents 3) Perungulam Village, Survey No. 75/50,-20 cents Date of Purchase: 1)14.09.2018 2)10.06.2020 3)18.06.2020 Cost of Purchase: 1) Rs. 83540.00 2) Rs.2,08885.00 3) Rs. 18052.00 Total Area 2 acre 80 cent Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 14,00,000 14 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "1) Perungulam Village Survey 6-69/4A1 2) Perungulam Village Survey - 69/4A1 3) Perungulam Village Survey -69/3A2 4) Perungulam Village Survey No.-69/4 5) Perungulam Village Survey 67-66/45B 6) Kattalankulam Village Survey No.-430/3B1 7) Katalankulam Village Survey 6-430/3A1 8) Katalankulam Village Survey Nagar-430/3B1 9) Katalankulam Village Survey ST-430/3A1 10) Katalankulam Village Survey-419/2A3, 419/283 11) Perunkulam Village Survey No.-43/2, 43/4, 43/6 12) Perunkulam Village Survey No.-75/5D1A Area 1) 20 cents 2) 3 cents 3) 8.75 cents 4) 2 cents 5) 1.25 cents 6)4.43 cents 7) 25 cents 8) 2 acres 30 cents 9) 76.5 cents 10) 4 acres 18 cents 11) 60 cents 12) 33 cents Date of purchase: 1) 27.10.2004. 2) 28.10.2004 3) 08.12.2004 4) 27.05.2005 5) 11.12.2018 6) 07.03.2023 7) 09.10.2023 8) 04.04.2023 9) 04.04.2023 10) 26.03.2025 11) 19.04.2023 12) 12.06.2024 Cost of purchase : 75,000.00 2) 30,000.00 3) 90000 4) 26,136.00 5) 57,085.00 6) 1,85,603.00 7) 52,000.00 8) 1,41,605.00 9) 48,250.00 10) 8,71,670.00 11) 1,23,000.00 12) 1,01,000.00 Total Area 8 acres 81.93 cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 44,09,650 44 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Perungulam Village S.No.69/4A1 20 cents 5 shops Perungulam Village S.No.69/4A2 6608 sq. ft. 1 shop 500 sq.ft 2) 291 square feet Date of Purchase: 1) 27.10.2004 2) 07.08.2023 Cost of Purchase: 1) Rs. 75000.00 2) Rs. 12,45000.00 Developemnt cost : 1) Rs. 400000.00 2) No Total Area 500 sq.ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 25,00,000 25 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Residential Building Bandara Vili Village Survey No.: 58 Natham Total Area 3 cents Built Up Area 1300 sq ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 300000.00 15,00,000 15 Lacs+",
+        "spouse": "1) Chennai, Ashok Nagar 22nd Street, V.No. 60A/1/53, Apartment. 2) Perungulam Village Survey No. 69/3A1, Residential Plot Area : 1) 900 square feet 2) 2 cents Bild up area : 1) 900 square feet 2) 2 cents Date of Purchase: 1) 05.12.2005 2) 08.07.2021 Cost of Purchase: 1) Rs.2,51346.00 2) Rs.1,01700.00 Total Area 1) 900 square feet 2) 2 cents Built Up Area 1) 900 square feet 2) 2 cents Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 60,00,000 60 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 3,69,250 | 2023 - 2024: Rs 4,11,320 | 2022 - 2023: Rs 3,50,000 | 2021 - 2022: Rs 3,60,000 | 2020 - 2021: Rs 3,60,000"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,80,990 | 2023 - 2024: Rs 4,80,650 | 2022 - 2023: Rs 4,70,570 | 2021 - 2022: Rs 4,91,190 | 2020 - 2021: Rs 4,65,000"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No: 714/2024, Police Station: தென்பாகம் காவல் நிலையம், தூத்துக்குடி / South Police Station, Thoothukudi, Sections: பாரதிய நியாய சன்ஹிதா (BNS), 2023 - பிரிவு 189(2) மற்றும் 293 / Bharatiya Nyaya Sanhita (BNS), 2023 - Section 189(2) & 293, Description: சென்னை அண்ணா பல்கலைக்கழக மாணவி பாலியல் துன்புறுத்தல் செய்யப்பட்டதைக் கண்டித்து AIADMK கட்சியின் சார்பாக முன்அனுமதி பெறாமல் ஆர்பாட்டம் நடத்தியது / Protest without prior permission on behalf of AIADMK party condemning sexual harassment of Chennai Anna University student.",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Continuance of nuisance after injunction to discontinue. (BNS Section-293)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "714/2024 Date: 31.12.2024 Thenpagam Police Station, Thoothukudi",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 293",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,81,20,727 ~2 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹27,720,050, but 5-year family income is only ₹4,238,970. Unexplained wealth discrepancy of ₹23,481,080."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

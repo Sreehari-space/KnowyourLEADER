@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908001",
+    "candidate_name": "M.S.R. Rajavarman",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "208 Tiruchuli Assembly Constituency",
+    "pan": "BYBPR1008P",
+    "phone": "04562255677, 7397564117, 7397423919",
+    "email": "msrdurgamarees2004@gmail.com",
+    "address": "67, South Street, Mullikulam, Malli Post 626141, Srivilliputhur Taluk, Virudhunagar District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard - Pappayanayakkarpatti Government Higher Secondary School, Year of completion 1988",
+    "profession": "Agriculture, firecracker business, brokerage from selling land and agricultural products, rental income and MLA pension"
+  },
+  "financial_summary": {
+    "total_assets_xls": 156332920.0,
+    "total_liabilities_xls": 35111530.0,
+    "net_worth_xls": 121221390.0,
+    "cash_xls": 1220000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "355/2022 (சிவகாசி நகர் காவல் நிலையம்) / 355/2022 (Sivakasi Town Police Station); 113/2023 (ஸ்ரீவில்லிபுத்தூர் காவல் நிலையம்) / 113/2023 (Srivilliputhur Police Station)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

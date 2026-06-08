@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921639",
+    "candidate_name": "Palanikumar",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "Vasudevanallur (Reserved)",
+    "pan": "IVFPP6926J",
+    "phone": "9442301105",
+    "email": "NIL",
+    "address": "No.71, Sangupuram Mudal Theru, Sankarankovil, Tirunelveli- 627 756",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A, B.L, Tamil Nadu Dr. Ambedkar Law University-2010",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1553000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1553000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

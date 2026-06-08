@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912443",
+    "candidate_name": "V.Anbu",
+    "candidate_name_json": null,
+    "age": "28",
+    "party": "Independent",
+    "constituency": "36, Uthiramerur Assembly Constituency, Tamil Nadu",
+    "pan": "CCUPV0438F",
+    "phone": "7871111719",
+    "email": "attakasamanbu6@gamil.com",
+    "address": "No 12B, Upperikulam Street, Periya Kanchipuram, Kanchipuram District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc, Pachaiyappan's Men's College, Kanchipuram",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 237200.0,
+    "total_liabilities_xls": 215000.0,
+    "net_worth_xls": 22200.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

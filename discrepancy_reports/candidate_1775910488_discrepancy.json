@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910488",
+    "candidate_name": "திரு.M.திருவெங்கடேஷ்",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "தமிழக வாழ்வுரிமைக் கட்சி",
+    "constituency": "106 - கோபிசெட்டிபாளையம்",
+    "pan": "BFWPT8864D",
+    "phone": "8056407030",
+    "email": "mthiru2210@gmail.com",
+    "address": "106, பெருமாள் கோவில்கரடு, தீத்தாம்பாளையம் (அஞ்சல்) சின்னாரிபாளையம் (கி) நம்பியூர் (வட்டம்) ஈரோடு மாவட்டம்-638 458",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "D.E.C.E., SIT, APPAKOODAL 2017",
+    "profession": "கணினி ஆதரவு பொறியாளர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 465320.0,
+    "total_liabilities_xls": 110951.0,
+    "net_worth_xls": 354369.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

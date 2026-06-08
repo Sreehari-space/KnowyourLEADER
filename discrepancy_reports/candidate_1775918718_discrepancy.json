@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918718",
+    "candidate_name": "மு.செந்தில்குமார்",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "சுயேட்சை",
+    "constituency": "91, வீரபாண்டி சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "BFPPS1294K",
+    "phone": "9943049224",
+    "email": "senthilkumarslm2324@gmail.com",
+    "address": "124, லட்சுமனூர், அக்கரபாளையம் அஞ்சல், வீரபாண்டி வழி, சேலம் மாவட்டம், தமிழ்நாடு",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "எஸ்.எஸ்.எல்.சி : 1995, அரசு உயர்நிலைப்பள்ளி, வீரபாண்டி, சேலம்; அரசு தொழிற்பயிற்சி - 1997, அரசு தொழிற்பயிற்சி நிலையம், சேலம்; பன்னிரெண்டாம் வகுப்பு - 1998 - தனியார்; பி.ஏ. (பொருளாதாரம்) - 2003, சேலம் சௌடேஸ்வரி கல்லூரி",
+    "profession": "வியாபாரம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1026000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1026000.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

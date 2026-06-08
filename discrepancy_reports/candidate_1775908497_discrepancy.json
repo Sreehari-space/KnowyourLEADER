@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908497",
+    "candidate_name": "A. Alagar",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Ezhuchi Tamizhargal Munnetra Kazhagam",
+    "constituency": "195 Thiruparankundram Assembly Constituency, Tamil Nadu",
+    "pan": "AUWPA8090L",
+    "phone": "9943460711",
+    "email": "marketalagar@gmail.com",
+    "address": "Door No: 93, North Street, Nedumadurai Village, Valayankulam Post, Thiruparankundram Taluk, Madurai District, PIN 625 022",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9th standard not completed",
+    "profession": "Real Estate Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4632000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 4632000.0,
+    "cash_xls": 250000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

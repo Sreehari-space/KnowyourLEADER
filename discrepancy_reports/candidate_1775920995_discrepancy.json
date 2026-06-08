@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920995",
+    "candidate_name": "மு.மகேந்திரன்",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "சுயேட்சை",
+    "constituency": "204, சாத்தூர் சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "CROPM1193H",
+    "phone": "7639624264",
+    "email": "msmahendran1994@gmail.com",
+    "address": "70, விநாயகர் கோவில் தெரு, முத்துச்சாமிபுரம், கங்கர்செவல் அஞ்சல், வெம்பக்கோட்டை வட்டம், விருதுநகர் மாவட்டம், தமிழ்நாடு",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MBA - கலசலிங்கம் பல்கலைக்கழகம், கிருஷ்ணன்கோயில் - 2018ம் வருடம்",
+    "profession": "கூலி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1044154.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1044154.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

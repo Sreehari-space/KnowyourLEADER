@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922380",
+    "candidate_name": "P. Sabarinathan",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Independent",
+    "constituency": "Virugambakkam Assembly Constituency (No. 22)",
+    "pan": "NOTAVAILABLE",
+    "phone": "7539997389",
+    "email": "NIL",
+    "address": "No. 21, Dhukkaram 2nd Street, Thiyagaraya Nagar, Chennai 600017",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard - Sarada Vidyalaya - 1998",
+    "profession": "Auto Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 313064.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 313064.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

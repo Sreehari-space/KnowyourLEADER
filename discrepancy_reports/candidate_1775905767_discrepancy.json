@@ -1,0 +1,379 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905767",
+    "candidate_name": "M.P. Saminathan",
+    "candidate_name_json": "M.P.SAMINATHAN",
+    "age": "61",
+    "party": "Dravida Munnetra Kazhagam (DMK)",
+    "constituency": "102 Kangayam Assembly Constituency, Tamil Nadu",
+    "pan": "AWDPS8368J",
+    "phone": "9444966678",
+    "email": "adhavan6666@gmail.com",
+    "address": "33, West Main Road (Erode Road) Muthur, Kangayam Taluk, Tirupur District, Tamil Nadu - 638 105",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "BA- (Sociology) - P.S.G College of Arts & Science, Coimbatore, April 1986",
+    "profession": "Agriculture and Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 164565628.0,
+    "total_liabilities_xls": 41132727.0,
+    "net_worth_xls": 123432901.0,
+    "cash_xls": 673081.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "6,73,081 6 Lacs+",
+        "spouse": "25,68,952 25 Lacs+",
+        "huf": "6,29,641 6 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "IOB , , Chennai 11,91,996 11 Lacs+ State Bank of India Bazaarv, Tiruppur 74,087 74 Thou+ Canara Bank Kangayam 2,61,395 2 Lacs+ HDFC Bank Erode 34,421 34 Thou+ SBI , Muttur 1,59,027 1 Lacs+ Canara Bank , Mangalapatti 50,000 50 Thou+",
+        "spouse": "DBS Bank , Muthur 53,153 53 Thou+ SBI, Muthur 2,66,805 2 Lacs+ HDFC Bank Erode 39,246 39 Thou+ Erode District Central Cooperative Bank 3,47,732 3 Lacs+ DBS Bank , Muthur 50,000 50 Thou+ SBI , Bazaar, Tiruppur 2,66,820 2 Lacs+",
+        "huf": "SBI , Vellakoil A/c 2,85,840 2 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Ultimate Associates (Firm) Share -11% 28,83,854 28 Lacs+ SNLU Promoters Pvt Ltd 3,81,535 3 Lacs+ Sami Property Developers 2,80,74,538 2 Crore+ KMCH Pvt.Ltd 50,22,650 50 Lacs+",
+        "spouse": "Ultimate Alloys Pvt Ltd 1,10,97,633 1 Crore+ SNLU Promoters Pvt Ltd 1,90,768 1 Lacs+ Sami Property Developers 76,94,538 76 Lacs+",
+        "huf": "Ultimate Alloys Pvt Ltd 1,59,78,052 1 Crore+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC 13,18,763 13 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "15,81,780 15 Lacs+",
+        "spouse": "1,19,41,015 1 Crore+",
+        "huf": "72,46,727 72 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Toyota Innova TN 33 BJ 6666 6,00,000 6 Lacs+",
+        "spouse": "Nil",
+        "huf": "Tractor TN 42 AY 8025 , 2020 3,85,500 3 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "605 gm Gold 87,13,900 87 Lacs+",
+        "spouse": "2122 gm Gold 3,05,61,300 3 Crore+",
+        "huf": "1070 gm Gold 1,54,09,300 1 Crore+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Interest Amount 22,931 22 Thou+ Electrical Deposit Amount 25,000 25 Thou+",
+        "spouse": "Interest 48,226 48 Thou+ Computer 60,000 60 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Kangayam Circle Veeracholapuram Village , Bula SY No. 541/2, 543/1 Total Area 39.47 sq.ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,02,10,683 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Kangayam Circle Veeracholapuram Village , Bula SY No . 145/2A, 145/2C Area ;28.38 Acre Kankeyam Circle , Chinnamuthur Village Filed No.442/6 Area 29.06 Total Area Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,81,70,000 2 Crore+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Tirupur South Circle, Nallur Village Field No.707/B2S1 Total Area 6.66 cent Built Up Area Whether Inherited N Purchase Date 2017-03-23 Purchase Cost 2706000.00 Development Cost 0.00 46,00,000 46 Lacs+ Tirupur South Circle, Nallur Village Field No.707/B2S1 Total Area 6.67 cent Built Up Area Whether Inherited N Purchase Date 2018-10-17 Purchase Cost 2192660.00 Development Cost 0.00 47,00,000 47 Lacs+",
+        "spouse": "Thiruppur South Circle Nallur Village Filed No.707/B2B1 Total Area 6.66 cent Built Up Area Whether Inherited N Purchase Date 2017-03-28 Purchase Cost 2706000.00 Development Cost 0.00 46,00,000 46 Lacs+ Thiruppur South Circle Nallur Village Filed No. Total Area 6.67 Cent Built Up Area Whether Inherited N Purchase Date 2018-10-26 Purchase Cost 2192645.00 Development Cost 0.00 47,00,000 47 Lacs+ Thiruppur South Circle Nallur Village Filed No. Total Area 6.67 Cent Built Up Area Whether Inherited N Purchase Date 2018-10-31 Purchase Cost 2192645.00 Development Cost 0.00 47,00,000 47 Lacs+ Thiruppur South Circle Nallur Village Filed No. Total Area 6.68 Cent Built Up Area Whether Inherited N Purchase Date 2018-11-02 Purchase Cost 2192645.00 Development Cost 0.00 48,00,000 48 Lacs+",
+        "huf": "Gangayan Circle , Muttur Village, Field No.376 SY No.416, 412, 407/1B Total Area 2.91 Acre Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 4,36,50,000 4 Crore+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Gangayan Circle , Muttur Village, Field No.376, 416, 412 Total Area 9790 sq.ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 3554606.00 35,54,606 35 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "LIC Loan 6,83,442 6 Lacs+",
+      "spouse": "Nil",
+      "huf": "SBI, Vellakovil Br 15,437 15 Thou+",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Padmanabhan Mulnur 15,00,000 15 Lacs+ Easwara Murthy BB Uthukuli 20,00,000 20 Lacs+ Lakshmanapathy N tarapuram 50,99,803 50 Lacs+ Venkatachalam .C 11,32,745 11 Lacs+ Ultimate Associates 1,81,00,000 1 Crore+",
+      "spouse": "P senthil Kumar Kokkampalayam 9,90,000 9 Lacs+ Selvakumar Gas Agencies Vellakoil 2,00,000 2 Lacs+ Ultimate Associates 14,11,300 14 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 16,87,460 | 2023 - 2024: Rs 18,86,540 | 2022 - 2023: Rs 16,21,710 | 2021 - 2022: Rs 14,41,380 | 2020 - 2021: Rs 10,48,200"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 22,49,450 | 2023 - 2024: Rs 21,65,408 | 2022 - 2023: Rs 20,42,058 | 2021 - 2022: Rs 19,00,660 | 2020 - 2021: Rs 16,63,040"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 28,46,628 | 2023 - 2024: Rs 25,17,677 | 2022 - 2023: Rs 24,41,689 | 2021 - 2022: Rs 18,45,250 | 2020 - 2021: Rs 17,11,552"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Putting person in fear of death or of grievous hurt, in order to commit extortion (IPC Section-387)",
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Punishment for wrongful Confinement (IPC Section-342)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "2/2012 Tiruppur District Crime Br, SP Office Complex Tiruppur",
+          "case_no": "RCS.No. 136/2025",
+          "court": "Criminal Justice Arbitration Court 1 Tiruppur",
+          "law_type": "IPC",
+          "ipc_sections": "342, 294b, 323, 387, 420 , 506(i) , 120B",
+          "other_details": "The above case has been closed police department and RCS.No.136/2025 has been filed in the court and is under investigation.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 27,98,75,486 ~27 Crore+",
+    "Liabilities:": "Rs 3,11,32,727 ~3 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹99,478,388, but 5-year family income is only ₹17,705,906. Unexplained wealth discrepancy of ₹81,772,482."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "3797.0g gold declared at ₹39,275,200 (Implied rate: ₹10,344/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'Ultimate Associates (Firm) Share -11% 28,83,854 28 Lacs+ SNLU Promoters Pvt Ltd 3,81,535 3 Lacs+ Sami Property Developers 2,80,74,538 2 Cror..."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹102,667,267) does not match declared total assets (₹279,875,486). Difference: ₹177,208,219"
+    }
+  ]
+}

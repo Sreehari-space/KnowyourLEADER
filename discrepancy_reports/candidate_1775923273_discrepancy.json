@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923273",
+    "candidate_name": "M. Parameswaran",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "Independent",
+    "constituency": "136 - Krishnarayapuram (SC), Tamil Nadu",
+    "pan": "AQBPP2394R",
+    "phone": "9944955955",
+    "email": "paramesh.m74@gmail.com",
+    "address": "No. 438, Main Road, Mayanur Post, Krishnarayapuram Taluk, Karur District - 639108",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., - Government College of Technology, Coimbatore - Year of completion 2014",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 55380000.0,
+    "total_liabilities_xls": 59900000.0,
+    "net_worth_xls": 4520000.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

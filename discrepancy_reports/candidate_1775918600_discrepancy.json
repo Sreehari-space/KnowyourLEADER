@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918600",
+    "candidate_name": "கே.துரையரசன்",
+    "candidate_name_json": null,
+    "age": "65",
+    "party": "சுயேட்சை (தமிழ்நாடு விவசாய குத்தகைதாரர்கள் பாதுகாப்பு நலச்சங்கம்)",
+    "constituency": "மன்னார்குடி-167, தமிழ்நாடு",
+    "pan": "ANMPD4461B",
+    "phone": "8825724414",
+    "email": "duraiarasankesavan@gmail.com",
+    "address": "172, ரயில்வே லயன் தெற்கு, ஆலங்காடு அஞ்சல், முத்துப்பேட்டை தாலுக்கா, திருவாரூர் மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10ம் வகுப்பு - அரசு ஆண்கள் மேல் நிலைப்பாற்றி, முத்துபேட்டை -1978",
+    "profession": "தனிநபர் விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7089750.0,
+    "total_liabilities_xls": 574179.0,
+    "net_worth_xls": 6515571.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

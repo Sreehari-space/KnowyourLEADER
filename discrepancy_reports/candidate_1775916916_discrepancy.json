@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916916",
+    "candidate_name": "பி. திருமலைசாமி",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "சுயேட்சை",
+    "constituency": "பழனி சட்டப்பேரவை தொகுதி 127",
+    "pan": "BFZPT0077H",
+    "phone": "9942159535",
+    "email": "thirumalaisamy818@gmail.com",
+    "address": "103A கட்டபொம்மன் தெரு, பழனி, திண்டுக்கல் மாவட்டம் - 624601",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10ஆம் வகுப்பு, அரசு ஆண்கள் மேல்நிலைப்பள்ளி, பழனி -1992",
+    "profession": "தனியார் நிறுவண விடுதி மேலாளர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2249800.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2249800.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

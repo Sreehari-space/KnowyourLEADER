@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914838",
+    "candidate_name": "P. Rajeev Gandhi",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Independent",
+    "constituency": "80 Kallakurichi (SC)",
+    "pan": "FXDPP0694A",
+    "phone": "9952664115",
+    "email": "rajuganthi998@gmail.com",
+    "address": "298-B, Adi Dravidar Street, Ambedkar Nagar, Ammampalayam, Attur Taluk, Salem District, Salem District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Eighth Standard - Govt. High School, Valayamadevi, Attur Tk, Salem District - Year 1994",
+    "profession": "Electrician"
+  },
+  "financial_summary": {
+    "total_assets_xls": 661000.0,
+    "total_liabilities_xls": 430000.0,
+    "net_worth_xls": 231000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

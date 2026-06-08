@@ -1,0 +1,448 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910107",
+    "candidate_name": "N.Arunkumar",
+    "candidate_name_json": "ARUNKUMAR PRG",
+    "age": "40",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "117 Koundampalayam, Coimbatore North, Tamil Nadu",
+    "pan": "AKJPA0157D",
+    "phone": "7775866666",
+    "email": "tholar.n.arunkumar.tavaka@gmail.com",
+    "address": "No.14A, Saravanabhavanam, Nehru Colony, 2nd Cross, E.B. Colony Extension, Vadavalli, Coimbatore - 641041 Tamil Nadu",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "Master Diploma in PPM : May 2014 - CADD Centre, Coimbatore. Professional in Architectural Design : July 2014 - CADD Centre Coimbatore.",
+    "profession": "Managing Director, Aditi Construction"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6552500.0,
+    "total_liabilities_xls": 1270824.0,
+    "net_worth_xls": 5281676.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,00,000 1 Lacs+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank Periyanaicken Palayam Branch Coimbatore (joint A/C ) With Dhiraj Ramakrishna Savings A/C 26,364.97 26 Thou+ CANARA Bank Saibaba Colony Branch Coimbatore Current A/C 10,740 10 Thou+ Indian Bank MLA Hostel Branch Chennai Savings A/c 2,968.56 2 Thou+ BOB Saibaba Colony Branch Savings A/C 0 BOB Saibaba Colony Branch Savings A/C 52,262.86 52 Thou+",
+        "spouse": "CANARA Bank Gudalur Branch Coimbatore SB A/C 12,56,223 12 Lacs+ CANARA Bank Saibaba Colony Branch Coimbatore Current A/C 55 Post Pffice Jothipuram Branch Coimbatore Savings A/C 1,402 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Share Deposit Periyanaicken Palayam Agriculture Co-Op Society 100 1 Hund+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Post Office Jothipuram Branch Coimbatore Recurring Deposit 1,100 1 Thou+ Post Office Jothipuram Branch Coimbatore Recurring Deposit 1,100 1 Thou+ Post Office Jothipuram Branch Coimbatore Recurring Deposit 1,650 1 Thou+ Post Office Jothipuram Branch Coimbatore Recurring Deposit 1,100 1 Thou+ Post Office Jothipuram Branch Coimbatore Recurring Deposit 1,100 1 Thou+ Post Office Jothipuram Branch Coimbatore Recurring Deposit 1,100 1 Thou+ Post Office Jothipuram Branch Coimbatore Recurring Deposit 1,100 1 Thou+ Post Office Jothipuram Branch Coimbatore Recurring Deposit 1,100 1 Thou+ Post Office Jothipuram Branch Coimbatore Recurring Deposit 1,100 1 Thou+ Post Office Jothipuram Branch Coimbatore Recurring Deposit 1,100 1 Thou+ Post Office Jothipuram Branch Coimbatore Recurring Deposit 10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Exide Life Insurance Policy 1,28,907.87 1 Lacs+ Exide Life Insurance Policy 1,43,329.34 1 Lacs+ Exide Life Insurance Policy 2,05,908.23 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Toyota Innova Crysta 2021, TN-38-CY-4005 18,00,000 18 Lacs+",
+        "spouse": "Mahindra Jeeto X7 Oct 2018 , TN-40-R-5295 3,30,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold Jwellery 400 Grams 50,00,000 50 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "1. S.f. No.-328/2 Periyanayakkan Palayam Village , Settlement deed through husband Date of Purchase-09-10-2009, 2. S.f. No.-814/3A1A3 Gudallur Village Date of Purchase-02-09-2024, Cost of Purchase-17000000, investment on the land -2500000 3.S.f. No.-153/2C1 Kondaiyam Palayam Village Date of Purchase-16-09-2024, Cost of Purchase-1500000, investment on the land -1250000 Total Area 56498.908Sqft Or 129.70 Cents Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 4,06,82,857 4 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "BOB Sai Baba Colony Branch Loan 2,44,384 2 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Mr. Manoj Kumar (Unsecured Loan) 26,00,000 26 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Claim Under Appeal Before Forum 2019-2020 24,95,704 24 Lacs+ Claim Under Appeal Before Forum 2019-2020 31,74,950 31 Lacs+ Claim Under Appeal Before Forum 2020-2021 26,50,449 26 Lacs+ Claim Challenged By Writ Petition 2021-2022 25,70,640 25 Lacs+ Claim Challenged By Writ Petition 2021-2022 7,08,598 7 Lacs+ Claim Challenged By Writ Petition 2021-2022 27,01,080 27 Lacs+ Rectification Filed Before GST Forum 2022-2023 1,56,944 1 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 3,73,17,290 | 2024 - 2025: Rs 13,38,830 | 2023 - 2024: Rs 12,80,990 | 2022 - 2023: Rs 12,30,280 | 2021 - 2022: Rs 12,30,520"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 34,27,800 | 2024 - 2025: Rs 6,76,080 | 2023 - 2024: Rs 9,74,990 | 2022 - 2023: Rs 8,76,750 | 2021 - 2022: Rs 15,24,260"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "8",
+      "summary": "Number of Criminal Cases:8",
+      "ipc_charges": [
+        "1 charges related to Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment (IPC Section-511)",
+        "6 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "6 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "5 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Negligent conduct with respect to fire or combustible matter (IPC Section-285)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No. 445/2024, C-6 Thudiyalur PS , Thudiyalur Coimbatore",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "170(1)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No. 422/2022, D-4 Kuniyamuthur Ps , Kuniyamuthur Coimbatore",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Sec. 151Crpc",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No. 97/2022, C-2 Racecourse Ps , Racecourse Coimbatore",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Crime No.87/2022, C-2 Racecourse Ps , Racecourse Coimbatore",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Crime No.932/2021, C-2 Racecourse Ps , Racecourse Coimbatore",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Crime No.715/2021, Triplicance Ps , Nungambakam Triplicance- Chennai",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269,",
+          "other_details": "Section 3 Epidemic Disease Act 1897",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Crime No.528/2021, D-4 Kuniyamuthur Ps , Kuniyamuthur Coimbatore",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Crime No.201/2007, M-1 Periyanaikenpalayam Ps, Periyanaikenpalayam Coimbatore",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 148, 188, 285, 341, 511",
+          "other_details": "Section 7 (1) CLA Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 4,98,62,669 ~4 Crore+",
+    "Liabilities:": "Rs 1,73,02,749 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00), Typo: Jwellery (should be Jewellery)"
+    }
+  ]
+}

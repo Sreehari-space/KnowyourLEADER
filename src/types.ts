@@ -72,6 +72,11 @@ export interface Candidate {
   votes?: number;
   votePercent?: number;
   voteMargin?: number;
+  discrepancies?: {
+    severity: string;
+    title: string;
+    description: string;
+  }[];
 }
 
 export type FontSizeSetting = 'small' | 'regular' | 'large' | 'xlarge';

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906002",
+    "candidate_name": "Ra. Vimala",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "199 – Periyakulam",
+    "pan": "BLOPV3054K",
+    "phone": "8608152799",
+    "email": "vimalatum82@gmail.com",
+    "address": "K.V. School Street, Devaram, Theni District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Tamil Text: B.A.B.Ed., in ST.ALOYSIUS College of Education, ராயப்பன்பட்டி - 2015",
+    "profession": "Tamil Text: தனி நபர் தனியார் நிறுவனத்தில் வேலை"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2493600.0,
+    "total_liabilities_xls": 130000.0,
+    "net_worth_xls": 2363600.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906969",
+    "candidate_name": "D. Rajessh",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "142 Thiruverumbur Assembly Constituency, Tiruchirappalli District, Tamil Nadu",
+    "pan": "ALXPR7278K",
+    "phone": "9842467687",
+    "email": "trsai2411@gmail.com",
+    "address": "No. 41A, South Vandikara Street, Uraiyur, Tiruchirappalli-620003",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.B.A. Bharathidasan University (1996-1999)",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3947947.0,
+    "total_liabilities_xls": 3290000.0,
+    "net_worth_xls": 657947.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

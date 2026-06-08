@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911909",
+    "candidate_name": "Ayyappan",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Independent Party",
+    "constituency": "183. Aranthangi Assembly Constituency, Tamil Nadu",
+    "pan": "AQEPA6780F",
+    "phone": "9600470588",
+    "email": "NIL",
+    "address": "38, Vairandi Village, Rethinakkottai Post, Aranthangi Taluk, Pudukkottai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard, Government Higher Secondary School, Aranthangi Town, Aranthangi Taluk, Pudukkottai District - 1997",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1022000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1022000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "CC.147/2025; 270/2021",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

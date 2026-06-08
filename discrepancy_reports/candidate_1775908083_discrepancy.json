@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908083",
+    "candidate_name": "சி.சந்திரசேகரன்",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "தமிழ்த்தேசிய முன்னேற்றக் கழகம்",
+    "constituency": "172-பாபநாசம் சட்டப்பேரவை தொகுதி",
+    "pan": "BIRPC0766M",
+    "phone": "9994762269",
+    "email": "chandranchozhan@gmail.com",
+    "address": "கதவு எண்-645 அண்ணாநகர், சிக்கப்பட்டு, புளியக்குடி 2 கிராமம், பாபநாசம் தாலுக்கா, தஞ்சாவூர் மாவட்டம், அஞ்சல் குறியீடு 614 403",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC-UAAT HIGH SEC SCHOOL-AMMAPETTAI-YEAR OF PASSING 1995, HSC-UAAT HIGH SEC SCHOOL-AMMAPETTAI-YEAR OF PASSING 1997, B.A.,B.L., GOVERNMENT LAW COLLEGE- THIRUCHIRAPALLI- YEAR OF PASSING-2010.",
+    "profession": "வழக்கறிஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8312136.0,
+    "total_liabilities_xls": 3325000.0,
+    "net_worth_xls": 4987136.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "Cr.No. 56/2018; Cr.No. 159/2018; Cr.No. 1484/2020",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

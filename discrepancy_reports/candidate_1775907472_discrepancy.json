@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907472",
+    "candidate_name": "P.V. Himlar",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "234, Killiyoor Assembly Constituency, Tamil Nadu",
+    "pan": "AOLPH9935G",
+    "phone": "8056850862",
+    "email": "himlarhimlar@gmail.com",
+    "address": "79A, Kodumudi, Bethelpuram Post-629803, Kanyakumari District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Engineering (Mechanical) (C.S.I Institute of Technology), Thovalai, completed in April 2015",
+    "profession": "Individual self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3250720.0,
+    "total_liabilities_xls": 209979.0,
+    "net_worth_xls": 3040741.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "CC.No: 14/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

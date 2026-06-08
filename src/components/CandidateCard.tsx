@@ -29,7 +29,6 @@ export default function CandidateCard({
 }: CandidateCardProps) {
   const t = TRANSLATIONS[lang];
   const desktopCardRef = useRef<HTMLDivElement>(null);
-  const mobileCardRef = useRef<HTMLDivElement>(null);
 
   const handleMouseEnter = (ref: React.RefObject<HTMLDivElement>) => {
     if (ref.current) gsap.to(ref.current, { y: -8, scale: 1.02, duration: 0.4, ease: 'back.out(2)' });
@@ -208,88 +207,10 @@ export default function CandidateCard({
 
   return (
     <div className="h-full w-full">
-      {/* ================= MOBILE LAYOUT (Compact Horizontal) ================= */}
-      <div 
-        ref={mobileCardRef}
-        className={`sm:hidden group relative bg-white rounded-2xl overflow-hidden border border-neutral-100 shadow-sm cursor-pointer ${partyStyle.glow}`}
-        onClick={() => onOpenDetails(candidate)}
-        onMouseEnter={() => handleMouseEnter(mobileCardRef)}
-        onMouseLeave={() => handleMouseLeave(mobileCardRef)}
-      >
-        {/* Left Side: Photo & Party Block */}
-        <div className="w-[110px] shrink-0 relative overflow-hidden flex flex-col items-center justify-center p-3 bg-white">
-          {getPartyFlagUrl(candidate.party) && (
-            <img 
-              src={getPartyFlagUrl(candidate.party)!}
-              alt={candidate.party}
-              className="absolute inset-0 w-full h-full object-cover opacity-80 pointer-events-none"
-            />
-          )}
-          <div className={`w-16 h-16 rounded-full overflow-hidden border-[3px] shadow-md relative z-10 flex items-center justify-center text-xl font-bold bg-white ${partyStyle.text}`} style={{ borderColor: getPartyColor(candidate.party) }}>
-            {candidate.photo ? (
-              <img src={candidate.photo.replace('images/', '/candidates/')} alt={candidate.name} className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
-            ) : (
-              candidate.name.charAt(0)
-            )}
-          </div>
-          <div className="relative z-10 mt-1 px-2 py-0.5 rounded text-[9px] font-black tracking-widest uppercase shadow-sm truncate max-w-full text-center text-white" style={{ backgroundColor: getPartyColor(candidate.party) }}>
-            {candidate.party}
-          </div>
-        </div>
-
-        {/* Right Side: Info & Stats */}
-        <div className="flex-1 flex flex-col justify-center p-3.5 bg-gradient-to-r from-white to-neutral-50/50 min-w-0">
-          <div className="flex items-center space-x-1 mb-0.5 text-neutral-400">
-            <MapPin className="w-2.5 h-2.5 shrink-0" />
-            <span className="text-[9px] font-mono font-bold tracking-widest uppercase truncate">
-              {constituencyClean}
-            </span>
-          </div>
-          <h3 className="text-sm font-display font-black text-neutral-900 leading-tight truncate mb-1.5">
-            {candidate.name}
-          </h3>
-          
-          <div className="flex flex-col space-y-1">
-            <div className="flex items-center justify-between bg-neutral-50 rounded-lg p-1 border border-neutral-100">
-              <div className="flex items-center space-x-1.5">
-                <Landmark className="w-3 h-3 text-emerald-600" />
-                <span className="text-[10px] font-mono font-black text-neutral-800 truncate" title={candidate.netWorthFormatted}>
-                  {candidate.netWorthFormatted}
-                </span>
-              </div>
-            </div>
-            
-            <div className={`flex items-center justify-between rounded-lg p-1 border ${candidate.caseCount > 0 ? 'bg-rose-50 border-rose-100' : 'bg-teal-50 border-teal-100'}`}>
-              <div className="flex items-center space-x-1.5">
-                {candidate.caseCount > 0 ? (
-                  <AlertCircle className="w-3 h-3 text-rose-600 shrink-0" />
-                ) : (
-                  <ShieldCheck className="w-3 h-3 text-teal-600 shrink-0" />
-                )}
-                <span className={`text-[10px] font-mono font-bold truncate ${candidate.caseCount > 0 ? 'text-rose-700' : 'text-teal-700'}`}>
-                  {candidate.caseCount > 0 ? `${candidate.caseCount} ${lang === 'en' ? 'Cases' : 'வழக்கு'}` : (lang === 'en' ? 'Clean' : 'சுத்தம்')}
-                </span>
-              </div>
-            </div>
-          </div>
-          
-          {/* Quick Actions overlay on hover/active */}
-          <div className="absolute top-2 right-2 flex space-x-1">
-             <button 
-                onClick={(e) => { e.stopPropagation(); onAddToCompare(candidate); }}
-                className={`w-7 h-7 rounded-full flex items-center justify-center shadow-sm border ${isComparing ? 'bg-neutral-900 text-white border-neutral-900' : 'bg-white text-neutral-400 border-neutral-200 active:bg-neutral-100'}`}
-             >
-               <Plus className={`w-3.5 h-3.5 ${isComparing ? 'rotate-45' : ''} transition-transform`} />
-             </button>
-          </div>
-        </div>
-      </div>
-
-
-      {/* ================= DESKTOP LAYOUT (Full Vertical Card) ================= */}
+      {/* ================= UNIFIED RESPONSIVE LAYOUT ================= */}
       <div 
         ref={desktopCardRef}
-        className={`hidden sm:flex group relative bg-white rounded-3xl overflow-hidden border border-neutral-100 shadow-[0_4px_20px_rgba(0,0,0,0.04)] flex-col h-full cursor-pointer ${partyStyle.glow}`}
+        className={`flex group relative bg-white rounded-3xl overflow-hidden border border-neutral-100 shadow-[0_4px_20px_rgba(0,0,0,0.04)] flex-col h-full cursor-pointer ${partyStyle.glow}`}
         onClick={() => onOpenDetails(candidate)}
         onMouseEnter={() => handleMouseEnter(desktopCardRef)}
         onMouseLeave={() => handleMouseLeave(desktopCardRef)}

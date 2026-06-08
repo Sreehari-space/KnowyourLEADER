@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919150",
+    "candidate_name": "C. Ramesh",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Independent",
+    "constituency": "188 – Melur Assembly Constituency, Tamil Nadu",
+    "pan": "CSIPR5321K",
+    "phone": "9952444516",
+    "email": "rameshramesh91486@gmai.com",
+    "address": "99, Marudur, South Street Post, Melur Taluk, Madurai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc., (Zoology) American College, Madurai -2009",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1794000.0,
+    "total_liabilities_xls": 1000000.0,
+    "net_worth_xls": 794000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913124",
+    "candidate_name": "S. Chinnathurai",
+    "candidate_name_json": null,
+    "age": "38",
+    "party": "Communist Party of India (Marxist-Leninist) Liberation",
+    "constituency": "205 Sivakasi Assembly Constituency, Virudhunagar District, Tamil Nadu",
+    "pan": "CMDPC0138A",
+    "phone": "8608383860",
+    "email": "duraidimi@gmail.com",
+    "address": "1860C, Indira Nagar, Viswanatham, Sivakasi, Sivakasi Taluk, Virudhunagar District, 626189",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "11th Standard, Annamalai Nadar Unnamalaiyammal Higher Secondary School, Sivakasi (2004)",
+    "profession": "Beauty Parlour"
+  },
+  "financial_summary": {
+    "total_assets_xls": 647000.0,
+    "total_liabilities_xls": 2603587.0,
+    "net_worth_xls": 1956587.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

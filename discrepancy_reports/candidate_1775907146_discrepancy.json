@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907146",
+    "candidate_name": "POORNIMA",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "008 AMBATTUR, Tamil Nadu",
+    "pan": "BZOPP8655C",
+    "phone": "9444542227",
+    "email": "poornima3665@gmail.com",
+    "address": "B-27, Sri Krishna Apartments, Officers Colony, Anna Nagar Western Extension, Padi, Chennai 600050, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Doctor of Medicine (M.D) in Community Medicine, Sri Sathya Sai Medical College & Research institute affiliated to Sri Balaji Vidyapeeth, Year of Completion 2023",
+    "profession": "Medical Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 109311940.0,
+    "total_liabilities_xls": 96650000.0,
+    "net_worth_xls": 12661940.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

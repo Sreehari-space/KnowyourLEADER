@@ -1,0 +1,490 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908121",
+    "candidate_name": "P. Balakrishnan",
+    "candidate_name_json": "BALAKRISHNAN.S.P",
+    "age": "58",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Radhapuram, Tamil Nadu",
+    "pan": "AJKPB4718R",
+    "phone": "9442589994",
+    "email": "balakrishnanbalu967@gmail.com",
+    "address": "13, Keelatheru, Sriranganarayana Puram, Settikulam, Radhapuram Taluk, Tirunelveli District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "9th std, St. Joseph's Higher Secondary School, Koottapuli (1981-1982), Tamil Nadu School Education Department",
+    "profession": "Windmill related business, Petrol bunk"
+  },
+  "financial_summary": {
+    "total_assets_xls": 328875870.0,
+    "total_liabilities_xls": 93248000.0,
+    "net_worth_xls": 235627870.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "5,00,000 5 Lacs+",
+        "spouse": "4,00,000 4 Lacs+",
+        "huf": "1,00,000 1 Lacs+",
+        "dependent1": "5,000 5 Thou+",
+        "dependent2": "5,000 5 Thou+",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Bank Anuvijay Township Branch 20,500 20 Thou+ Canara Bank Koodankulam Branch 1,28,500 1 Lacs+",
+        "spouse": "Canara Bank Koodankulam Branch 20,000 20 Thou+ SBI Bank Anuvijay Township Branch 10,600 10 Thou+",
+        "huf": "SBI Bank Anuvijay Township Branch 26,500 26 Thou+ Canara Bank Nagarkoil Branch 10,900 10 Thou+ Canara Bank Koodankulam Branch 34,000 34 Thou+",
+        "dependent1": "SBI Bank Anuvijay Township Branch 17,500 17 Thou+",
+        "dependent2": "SBI Bank Anuvijay Township Branch 26,500 26 Thou+ Canara Bank Koodankulam Branch 1,50,500 1 Lacs+ HDFC Bank Kottar Branch 99,000 99 Thou+ ICICI Bank Nagerkoil Branch 19,000 19 Thou+",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy 0*(Value Not Given) HDFC Policy 72,17,000 72 Lacs+",
+        "spouse": "LIC Policy 0*(Value Not Given) HDFC Policy 50,60,000 50 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "JCB Heavy Vehicle (TN 72 DW 9024) - 2026 36,00,000 36 Lacs+ JCB Heavy Vehicle (KA 51 MT 8160) - 2023 30,00,000 30 Lacs+ 407 TATA Mini Lorry (TN 74 H 9004)-2004 4,00,000 4 Lacs+ Hero passion Bike (TN 72 AW 5988) - 2011 55,000 55 Thou+ TATA 407 Tipper (TN 74 D 7565) - 2005 50,000 50 Thou+ Mahendra Bolero (TN 72 AZ9090) - 2014 70,000 70 Thou+ Fortunare TN 72 BV 9090 Model 2019 22,00,000 22 Lacs+ Bolero Model 2013 TN72 AV9090 7,00,000 7 Lacs+ Platina TN96 F9145 Model 2022 60,000 60 Thou+ Herohonda TN72 BX9083 Model 2017 35,000 35 Thou+ Herohonda TN72 BW1288 Model 2018 35,000 35 Thou+ Yamaha ray TN72 BX8322 Model 2016 45,000 45 Thou+ Bolero camber KA16 N2801 Model 2016 3,00,000 3 Lacs+",
+        "dependent1": "Suzuki access TN72 DU3045 Model 2026 95,000 95 Thou+",
+        "dependent2": "KIA Seltos TN72 DX9090 Model 2026 12,50,000 12 Lacs+",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "160 Grams 20,00,000 20 Lacs+",
+        "spouse": "640 Grams 80,00,000 80 Lacs+",
+        "huf": "Nil",
+        "dependent1": "80 Grams 10,00,000 10 Lacs+",
+        "dependent2": "16 Grams 2,00,000 2 Lacs+",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Irukandurai Vill, S. No. 397/1B, 397/3A2, 397/3C, 588, 483/3, 483/2B, 581/2A, 582/2, 581/1, 483/2, 483/4 Date of Purchase- 12.08.2016 Cost of Purchase- 215250 Date of Purchase- 03.08.2007 Cost of Purchase- 63500 Total Area 4 Acre Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 92,40,000 92 Lacs+",
+        "spouse": "Kumarapuram Vill, S. No. 570/1, 2, 3, 4, 5, 6, 15, 16 Total Area 1.33 Acre Built Up Area Whether Inherited N Purchase Date 2025-02-05 Purchase Cost 2189192.00 Development Cost 0.00 50,00,000 50 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Kumarapuram Vill, S. No. 570/1, 2, 3, 4, 5, 6, 15, 16 Total Area 1.33 Acre Built Up Area Whether Inherited N Purchase Date 2025-02-05 Purchase Cost 2189192.00 Development Cost 0.00 50,00,000 50 Lacs+",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Aralvaimozli South Vill, S. No. 762/1A, 762/1C, 762/2A1, 762/2A2, 763/1A, 783/2 Total Area 322344 Built Up Area Whether Inherited N Purchase Date 2023-04-22 Purchase Cost 59023500.00 Development Cost 0.00 8,08,50,000 8 Crore+ Perumkodi Part 1 Vill, S. No. 1350/1 Total Area 54014 Sqft Built Up Area Whether Inherited N Purchase Date 2017-04-27 Purchase Cost 4687000.00 Development Cost 0.00 5,46,00,000 5 Crore+ Perumkodi Part 2 Vill, S. No. 2408/2E1, 2E2, 1943/2B, 1940/1, 1892/1 Total Area 6534 Sqft Built Up Area Whether Inherited N Purchase Date 2010-11-03 Purchase Cost 396760.00 Development Cost 0.00 73,50,000 73 Lacs+ Kumarpuram Vill, S. No. 484/3, 526/1C, 570/12, 570/16 Total Area 96268 Sqft Built Up Area Whether Inherited N Purchase Date 2017-04-27 Purchase Cost 4300000.00 Development Cost 0.00 1,03,00,000 1 Crore+ Kuthankulam Vill, S. No. 391, 379/2, 381/3, 389/7, 388, 390/1, 380/1, 380/2, 383/2A, 383/2B, 383/2C, 386/1, 386/2, 386/3 Total Area 2600353 Sqft Built Up Area Whether Inherited N Purchase Date 2017-04-27 Purchase Cost 410000.00 Development Cost 0.00 5,10,000 5 Lacs+ Total Area 751628 Sqft Built Up Area Whether Inherited N Purchase Date 2012-09-09 Purchase Cost 4501750.00 Development Cost 0.00 65,01,750 65 Lacs+",
+        "spouse": "Chettikulam Vill, S. No. 95/2A5B, 96/2A2B, 2C, 49/1A3, 595/2B2D, 595/2B2, 595/7, 98/5 Total Area 2657 Sq.ft Built Up Area Whether Inherited N Purchase Date 2014-12-04 Purchase Cost 2835000.00 Development Cost 0.00 28,35,000 28 Lacs+ Irukkandurai Vill, S. No. 484/1, 592, 482, 483/1A, 483/2B, 588, 589/2, 590/2, 591/1, 592 Total Area 6534 Sq.ft Built Up Area Whether Inherited N Purchase Date 2014-11-22 Purchase Cost 6825000.00 Development Cost 0.00 68,25,000 68 Lacs+ Anjugaramam Vill, S. No. 939/1 Total Area 1612 Sq.ft Built Up Area Whether Inherited N Purchase Date 2011-03-31 Purchase Cost 1890000.00 Development Cost 0.00 18,90,000 18 Lacs+ Total Area 1002 Sq.ft Built Up Area Whether Inherited N Purchase Date 2010-06-03 Purchase Cost 1365000.00 Development Cost 0.00 13,65,000 13 Lacs+ Total Area 4356 Sq.ft Built Up Area Whether Inherited N Purchase Date 2006-12-28 Purchase Cost 3045000.00 Development Cost 0.00 30,45,000 30 Lacs+ Total Area 5662 Sq.ft Built Up Area Whether Inherited N Purchase Date 2010-11-15 Purchase Cost 3885000.00 Development Cost 0.00 38,85,000 38 Lacs+ Total Area 20473 Sq.ft Built Up Area Whether Inherited N Purchase Date 2014-01-22 Purchase Cost 122520.00 Development Cost 0.00 1,52,520 1 Lacs+ Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 3200000.00 Development Cost 0.00 32,00,000 32 Lacs+ Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 1853000.00 Development Cost 0.00 1,52,25,000 1 Crore+ Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 492135.00 Development Cost 0.00 24,15,000 24 Lacs+ Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 626750.00 Development Cost 0.00 31,50,000 31 Lacs+ Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 529740.00 Development Cost 0.00 48,30,000 48 Lacs+",
+        "huf": "North Valioor Part 2 Village, S. No. 2026/1, 2, 2028/1A1 Total Area 222863 Sqft Built Up Area Whether Inherited N Purchase Date 2021-02-03 Purchase Cost 2500000.00 Development Cost 0.00 60,00,000 60 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "Chettikulam Vill, S. No. 46/1B, 46/1E, 46/1C, 46/1D, 46/1A, 45/2A, 45/2B, 45/3B, 106/3B Total Area 127631 Sqft Built Up Area Whether Inherited N Purchase Date 2024-05-08 Purchase Cost 950000.00 Development Cost 0.00 15,00,000 15 Lacs+",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Chettikulam Vill, S. No. 49/2A2 Total Area 54886 Sqft Built Up Area Whether Inherited N Purchase Date 2013-01-18 Purchase Cost 2779500.00 Development Cost 0.00 3,99,00,000 3 Crore+ Chettikulam Vill, S. No. 49/1A3A Total Area 6970 Sqft Built Up Area Whether Inherited N Purchase Date 2010-12-15 Purchase Cost 229374.00 Development Cost 0.00 1,89,00,000 1 Crore+",
+        "spouse": "Levingipuram Vill, S. No. 861/4H Total Area 3267 Sqft Built Up Area Whether Inherited N Purchase Date 2016-06-06 Purchase Cost 218000.00 Development Cost 0.00 10,00,000 10 Lacs+ Kanyakumari Vill, S. No. 532/19 Total Area 2178 Sqft Built Up Area Whether Inherited N Purchase Date 2016-09-15 Purchase Cost 2032850.00 Development Cost 0.00 60,00,000 60 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Chettikulam Vill, S. No. 29/1a1AH, 29/16, 29/17 Total Area 25788 Sqft Built Up Area 2160 Sqft Whether Inherited Y Purchase Date 2012-07-12 Purchase Cost 4905000.00 Development Cost 0.00 50,00,000 50 Lacs+ North Vallioor Part 1 Vill, S. No. 1708/14B, 1708/24 Total Area 16989 Sqftt Built Up Area 4356 Sqft Whether Inherited N Purchase Date 2015-11-12 Purchase Cost 100000.00 Development Cost 0.00 1,15,50,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil",
+        "dependent5": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "HDFC Bank OD Tisayanvillai Branch Loan 43,99,000 43 Lacs+ HDFC Bank OD Loan Tisayanvillai Branch 1,62,16,000 1 Crore+ Canara Bank OD Loan Nagerkoil 5,05,10,000 5 Crore+ LIC Loan 65,98,000 65 Lacs+ SBI Gold Loan 94,57,000 94 Lacs+",
+      "spouse": "Canara Bank Gold Loan 53,62,000 53 Lacs+ SBI Bank Gold Loan 7,06,000 7 Lacs+",
+      "huf": "Punjab and sind Bank Loan 2,81,85,000 2 Crore+",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil",
+      "dependent5": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 1,47,82,890 | 2023 - 2024: Rs 1,13,46,100 | 2022 - 2023: Rs 1,24,90,080 | 2021 - 2022: Rs 1,30,01,020 | 2020 - 2021: Rs 1,87,86,200"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 11,93,130 | 2023 - 2024: Rs 9,87,640 | 2022 - 2023: Rs 7,40,555 | 2021 - 2022: Rs 12,08,814 | 2020 - 2021: Rs 10,30,551"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2024 - 2025: Rs 9,45,600 | 2023 - 2024: Rs 9,61,040 | 2022 - 2023: Rs 66,56,490 | 2021 - 2022: Rs 77,62,400"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 14,46,800 | 2024 - 2025: Rs 13,43,690 | 2023 - 2024: Rs 9,21,660 | 2022 - 2023: Rs 5,83,480 | 2021 - 2022: Rs 4,79,270"
+    },
+    {
+      "relation": "dependent4",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 20,250"
+    },
+    {
+      "relation": "dependent5",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "FIR 93/2024 Palayur police; FIR 382/2023 Panagudi police; FIR 292/2022 Vallioor police; JM Number 1 Tirunelveli STC NO 1176/2026; STC NO 710/2025; JM Court Vallioor Crime number 292/2022",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "2 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Punishment for assault or criminal force otherwise than on grave provocation (IPC Section-352)",
+        "1 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime number 93/2024, Palayur Police",
+          "case_no": "STC No 1176/2026",
+          "court": "JM Number 1 Tirunelveli",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime number 382/2023, Panagudi Police",
+          "case_no": "STC No 710/2025",
+          "court": "JM Court Vallioor",
+          "law_type": "IPC",
+          "ipc_sections": "109, 294b, 147, 352, 506(1)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime number 292/2022, Vallioor Police",
+          "case_no": "Nil",
+          "court": "JM Court Vallioor",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 35,48,64,770 ~35 Crore+",
+    "Liabilities:": "Rs 12,14,33,000 ~12 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹138,195,500, but 5-year family income is only ₹80,362,130. Unexplained wealth discrepancy of ₹57,833,370."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Commercial Buildings purchased in 2013 for ₹2,779,500 (CII Indexed Cost: ₹4,750,418) is declared at highly inflated value of ₹39,900,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Commercial Buildings purchased in 2016 for ₹218,000 (CII Indexed Cost: ₹310,485) is declared at highly inflated value of ₹1,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "896.0g gold declared at ₹10,000,000 (Implied rate: ₹11,161/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "HIGH",
+      "title": "Gold Loan Exceeds Expected LTV",
+      "description": "Gold loans sum to ₹15,525,000 against declared gold value of ₹10,000,000 (exceeds 90% LTV)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹176,141,500) does not match declared total assets (₹354,864,770). Difference: ₹178,723,270"
+    }
+  ]
+}

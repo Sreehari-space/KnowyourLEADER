@@ -1,0 +1,375 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908673",
+    "candidate_name": "R.Saravanan",
+    "candidate_name_json": "P.SARAVANAN",
+    "age": "47",
+    "party": "Namadhu Makkal Katchi",
+    "constituency": "44-Anaikattu Assembly Constituency, Tamil Nadu State",
+    "pan": "HTSPS0061M",
+    "phone": "9245112402",
+    "email": "sarojodhi1234@gmail.com",
+    "address": "No. 59, Chennai Road, Katpadi, Katpadi Taluk, Vellore District, Tamil Nadu, 632007",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "7th Standard, Government Higher Secondary School, Elathur, 1991",
+    "profession": "Real Estate Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 604136.0,
+    "total_liabilities_xls": 219343.0,
+    "net_worth_xls": 384793.0,
+    "cash_xls": 1000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "50,000 50 Thou+",
+        "huf": "6,00,000 6 Lacs+",
+        "dependent1": "1,00,000 1 Lacs+",
+        "dependent2": "75,000 75 Thou+",
+        "dependent3": "5,000 5 Thou+"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank Tallakulam Br (Election Account) 50,000 50 Thou+ SBI, BB Kulam Br 11,04,149 11 Lacs+ HDFC Main Branch 5,22,697 5 Lacs+ DBS-LVB Chokkikulam Br 7,06,430 7 Lacs+ Axis Tallakulam Br 1,93,336 1 Lacs+ IOB Secretariate, Chennai Branch 3,23,379 3 Lacs+ Nesham Trust ICICI Bank, Tallakulam 5,79,294 5 Lacs+ Surya Trust ICICI - Talakulam (Fixed Deposit) 10,84,480 10 Lacs+ Surya Trust ICICI - Talakulam 8,06,219 8 Lacs+",
+        "spouse": "SBI -BB Kulam 8,86,640 8 Lacs+ HDFC Bank Tallakulam 6,90,598 6 Lacs+ DBS Bank, Chokkikulam 8,10,305 8 Lacs+ Axis Bank Thallakulam Br 1,32,844 1 Lacs+ Kotak Bank BBkulam Br 7,54,483 7 Lacs+ Indian Bank Tallakulam Br Election 50,000 50 Thou+ Surya Trsut HDFC, Tallakulam FD 13,70,638 13 Lacs+ Surya Trust Little Hearts HDFC, Talakualam 6,182 6 Thou+ Surya Trsut HDFC, Tallakulam 4,54,203 4 Lacs+",
+        "huf": "Nil",
+        "dependent1": "SBI, BB Kulam Branch 1,04,379 1 Lacs+ IOB, Mdu South 3,930 3 Thou+ IOB, MMC Branch 2,28,510 2 Lacs+ HDFC, North Veli Street 43,141 43 Thou+",
+        "dependent2": "SBI, BB Kulam Branch 1,29,336 1 Lacs+ HDFC, Tallakulam 2,50,000 2 Lacs+ CUB, Thirupalai Branch 0 IOB, KK Nagar Branch 2,332 2 Thou+",
+        "dependent3": "SBI, BB Kulam Branch 8,34,621 8 Lacs+ Kotak BB Kulam Branch 98,744 98 Thou+ HDFC Thallakulam Branch 2,65,443 2 Lacs+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Share Investment Saravana Hospital 2,50,000 2 Lacs+",
+        "spouse": "Share Investment Saravana Hospital 2,50,000 2 Lacs+ Invest in Mookambika Properties & Holdings Pvt Ltd 19,05,000 19 Lacs+ Equity Investment Thai Letchumi Properties Pvt Ltd 10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC 94,08,334 94 Lacs+ LIC 20,99,412 20 Lacs+ ICICI 10,18,500 10 Lacs+ HDFC 4,37,408 4 Lacs+ SBI 14,76,064 14 Lacs+ Max Life - I 54,80,500 54 Lacs+ Max Life - II 32,88,880 32 Lacs+ Max Life - III 12,00,000 12 Lacs+ SBI 17,54,484 17 Lacs+",
+        "spouse": "ICICI 10,18,500 10 Lacs+ SBI 17,54,484 17 Lacs+ Max Life 12,00,000 12 Lacs+",
+        "huf": "Nil",
+        "dependent1": "LIC 11,00,325 11 Lacs+ LIC 1,13,150 1 Lacs+ LIC 2,17,677 2 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "LIC 15,23,370 15 Lacs+"
+      },
+      "Personal loans/advance given": {
+        "self": "S.Kanimozhi 98,00,000 98 Lacs+ J.Raghunandan 85,35,110 85 Lacs+ Darshini 17,00,000 17 Lacs+ Muthuganesan 10,00,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "BMW Car (2022), TN 59 DC 0999 49,96,401 49 Lacs+ BMW Car (2017), TN 19 AA 7392 35,00,000 35 Lacs+ ISUZU Car (1999), TN 37 DV 1522 2,00,000 2 Lacs+ Mahindra Jeep (1999), TN 31 C 3957 70,000 70 Thou+ Ford Endeavour (2004), TN 59 CH 0999 40,68,609 40 Lacs+ Lorry (2004), TN 02 R 3111 4,05,000 4 Lacs+ Suzuki Access (2020), TN 58 BC 7625 65,000 65 Thou+ Suzuki Access (2021), TN 59 CJ 5730 65,000 65 Thou+ Innova Hycross Hybind (2025) TN 59 DC 3030 32,50,000 32 Lacs+ Mahindra Thar Roxx (2024), TN 59 DC 2434 18,48,999 18 Lacs+ TATA Ace (2025), TN 76 AD 1697 1,00,000 1 Lacs+ Scooty Pep (2018), TN 59 CB 5006 26,325 26 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 100 grams 13,62,000 13 Lacs+",
+        "spouse": "Gold 2520 grams 3,43,22,400 3 Crore+ Silver 12 kilogram 30,00,000 30 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Gold 110 grams 14,98,200 14 Lacs+",
+        "dependent2": "Gold 480 grams 65,37,600 65 Lacs+",
+        "dependent3": "Gold 625 grams 85,12,500 85 Lacs+"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Pudukkulam Pit - 1 Village Plot No. 53/2A2 Vacant Land Total Area 2959 sqft Built Up Area Whether Inherited N Purchase Date 2023-01-25 Purchase Cost 268600.00 Development Cost 0.00 3,25,000 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Saravana Multi - Speciality Hospital is located in all commercial buildings (iii-ii), Maruthu Pandiyar Nagar 4th Street, Block No.7, Sultan Nagar T.S No : 1741/2 Total Area 1844 sqft Built Up Area Whether Inherited N Purchase Date 1996-03-21 Purchase Cost 228030.00 Development Cost 4356986.00 50,43,518 50 Lacs+ Sultan Nagar, Maruthu Pandiyar Nagar 4th Street P.No.6 T.S NO : 1741/2 Total Area 600 sqft Built Up Area Whether Inherited N Purchase Date 2003-11-13 Purchase Cost 288630.00 Development Cost 2238790.00 27,80,162 27 Lacs+ Sultan Nagar, Maruthu Pandiyar Nagar 4th Street No.11 T.S NO : 1741/2 Total Area 1619 sqft Built Up Area Whether Inherited N Purchase Date 2005-11-07 Purchase Cost 479895.00 Development Cost 4188041.00 51,34,729 51 Lacs+ Sultan Nagar, Maruthu Pandiyar Nagar 4th Street P.No.15 T.S NO : 1741 Total Area 718 sqft Built Up Area Whether Inherited N Purchase Date 2006-03-13 Purchase Cost 393826.00 Development Cost 2162512.00 28,11,972 28 Lacs+ Sultan Nagar, Maruthu Pandiyar Nagar 4th Street P.No.14 T.S NO : 1741 Total Area 728 sqft Built Up Area Whether Inherited N Purchase Date 2006-03-09 Purchase Cost 401350.00 Development Cost 2435904.00 31,20,980 31 Lacs+ Sultan Nagar, Maruthu Pandiyar Nagar 4th Street P.No.13 T.S NO : 1741 Total Area 927 sqft Built Up Area Whether Inherited N Purchase Date 2007-09-17 Purchase Cost 360400.00 Development Cost 3063473.00 37,66,261 37 Lacs+ Sultan Nagar, Maruthu Pandiyar Nagar 4th Street P.No.8/1 T.S NO : 1741 Total Area 1173 sqft Built Up Area Whether Inherited N Purchase Date 2008-02-11 Purchase Cost 933900.00 Development Cost 3667640.00 50,61,694 50 Lacs+ Sultan Nagar, Maruthu Pandiyar Nagar 4th Street Block No.8 T.S NO : 1741/2 Total Area 641 sqft Built Up Area Whether Inherited N Purchase Date 2008-03-05 Purchase Cost 340350.00 Development Cost 2174677.00 27,66,529 27 Lacs+ Sultan Nagar, Maruthu Pandiyar Nagar 4th Street P.No.8/1 T.S NO : 1740 & 1741 Total Area 774 sqft Built Up Area Whether Inherited N Purchase Date 2010-08-27 Purchase Cost 822950.00 Development Cost 2766168.00 39,48,030 39 Lacs+ Sultan Nagar, Maruthu Pandiyar Nagar 4th Street P.No.16 T.S NO : 4786 Total Area 775 sqft Built Up Area Whether Inherited N Purchase Date 2008-06-09 Purchase Cost 903047.00 Development Cost 2553875.00 38,02,615 38 Lacs+ Sultan Nagar, Maruthu Pandiyar Nagar 4th Street P.No.8A T.S NO : 1741 Total Area 679 sqft Built Up Area Whether Inherited N Purchase Date 2009-06-01 Purchase Cost 921600.00 Development Cost 2584896.00 38,57,145 38 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Otthai Alankulam Village Door No. 2/166, (1/3rd) Share Total Area 400 sqft Built Up Area 400 sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,50,000 1 Lacs+ Joint Property Madurai North, Thiruppalai Village Plot No. 140/3B (1 Share in 2) Total Area 4319 sqft Built Up Area 4636 sqft Whether Inherited N Purchase Date 2016-09-30 Purchase Cost 13350000.00 Development Cost 971922.00 1,76,00,000 1 Crore+ Madurai B.B.Kulam, Kamaraj Street, Door No. 293 Sy No. 35/6 ( 1 of 3 share) Total Area 1880 sqft Built Up Area 1500sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "spouse": "Sultan Nagar, Maruthu Pandiyar Nagar 4th Street, Old Door No.14 T.S NO : 3902/2 Total Area 994 sqft Built Up Area Whether Inherited N Purchase Date 2005-09-05 Purchase Cost 200000.00 Development Cost 0.00 10,39,500 10 Lacs+ Joint Property Madurai North, Thiruppalai Village Plot No. 140/3B (1 Share in 2) Total Area 4319 sqft Built Up Area 4636 sqft Whether Inherited N Purchase Date 2016-09-30 Purchase Cost 13350000.00 Development Cost 971922.00 1,76,00,000 1 Crore+ Kodaiakanal Town Sy No. 33/2 (1/3 rd Share) Total Area 900 sqft Built Up Area 650 sqft Whether Inherited N Purchase Date 2013-03-01 Purchase Cost 1200000.00 Development Cost 0.00 23,10,000 23 Lacs+ Madakulam Village, Duraisamy Nagar Sy No. 240/5 Total Area 5664 sqft Built Up Area Whether Inherited N Purchase Date 2013-12-13 Purchase Cost 7929250.00 Development Cost 0.00 94,71,000 94 Lacs+ Madurai North, Thiruppalai Village Plot No. 140/20B (No Electricity Connection) Total Area 1155 sqft Built Up Area Whether Inherited N Purchase Date 2021-11-15 Purchase Cost 574088.00 Development Cost 52412.00 7,44,646 7 Lacs+ Madurai North (TK) , P.P Kulam Village T.S No : 111 Total Area 1630 sqft Built Up Area 1630 sqft Whether Inherited N Purchase Date 2022-02-07 Purchase Cost 2900000.00 Development Cost 268100.00 36,17,600 36 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "As on 30-03-2026 BMW Financial Services Car Loan 10,90,134 10 Lacs+ As on 30-03-2026 Mahindra Thar Sundaram Car Loan 11,26,744 11 Lacs+ As on 30-03-2026 - Innova Hycross Toyota Finance Car Loan 26,71,883 26 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Indian Overseas ank Bank, coucation Education Loan 6,59,954 6 Lacs+",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "From Dr.P.Sravanan 98,00,000 98 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 1,56,48,080 | 2023 - 2024: Rs 1,57,98,400 | 2022 - 2023: Rs 1,22,01,690 | 2022 - 2023: Rs 1,14,27,600 | 2020 - 2021: Rs 1,22,35,250"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 20,06,240 | 2023 - 2024: Rs 19,53,100 | 2022 - 2023: Rs 7,84,760 | 2021 - 2022: Rs 8,01,810 | 2020 - 2021: Rs 4,53,270"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 2,48,670 | 2023 - 2024: Rs 2,45,590 | 2022 - 2023: Rs 2,44,240 | 2021 - 2022: Rs 2,35,970 | 2020 - 2021: Rs 2,33,370"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 16,00,590"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,40,970"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Causing disappearance of evidence of offence, or giving false information to screen offender (IPC Section-201)",
+        "1 charges related to Criminal breach of trust by public servant, or by banker, merchant or agent (IPC Section-409)",
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Forgery for purpose of cheating (IPC Section-468)",
+        "1 charges related to Causing hurt by means of poison, etc. with intent to commit an offence (IPC Section-328)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)",
+        "1 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Crime No. 55/2015, C.C.B, Madurai City, Madurai",
+          "case_no": "SC No. 15/2017",
+          "court": "Principal District and Sessions Judge, Madurai",
+          "law_type": "IPC",
+          "ipc_sections": "201, 409, 420, 468, 120b, 109, 328",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "31 Oct 2018",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 24,06,86,937 ~24 Crore+",
+    "Liabilities:": "Rs 1,53,48,715 ~1 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "3835.0g gold declared at ₹35,684,400 (Implied rate: ₹9,305/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'Share Investment Saravana Hospital 2,50,000 2 Lacs+', 'spouse': 'Share Investment Saravana Hospital 2,50,000 2 Lacs+ Invest in Mookambika Pr..."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹89,422,624) does not match declared total assets (₹240,686,937). Difference: ₹151,264,313"
+    }
+  ]
+}

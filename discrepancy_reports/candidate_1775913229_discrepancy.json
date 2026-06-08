@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913229",
+    "candidate_name": "RAMADOSS C",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "HINDU, DRAVIDA MAKKAL KATCHI",
+    "constituency": "சோழவந்தான்",
+    "pan": "ARQPR2771K",
+    "phone": "9597381011",
+    "email": "ramdasramdas1443@gmail.com",
+    "address": "Door no 4-31, East Street, Sembukudipatti village, Thanichiyam post, Vadipatti taluk, Madurai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "+1. Government Higher secondary school, vadipati, year : 1993 – 1994",
+    "profession": "Agriculture, Coolie"
+  },
+  "financial_summary": {
+    "total_assets_xls": 596858.0,
+    "total_liabilities_xls": 280000.0,
+    "net_worth_xls": 316858.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

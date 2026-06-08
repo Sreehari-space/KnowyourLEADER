@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919063",
+    "candidate_name": "BISHOP GODFREY WASHINGTON NOBLE",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "INDEPENDENT",
+    "constituency": "216 Srivaikundam",
+    "pan": "AEYPG5083M",
+    "phone": "9843053644, 9362911773",
+    "email": "godfrey.w.noble@gmail.com",
+    "address": "47B, JSM Cathedral Road, Itteri, Tirunelveli-627007",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (Schaffter Hr. Sec. School, Tirunelveli, 1985), Diploma in Electronics and Communication Engineering (St. Xavier's Polytechnic College, Seydunganallur, Tuticorin, 1988), Doctor of Divinity (2006)",
+    "profession": "Ministries"
+  },
+  "financial_summary": {
+    "total_assets_xls": 171368500.0,
+    "total_liabilities_xls": 2100000.0,
+    "net_worth_xls": 169268500.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (8 case(s))",
+    "case_numbers_xls": "Crime No.60/2019 Palayamkottai (IPC 417, 420, 260, 290, Prevention of Disfigurement Act 4(1)); Crime No. 300/2020 Tvl, Melapalayam (IPC 292A, 506(1)); Crime No.499/2020 Melapalayam, PS (IPC 420); Crime No.531/2020 Melapalayam, PS (IPC 292A, 294B, 506(1), 509); Crime No.28/2020 CCB PS (IPC 406, 418, 153, 505/1(B), 188); Crime No.284/2020 TVMCH PS (IPC 292(2)A, 506(1) 509)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

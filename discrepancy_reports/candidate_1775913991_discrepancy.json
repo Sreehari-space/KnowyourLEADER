@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913991",
+    "candidate_name": "த. இன்பராஜ்",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "சுயேட்சை",
+    "constituency": "பூம்புகார் தொகுதி",
+    "pan": "AFCPI5427E",
+    "phone": "9788776684",
+    "email": "inbarajbaranala1979@gmail.com",
+    "address": "3-91, கொத்தங்குடி, வேலம்புதுக்குடி, மாதாகோவில் தெரு, தரங்கம்பாடி தாலுக்கா, மயிலாடுதுறை மாவட்டம், அஞ்சல் எண். 609 306",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8ஆம் வகுப்பு - சவுரிராஜன் மேல்நிலைப்பள்ளி, திருவிளையாட்டம் 1995",
+    "profession": "ஓட்டுநர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1435428.0,
+    "total_liabilities_xls": 373558.0,
+    "net_worth_xls": 1061870.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

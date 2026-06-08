@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922071",
+    "candidate_name": "மு ச ஸ்ரீநிவாஸ்",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "சுயேட்சை",
+    "constituency": "224 திருநெல்வேலி சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "HWCPS8574Q",
+    "phone": "9344115340",
+    "email": "nil / ஏதுமில்லை",
+    "address": "கதவு எண்.13பி, செல்வி அம்மன் கோவில் தெரு, சிந்துபூந்துறை, திருநெல்வேலி சந்திப்பு, திருநெல்வேலி தாலுகா, திருநெல்வேலி மாவட்டம்-627 001. தமிழ்நாடு",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10-ம் வகுப்பு, ரோஸ்மேரி மெட்ரிக்குலேசன் உயர்நிலைப்பள்ளி, பாளையங்கோட்டை, திருநெல்வேலி. முடித்த ஆண்டு 2010",
+    "profession": "பிளம்பர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2285645.37,
+    "total_liabilities_xls": 166000.0,
+    "net_worth_xls": 2119645.37,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

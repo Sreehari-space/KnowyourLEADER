@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909075",
+    "candidate_name": "S. Umathevi",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "185, Tirupattur",
+    "pan": "AFLPV5971Q",
+    "phone": "9710642706",
+    "email": "ஏதுமில்லை / nil",
+    "address": "6, U.So. Street, Palayur, Pallathur, Tirupattur Taluk, Sivaganga District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., Tamil, Alagappa Arts College, Karaikudi, 2006",
+    "profession": "Homemaker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8400765.0,
+    "total_liabilities_xls": 1875000.0,
+    "net_worth_xls": 6525765.0,
+    "cash_xls": 60000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

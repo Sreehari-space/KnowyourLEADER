@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924193",
+    "candidate_name": "பூ.பேபி",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "சுயேட்சை",
+    "constituency": "136 கிருஷ்ணராயபுரம் சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "HYWPP0592P",
+    "phone": "9344188492",
+    "email": "pbaby2958@gmail.com",
+    "address": "எண்.3-14, ஆதிதிராவிடர் தெரு, மேலப்பாளையம் அஞ்சல், கிருஷ்ணராயபுரம் வட்டம், கரூர் மாவட்டம் - 639114",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9 ம் வகுப்பு - அரசு பெண்கள் மேல்நிலைப்பள்ளி, தேர்வீதி, கரூர் - முடித்த ஆண்டு 1998",
+    "profession": "கூலி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1575000.0,
+    "total_liabilities_xls": 300000.0,
+    "net_worth_xls": 1275000.0,
+    "cash_xls": 55000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

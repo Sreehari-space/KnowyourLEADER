@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924173",
+    "candidate_name": "Raja",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "சுயேட்சை",
+    "constituency": "179-விராலிமலை சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "BGXPR3002B",
+    "phone": "7010744717",
+    "email": "www.rajarocker55@gmail.com",
+    "address": "100, செம்பருத்தி தெரு, சமத்துவபுரம், வடுகப்பட்டி, விராலிமலை அஞ்சல் & தாலுகா, புதுக்கோட்டை மாவட்டம் 621316",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "DCE Government Polytechnic Trichy-22, 2012, BE – Indra Ganesan College of Engineering Trichy -12, 2017",
+    "profession": "பொறியாளர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3118308.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 3118308.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

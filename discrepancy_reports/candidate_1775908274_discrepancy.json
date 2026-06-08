@@ -1,0 +1,530 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908274",
+    "candidate_name": "A.Logirajan",
+    "candidate_name_json": "LOGIRAJAN.A",
+    "age": "66",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "Andipatti Assembly Constituency",
+    "pan": "AAPPL9212Q",
+    "phone": "9842152159",
+    "email": "alogirajan@gmail.com",
+    "address": "Door No. 86, Muthanampatti, Kovilpatti Panchayat, Andipatti Post, Andipatti Taluk, Theni District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "6th Standard, Government Higher Secondary School, Rengasamudram. Completed in 1971.",
+    "profession": "Agriculture, Transport Business, Investment Income"
+  },
+  "financial_summary": {
+    "total_assets_xls": 448608916.35,
+    "total_liabilities_xls": 89890243.0,
+    "net_worth_xls": 358718673.35,
+    "cash_xls": 12000000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,00,000 10 Lacs+",
+        "spouse": "2,00,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "1,00,000 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "City Union Bank, Theni Branch. A/c.No: Amount 3,929.87 3 Thou+ City Union Bank Ltd Then A/c No Amount 9,692.96 9 Thou+ City Union Bank, Madurai Main Branch A/c.No: Amount 0.27 State Bank India, Andipatti Branch A/c.No: Amount Rs. 1,02,433 1 Lacs+ State Bank India, Periyakulam Branch A/c.No: 11,425 11 Thou+ State Bank India, Andipatti Branch A/c.No: 20,163.74 20 Thou+ Election Account City Union Bank Ltd Aundipatti Branch A/c No 9,788 9 Thou+ Amount in deposits 1) City Union Bank, Theni Branch A/c.No 23,093 23 Thou+ Amount in deposits City Union Bank, Madurai Main Branch A/c.No: 1,10,59,971 1 Crore+ Amount in deposits City Union Bank, Madurai Main Branch A/c.No: 3,66,304 3 Lacs+ Amount in deposits City Union Bank, Madurai Main Branch A/c.No: 6,11,524 6 Lacs+ Amount in deposits City Union Bank, Madurai Main Branch A/c.No: 33,467 33 Thou+ City Union Bank. Madurai Main Branch A/c.No: 22,309 22 Thou+ City Union Bank, Madurai Main Branch A/c.No: 5,73,773 5 Lacs+",
+        "spouse": "City Union Bank, Theni Branch A/c No: 74,614.51 74 Thou+ Indian Bank, Nagamalai Pudukottai Branch A/c No: 29,26,700 29 Lacs+",
+        "huf": "Nil",
+        "dependent1": "City Union Bank, Theni Branch A/c No: 19,128.05 19 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "City Union Bank Ltd Nos Shares: 4058 One Share Value: 234.00 Total Nos.Share Value: Update: 30-03- 2026 9,49,572 9 Lacs+",
+        "spouse": "60% shareholder in ALR CONSTRUCTION company. Total value 21,32,62,908 21 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Ashok Leyland Bus Month & Year 3/2015. Tn60aa3447 6,00,000 6 Lacs+ Ashok Leyland Bus Month & Year 3/2015 Tn60aa3445 6,00,000 6 Lacs+ Hindustan Motor Ltd Pajiro Car Month & Year 1/2009. Tn60p6566 4,00,000 4 Lacs+ Ashok Leyland Bus Month & Year 5/2005 Tn60c2898 1,00,000 1 Lacs+ Plant & Machinery, Vechile Value Amount 4,19,63,028 4 Crore+ Ashok Leyland Bus Month & Year 4/2016. Tn60aa3479 Value Amount: 6,00,000 6 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "10 Pound 1,02,00,000 1 Crore+",
+        "spouse": "600 Pound 6,06,00,000 6 Crore+",
+        "huf": "Nil",
+        "dependent1": "150 Pound 1,53,00,000 1 Crore+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "1) Andipatti Village Sq.No.2428 Total area 0.30 acre. 2) Shanmugasundarapuram Village Sq.No. 742/3 Total area 2.72 acre. 3) Shanmugasundarapuram Village Sq.No. 556/1, 557/3, 548/1A, Total area 5.10½ acre. 4) Kovilpatti Village Sq.No.1373/4, 1393/3, Total area 4.46 acre. 5) Kovilpatti Village Sq.No. 1393/3 Total area 3.00 acre. 6) Shanmugasundarapuram Village Sq.No.458/2B, Total area 2.68 acre. 7) Shanmugasundarapuram Village S.No.514/1 Total area 0.50 acres. Thani Dletriet 8) Shanmugasundarapuram Village S.No. 514/1, Total area 2.20 acres. 9) Shanmugasundarapuram Village S.No.510/2, 511 Total area 2.19 acres. 10) Shanmugasundarapuram Village S.No.510/1, 511 Total area 2.89 acres. 11) Shanmugasundarapuram Village S.No. 445/1 Total area 1.22 acres. 12) Shanmugasundarapuram Village S.No 451/1 total area 0.72 acre 13) Shanmugasundarapuram Village Sq.No. 3855/1, Total Area 1.08 Acre 14) Shanmugasundarapuram Village Sq.No. 445/2. Total Area 1.44 Acre. 15) Shanmugasundarapuram Village Sq.No. 445/2. Total Area 1.31 Acre. 16) Shanmugasundarapuram Village Sq.No. 460/2. Total Area 3.21 Acre. 17) Shanmugasundarapuram Village Sq.No. 444/1, Total Area 3.61 Acre. 18) Shanmugasundarapuram Village Sq.No. 444/4, Total Area 2.62 Acre . 19) Shanmugasundarapuram Village Sq.No. 464/1, 487/3 20) Shanmugasundarapuram Village Sq.No. 443/1, Total Area 0.82 Acre. 21) Shanmugasundarapuram Village Sq.No. 385/1, Total Area 1.16 Acre 22) Shanmugasundarapuram Village Sq.No. 512. Total Area 4.66 Acre 23) Shanmugasundarapuram Village Sq.No. 446/3 Total Area 1.20 Acre 24) Shanmugasundarapuram Village Sq.No. 462/2A, Total Area) 1.46 Acre. 25) Shanmugasundarapuram Village Sq.No. 461/1, 462/4A. Total Area 1.31 Acre 2 25) Shanmugasundarapuram Village Sq.No. 461/1, 462/4A. Total area 1.31 acres 26) Shanmugasundarapuram Village Sq.No. 542/1, 542/2, 542/3 543/2, 546/2, 543/1 Total area 7.88 acres. 27) Shanmugasundarapuram Village Sq.No. 541 Total area 10.07 acres. 28) Shanmugasundarapuram Village Sq.No. 549/1A 464/2B1, 464/2B2, 464/2B3 Total area 2.97 acres 29) Shanmugasundarapuram) Village Sq.No. 461/3, 461/4, 462/4B, 462/4C Total area 9.16 acres. 30) Shanmugasundarapuram Village Sq.No. 487/1 Total area 192 acres. 31) Shanmugasundarapuram Village Sq.No. 459/3 Total area 3.35 acres. 32) Shanmugasundarapuram Village Sq.No. 1374, 1504/1 Total area 3.35 acres. 33) Shanmugasundarapuram Village Sq.No. 542/2B Total area 1.57 acres. 34) Shanmugasundarapuram Village Sq.No. 513/3, 513/4, 513/5 Total area 1.26 acres 35) Kovilpatti Village Sq.No. 1380/3F, 1380/5E Total area 2.64 acres. 36) Kovilpatti Village Sq.No.1771/A Total area 1.93 acres. 37) Kovilpatti Village) Sq.No. 1392/3A1, 1392/3A2 Total area 2.48 acres. 38) Kovilpatti Village Sq.No. 1375/2A1B, 1375/2A2, 1375/2B2, 1375/C1 Total area 0.20 acres. 39) Kovilpatti Village Sq.No.1384/2C Total area 1.06 acres. 40) 35) Kovilpatti Village Sq.No. 1394 Total area 0.44 acres 41) Kovilpatti Village Sq.No. 1394 Total area 0.22 acres. 42) Kovilpatti Village Sq.No. 1384/1D/2 Total area 0.72 acres. 43) Gudalur Village Sq.No. 941, 942/2, 942/3 Total area 3 acres. 44) Gudalur Village Sq.No. 941, 942/2, 942/3 Total area 1.50 acres. 45) Kovilpatti Village Sq.No.) 279/1B. Total area 0.47 acres 46) Kovilpatti Village Sq.No. 279/2B1 Total area 0.16 acres 47) Shanmugasundarapuram Village Sq.No. 271/2 Total area 2.20 acres 48) Baruai Village Sq.No. 83/1,83/2,79/1,79/2A,79/2B,79/3- Total area 4.92 acres 49) Baruai Village Sq.No. 83/1,83/2,83/3,80/2 Total area 6.18 acres 50) Baruai Village Sq.No. 85/1,86/1B.87/2 1,87/3 Total area 5.62 acres 51) Baruai Village Sq.No. 87/19,81/1 Total area 4.51 acres 52) Baruai Village Sq.No. 84/1,85/2,86/2,84/2 /84/2 Total area 6.785 acres 53) Baruai Village Sq.No. 86/4.86/5 Total area 1.47 acres 54) Baruai Village Sq.No. 80/1,87/1B,87/1C Total area 5.70 acres Date of Purchase: 1) 12.11.1992 2) 15.06.1994 3) 29.06.1994 4) 05.04.1995 5) 05.04.1995 6) 10.04.1995 7) 10.04.1995 8) 17.04.1995 9) 17.04.1995 10) 17.04.1995 11)17.04.1995 12) 19.04.1995 13)19.04.1995 14)21.04.1995 15)21.04.1995 16)21.04.1995 17)24.04.1995 18)26.04.1995 19)08.05.1995 20)08.05.1995 21)08.05.1995 22)19.05.1995 23) 19.05.1995 24) 19.05.1995 25)01.06.1995 26)27.01.1995 27)27.09.1995 28)28.09.1995 29) 28.09.1995 30)29.09.1995 31)29.09.1995 32)24.01.1996 33)05.02.1996 34)08.02.1996 35)24.11.2004 36) 13.12.2004 37)17.10.2005 38) 18.06.2007 39)25.06.2007 40)17.03.2008 41)05.09.2009 42)06.04.2011 43)11.09.2009 44) 11.09.2009 45)20.10.2020 46)20.10.2020 47)01.02.2024 48)16.07.2022 49) 19.07.2022 50)11.08.2022 51)22.08.2022 52)22.08.2022 53) 10.12.2022 54)16.07.2022 Cost of Purchase: 1 83,710.00 2) 16,320.00 3) 35,735.00 4) 45,000.00 5) 25,000.00 6) 24,120.00 7) 3.250.00 8) 10,000.00 9) 15,000.00 10) 15,000.00 11) 5,000.00 12) 2.500.00 13) 5,000.00 14) 6000.00 15) 5,000.00 16 15.000.00 17 15,000.00 18) 12.000.00 19) 4.500.00 20) 2.500.00 21) 3.500.00 22) 15.000.00 23) 3.500.00 24) 6,000.00 25) 3.500.00 26) 22.000.00 27) 38.361.00 28) 15,000.00 29) 30,000.00 30) 7,000.00 31) 15,000.00 32) 3,2000.00 33) 4,000.00 34) 7,560.00 35) 1,19,600.00 36) 1,54,208.00 37) 19,000.00 38) 26.483.00 39) 63.850.00 40) 5,670.00 41) 5.770.00 42) 36.216.00 43) 9,00,000.00 44) 4.50.000.00 45) 20,250.00 46) 5,250.00 47) 13,30,000. 48) 3499996 49) 4430876 50) 4029620 51) 3234610 52) 6012342 53) 1055040 54) 4093960 Total Area 147.01 acre Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 30140909.00 Development Cost 0.00 4,60,90,000 4 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Andipatti Village Sq. No. 499/2B1, Total Area 7878 Sq. ft. House Plot. 2. Veerapandi Village Sq. No. 24/3B, 24/2A, 24/4, 22/7B Total Area 1.50 Acre. 3. Thiruppalai Village Sq. No. 140/8 Total Area 0.30 Acre Date of Purchase: 1) 13.07.2009 2) 21.02.2012 3) 02.01.1995 Cost of purchase: 1) Rs. 3,40000 2) Rs. 41820 3) Rs. 90000 Total Area 86248.8 square feet Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,06,00,820 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "1) Kovilpatti Village Sq.No. 1501/2A, 2) Kovilpatti Village Sq.No. 1501/2A2. 3) Coimbatore Survey No. 887/2 1) Area 0.82 acres. 2) Area 686.74 sq. ft. . 3) Area 0.14 House Date of Purchase: 1) 21.03.2005 2) 31.08.2012 3) 17.12.1992 Cost of Purchase: 1) Rs.1,78760.00 2) Rs. 1,65810.00 Land has been purchased and a house has been built. 3. Rs. 16,17800.00 Total Area 35752 sq ft Built Up Area 20000 square feet house Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 40000000.00 55,93,400 55 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "City Union Bank, Madurai Main Branch Ac no 3,40,49,400 3 Crore+ City Union Bank, Theni Branch Non Agri Jewel Loan. 43,37,592 43 Lacs+ City Union Bank, Theni Branch Non Agri Jewel Loan. Rs.38,33,220.00 38,33,220 38 Lacs+",
+      "spouse": "City Union Bank, Theni Branch Non Agri Jewel Loan. 18,18,689 18 Lacs+ City Union Bank, Theni Branch Non Agri Jewel Loan. 26,22,730 26 Lacs+ City Union Bank, Theni Branch Non Agri Jewel Loan. 23,20,107 23 Lacs+",
+      "huf": "Nil",
+      "dependent1": "City Union Bank, Theni Branch Non-Agri Jewel Loan. 15,62,612 15 Lacs+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "2017-18 2,20,93,526 2 Crore+ 2018-19 1,17,58,493 1 Crore+ 2019-20 51,60,019 51 Lacs+ 2020-21 10,64,237 10 Lacs+ 2021-22 9,02,230 9 Lacs+ 2023-24 20,000 20 Thou+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 1,08,36,810 | 2023 - 2024: Rs 84,45,070 | 2022 - 2023: Rs 48,69,070 | 2021 - 2022: Rs 55,79,060 | 2020 - 2021: Rs 94,32,580"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 67,79,430 | 2023 - 2024: Rs 35,76,310"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (17 case(s))",
+    "case_numbers_xls": "Cr.No. 2/2001; Cr.No. 3/1995; Cr.No. 49/2021; Cr.No. 88/2019; Cr.No. 104/2021; Cr.No. 61/2019; Cr.No. 154/2025; Cr.No. 523/2024; Cr.No 145/2021; Cr.No. 144/2021; Cr.No. 490/2019; Cr.No. 144/2019; Spl. C.C.22/2014; Sp.C.C. 6/2014; STC No. 25/2024; RCS No. 796/2025; RCS No. 703/2025",
+    "criminal_cases_json": {
+      "count": "12",
+      "summary": "Number of Criminal Cases:12",
+      "ipc_charges": [
+        "4 charges related to Punishment for bribery (IPC Section-171E)",
+        "2 charges related to Criminal breach of trust by public servant, or by banker, merchant or agent (IPC Section-409)",
+        "2 charges related to Punishment for undue influence or personation at an election (IPC Section-171F)",
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Falsification of accounts (IPC Section-477A)",
+        "1 charges related to Punishment for criminal breach of trust (IPC Section-406)",
+        "6 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "3 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Public servant farming an incorrect document with intent to cause injury (IPC Section-167)",
+        "2 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Unlawful assembly (IPC Section-141)",
+        "1 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Obstructing public servant in discharge of public functions (IPC Section-186)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)",
+        "1 charges related to Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture (IPC Section-218)",
+        "1 charges related to Negligent conduct with respect to explosive substance (IPC Section-286)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr.No. 2/2001 Tirunelveli Police Station Tirunelveli District",
+          "case_no": "Spl. C.C.22/2014",
+          "court": "Anti-Corruption Court, Tirunelveli Tirunelveli District",
+          "law_type": "IPC",
+          "ipc_sections": "120b, 420, 409, 167, 218, 477a, 406, 109",
+          "other_details": "Section 13(2), 13(1) and13(1)(d) Prevention of Corruption Act 1988",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Cr.No. 3/1995 Thoothukudi Police Station Thoothukudi District",
+          "case_no": "Sp.C.C. 6/2014",
+          "court": "Anti corruption Court, Tirunelveli Tirunelveli",
+          "law_type": "IPC",
+          "ipc_sections": "167, 409, 109",
+          "other_details": "Section-13(2) r/w 13(1) Prevention of Corruption Act 1988",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Cr.No. 49/2021 Rajadhani Police Station Theni District",
+          "case_no": "STC No. 25/2024",
+          "court": "JM Court Andipatti Theni District",
+          "law_type": "IPC",
+          "ipc_sections": "143, 171E",
+          "other_details": "Section 50, 177, 179 MV Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Cr.No. 88/2019 Gudalur North Police Station Theni District",
+          "case_no": "RCS No. 796/2025",
+          "court": "CJM Court, Theni District",
+          "law_type": "IPC",
+          "ipc_sections": "143, 171F, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Cr.No. 104/2021 Gudalur South Police Station Theni District",
+          "case_no": "RCS No. 703 /2025",
+          "court": "CJM Court, Theni Theni District",
+          "law_type": "IPC",
+          "ipc_sections": "143, 171E, 186",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Cr.No. 61/2019Gudalur South Police Station Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 171F, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Cr.No. 154/2025 Theni Police Station Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2), 356",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Cr.No. 523/2024 Theni Police Station Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "126(2), 189(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "Cr.No 145/2021 Andipatti Police Station Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "171E",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "Cr.No. 144/2021 Andipatti Police Station Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 171E, 269",
+          "other_details": "Section 126/2 Rep People Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "11",
+          "fir_no": "Cr.No. 490/2019 Andipatti Police Station Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 141",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "12",
+          "fir_no": "Cr.No. 144/2019 Andipatti Police Station Theni District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "148, 286, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 46,40,28,046 ~46 Crore+",
+    "Liabilities:": "Rs 9,15,42,855 ~9 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹305,070,144, but 5-year family income is only ₹49,518,330. Unexplained wealth discrepancy of ₹255,551,814."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹15,419,128 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹364,594,371) does not match declared total assets (₹464,028,046). Difference: ₹99,433,675"
+    }
+  ]
+}

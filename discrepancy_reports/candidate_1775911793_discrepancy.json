@@ -1,0 +1,414 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911793",
+    "candidate_name": "A.M. Shajahan",
+    "candidate_name_json": "A.M. SHAHJAHAN",
+    "age": "57",
+    "party": "Indian Union Muslim League",
+    "constituency": "170, Thiruvidaimarudur Assembly Constituency, Tamil Nadu",
+    "pan": "BZQPS7455D",
+    "phone": "9894894999, 9965904553",
+    "email": "shahjahan.am@gmail.com",
+    "address": "25, South Seniyath Street, Aduthurai Post, Thiruvidaimarudur Taluk - 612 107, Thanjavur District.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Sc., (NOVEMBER 1993) Jamal Mohamed College, Trichy. Bharathidasan University, Trichy.",
+    "profession": "Individual - Social service, Secretary, Assalam Trust, Thirumangalakkudi Post, Thiruvidaimarudur Taluk, Thanjavur District, Institution Secretary. Spouse - 10th Ward Panchayat member, Aduthurai Panchayat."
+  },
+  "financial_summary": {
+    "total_assets_xls": 103998430.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 103998430.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "3,00,000 3 Lacs+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "10,000 10 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "CUB, Aduthurai, SB 1,09,446 1 Lacs+ SBI, Thiruvidaimarudur, SB 8,000 8 Thou+ UB, Aduthurai, SB 8,896 8 Thou+ IB, Kumbakonam, SB 9,005 9 Thou+ Canara Bank, Aduthurai Branch, SB 39,096 39 Thou+ IOB, Election Account, Chakkarapalli, SB 20,000 20 Thou+",
+        "spouse": "Canara Bank, Aduthurai, SB 10,663 10 Thou+ IB, Aduthurai, SB 6,175 6 Thou+ CUB, Aduthurai, SB 50,581 50 Thou+ UB, Aduthurai, SB 5,268 5 Thou+ IOB, Avaniapuram, SB 15,000 15 Thou+",
+        "huf": "Nil",
+        "dependent1": "CUB, Aduthurai, SB 5,000 5 Thou+ UB, Aduthurai, SB 3,000 3 Thou+ Axis Bank, Aduthurai, SB 2,000 2 Thou+",
+        "dependent2": "UB, Aduthurai Branch, SB 2,700 2 Thou+ CUB, Aduthurai, SB 3,000 3 Thou+",
+        "dependent3": "IOB, Avaniapuram Branch, SB 1,000 1 Thou+",
+        "dependent4": "IOB, Avaniapuram Branch, SB 2,700 2 Thou+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "AL-MALIK Unity Township Developers - LLP Investment 2,00,000 2 Lacs+ AL-BARAKAH Unity Township Developers - LLP Investment 2,50,000 2 Lacs+ AL-FATTAH Township Developers - LLP Investment 2,50,000 2 Lacs+ Unity Developers 1,00,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Mahindra XUV 500 RF TN68 U9000, 2017 12,00,000 12 Lacs+",
+        "spouse": "Honda Motor Cycle & SCT India, TN68 X5010, 2018 1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Royal Enfield Classic 350, TN68 AM4646, 2024 2,00,000 2 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "188 Grams of Gold 26,50,800 26 Lacs+",
+        "spouse": "1955 Grams of Old Gold 2,75,65,500 2 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "80 Grams of Gold 11,28,000 11 Lacs+"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Thanjavur District, Thiruvidaimarudur Taluk, Aduthurai Municipality Medical Village 1, Aduthurai Small Village, Seniya Theru, S. No. 120/1, New S. No. 425/3 Total Area 4800 Sqft Built Up Area 2795 Sqft Whether Inherited N Purchase Date 2014-10-08 Purchase Cost 6000000.00 Development Cost 6000000.00 1,60,00,000 1 Crore+",
+        "spouse": "Thiruvarur District, Nannilam Taluk, Kollapuram Panchayat, Maraikayar Theru, Old S. No. 92/1A1, New S.No. 92/1A1A1 Total Area 1680 Sqft Built Up Area 1300 Sqft Whether Inherited N Purchase Date 2025-12-30 Purchase Cost 4800000.00 Development Cost 100000.00 50,00,000 50 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil",
+        "dependent4": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil",
+      "dependent4": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 5,31,730 | 2023 - 2024: Rs 4,60,150 | 2022 - 2023: Rs 4,31,140 | 2021 - 2022: Rs 4,19,100 | 2020 - 2021: Rs 4,10,920"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent4",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "1394/2020; 183/2015",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "1 charges related to Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony (IPC Section-153A)",
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "1 charges related to Malignant act likely to spread infection of disease dangerous to life (IPC Section-270)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Assault or criminal force with intent to dishonour person, otherwise than on grave provocation (IPC Section-355)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "1394/2020 - Kumbakonam East Police station, Thanjavur District",
+          "case_no": "Referred",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 269, 270",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "183/2015 - Thiruneelakudi Police Station, Thanjavur District",
+          "case_no": "CC No. 51/2025",
+          "court": "Civil and Criminal Magistrate Court Thiruvidaimarudur.",
+          "law_type": "IPC",
+          "ipc_sections": "147, 153A, 323, 341, 355, 506(i)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "08 Oct 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 5,53,55,830 ~5 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹53,455,109, but 5-year family income is only ₹2,253,040. Unexplained wealth discrepancy of ₹51,202,069."
+    },
+    {
+      "flag_id": "F3",
+      "severity": "CRITICAL",
+      "title": "Disproportionate Recent Property Purchases",
+      "description": "Properties purchased since 2020 cost ₹4,800,000, far exceeding the 5-yr total family income of ₹2,253,040."
+    }
+  ]
+}

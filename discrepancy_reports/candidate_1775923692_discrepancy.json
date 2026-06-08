@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923692",
+    "candidate_name": "Vil Krishnan Raji",
+    "candidate_name_json": null,
+    "age": "66",
+    "party": "Independent",
+    "constituency": "58, Pennagaram",
+    "pan": "BJBPV8662A",
+    "phone": "9786980395",
+    "email": "NIL",
+    "address": "259-(A), Nimmanakarai Village, Mallikuttai Post, Karimangalam Taluk, Dharmapuri District - 635205",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "Agricultural Laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4253000.0,
+    "total_liabilities_xls": 60000.0,
+    "net_worth_xls": 4193000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "குற்ற எண் 14 / 2020, தீவட்டிப்பட்டி காவல் நிலையம், சேலம் மாவட்டம். U/s 188, 120(b), 121(A) IPC and U/s 10,13,15,18 of the Unlawful activities (Prevention) Act 1967 / Crime No 14 / 2020, Theevattipatti Police Station, Salem District. U/s 188, 120(b), 121(A) IPC and U/s 10,13,15,18 of the Unlawful activities (Prevention) Act 1967",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

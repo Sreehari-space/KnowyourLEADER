@@ -1,0 +1,474 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913281",
+    "candidate_name": "Maharajan M",
+    "candidate_name_json": "MAHARAJAN. M",
+    "age": "37",
+    "party": "Puthiya Makkal Tamil Desam Katchi",
+    "constituency": "215 Tiruchendur Assembly Constituency Tamil Nadu",
+    "pan": "DIWPM2333H",
+    "phone": "9578826284",
+    "email": "maha.maharajan1989@gmail.com",
+    "address": "58, Muthulakshmipuram, Meignanapuram, Tiruchendur Taluk, Thoothukudi District 628 210, Tamil Nadu.",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th standard, (discontinued) Ambrose Higher Secondary School, Meignanapuram, year of completion - 2008-2009",
+    "profession": "Timber shop business (Sendur Timber & Depot GST No.33DIWPM2333H1Z2)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7737000.0,
+    "total_liabilities_xls": 1243000.0,
+    "net_worth_xls": 6494000.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "2,00,000 2 Lacs+",
+        "spouse": "30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "The Karur Vysya Bank Ltd Tirchendur 12,000 12 Thou+ Union Bank of India Tirchendur 2,000 2 Thou+ SBI, Tiruchendur 1,000 1 Thou+",
+        "spouse": "Bharth State Bank 30,000 30 Thou+ The Karur Vysya Bank 22,000 22 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Mahindra XUV 500 TN 39 BS 7983 7,00,000 7 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "240 gm Gold 31,20,000 31 Lacs+",
+        "spouse": "240 gm Gold 31,20,000 31 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Udangudi Village , Kulasekarapattinam Thoothukudi District Sy No. 69/1B Total Area 2852 sq.ft Built Up Area 300 sq.ft Whether Inherited N Purchase Date 2026-02-10 Purchase Cost 460000.00 Development Cost 0.00 5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Karur Vysya Bank (Jewel Loan) 86,000 86 Thou+ Karur Vysya Bank (Jewel Loan) 7,44,000 7 Lacs+ Karur Vysya Bank (Jewel Loan) 2,04,000 2 Lacs+ Karur Vysya Bank (Jewel Loan) 39,000 39 Thou+",
+      "spouse": "Karur Vysya Bank (Jewel Loan) 55,000 55 Thou+ Karur Vysya Bank (Jewel Loan) 48,000 48 Thou+ Karur Vysya Bank (Jewel Loan) 67,000 67 Thou+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (10 case(s))",
+    "case_numbers_xls": "Cr. No. 165/2018, திருச்செந்தூர் கோவில் காவல் நிலையம், திருச்செந்தூர் பேருந்து நிலையம் அருகில், தூத்துக்குடி மாவட்டம். U/S 147,148, 427, 448 IPC, 506(II). குற்றம்: சொத்து தகராறு / Cr. No. 165/2018, Tiruchendur Temple Police Station, near Tiruchendur Bus Stand, Thoothukudi District. U/S 147,148, 427, 448 IPC, 506(II). Offense: Property dispute.; Cr. No.151/2023 குலசேகரப்பட்டிணம் காவல் நிலையம் தூத்துக்குடி மாவட்டம். U/S143, 341 IPC. குற்றம்: சாலைமறியல் / Cr. No.151/2023 Kulasekarapattinam Police Station, Thoothukudi District. U/S143, 341 IPC. Offense: Road blockade.; Cr. No.27/2022 திருச்செந்தூர் தாலுகா காவல் நிலையம் தூத்துக்குடி மாவட்டம். U/S 151 CRPC. குற்றம்: முன் எச்சரிக்கை நடவடிக்கை / Cr. No.27/2022 Tiruchendur Taluk Police Station, Thoothukudi District. U/S 151 CRPC. Offense: Precautionary measure.; Cr. No.298/2021 முன்னீர்பள்ளம் காவல் நிலையம் திருநெல்வேலி மாவட்டம். U/S 294 (B) 420, 506 (I) T IPC 4 TNPHW Act PT. குற்றம்: பணப் மோசடி / Cr. No.298/2021 Munnirpallam Police Station, Tirunelveli District. U/S 294 (B) 420, 506 (I) T IPC 4 TNPHW Act PT. Offense: Money fraud.; Cr. No.23/2020, வீரவநல்லூர் காவல் நிலையம், திருநெல்வேலி மாவட்டம். U/S 143, 283, 341 IPC. குற்றம்: சாலைமறியல் / Cr. No.23/2020, Veeravanallur Police Station, Tirunelveli District. U/S 143, 283, 341 IPC. Offense: Road blockade.; Cr. No.357/2022 பாளையங்கோட்டை காவல்நிலையம், திருநெல்வேலி மாவட்டம். U/S 143, 283 IPC UI. குற்றம்: சாலைமறியல் / Cr. No.357/2022 Palayamkottai Police Station, Tirunelveli District. U/S 143, 283 IPC UI. Offense: Road blockade.; Cr. No.72/2020, பாளையங்கோட்டை காவல்நிலையம் திருநெல்வேலி மாவட்டம். U/S 143, 353, IPC. குற்றம்: சாலைமறியல் / Cr. No.72/2020, Palayamkottai Police Station, Tirunelveli District. U/S 143, 353, IPC. Offense: Road blockade.; Cr. No.18/2024, ஆயில்பட்டி காவல்நிலையம், ராசிபுரம் தாலுகா, நாமக்கல் மாவட்டம். CC No. 111/25 Judicial Magistrate Court ராசிபுரம், நாமக்கல் மவாட்டம். U/S 109, 120(b), 457, 511. குற்றம்: சொத்து சேதாரம் மற்றும் திருட்டு முயற்சி / Cr. No.18/2024, Ayilpatti Police Station, Rasipuram Taluk, Namakkal District. CC No. 111/25 Judicial Magistrate Court Rasipuram, Namakkal District. U/S 109, 120(b), 457, 511. Offense: Property damage and theft attempt.; Cr. No.25/2024 அனைத்து மகளிர் காவல் நிலையம் பாளையங்கோட்டை. Reg. No.146/2025 Special Court Pocso Court, திருநெல்வேலி. 5(1)6 Pocso Act 323 IPC. குற்றம்: பாலியல் குற்றம் / Cr. No.25/2024 All Women Police Station Palayamkottai. Reg. No.146/2025 Special Court Pocso Court, Tirunelveli. 5(1)6 Pocso Act 323 IPC. Offense: Sexual offense.; 367/2022, பெருமாள்புரம் காவல்நிலையம், பாளையங்கோட்டை, திருநெல்வேலி மாவட்டம். 25(1)(a) arms. குற்றம்: ஆயுதம் வைத்திருத்தல் / 367/2022, Perumalpuram Police Station, Palayamkottai, Tirunelveli District. 25(1)(a) arms. Offense: Possession of weapons.",
+    "criminal_cases_json": {
+      "count": "10",
+      "summary": "Number of Criminal Cases:10",
+      "ipc_charges": [
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Lurking house trespass or house-breaking by night in order to commit offence punishable with imprisonment (IPC Section-457)",
+        "1 charges related to Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment (IPC Section-511)",
+        "4 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)",
+        "1 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Punishment for house-trespass (IPC Section-448)",
+        "1 charges related to Mischief causing damage to the amount of fifty rupees (IPC Section-427)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr. No. 165/2018 Tirchendur Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 427,448, 506(II)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Cr. No. 151/2023 Kulasekarapattinam Police Thoothukudi District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Cr. No. 27/2022 Tirchendur Police Station Thoothukudi District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section-151 CRPC",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Cr. No. 298/2021 Munneerpallam Police Station Tirunelveli District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "294B, 420, 506(I)",
+          "other_details": "Section-4 TNPHW Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Cr. No. 23/2020 Veeravanallur Police Station, Tirunelveli District,",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Cr. No. 357/2022 Palayankottai Police Station , Tirunelveli District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Cr. No. 72/2020 Palayankottai Police Station , Tirunelveli District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 353",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Cr. No. 18/2024 Oilptti Police Station , Rasipuram Taluk, Namakkal District",
+          "case_no": "CC No. 111/25",
+          "court": "Judicial Magistrate Court, Rasipuram Namakkal Distric",
+          "law_type": "IPC",
+          "ipc_sections": "109, 120B, 457, 511",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "24 Mar 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "Cr. No. 25/2024 All Women Police Station Palayankooati Tirunelveli",
+          "case_no": "Reg.No -146/2025",
+          "court": "Special Court , Pocso Court, Tirunalvelli",
+          "law_type": "IPC",
+          "ipc_sections": "323",
+          "other_details": "Section-5(1)6 Pocso Act",
+          "charges_framed": "Yes",
+          "charges_date": "03 Jun 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "367/2022 Permalpiuram Police Station , Palayankottai, Tirunelveli District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section-25(1)(a) Arms Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 77,37,000 ~77 Lacs+",
+    "Liabilities:": "Rs 12,43,000 ~12 Lacs+"
+  },
+  "discrepancies": []
+}

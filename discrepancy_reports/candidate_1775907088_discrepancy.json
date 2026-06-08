@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907088",
+    "candidate_name": "B. Pradap",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Desiya Murpokku Dravida Kazhagam",
+    "constituency": "40-Katpadi, Tamil Nadu",
+    "pan": "BNDPP3169C",
+    "phone": "9787935003",
+    "email": "katpadikbpradap@gmail.com",
+    "address": "4, Ambedkar Kilai Street, Kazhinjur, Katpadi Taluk, Vellore District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.B.A (Completed June 2013) – Annamalai University",
+    "profession": "Small Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10363096.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 10363096.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "Sathuvachari Police Station, Crime No. 69/2021 (Sections 143, 151, 186 of IPC - Party related protest); Pallikonda Police Station, Crime No. 260/2023 (Sections 143, 341 of IPC - Party related protest)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

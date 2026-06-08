@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906419",
+    "candidate_name": "Pa. Sathya",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "227 Nanguneri Assembly Constituency, Tamil Nadu",
+    "pan": "DZLPS9565P",
+    "phone": "7708487348",
+    "email": "sathyaselvakumar1977@gmail.com",
+    "address": "Door No. 43, Selvalakshmi Nagar, Krishnapuram, Maharaj Nagar Post, Palayamkottai Taluk, Tirunelveli District 627 011",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard - St. Ignatius Higher Secondary School, Palayamkottai, completed April 1993; 12th Standard - Child Jesus Higher Secondary School, Palayamkottai, completed March 1996; B.Sc., Chemistry, Manonmaniam Sundaranar University, Tirunelveli, completed April 1999.",
+    "profession": "Housewife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15088273.29,
+    "total_liabilities_xls": 3510000.0,
+    "net_worth_xls": 11578273.29,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Convicted (1 case(s))",
+    "case_numbers_xls": "FIR No.0205/2024, பாளையங்கோட்டை காவல்நிலையம், திருநெல்வேலி மாநகரம் / FIR No.0205/2024, Palayamkottai Police Station, Tirunelveli City; FIR No.0402/2024, திருநெல்வேலி சந்திப்பு காவல்நிலையம், திருநெல்வேலி மாநகரம் / FIR No.0402/2024, Tirunelveli Junction Police Station, Tirunelveli City; FIR No.0291/2025, திருநெல்வேலி சந்திப்பு காவல்நிலையம், திருநெல்வேலி மாநகரம் / FIR No.0291/2025, Tirunelveli Junction Police Station, Tirunelveli City; STC/297-2022 (ஏர்வாடி காவல்நிலைய குற்ற எண்.286/2020) U/s: 143, 270, 283 IPC / STC/297-2022 (Erwadi Police Station Crime No. 286/2020) U/s: 143, 270, 283 IPC",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

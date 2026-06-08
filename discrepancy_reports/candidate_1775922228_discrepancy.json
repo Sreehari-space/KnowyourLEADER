@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922228",
+    "candidate_name": "சு.சிருப்பதி",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "சுயேட்சை",
+    "constituency": "50 திருப்பத்தூர், தமிழ்நாடு",
+    "pan": "AGCPT41825",
+    "phone": "9620056251",
+    "email": "sthirupathi@gmail.com",
+    "address": "மேற்கத்தியனூர் கிராமம், மட்றபள்ளி, திருப்பத்தூர் வட்டம், திருப்பத்தூர் மாவட்டம் 635652",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "#22344 ஆண்டிர் மேல்சிலமரளி திருப்பலூர்",
+    "profession": "விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1579000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1579000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

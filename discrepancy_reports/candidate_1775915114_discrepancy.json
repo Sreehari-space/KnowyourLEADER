@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915114",
+    "candidate_name": "ஆ. சுந்தரராஜு",
+    "candidate_name_json": null,
+    "age": "71",
+    "party": "அனைத்து உலக தமிழர்கள் முன்னேற்ற கழகம்",
+    "constituency": "ஆயிரம் விளக்கு தொகுதி, தமிழ்நாடு",
+    "pan": "ABCPS07361",
+    "phone": "9840554725, 8754479218",
+    "email": "sundararaju155@gmail.com",
+    "address": "1, தெற்கு கங்கையம்மன் கோயில் முதல் தெரு, சூளைமேடு, சென்னை 600 094",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc., B.L., M.A. (B.Sc. from Presidency College, Madras University (1973-1976); B.L. from Dr. Ambedkar Law College, Madras University (1994-1997); M.A. from Tamil Nadu Open University, Chennai (2014-2016))",
+    "profession": "வழக்கறிஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9550000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 9550000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

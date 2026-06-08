@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910527",
+    "candidate_name": "P. மீனா",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Puthiya Tamilagam",
+    "constituency": "138 Manapparai Assembly Constituency",
+    "pan": "HPYPM1072L",
+    "phone": "9677027557",
+    "email": "NIL",
+    "address": "62, North Thethur, Thethur, Marungapuri Taluk, Trichy District.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard, Government High School, Thethur, Trichy-621314. Year 2003",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3470000.0,
+    "total_liabilities_xls": 1300000.0,
+    "net_worth_xls": 2170000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

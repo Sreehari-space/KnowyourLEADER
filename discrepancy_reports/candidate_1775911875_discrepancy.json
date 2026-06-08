@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911875",
+    "candidate_name": "L. Nagarajan",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Tamilaga Padaippalar Makkal Katchi",
+    "constituency": "230 Nagercoil, Tamil Nadu",
+    "pan": "BDBPN6060Q",
+    "phone": "9789510856",
+    "email": "ajainagarajan6@gmail.com",
+    "address": "29B, Keezha Theru, Nagercoil-629001, Kanyakumari District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "4th Standard, Government Primary School, Nagercoil 1990-91",
+    "profession": "Individual jewellery business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2335000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2335000.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "753/2021",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

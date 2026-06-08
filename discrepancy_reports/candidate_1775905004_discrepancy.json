@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905004",
+    "candidate_name": "Ajithkumar Sivakumar",
+    "candidate_name_json": null,
+    "age": "27",
+    "party": "Bahujan Samaj Party",
+    "constituency": "Pennagaram Constituency - 58",
+    "pan": "COMPA4972F",
+    "phone": "9585891070",
+    "email": "ajithkumars152bsp@gmail.com",
+    "address": "67, Chinnakadmadai Village, Kalappampadi Post, Pennagaram Taluk, Dharmapuri District-636811",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BE LLB (Golden Law College, K.G.F., BETHAMANGALA HOBLI, KOLAR DISTRICT, KARNATAKA)",
+    "profession": "Individual Law College Student"
+  },
+  "financial_summary": {
+    "total_assets_xls": 590010.67,
+    "total_liabilities_xls": 163000.0,
+    "net_worth_xls": 427010.67,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

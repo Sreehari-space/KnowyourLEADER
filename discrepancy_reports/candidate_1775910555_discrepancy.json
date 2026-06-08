@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910555",
+    "candidate_name": "செல்வம்",
+    "candidate_name_json": null,
+    "age": "61",
+    "party": "பாட்டாளி மக்கள் கட்சி",
+    "constituency": "58, பென்னாகரம், தமிழ்நாடு",
+    "pan": "ATFPS8437D",
+    "phone": "9443261114",
+    "email": "ppadiselvampmk@gmail.com",
+    "address": "93, பாடி கிராமம் & அஞ்சல், பாலக்கோடு வட்டம், தருமபுரி மாவட்டம் - 636809, தமிழ்நாடு.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9-ம் வகுப்பு, அரசு மேல்நிலைப்பள்ளி, பாப்பாரப்பட்டி, 1981",
+    "profession": "விவசாயம், வியாபாரம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 23237386.0,
+    "total_liabilities_xls": 1160000.0,
+    "net_worth_xls": 22077386.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

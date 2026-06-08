@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907333",
+    "candidate_name": "R. Subash",
+    "candidate_name_json": null,
+    "age": "28",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "160 - Sirkazhi Constituency",
+    "pan": "HBBPS8041A",
+    "phone": "8525026432",
+    "email": "subash300797@gmail.com",
+    "address": "206, Thenmanikiramam, Manikiramam, Sirkazhi Taluk, Mayiladuthurai District, Postal Code 609 114",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Com., Poompuhar College, 2017",
+    "profession": "Daily wage"
+  },
+  "financial_summary": {
+    "total_assets_xls": 120815.0,
+    "total_liabilities_xls": 424000.0,
+    "net_worth_xls": 303185.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 310/2022, IPC 143, 145, Under Investigation, Sirkazhi Police Station",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

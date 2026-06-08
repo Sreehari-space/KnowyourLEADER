@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922962",
+    "candidate_name": "S.Jayaraj",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "Independent",
+    "constituency": "90, Salem South, Tamil Nadu",
+    "pan": "KGYPS8778H",
+    "phone": "9944211032",
+    "email": "ஏதுமில்லை / none",
+    "address": "20, Kumaran Nagar, 3rd Street, Dadagapatti, Salem 636006",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard - 1985, Belur Boys Higher Secondary School, Salem District",
+    "profession": "Carpentry work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1461000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1461000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

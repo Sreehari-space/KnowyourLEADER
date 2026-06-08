@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906182",
+    "candidate_name": "G. Malathi",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "விடுதலைச் சிறுத்தைகள் கட்சி",
+    "constituency": "188 Melur, Tamil Nadu",
+    "pan": "AVCPM6317M",
+    "phone": "9566837874, 9842818934",
+    "email": "malathikumaran2010@gmail.com",
+    "address": "50, Boothamangalam Village, Melur Taluk, Madurai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (1996), DECE (2002), B.Tech (2007), M.B.A (2010), L.L.B (2012), LLM (2016), Ph.D (2018)",
+    "profession": "Lawyer and agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 67399221.0,
+    "total_liabilities_xls": 6576971.0,
+    "net_worth_xls": 60822250.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

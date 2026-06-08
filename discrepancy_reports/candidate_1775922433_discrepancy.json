@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922433",
+    "candidate_name": "Sundar (alias) Sundaramoorthy",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Independent",
+    "constituency": "71 Mailam Assembly Constituency",
+    "pan": "JMOPS1536J",
+    "phone": "9360549512",
+    "email": "NIL",
+    "address": "24, Mariyamman Kovil Street, Perumpoondi Village, Gingee Taluk, Villupuram District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard",
+    "profession": "Lawyer, Writer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 425000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 425000.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

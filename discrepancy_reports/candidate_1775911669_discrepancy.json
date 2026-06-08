@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911669",
+    "candidate_name": "Pa. Bharathi",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "Puthiya Tamizhagam",
+    "constituency": "167 Mannargudi",
+    "pan": "EHYPB7429D",
+    "phone": "7373735902",
+    "email": "bbharathib1994@gmail.com",
+    "address": "5 - Tharisuveli, 13 Karnavur, Mannargudi Taluk, Thiruvarur District, Pin - 614 014",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., English (Incomplete), Nethaji Subash Chandrabose College, Thiruvarur, 2017 - Bharathidasan University.",
+    "profession": "Agricultural laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 297000.0,
+    "total_liabilities_xls": 50300.0,
+    "net_worth_xls": 246700.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (5 case(s))",
+    "case_numbers_xls": "Cr.No.0682/2024 Mannargudi Town Police Station; Cr.No.0229/2023 Mannargudi Taluk Police Station; Cr.No.0243/2016 Koothanallur Police Station; Cr.No.0044/2019 Needamangalam Police Station; Cr.No.2609/2020 Mannargudi Town Police Station",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

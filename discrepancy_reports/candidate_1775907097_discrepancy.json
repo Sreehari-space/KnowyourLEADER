@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907097",
+    "candidate_name": "Soosa. Chandran",
+    "candidate_name_json": null,
+    "age": "27",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "003- Tiruttani Assembly Constituency",
+    "pan": "BTRPC1794G",
+    "phone": "9444790144",
+    "email": "suriyamchandran108@gmail.com",
+    "address": "No. 28, New Street, Podaturpettai, Pallipattu Taluk, Tiruvallur District 631208",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc (Nursing) KKC COLLEGE OF NURSING, 2024 & B.A. (HISTORY) ALAGAPPA UNIVERSITY, 2024",
+    "profession": "Self-employment (Trader)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7801169.0,
+    "total_liabilities_xls": 1900000.0,
+    "net_worth_xls": 5901169.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

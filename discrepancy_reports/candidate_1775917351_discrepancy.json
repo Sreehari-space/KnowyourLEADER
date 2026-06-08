@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917351",
+    "candidate_name": "G. OMPRAKASH",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "INDEPENDENT",
+    "constituency": "21, ANNA NAGAR, Tamil Nadu",
+    "pan": "AAKPO3486C",
+    "phone": "9840932268",
+    "email": "NIL",
+    "address": "No.323, 10th Cross Street, TP Chatram, Chennai - 600 010",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC Schooling at MCTM Hr Sec School, Chennai, Completed in 1994; HSC Corporation Hr Sec School, Chennai, Completed in 1996; B.A., Pachiyappas Arts College, 1997; L.LB.,-Ambedkar Law College, Tirupati, 2009",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 872000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 872000.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

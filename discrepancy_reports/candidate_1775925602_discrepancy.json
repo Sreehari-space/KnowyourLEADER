@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775925602",
+    "candidate_name": "R. Younus Ali",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Independent",
+    "constituency": "136 - Krishnarayapuram, Tamil Nadu.",
+    "pan": "AWDPV2606E",
+    "phone": "7448744644",
+    "email": "yoonusnmrmobile@gmail.com",
+    "address": "28, Mailampatti South, Keelappaguthi, Kadavur Taluk, Karur",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard - Government Higher Secondary School, Thanthondrimalai - Year of completion 2004",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2596500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2596500.0,
+    "cash_xls": 60000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

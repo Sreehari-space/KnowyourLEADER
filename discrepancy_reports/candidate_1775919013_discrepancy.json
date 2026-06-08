@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919013",
+    "candidate_name": "J. Suriyakumar",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "Independent",
+    "constituency": "136 - Krishnarayapuram, Tamil Nadu",
+    "pan": "JERPS5530D",
+    "phone": "9894014815",
+    "email": "suriyakumar688@gmail.com",
+    "address": "1, DSP Quarters, near Tamil Nadu Housing Board, North Gandhigramam, Karur Taluk, Karur District 639 004",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.B.A. Karpagam University, Coimbatore, Year 2018.",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5419680.0,
+    "total_liabilities_xls": 1200000.0,
+    "net_worth_xls": 4219680.0,
+    "cash_xls": 408680.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

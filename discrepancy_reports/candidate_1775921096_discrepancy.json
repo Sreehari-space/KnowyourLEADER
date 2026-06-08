@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921096",
+    "candidate_name": "K.Velraj",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Independent",
+    "constituency": "200-Bodinayakanur Assembly Constituency, Tamil Nadu",
+    "pan": "AGVPV4955C",
+    "phone": "8072550685",
+    "email": "velchellam@gmail.com",
+    "address": "290, Ramakrishnapuram, Pottipuram, Post, Bodinayakanur, Theni District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "2016 - B-TECH., - Indira Gandhi National Open University, New Delhi - 110068",
+    "profession": "Individual agricultural"
+  },
+  "financial_summary": {
+    "total_assets_xls": 823425.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 823425.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

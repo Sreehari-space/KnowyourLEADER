@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904347",
+    "candidate_name": "திரு.C. திருமாறன்",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "பாரதிய ஜனதா கட்சி",
+    "constituency": "185 திருப்பத்தூர் சட்டமன்ற தொகுதி",
+    "pan": "ADVPT1712G",
+    "phone": "9361234425",
+    "email": "thirumaranji1974@gmail.com",
+    "address": "149 A.K.கோபாலன் 2வது தெரு, ஆரப்பாளையம் கண்மாய்க்கரை, மதுரை 625 016",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Pharm, Ultra College of Pharmacy, (Dr.MGR Medical University) Madurai - April'2000",
+    "profession": "அரசியல்வாதி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 11667317.42,
+    "total_liabilities_xls": 3544761.8,
+    "net_worth_xls": 8122555.62,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (10 case(s))",
+    "case_numbers_xls": "Cr.No.1559/2018 (Sellur Police Station / செல்லுார் காவல் நிலையம்); Cr.No.0605/2017 (Karimedu Police Station / கரிமேடு காவல் நிலையம்); Cr.No.0961/2014 (Madichiyam Police Station / மதிச்சியம் காவல் நிலையம்); Cr.No.0239/2013 (Chinnamanur Police Station / சின்னமனூர் காவல் நிலையம்); Cr.No.1596/2007 (Karimedu Police Station / கரிமேடு காவல் நிலையம்); Cr.No.1340/2023 (S.S. Colony Police Station / S.S.காலனி காவல் நிலையம்); Cr.No.1090/2021 (Theni Police Station / தேனி காவல் நிலையம்); Cr.No.0473/2021 (Silaiman Police Station / சிலைமான் காவல் நிலையம்); Cr.No.0433/2021 (S.S. Colony Police Station / S.S.காலனி காவல் நிலையம்); Cr.No.0177/2019 (Thilagar Thidal Police Station / திலகர் திடல் காவல்நிலையம்)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

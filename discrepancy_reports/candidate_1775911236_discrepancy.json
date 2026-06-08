@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911236",
+    "candidate_name": "த.ரமேஷ்",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "தமிழக வாழ்வுரிமை கட்சி",
+    "constituency": "வேடசந்துார், தமிழ்நாடு",
+    "pan": "DVIPR5614F",
+    "phone": "9566338839",
+    "email": "raghavaramesh2@gmail.com",
+    "address": "3, செப்புருட்டிப்பட்டி, குஜிலியம்பாறை, சி.அம்மாபட்டி, சின்னலுப்பை, திண்டுக்கல் 624 703",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9ம் வகுப்பு அரசு மேல்நிலைப்பள்ளி, குஜிலியம்பாறை",
+    "profession": "கூலிவேலை"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1602000.0,
+    "total_liabilities_xls": 1142000.0,
+    "net_worth_xls": 460000.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No: 0297/2018, Police Station: Vadmadurai, Dindigul / வடமதுரை காவல் நிலையம், திண்டுக்கல், Sections: IPC 1203, 147, 148, 301, 341 TNPPDLAG4",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

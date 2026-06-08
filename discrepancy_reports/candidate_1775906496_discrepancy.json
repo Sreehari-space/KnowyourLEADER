@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906496",
+    "candidate_name": "T. Saravanan",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "065-Kalasapakkam Assembly Constituency",
+    "pan": "CAYPS1189L",
+    "phone": "9443348251",
+    "email": "silambarasan14.2001@gmail.com",
+    "address": "228, Pudhu Street, Periyakilambadi Village and Post, Tiruvannamalai Taluk and District - 606802",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A. (History) from Manonmaniam Sundaranar University, Tirunelveli (2015)",
+    "profession": "Not Available"
+  },
+  "financial_summary": {
+    "total_assets_xls": 95947523.86,
+    "total_liabilities_xls": 186254.55,
+    "net_worth_xls": 95761269.31,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

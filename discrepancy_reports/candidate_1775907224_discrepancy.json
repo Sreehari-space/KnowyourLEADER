@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907224",
+    "candidate_name": "P. Veeramani",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "153-Neyveli Assembly Constituency, Tamil Nadu",
+    "pan": "ALSPV8234A",
+    "phone": "9976903284",
+    "email": "veeramaniboopathy1983@gmail.com",
+    "address": "45, West Street, Velangkuppam Road, Kadampuliyur (Post), Panruti Taluk, Cuddalore District, 607103",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (1998) from R.K. Govt. Hr. Sec. School, Kadampuliyur; ITI (2000) from Sakthi ITI, Panruti; D.E.E.E. (2023) from Ayush ODL International University",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 13393231.02,
+    "total_liabilities_xls": 4668600.0,
+    "net_worth_xls": 8724631.02,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

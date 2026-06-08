@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922289",
+    "candidate_name": "முருகானந்தம்",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "சுயேட்சை",
+    "constituency": "97. குமாரபாளையம் சட்டமன்றத் தொகுதி, தமிழ்நாடு",
+    "pan": "DRRPM4478P",
+    "phone": "7904769282",
+    "email": "NIL",
+    "address": "312-4, மேட்டுக்கடை, எலந்தக்குட்டை கிராமம் மற்றும் அஞ்சல், குமாரபாளையம் வட்டம், நாமக்கல் மாவட்டம்-638008",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8ம் வகுப்பு (தனித்தேர்வர்) வருடம் 2015",
+    "profession": "தனியார் நிறுவனம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1150000.0,
+    "total_liabilities_xls": 370000.0,
+    "net_worth_xls": 780000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

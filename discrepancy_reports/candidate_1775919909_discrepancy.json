@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919909",
+    "candidate_name": "ப. வளர்மதி",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "சுயேட்சை",
+    "constituency": "23 சைதாப்பேட்டை சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "AGJPV3522B",
+    "phone": "9941517107",
+    "email": "sivayasodha1980@gmail.com",
+    "address": "எண்: 366, எஸ் பிளாக், சித்ரா நகர், கோட்டூர்புரம், சென்னை, தமிழ்நாடு, 600 085",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "சாரதா வித்யாலயா தனியார் பள்ளி, தியாகராய நகர், சென்னை - 10 வகுப்பு- 1994; சாரதா வித்யாலயா தனியார் பள்ளி, தியாகராய நகர், சென்னை-12-ம் வகுப்பு. - 1996; சென்னை பல்கலைக்கழகத்தில். - B.Com- 1999.",
+    "profession": "GRAPHIC DESIGNER, தனியார் நிறுவனம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3031000.0,
+    "total_liabilities_xls": 221400.0,
+    "net_worth_xls": 2809600.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

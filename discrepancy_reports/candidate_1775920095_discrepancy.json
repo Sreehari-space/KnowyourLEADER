@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920095",
+    "candidate_name": "Se. Sekar",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "Independent",
+    "constituency": "218 - Kovilpatti Assembly Constituency, Tamil Nadu",
+    "pan": "JLYPS7118P",
+    "phone": "9047851801",
+    "email": "cjemes030@gmail.com",
+    "address": "H.No: 339, Shanmugasigamani Nagar, Pandavarmangalam, Kovilpatti Taluk, Thoothukudi District- 628502",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th standard only, Government Higher Secondary School, Kazhugumalai",
+    "profession": "Building work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1819053.0,
+    "total_liabilities_xls": 825000.0,
+    "net_worth_xls": 994053.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (7 case(s))",
+    "case_numbers_xls": "FIR: 391/22; FIR: 392/22; FIR: 393/22; FIR: 242/2024; FIR: 238/2024; STC: 2722/22; STC: 2798/22; STC: 3460/22; CC: 538/2024; CC: 65/2026; CC: 318/2018; STC: 977/22",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

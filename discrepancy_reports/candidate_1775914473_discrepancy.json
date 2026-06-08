@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914473",
+    "candidate_name": "Gopal. G",
+    "candidate_name_json": null,
+    "age": "63",
+    "party": "சுயேட்சை",
+    "constituency": "001-கும்மிடிப்பூண்டி சட்டமன்ற தொகுதி",
+    "pan": "BANPG3960P",
+    "phone": "9444090243",
+    "email": "gopal05101962@gmail.com",
+    "address": "எண்.582, மஞ்சங்காரணை பஞ்சாயத்து, கோட்டகுப்பம் கிராமம், ஊத்துக்கோட்டை வட்டம், திருவள்ளூர் மாவட்டம். பின்கோடு-600067",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th - அரசினர் மேல்நிலைப்பள்ளி, சோழவரம் முடித்த ஆண்டு - 1979-1980.",
+    "profession": "விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2782439.54,
+    "total_liabilities_xls": 220000.0,
+    "net_worth_xls": 2562439.54,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

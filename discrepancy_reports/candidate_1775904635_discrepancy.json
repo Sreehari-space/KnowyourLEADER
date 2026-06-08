@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904635",
+    "candidate_name": "KAVITHA DHANDAPANI",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Dravida Munnetra Kazhagam (DMK)",
+    "constituency": "049 Jolarpet Assembly Constituency, Tirupattur District, Tamil Nadu",
+    "pan": "AHXPC0447K",
+    "phone": "9487490754",
+    "email": "kavithadmk32@gmail.com",
+    "address": "4 Sri Ragavendhira Nagar, Pachal, Tirupattur Taluk, Tirupattur District, Pin code - 635601",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A, (History) 2011 Tamil Nadu Open University, Chennai",
+    "profession": "Agriculture, Coconut business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 18343578.0,
+    "total_liabilities_xls": 18526384.0,
+    "net_worth_xls": 182806.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

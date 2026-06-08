@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910721",
+    "candidate_name": "N. Sathishkumar",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "196 Thirumangalam Assembly Constituency, Tamil Nadu",
+    "pan": "EVYPS2060B",
+    "phone": "9566695606",
+    "email": "sathish24365@gmail.com",
+    "address": "No.22B, Roja Thottam 2nd Street, A. Ammapatti, Thirumangalam Taluk, Madurai – 625706",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Twelfth Grade, Yadava Matriculation School, Jaihindpuram, Year 2006",
+    "profession": "Real Estate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 12655000.0,
+    "total_liabilities_xls": 3087627.0,
+    "net_worth_xls": 9567373.0,
+    "cash_xls": 65000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No-593/2015, U/S 120(b), 147,148,294(B),506(2),302 R/W,149,212 IPC, Court: Madurai 5th Additional District Court, S.C. NO: 619/2018. Description: 1 வது எதிரி சேகர் என்பவரது மகன் செந்தில்குமாரை கொலை செய்ததற்கு பதிலாக ராஜேந்தரன் என்பவரை கொலை செய்ததாக 1 முதல் 12 எதிரிகளுக்கு எதிரான வழக்காகும். / Case against 1 to 12 accused for murdering Rajendran instead of murdering Sekar's son Senthilkumar, who is the 1st accused.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

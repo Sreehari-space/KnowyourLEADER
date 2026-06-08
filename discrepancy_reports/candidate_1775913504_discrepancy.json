@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913504",
+    "candidate_name": "M. G. Ramu",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "Independent Candidate",
+    "constituency": "Shozhinganallur",
+    "pan": "DOPPR4456R",
+    "phone": "994188, 5621",
+    "email": "NIL",
+    "address": "10, 348, Perungudi, Chennai",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Higher Secondary School completed",
+    "profession": "Individual"
+  },
+  "financial_summary": {
+    "total_assets_xls": 221800.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 221800.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

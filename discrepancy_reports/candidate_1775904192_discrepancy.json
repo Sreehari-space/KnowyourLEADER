@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904192",
+    "candidate_name": "A. Arunmozhikevan",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "157 Bhuvanagiri Assembly Constituency",
+    "pan": "AAZPD0861F",
+    "phone": "9443208789, 9965508789",
+    "email": "arun2868@gmail.com",
+    "address": "176 Main Road, Vathistapuram, Tittagudi & Taluk, Cuddalore District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Std: Government Higher Secondary School, Tittagudi 1983; 12th Std: Government Higher Secondary School, Tittagudi 1985; B.Sc: Jamal Mohamed College, Trichy April 1988; B.L: Central Law College, Salem June 1991",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 50108941.99,
+    "total_liabilities_xls": 2500000.0,
+    "net_worth_xls": 47608941.99,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "STC 255/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

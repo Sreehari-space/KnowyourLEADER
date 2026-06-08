@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911202",
+    "candidate_name": "KUPPURAJI",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "TAMILAR MAKKAL KATCHI",
+    "constituency": "57-PALACODU LEGISLATIVE ASSEMBLY CONSTITUENCY, TAMIL NADU",
+    "pan": "GWMPK7007K",
+    "phone": "9488820239",
+    "email": "NIL",
+    "address": "DOOR NO.1-29, NARIYANAHALLI(R.V), WARD 1, THUMBALAHALLI (PO), KARIMANGALAM (TK), DHARMAPURI (DT), TAMILNADU - 635205",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BACHELOR OR ARTS (HISTORY), MADRAS UNIVERSITY, DHARMAPURI (1999)",
+    "profession": "DAILY WAGER"
+  },
+  "financial_summary": {
+    "total_assets_xls": 20500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 20500.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

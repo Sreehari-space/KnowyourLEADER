@@ -1,0 +1,367 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910884",
+    "candidate_name": "K. Palraj",
+    "candidate_name_json": "K. PAULRAJ",
+    "age": "64",
+    "party": "Puthiya Tamizhagam",
+    "constituency": "220, Vasudevanallur (SC), Tamil Nadu",
+    "pan": "BUAPP9916M",
+    "phone": "9788737156",
+    "email": "kpalraj941@gmail.com",
+    "address": "72-A4 Renga Karuppan Street, Puliyangudi, Tenkasi District - 627855",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "8th Standard (Dropout)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7223218.0,
+    "total_liabilities_xls": 600000.0,
+    "net_worth_xls": 6623218.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,000 10 Thou+",
+        "spouse": "5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "TMB Puliyangudi Branch, A/C. 2,33,888 2 Lacs+ Tirunelveli District, Central Co op Bank, Puliyangudi Branch A/C. 53,721 53 Thou+ SBI Puliyangudi Branch, A/C. 5,000 5 Thou+",
+        "spouse": "IOB Puliyangudi Branch, A/C. 15,000 15 Thou+ SBI Puliyangudi Branch, A/C. 50,609 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Tractor - Escort TN 79 E 5398 7,00,000 7 Lacs+ Bike, Honda TN 79 B 0083 50,000 50 Thou+",
+        "spouse": "Car, Mahindra Bolero TN 59 CH 2395 8,00,000 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "80 Grams of Gold 10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Subramaniyapuram Village Plot No. 564, 565, 566 Total Area 1.63 Acres Built Up Area Whether Inherited N Purchase Date 1996-08-09 Purchase Cost 78500.00 Development Cost 0.00 15,00,000 15 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Puliyangudi Field No. 332-3 and 333-1 Total Area 4356 sqft Built Up Area Whether Inherited N Purchase Date 2020-12-15 Purchase Cost 827635.00 Development Cost 0.00 10,00,000 10 Lacs+ Puliyangudi Field No. 337-2 and 337-3 Total Area 2178 sqft Built Up Area Whether Inherited N Purchase Date 2011-09-16 Purchase Cost 306955.00 Development Cost 0.00 5,00,000 5 Lacs+ Puliyangudi Field No. 309-2A1A Total Area 514.5 sqft Built Up Area Whether Inherited N Purchase Date 1988-12-01 Purchase Cost 6000.00 Development Cost 0.00 1,00,000 1 Lacs+ Puliyangudi Field No. 309-2A1A Total Area 816.75 sqft Built Up Area Whether Inherited N Purchase Date 2000-11-06 Purchase Cost 37626.00 Development Cost 0.00 2,00,000 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Puliyangudi Plot No. 309-2A1A, Residential House. Total Area 436.73 sqft Built Up Area 436.73 sqft (Half Without Division). Whether Inherited N Purchase Date 1995-02-06 Purchase Cost 11099.00 Development Cost 0.00 10,00,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Shriram Financial Institution, Puliyangudi. Auto Loan 6,00,000 6 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "FIR No. 167-2023, STC No.875-2025 (Judicial Magistrate Sivagiri, U/s 147,294(b),323 and 506(1) IPC); FIR No. 216-2023, STC No.23-2024 (Judicial Magistrate Sivagiri, U/s 143,283 and 506(1) IPC)",
+    "criminal_cases_json": {
+      "count": "2",
+      "summary": "Number of Criminal Cases:2",
+      "ipc_charges": [
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "167-2023, Puliyangudi P.S Tenkasi Dt.",
+          "case_no": "STC No. 875-2025",
+          "court": "Judicial Magistrate Sivagiri",
+          "law_type": "IPC",
+          "ipc_sections": "147, 294(b), 323, 506(1)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "29 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "NA"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "216-2023, Puliyangudi P.S Tenkasi Dt.",
+          "case_no": "STC No. 23-2024",
+          "court": "Judicial Magistrate Sivagiri",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283, 506(1)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "07 Feb 2026",
+          "appeal_filed": "No",
+          "appeal_status": "NA"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 72,23,218 ~72 Lacs+",
+    "Liabilities:": "Rs 6,00,000 ~6 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹6,263,888) does not match declared total assets (₹7,223,218). Difference: ₹959,330"
+    }
+  ]
+}

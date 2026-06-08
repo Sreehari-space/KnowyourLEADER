@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915870",
+    "candidate_name": "D. Thilip Kumar",
+    "candidate_name_json": null,
+    "age": "28",
+    "party": "Independent",
+    "constituency": "66 Polur Assembly Constituency, Tamil Nadu State",
+    "pan": "HKAPD1136H",
+    "phone": "9092112661",
+    "email": "dhilip242307@gmail.com",
+    "address": "333 Ambedkar Nagar, Sanikkavadi Village & Post, Polur Taluk, Tiruvannamalai District - 606803",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th (2014-2015) Government Boys Hr.Sec. School Polur, DIPLOMA CIVIL ENGINEERING (2017 - 2020) Government Polytechnic, Karapattu.",
+    "profession": "Agriculture wage"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2175000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2175000.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

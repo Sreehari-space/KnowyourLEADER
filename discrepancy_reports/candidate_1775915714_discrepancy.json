@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915714",
+    "candidate_name": "ஜெ.வெங்கட்ராமன்)",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "நாடாளும் மக்கள் கட்சி)",
+    "constituency": "78 - ரிஷிவந்தியம் சட்டமன்றத் தொகுதி, தமிழ்நாடு)",
+    "pan": "AHMPV1354R",
+    "phone": "8939041742, 9489479742",
+    "email": "advjvenkatraman@gmail.com",
+    "address": "கதவு எண்.96, தெற்கு தெரு, சொரையப்பட்டு கிராமம், கழுமரம் அஞ்சல், திருக்கோவிலூர் வட்டம், கள்ளக்குறிச்சி மாவட்டம் - 605 754)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A. Psychology, B.L., B.A. Tamil Literature, B.A. Hindi (Praveen), M.L. (Pending)",
+    "profession": "வழக்கறிஞர & உறுதிமொழி ஆணையர், சென்னை உயர்நீதிமன்றம்)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2625726.0,
+    "total_liabilities_xls": 235000.0,
+    "net_worth_xls": 2390726.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

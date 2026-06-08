@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909612",
+    "candidate_name": "N.R. Appathurai",
+    "candidate_name_json": null,
+    "age": "75",
+    "party": "All India Revolutionary Leader's People's Progressive Federation",
+    "constituency": "121 Singanallur, Tamil Nadu",
+    "pan": "AFAPA4361H",
+    "phone": "8248834649",
+    "email": "nrappathurai@gmail.com",
+    "address": "352, Vijayalakshmi Layout, Sanganur, Ganapathy, Coimbatore - 641 006",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (1967-1968), PUC (1968-1969), BA (Not Completed, 1970-1973)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 728783450.0,
+    "total_liabilities_xls": 3300000.0,
+    "net_worth_xls": 725483450.0,
+    "cash_xls": 275000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "118/2018; 119/2018; 120/2018",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

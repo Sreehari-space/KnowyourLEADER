@@ -1,0 +1,341 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919490",
+    "candidate_name": "V. Sudhakar",
+    "candidate_name_json": "SUDHAKAR.V",
+    "age": "40",
+    "party": "Independent",
+    "constituency": "No.001, Gummidipoondi Assembly Constituency, Tamil Nadu",
+    "pan": "CSTPS1131H",
+    "phone": "9500761461",
+    "email": "sudhakarvelu578@gmail.com",
+    "address": "No.46, Pappur Street, Kilmudhalambedu, Melmudhalambedu Village, Gummidipoondi Taluk, Tiruvallur District - 601 206",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "8th Standard, Government Higher Secondary School, Kavarapettai, Year of completion 2000",
+    "profession": "Wage"
+  },
+  "financial_summary": {
+    "total_assets_xls": 447400.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 447400.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "25,000 25 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Union Bank Of India Saidapet 4,78,223 4 Lacs+ SBI New Avadi Road 10,342 10 Thou+ SBI New Avadi Road 15,28,581 15 Lacs+ Canara Bank Uthukottai 0*(Value Not Given)",
+        "spouse": "SBI New Avadi Road 27,238 27 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "NSC Bond Shenoy Nagar 14,000 14 Thou+ NSC Bond Shenoy Nagar 12,000 12 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "S J Infra 99,56,512 99 Lacs+ R.Rajkumar 76,60,000 76 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "CAR Kia Seltos 22,48,574 22 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "64gm Gold 8,74,880 8 Lacs+",
+        "spouse": "1088gm Gold 1,48,72,960 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "24gm Gold 3,28,080 3 Lacs+",
+        "dependent2": "16gm Gold 2,18,120 2 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Periyakavanam Village Ponneri Taluk Tiruvallur District Sy No.93/1B, 93/2A, 93/2B, 93/2C, 93/3, 103/7, 103/5C, 103/5J, 103/51, 93/6, 103/5G, 103/6 Total Area 5.03Sqft Built Up Area Whether Inherited N Purchase Date 2025-02-13 Purchase Cost 21934110.00 Development Cost 0.00 2,19,34,110 2 Crore+ Ponneri Taluk Tiruvallur District Enambakkam Village Sy No.1/1, 1/2, 1/3, 1/6, 1/9, 1/10, 1/13, 9/1, 9/2, 10/1, 10/2, 1/14A1, 1/14B, 1/4A, 1/4B, 1/5, 1/7B, 1/8, 5/2, 6/8, 3/1, 3/2, 3/3, 3/4, 3/5, 8/2B Total Area 12.95Sqft Built Up Area Whether Inherited N Purchase Date 2026-03-18 Purchase Cost 5450079.00 Development Cost 0.00 54,50,079 54 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Ponneri Taluk Tiruvallur District Arani Village Sy No. Total Area 2.05Acres Built Up Area 9670Sqft Whether Inherited N Purchase Date 2023-03-28 Purchase Cost 2355305.00 Development Cost 7137926.00 29,01,000 29 Lacs+ Ponneri Taluk Tiruvallur District Vannipakkam Village Sy No.165/2A Total Area 0.72Acres Built Up Area 5359Sqft Whether Inherited N Purchase Date 2022-04-18 Purchase Cost 1998750.00 Development Cost 1917393.00 13,39,750 13 Lacs+ Ponneri Taluk Tiruvallur District Vannipakkam Village Sy.No.165/4A1A1A1 & 165/4A2A1A1 Total Area 0.51Acres Built Up Area 7017Sqft Whether Inherited N Purchase Date 2022-04-18 Purchase Cost 3308542.00 Development Cost 0.00 8,77,187 8 Lacs+ Ponneri Taluk Tiruvallur District Vannipakkam Village Sy.165/4B1A1 Total Area 0.22Acres Built Up Area 7017.5Sqft Whether Inherited N Purchase Date 2022-04-18 Purchase Cost 1427471.00 Development Cost 998670.00 8,77,187 8 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Car Loan Union Bank Of India Saiapet Branch 12,39,821 12 Lacs+ K. Haribabu 93,00,000 93 Lacs+ R.Rmesh 5,00,000 5 Lacs+ Vimala Kicha 1,00,00,000 1 Crore+",
+      "spouse": "SBI India New Avadi Raod Branch 8,27,550 8 Lacs+ SBI New Avadi Raod Branch 1,65,725 1 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 58,06,900 | 2023 - 2024: Rs 25,04,400 | 2022 - 2023: Rs 25,00,530 | 2021 - 2022: Rs 18,75,000 | 2020 - 2021: Rs 10,92,760"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 15,07,490 | 2023 - 2024: Rs 10,03,150 | 2022 - 2023: Rs 10,01,500 | 2021 - 2022: Rs 6,25,000 | 2020 - 2021: Rs 3,75,000"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 7,22,83,825 ~7 Crore+",
+    "Liabilities:": "Rs 2,20,33,096 ~2 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹51,861,326, but 5-year family income is only ₹18,291,730. Unexplained wealth discrepancy of ₹33,569,596."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹53,928,697) does not match declared total assets (₹72,283,825). Difference: ₹18,355,128"
+    }
+  ]
+}

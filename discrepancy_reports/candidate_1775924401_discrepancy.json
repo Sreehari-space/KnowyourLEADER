@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924401",
+    "candidate_name": "J. Ragu Joseph",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "Independent",
+    "constituency": "50. Tirupattur Assembly Constituency",
+    "pan": "FEUPR7304D",
+    "phone": "9159088039",
+    "email": "jmsjoseph1972@gmail.com",
+    "address": "No.5, Rettaimalai Srinivasan Nagar, Tirupattur Town & Taluk, Tirupattur District-635601",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard Government Higher Secondary School, Tirupattur-1989, ITI Auxiliary Industrial Training Institute, Tirupattur-1993",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 37000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 37000.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

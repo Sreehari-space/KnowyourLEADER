@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911769",
+    "candidate_name": "S. Mutharasan",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Independent",
+    "constituency": "Tiruvarur",
+    "pan": "CYUPM2932H",
+    "phone": "9751941339",
+    "email": "mutharasanmutharasan54@gmail.com",
+    "address": "47 Pudhu Street, Nallukalmandapam, Tiruvarur 610 001, Tiruvarur Taluk, Tiruvarur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7th Standard, V.S.O. Boys Higher Secondary School, Tiruvarur 1995",
+    "profession": "Carpentry"
+  },
+  "financial_summary": {
+    "total_assets_xls": 840000.0,
+    "total_liabilities_xls": 500000.0,
+    "net_worth_xls": 340000.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

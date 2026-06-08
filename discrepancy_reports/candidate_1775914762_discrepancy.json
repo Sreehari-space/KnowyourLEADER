@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914762",
+    "candidate_name": "முகம்மது ருக்மான்",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "தமிழக வாழ்வுரிமை கட்சி",
+    "constituency": "198 ஆண்டிபட்டி, தமிழ்நாடு",
+    "pan": "NOTAPPLICABLE",
+    "phone": "9566317904",
+    "email": "mohammedrukman997@gmail.com",
+    "address": "மாரியம்மன் கோவில் தெரு, அல்லிநகரம், தேனி வட்டம், தேனி மாவட்டம்-625 531",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma in Architectural Assistantship, K.S.R Polytechnic College, K.S.R.Kalvi Nagar, Tiruchengode-637 215, Year: 2016",
+    "profession": "விசாயப்பணி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 10000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

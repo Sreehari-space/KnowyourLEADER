@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908697",
+    "candidate_name": "Sivakumar Sakkaravarthi",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "Pattali Makkal Katchi (PMK)",
+    "constituency": "75 - Vikravandi, Tamil Nadu",
+    "pan": "BCHPS1937C",
+    "phone": "9842928843",
+    "email": "sivapmk1974@gmail.com",
+    "address": "5. Sri Raghavendra Street, Pon Annamalai Nagar, Thiruvaamathur Post, Vikravandi Taluk, Villupuram District - 605602, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard, Thiru. Kamarajar Nagaraj Municipal Higher Secondary School, Villupuram (1988)",
+    "profession": "Agriculture, MLA, Petrol Pump, Scrap Dealer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 39059444.0,
+    "total_liabilities_xls": 16925656.0,
+    "net_worth_xls": 22133788.0,
+    "cash_xls": 312000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "389/2021; 937/2024; C C 2324/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

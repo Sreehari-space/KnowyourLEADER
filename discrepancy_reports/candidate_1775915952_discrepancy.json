@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915952",
+    "candidate_name": "G. Shanmugam",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Independent",
+    "constituency": "106-Gobichettipalayam Assembly Constituency, Tamil Nadu",
+    "pan": "KDQPS7360E",
+    "phone": "9943161674",
+    "email": "shanmugam431970@gmail.com",
+    "address": "Door No. 104, Bajana Kovil Street, Pariyur Vellalapalayam, Gobichettipalayam Taluk, Erode District - 638476",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7th Standard (Panchayat Union Middle School, Pa. Vellalapalayam, Year: 1981)",
+    "profession": "Working in private company"
+  },
+  "financial_summary": {
+    "total_assets_xls": 680138.0,
+    "total_liabilities_xls": 8000.0,
+    "net_worth_xls": 672138.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924628",
+    "candidate_name": "PRABAKARAN SUBRAMANIAM",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Independent",
+    "constituency": "SALEM (NORTH), Tamil Nadu",
+    "pan": "AMOPP2725R",
+    "phone": "7598955936",
+    "email": "prabpa@rediffmail.com",
+    "address": "12-A, THAMMANAN ROAD, ARISIPALAYAM, SALEM 636009, Salem, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BACHELOR OF ENGINEERING, INSTITUTE OF ROAD AND TRANSPORT TECHNOLOGY ERODE, BHARATHIYAR, 1994",
+    "profession": "CIVIL ENGINEER AND LOSS ASSESSORS"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8191379.18,
+    "total_liabilities_xls": 600000.0,
+    "net_worth_xls": 7591379.18,
+    "cash_xls": 8000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

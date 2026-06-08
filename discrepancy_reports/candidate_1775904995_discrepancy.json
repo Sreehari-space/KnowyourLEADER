@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904995",
+    "candidate_name": "R. L. Arun",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "Koundampalayam serial number 519",
+    "pan": "BKVPA2291K",
+    "phone": "9659426520",
+    "email": "arunofficial9692@gmail.com",
+    "address": "14, Luz Green Garden, Behind Annamalai Industrial Park, Kalapatti, Coimbatore",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BE Mechanical Engineering, SNS College of Engineering, 2013 pass out.",
+    "profession": "Individual Private Company"
+  },
+  "financial_summary": {
+    "total_assets_xls": 268799109.71,
+    "total_liabilities_xls": 1070626.0,
+    "net_worth_xls": 267728483.71,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

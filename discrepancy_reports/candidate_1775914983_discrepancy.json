@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914983",
+    "candidate_name": "Dr. Ravi",
+    "candidate_name_json": null,
+    "age": "67",
+    "party": "T.V.K (Tamizhaga Vetri Kazhagam)",
+    "constituency": "Ponneri Constituency, Tamil Nadu",
+    "pan": "AACPR9025Q",
+    "phone": "9840336644",
+    "email": "drrvms@yahoo.com",
+    "address": "Old No -71, New No - 139, East Mada Church Street, Royapuram, Chennai-600013",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MBBS (1982, University of Madras), D.M. Cardiology (1990, University of Madras)",
+    "profession": "Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 195271409.92,
+    "total_liabilities_xls": 12125867.5,
+    "net_worth_xls": 183145542.42,
+    "cash_xls": 144255.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

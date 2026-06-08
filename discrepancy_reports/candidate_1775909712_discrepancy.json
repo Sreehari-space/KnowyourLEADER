@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909712",
+    "candidate_name": "Ganesan Muthu Devar",
+    "candidate_name_json": null,
+    "age": "70",
+    "party": "All India Puratchi Thalaivar Makkal Munnetra Kazhagam",
+    "constituency": "205 Sivakasi",
+    "pan": "AFHPG9794F",
+    "phone": "9442060669",
+    "email": "kathirselva2020@gmail.com",
+    "address": "6, Muththamizh Street, NGO Colony, Madurai Road, Sivagnanapuram, Virudhunagar",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "IX Pass",
+    "profession": "Pensioner (Government Assistant Agricultural Officer)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 457661878.0,
+    "total_liabilities_xls": 23061611.0,
+    "net_worth_xls": 434600267.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

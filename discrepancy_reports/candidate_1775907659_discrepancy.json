@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907659",
+    "candidate_name": "மேகலா",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "நாம் தமிழர் கட்சி",
+    "constituency": "51 ஊத்தங்கரை (தனி) சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "HTWPM3613P",
+    "phone": "8825741504",
+    "email": "none / ஏதுமில்லை",
+    "address": "109, Chinnathallapadi Village, Mittapalli Post, Uthangarai Taluk, Krishnagiri District 635307, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Sengam Government Higher Secondary School - 2009; 12th Standard, Sengam Government Higher Secondary School - 2011; B.Sc-Maths, Sathyam Arts and Science College, Kottagulam, Sengam - 2015; B.Ed Diploma, Lakshmamma College of Education, Sirunathur - 2018",
+    "profession": "விவசாய கூலி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2820900.0,
+    "total_liabilities_xls": 1975000.0,
+    "net_worth_xls": 845900.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

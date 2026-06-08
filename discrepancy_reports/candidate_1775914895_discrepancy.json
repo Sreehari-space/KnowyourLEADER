@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914895",
+    "candidate_name": "Shri. S Muthaiah",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "PPS-I",
+    "constituency": "53 - Krishnagiri, Tamil Nadu",
+    "pan": "BWXPM7987C",
+    "phone": "8778384656",
+    "email": "lsmuthaiah@yahoo.co.in",
+    "address": "7, Mottaiyan Street, Tindivanam, Viluppuram, Tamil Nadu - 604001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A( BACHELOR OF SCIENCE) IN PHYSICS FROM GOVINDA SWAMY GOVERNMENT COLLEGE, TINDIVANAM - 2001; LLB - DR. RAMMANOHAR LOHIA COLLEGE OF LAW - 2004",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1347450.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1347450.0,
+    "cash_xls": 35000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

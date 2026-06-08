@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918677",
+    "candidate_name": "Na.Anbu Pagurudeen",
+    "candidate_name_json": null,
+    "age": "70",
+    "party": "Independent",
+    "constituency": "210 Thiruvadanai Assembly Constituency",
+    "pan": "AHDPA5129J",
+    "phone": "9486275655",
+    "email": "ஏதுமில்லை / nil",
+    "address": "84 Chinnapallivasal Street, Devipattinam Village, Devipattinam Post, Ramanathapuram Taluk, Ramanathapuram District 623514",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Primary education 7th standard, Government High School, Devipattinam",
+    "profession": "Individual business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3054697.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 3054697.0,
+    "cash_xls": 39000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

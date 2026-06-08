@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916847",
+    "candidate_name": "ப.நாகசுந்தரம்",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "சுயேட்சை",
+    "constituency": "155 கடலூர் சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "AJYPN6940P",
+    "phone": "9789542616, 9442542616",
+    "email": "nagasundaram83@gmail.com",
+    "address": "எண்.41, 42, மாருதி நகா, தோட்டப்பட்டு, கடலூர்-607109, கடலூர் மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A., B.L., Ph.D - Dr.Ambedkar Law College, Chennai – year 2011",
+    "profession": "வழக்கறிஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10649181.39,
+    "total_liabilities_xls": 89000.0,
+    "net_worth_xls": 10560181.39,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (5 case(s))",
+    "case_numbers_xls": "504/2015; 174/2018; 994/2020; 699/2022; 360/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

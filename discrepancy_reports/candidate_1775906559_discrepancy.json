@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906559",
+    "candidate_name": "K. Elango",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "Peravurani, Tamil Nadu",
+    "pan": "AAPPE4218D",
+    "phone": "8667275430",
+    "email": "clangogovindaraju.pvi@gmail.com",
+    "address": "o Govindarasu, 37, Hospital Road, Peravurani, Thanjavur, Tamil Nadu. 614 804.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th: DR. JCK CEN .V.M.MIIS, PERAVURANI (2000); 12th: MUVENDAR MATRICULATION IIR.SEC.SCHOOL.PERAVURANI (2002); B.TECH, IT, ANNA UNIVERSITY, CHENNAI (NOVEMBER 2007)",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10548758.33,
+    "total_liabilities_xls": 14337000.0,
+    "net_worth_xls": 3788241.67,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "FIR No. 259/2025; FIR No. 816/2021; FIR No. 757/2021",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

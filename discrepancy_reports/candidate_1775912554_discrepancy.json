@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912554",
+    "candidate_name": "S.K. Ram Singh",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "Thirumayam Assembly Constituency (Constituency No. 181)",
+    "pan": "BUFPR1960L",
+    "phone": "9942476089",
+    "email": "ramsinghadv@gmail.com",
+    "address": "B, Veeramakaaliyamman Nagar, Namanasamuthiram, Thekkattur Village, Sivapuram Post, Thirumayam Taluk, Pudukkottai District 622422",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., B.L., M.B.A., B.A. (2000-2003) (H.H. The Rajah's College, Pudukkottai), B.L., 2003-2006 (The Central Law College, Salem), M.B.A., (2006-2008) (Bharathidasan University, Trichy)",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2725000.0,
+    "total_liabilities_xls": 1550000.0,
+    "net_worth_xls": 1175000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 60/2029; S.C.No. 66/2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

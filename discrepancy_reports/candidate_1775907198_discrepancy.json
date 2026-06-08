@@ -1,0 +1,447 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907198",
+    "candidate_name": "S. Sadhasivam",
+    "candidate_name_json": "SADHASIVAM. S",
+    "age": "59",
+    "party": "Pattali Makkal Katchi",
+    "constituency": "89-Salem North Assembly Constituency",
+    "pan": "AVJPS1954K",
+    "phone": "9944322777",
+    "email": "sadhasivam0904@gmail.com",
+    "address": "1-192, Sakthi Nagar, Raman Nagar, Mettur Taluk, Salem District-636403",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "1) SSLC - Year: Oct 1986 (Board of Secondary Education, Tamilnadu); 2) M.A.(Political Science) Year : May 2009, Annamalai University",
+    "profession": "Self-employment and partnership firm"
+  },
+  "financial_summary": {
+    "total_assets_xls": 38707598.0,
+    "total_liabilities_xls": 24393570.0,
+    "net_worth_xls": 14314028.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "5,00,000 5 Lacs+",
+        "spouse": "2,00,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "KVB, Mettur 63,955 63 Thou+ IOB, Mettur 45,674 45 Thou+ Central Bank of Mettur 58,185 58 Thou+ Indian Bank, Salem 8,547 8 Thou+ HDFC Bank 19,631 19 Thou+ Axis Bank 13,29,638 13 Lacs+ Current Accounts KVB, Mettur 2,48,638 2 Lacs+ Current Accounts KVB, Mettur 15,925 15 Thou+ Current Accounts KVB, Mettur 71,342 71 Thou+ Current Accounts KVB, Karuppur 12,468 12 Thou+ Current Accounts Central Bank of Indian, Mettur 19,748 19 Thou+ Current Accounts KVB, Mettur 7,648 7 Thou+ Current Accounts Indian Bank, Salem 59,764 59 Thou+ Current Accounts Indian Bank, Salem 12,239 12 Thou+ Current Accounts Indian Bank, Salem 76,979 76 Thou+ Axis Bank, Mettur 5,13,917 5 Lacs+ Current Accounts Indian Overseas Bank, Salem 1,76,691 1 Lacs+",
+        "spouse": "SB A/c Central Bank of India, Mettur 16,956 16 Thou+ HDFC, Mettur 11,005 11 Thou+ Axis Bank, Mettur 15,687 15 Thou+ Indian Bank, Salem 6,961 6 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy 4,00,000 4 Lacs+ LIC Policy 2,00,000 2 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Mahindra TN 52 U 9009 Scorpieo: 2014 6,80,000 6 Lacs+ Ashok Leyland TN 39 P 8996 Lorry: 2000 3,00,000 3 Lacs+ Ashok Leyland TN 52 Y 3831 Lorry: 2004 4,00,000 4 Lacs+ Eicher TN 28 AF 5460 Mini Lorry: 2019 4,80,000 4 Lacs+ Bajaj TN 52 x 3155 Pulser: 2011 40,000 40 Thou+ Bajaj TN 93 B 7459 Discover: 2019 40,000 40 Thou+ Fortuner TN 93 S 9009 Lorry: 2021 40,00,000 40 Lacs+ Ashok Leyland TN 28 P 2513 Lorry: 2006 4,50,000 4 Lacs+ Eicher TN 30V 1062 Mini Lorry: 2005 6,00,000 6 Lacs+ Ashok Leyland TN 48 K 2943 Lorry: 2008 5,00,000 5 Lacs+ Tvs TN 52 Z 3792 XL: 2008 6,000 6 Thou+ Tvs TN 93 C 7303 XL: 2020 20,000 20 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "2 Pavan Ring - 1 (16 Gram) 2,00,000 2 Lacs+",
+        "spouse": "30 Pavan ( 240 Gram ) 30,00,000 30 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Mettur Taluk, coonur Village Survey No: 603/1 Total Area 0.68 1/2 Sq Ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 9,00,000 9 Lacs+",
+        "spouse": "Mettur Taluk, Alamrathupatti Village Survey No 274/3 P.A. 1.32 and Survey No 274.5 0.50 1/2 Cent Land Equal to 0.91 1/2 Cent Land, Area 0.91 1/4 Cent Land, Date of Purchase 19-05-2025, Cost of Purchase: 1022500 Half of it 511250, Market Value : 600000 2) Mettur Taluk, coonur Village Survey No: 736/2A, 0.71 1/2 Cent Land Survey No: 736/1A1 0.36 Cent Land and 735/2B 0.13 Cent Land Area :1.20 1/2 Cent , Purchase Date 19-07-2023, Purchase Cost: 644000 Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 6,00,000 6 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Mettur Sidco Industrial Estate Ward -3, Plot 14,T.S No. 4/2, D- Plot- No. 13 T.S No. 4/5 48450 Sq Ft Total Area 2500 Sq Ft Built Up Area Whether Inherited N Purchase Date 2011-01-21 Purchase Cost 2180000.00 Development Cost 1200000.00 1,00,00,000 1 Crore+ Mettur Sidco Industrial Estate Ward - D, Plot- 13, T.S No. 4/2 D - Block No 13 T.S No. 4/31 3771 1/4 Sq Ft Total Area 892 1/2 Sq Ft Built Up Area Whether Inherited N Purchase Date 2023-12-07 Purchase Cost 12000000.00 Development Cost 0.00 1,50,00,000 1 Crore+",
+        "spouse": "Mettur Taluk Navapatti Villag, Survey No: 257/4A Area: Jointly Acquired Building has Area of 5920 Total Area 5920 Sq Ft Built Up Area Whether Inherited N Purchase Date 2016-11-23 Purchase Cost 3500000.00 Development Cost 0.00 45,00,000 45 Lacs+ Salem District Zakir Amma Palayam Village, Survey N: 147/1A 2400 Sq Ft Area 400 Sq Ft Total Area of Building Total Area 400Sq Ft Built Up Area Whether Inherited N Purchase Date 2024-03-11 Purchase Cost 1800000.00 Development Cost 0.00 20,00,000 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Veerakkalputhur Village Survey 160/2B of which 1800 Sq Ft, Date of Purchase: 15-02-2003, Cost of Purchase: 173000 Investment: Veerakkalputhur Village Survey 160/2B 2000000 House Construction 2) Salem District Narasothipatti Village Survey No: 34/7G Approximately 3000 Sq Ft Date of Purchase: 09-07-2010, Cost of Purchase: 1130400, Investment: Salem District Narasothipatti Village Survey No: 34/7G 3000000 House Construction Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 75,00,000 75 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Axis Bank, Mettur Dam 1,00,00,000 1 Crore+ Axis Bank, Mettur Dam 33,33,000 33 Lacs+ Axis Bank, Mettur Dam 1,10,00,000 1 Crore+ Tyota Finance 60,570 60 Thou+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 89,37,060 | 2023 - 2024: Rs 14,55,710 | 2022 - 2023: Rs 13,73,130 | 2021 - 2022: Rs 11,42,250 | 2020 - 2021: Rs 10,79,750"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 8,78,440 | 2023 - 2024: Rs 8,14,420 | 2022 - 2023: Rs 4,85,020 | 2021 - 2022: Rs 1,16,540 | 2020 - 2021: Rs 8,11,550"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (7 case(s))",
+    "case_numbers_xls": "1. கு.எண்.19/25, கருமலைக்கூடல் காவல் நிலையம், சேலம் / Case No. 19/25, Karumalaikoodal Police Station, Salem; 2. கு.எண்.187/24, மேச்சேரி காவல் நிலையம், சேலம் மாவட்டம் / Case No. 187/24, Mecheri Police Station, Salem District; 3. கு.எண்.228/22, கொளத்தூர் காவல் நிலையம், சேலம் / Case No. 228/22, Kolathur Police Station, Salem; 4. கு.எண்.415/23, மேச்சேரி காவல் நிலையம், சேலம் மாவட்டம் / Case No. 415/23, Mecheri Police Station, Salem District; 5. கு.எண்.507/24, மேச்சேரி காவல் நிலையம், சேலம் மாவட்டம் / Case No. 507/24, Mecheri Police Station, Salem District; 6. கு.எண்.2/25, மேச்சேரி காவல் நிலையம், சேலம் மாவட்டம் / Case No. 2/25, Mecheri Police Station, Salem District; 7. கு.எண்.2/2018, தருமபுரி :Land Grabbing Police தருமபுரி / Case No. 2/2018, Dharmapuri: Land Grabbing Police Dharmapuri",
+    "criminal_cases_json": {
+      "count": "7",
+      "summary": "Number of Criminal Cases:7",
+      "ipc_charges": [
+        "1 charges related to Illegal payments in connection with an election (IPC Section-171H)",
+        "1 charges related to Section 505(2) (IPC Section-505(2))",
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Forgery of valuable security, will, etc. (IPC Section-467)",
+        "1 charges related to Forgery for purpose of cheating (IPC Section-468)",
+        "2 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)",
+        "1 charges related to Punishment for forgery (IPC Section-465)",
+        "1 charges related to Using as genuine a forged document or electronic record (IPC Section-471)",
+        "3 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "3 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Punishment for Criminal trespass. (BNS Section-329(3))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "C.No.19/25, Karumalakoodal Police Station, Salem",
+          "case_no": "CC No.347/2025",
+          "court": "Criminal Arbitration Court No - 2, Mettur Salem District",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 329(3)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "C.No.187/24, Mecheri Police Station, Salem District",
+          "case_no": "CC No.3/2026",
+          "court": "Criminal Arbitration Court No - 2, Mettur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 171H",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "C.No.228/22, Kolathur Police Station, Salem",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "153(A)(1)(A), 505(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "C.No.415/23, Mecheri Police Station, Salem District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "C.No.507/24, Mecheri Police Station, Salem District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "C.No.2/25, Mecheri Police Station, Salem District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "C.No.2/2018, Dharmapuri : Land Grabbing Police Dharmapuri",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "120B, 420, 465, 467, 468, 471",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 5,53,07,598 ~5 Crore+",
+    "Liabilities:": "Rs 2,43,93,570 ~2 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹28,560,911) does not match declared total assets (₹55,307,598). Difference: ₹26,746,687"
+    }
+  ]
+}

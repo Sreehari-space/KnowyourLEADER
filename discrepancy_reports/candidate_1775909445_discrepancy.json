@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909445",
+    "candidate_name": "P. Rajasekar",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Tamil Vazhvurimai Katchi",
+    "constituency": "Kilpennathur, Tamil Nadu",
+    "pan": "EQMPR6200K",
+    "phone": "944345014",
+    "email": "srikumaran041985@gmail.com",
+    "address": "No.2, Ganapathi Nagar, Vettavalam, Kilpennathur Taluk, Tiruvannamalai District - 606754",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th STANDARD Government High School, Rasanur, Vanur Taluk, Villupuram District.",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 295000.0,
+    "total_liabilities_xls": 10060000.0,
+    "net_worth_xls": 9765000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

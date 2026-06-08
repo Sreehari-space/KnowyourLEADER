@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915602",
+    "candidate_name": "Danapal.K",
+    "candidate_name_json": null,
+    "age": "38",
+    "party": "Independent",
+    "constituency": "100 Modakurichi, Tamil Nadu",
+    "pan": "AWMPD8650P",
+    "phone": "9965717128",
+    "email": "ynoteducational@gmail.com",
+    "address": "55 Lokiya Street, Modakurichi Unjapalayam Village, Modakurichi Taluk, Erode District, Tamil Nadu - 638104",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.COM(CA)., B.Ed., Maharaja College of Education Perundurai -2015",
+    "profession": "Higher Education Advisor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 558440.0,
+    "total_liabilities_xls": 255379.0,
+    "net_worth_xls": 303061.0,
+    "cash_xls": 3000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

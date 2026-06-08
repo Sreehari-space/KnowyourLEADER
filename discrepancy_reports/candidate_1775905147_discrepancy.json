@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905147",
+    "candidate_name": "Abishek. R",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "Egmore (SC) Assembly Constituency",
+    "pan": "AXAPA4121D",
+    "phone": "9884331646",
+    "email": "abishekdb@gmail.com",
+    "address": "சென்னை - 600 034, நுங்கம்பாக்கம், குட்டித்தெரு, க.எண். 35/16 / Chennai - 600 034, Nungambakkam, Kuttitheru, House No. 35/16",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.L., - Dr. Ambedkar Government Law College, Chennai. (September 2014 - April 2017)",
+    "profession": "Garment manufacturing company, trade business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1246017980.0,
+    "total_liabilities_xls": 1153422258.0,
+    "net_worth_xls": 92595722.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "CC : 190/2025, FTC ஆலந்தூர் / CC : 190/2025, FTC Alandur; குற்ற எண்:85/2024, K4, அண்ணா நகர், காவல் நிலையம் / Crime No:85/2024, K4, Anna Nagar Police Station; குற்ற எண்:90/2024, V5 திருமங்கலம் காவல் நிலையம் / Crime No:90/2024, V5 Thirumangalam Police Station",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

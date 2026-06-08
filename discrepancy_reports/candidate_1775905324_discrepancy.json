@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905324",
+    "candidate_name": "G. ARUN KUMAR",
+    "candidate_name_json": null,
+    "age": "64",
+    "party": "அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்",
+    "constituency": "117 கவுண்டம்பாளையம் சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "AFVPA9019B",
+    "phone": "9443169634",
+    "email": "arunkumarprg@gmail.com",
+    "address": "கதவு எண் 594-C, தோப்புத்தோட்டம், ஜோதிபுரம், கோயம்புத்தூர்-641047",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C. Pioneer Mills Hr.Sec. School, Periyanaickenpalayam, Coimbatore.",
+    "profession": "சுயதொழில்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 49862669.48,
+    "total_liabilities_xls": 17302749.61,
+    "net_worth_xls": 32559919.87,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (8 case(s))",
+    "case_numbers_xls": "1. Crime No. 445/2024, C-6 Thudiyalur PS, Thudiyalur Coimbatore; 2. Crime No. 422/2022, D-4 Kuniyamuthur PS, Kuniyamuthur Coimbatore; 3. Crime No. 97/2022, C-2 Racecourse PS, Racecourse Coimbatore; 4. Crime No. 87/2022, C-2 Racecourse PS, Racecourse Coimbatore; 5. Crime No. 932/2021, C-2 Racecourse PS, Racecourse Coimbatore; 6. Crime No. 715/2021, Triplicance PS, Nungambakam - Triplicance -chennai; 7. Crime No. 528/2021, D-4 Kuniyamuthur PS, Kuniyamuthur Coimbatore; 8. Crime No. 201/2007, M-1 PERIYANAIKENPALAYAM M PS, PERIYANAIKENPALAYAM Coimbatore",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

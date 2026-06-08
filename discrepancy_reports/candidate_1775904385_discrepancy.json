@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904385",
+    "candidate_name": "S. Sophia",
+    "candidate_name_json": null,
+    "age": "33",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "90 Salem South Assembly Constituency",
+    "pan": "DRPPS5814F",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "2, Bhoomadevi Nagar, Gerugambakkam, Kundrathur Taluk, Kancheepuram District, Tamil Nadu - 600 128",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Master of Arts in Communication, University of Madras, Chennai - 600005, Year of completion 2015.",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 18371731.0,
+    "total_liabilities_xls": 4540386.0,
+    "net_worth_xls": 13831345.0,
+    "cash_xls": 61077.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

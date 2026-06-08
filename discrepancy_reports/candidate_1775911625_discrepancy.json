@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911625",
+    "candidate_name": "S. Dharmaraj",
+    "candidate_name_json": null,
+    "age": "69",
+    "party": "Tamil Nadu People's Welfare Party",
+    "constituency": "Singanallur Assembly Constituency (121)",
+    "pan": "AFRPD3284M",
+    "phone": "9791368397",
+    "email": "dharmarajsamypillai@gmail.com",
+    "address": "214, Ramasamy Layout, Pappanaickenpalayam, Coimbatore South, Coimbatore, Tamil Nadu 641037",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard Failed",
+    "profession": "Retired Bharathiar University Technician"
+  },
+  "financial_summary": {
+    "total_assets_xls": 500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 500.0,
+    "cash_xls": 500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

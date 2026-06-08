@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916702",
+    "candidate_name": "A.SELVI",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "INDEPENDENT",
+    "constituency": "105-ANTHIYUR",
+    "pan": "ECJPA0334J",
+    "phone": "9524465298",
+    "email": "selviarumugam9524@gmail.com",
+    "address": "47, KALIANKADU, KANAKKAMPALAYAM, GOBICHETTIPALAYAM, ERODE-638 505",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9TH STD ST.FRANCIS XAVIER'S HIGHER SECONDARY SCHOOL, PERIYA KODEVERI- 1990",
+    "profession": "Agriculture Cooli"
+  },
+  "financial_summary": {
+    "total_assets_xls": 980813.54,
+    "total_liabilities_xls": 118000.0,
+    "net_worth_xls": 862813.54,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

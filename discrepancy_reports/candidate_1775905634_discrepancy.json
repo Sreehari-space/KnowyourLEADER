@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905634",
+    "candidate_name": "A. Balakrishnan",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Bahujan Samaj Party",
+    "constituency": "Rishivandiyam",
+    "pan": "FMJPB4991M",
+    "phone": "7868835304",
+    "email": "NIL",
+    "address": "92 Mariyamman Kovil Street, Pazhakoor, Kallakurichi - 605751",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7th standard, Government Higher Secondary School, G. Ariyur, 2001",
+    "profession": "Individual construction business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 976000.0,
+    "total_liabilities_xls": 285000.0,
+    "net_worth_xls": 691000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

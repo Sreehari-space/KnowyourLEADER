@@ -1,0 +1,335 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904918",
+    "candidate_name": "ANANDHARAJA. D",
+    "candidate_name_json": "ANANDHARAJA. D.",
+    "age": "49",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "Sattur constituency, at Serial no 409 in Part no 122",
+    "pan": "AFNPA6014N",
+    "phone": "9487612599",
+    "email": "anandhaa999@gmail.com",
+    "address": "1A1B, South Mada Street, Tirunelveli Town, Tirunelveli-627006",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Com; Diploma in Medical Laboratory Technology",
+    "profession": "nil"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7453277.189999999,
+    "total_liabilities_xls": 2098000.0,
+    "net_worth_xls": 5355277.189999999,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "3,00,000 3 Lacs+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "TMB,Ezhayiram pannai 6,103.19 6 Thou+ IOB,thayilpatti Br 5,071.86 5 Thou+ Canara Bank, Sattur 5,000 5 Thou+ IOB 1,000 1 Thou+",
+        "spouse": "TMB,Ezhayiram pannai 590.49 5 Hund+ IOB,Thayilpatti Br 8,011.65 8 Thou+",
+        "huf": "Nil",
+        "dependent1": "IOB,Thayilpatti Br 600 6 Hund+",
+        "dependent2": "IOB,Thayilpatti Br 1,000 1 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Founder,Yazh Charity and Educational Trust 0*(Value Not Given) Founder,Moovar Charity and Educational Trust 0*(Value Not Given)",
+        "spouse": "Trustee,Yazh Charity and Educational Trust 0*(Value Not Given) Treasurer,Moovar Charity and Educational Trust 0*(Value Not Given)",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TN29 Po 2241,Maruti Omini,21-09-2000 1,30,000 1 Lacs+",
+        "spouse": "TN 95 D 8625, Yamaha Fasico,26.08.2020 69,300 69 Thou+ TN95 5055 Honda Unicorn,14.06.2017 82,000 82 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 16 grams 2,17,600 2 Lacs+",
+        "spouse": "464 grams Gold 63,10,400 63 Lacs+",
+        "huf": "Nil",
+        "dependent1": "gold 6 grams 2,17,600 2 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Punjai Land,survey no:28/2D2 Total Area 0.8274 Acre Built Up Area Whether Inherited N Purchase Date 2011-04-25 Purchase Cost 600000.00 Development Cost 0.00 12,00,000 12 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Thayilpatti village,Survey no:274/2A1A1 Total Area 1675.51 sq ft Built Up Area 1675.51 sq ft Whether Inherited N Purchase Date 2019-01-18 Purchase Cost 42200.00 Development Cost 2000200.00 28,00,000 28 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Gold loan, IOB , Thayilpatti Br 96,000 96 Thou+ Gold loan, IOB , Thayilpatti Br 5,00,000 5 Lacs+ Gold loan, IOB , Thayilpatti Br 6,13,000 6 Lacs+ Gold loan, IOB , Thayilpatti Br 7,19,000 7 Lacs+ Gold loan, IOB , Thayilpatti Br 1,70,000 1 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 6,99,260 | 2024 - 2025: Rs 6,84,920 | 2023 - 2024: Rs 4,92,700 | 2022 - 2023: Rs 3,10,510 | 2021 - 2022: Rs 33,540"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 6,91,260 | 2024 - 2025: Rs 6,74,630 | 2023 - 2024: Rs 4,84,880 | 2022 - 2023: Rs 2,33,020 | 2021 - 2022: Rs 2,12,300"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "Crime No. 457/18; CC No.126/2022; IPC Sections 419, 420 + Medical Council Act",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,14,54,277 ~1 Crore+",
+    "Liabilities:": "Rs 20,98,000 ~20 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2019 for ₹42,200 (CII Indexed Cost: ₹54,904) is declared at highly inflated value of ₹2,800,000."
+    }
+  ]
+}

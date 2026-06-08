@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913204",
+    "candidate_name": "D.Ramadass",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "SAMANIYA MAKKAL NALAKATCHI",
+    "constituency": "92-RASIPURAM (SC)",
+    "pan": "AWXPR1824J",
+    "phone": "9443251956",
+    "email": "NIL",
+    "address": "154, Pudhustreet, Pettapalayam (Village) Post, Mohanur Taluk, Namakkal District. 637015",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "Land Broker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 35500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 35500.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

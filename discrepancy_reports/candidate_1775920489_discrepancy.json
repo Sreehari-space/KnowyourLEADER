@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920489",
+    "candidate_name": "S. சத்தியராஜ்",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "சுயேட்சை",
+    "constituency": "32, செங்கல்பட்டு",
+    "pan": "EYMPS9883R",
+    "phone": "7092063196",
+    "email": "sathyamla2019@gmail.com",
+    "address": "24, சின்னம்மன் கோவில் தெரு, செங்கல்பட்டு- 603002",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BBA சென்னை கிறிஸ்துவ கல்லுாரி - 2014",
+    "profession": "சுயதொழில்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2017000.0,
+    "total_liabilities_xls": 258183.0,
+    "net_worth_xls": 1758817.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

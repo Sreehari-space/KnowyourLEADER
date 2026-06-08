@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911057",
+    "candidate_name": "S. Suresh Kumar",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "All India Jananayaga Pathukappu Kazhagam",
+    "constituency": "84 Omalur Assembly Constituency, Tamil Nadu",
+    "pan": "AUKPS8364D",
+    "phone": "7708117979",
+    "email": "kallusuresh007@gmail.com",
+    "address": "Sanjeri Kattuvallavu, K. Kuttapatti, Danishpettai, Salem, Tamil Nadu 636354",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "ITI-GOV.INDUSTRIAL TRAINING INSTITUTE, SALEM- 7.- 1998",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 24614814.0,
+    "total_liabilities_xls": 700000.0,
+    "net_worth_xls": 23914814.0,
+    "cash_xls": 150000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

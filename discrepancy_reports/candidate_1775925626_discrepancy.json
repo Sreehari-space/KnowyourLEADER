@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775925626",
+    "candidate_name": "Thiru Pa. Vineeth",
+    "candidate_name_json": null,
+    "age": "27",
+    "party": "Independent",
+    "constituency": "135 - Karur Assembly Constituency, Tamil Nadu",
+    "pan": "BJEPV1014M",
+    "phone": "8754646107",
+    "email": "vineethbalajivkt.vb@gmail.com",
+    "address": "65, A. Arugampalayam, Achimangalam Village, Thanthonimalai, Karur - 639005",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.B.A., - Hindustan Arts & Science College, Coimbatore - Year of completion 2020",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 162736072.0,
+    "total_liabilities_xls": 700000.0,
+    "net_worth_xls": 162036072.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

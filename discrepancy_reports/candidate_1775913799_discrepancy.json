@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913799",
+    "candidate_name": "G. Perwin Kings",
+    "candidate_name_json": null,
+    "age": "39",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "230- Nagercoil Assembly Constituency, Tamil Nadu",
+    "pan": "AZVPB2835L",
+    "phone": "9894846314",
+    "email": "bervintvk@gmail.com",
+    "address": "V-48 Kaatradi Vilai, Thovalai, Azhagiya Pandiyapuram, Kanyakumari District, Tamil Nadu-629851",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Completed Master of Business Administration (MBA) from IIBM Bangalore in 2012.",
+    "profession": "Star Group (proprietor), Raddx Health care pvt Ltd. (Director)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 40115438.72,
+    "total_liabilities_xls": 12707876.0,
+    "net_worth_xls": 27407562.72,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

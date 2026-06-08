@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910622",
+    "candidate_name": "R. Pandiyan",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Hindu Dravida Makkal Katchi",
+    "constituency": "160 Sirkali (SC)",
+    "pan": "BCTPP4367H",
+    "phone": "9488550231",
+    "email": "crpandiyan1975@gmail.com",
+    "address": "441, Main Road, Thiruneelakandam, Othavankudi, Sirkali Taluk",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th L.M.C Higher Secondary School, Sirkali",
+    "profession": "Individual self-employment and social work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1900000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1900000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "Cr No: 961/2020 (U/s 143, 34 IPC); Cr No: 537/2020 (U/s 143, 188, 269, 270, 341 IPC)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

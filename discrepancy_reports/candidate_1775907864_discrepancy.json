@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907864",
+    "candidate_name": "N. CHITRARASU",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "Dravida Munnetra Kazhagam [DMK]",
+    "constituency": "20, Thousand Lights, Tamil Nadu",
+    "pan": "ADQPC5409G",
+    "phone": "9003093333",
+    "email": "arasu15061978@gmail.com",
+    "address": "60, Muthaiya Street, Vellala Teynampet, Chennai - 600 086",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC - Schooling at Govt. High School, Nallan Pillai Petral, Villupuram Dist, Completed in 1993; HSC - Schooling at Govt. Hr. Sec. School, Alampoondi, Villupuram Dist., Tamil Nadu, Completed in 1995; B.A., University of Madras, Tamil Nadu, Completed in 2000; M.A, University of Madras, Tamil Nadu, Completed in 2005; M.Phil., Annamalai University, Tamil Nadu, Completed in 2009",
+    "profession": "BUSINESS"
+  },
+  "financial_summary": {
+    "total_assets_xls": 234447598.28,
+    "total_liabilities_xls": 151367871.74,
+    "net_worth_xls": 83079726.53999999,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914058",
+    "candidate_name": "E. Saroja",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent",
+    "constituency": "Thuraiyur (SC)",
+    "pan": "EBWPS5218D",
+    "phone": "9344526998",
+    "email": "ragaviragavee@mail.com",
+    "address": "o Ilangovan, 732, Harijan Street, Krishnapuram, Govindapuram (PO), Anaiyur, Thuraiyur (Tk), Pin-621008",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th standard, 1994, Government Adi Dravidar Welfare Higher Secondary School, Thuraiyur",
+    "profession": "Daily wage worker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 913000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 913000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

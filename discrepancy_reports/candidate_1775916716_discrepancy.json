@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916716",
+    "candidate_name": "V. சுரேஷ்",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "சுயேட்சை",
+    "constituency": "041, இராணிப்பேட்டை தமிழ்நாடு",
+    "pan": "REKP50007G",
+    "phone": "9042700322",
+    "email": "avsuresh29879@gmail.com",
+    "address": "நெ.34, காமராஜர் நகர், வாலாஜாபேட்டை, இராணிப்பேட்டை மாவட்டம், 632513",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "6-ம் வகுப்பு, அரசு பள்ளி, வாலாஜாபேட்டை",
+    "profession": "நெசவாளர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1945500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1945500.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

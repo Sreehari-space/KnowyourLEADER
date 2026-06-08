@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914367",
+    "candidate_name": "சசி ரேகா",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "மக்கள் அரசியல் கட்சி",
+    "constituency": "049-ஜோலார்பேட்டை தொகுதி, தமிழ்நாடு",
+    "pan": "JMKPS2999D",
+    "phone": "9360499615",
+    "email": "none / ஏதுமில்லை",
+    "address": "ஏ ஆர் போலீஸ் குடியிருப்பு பின்புறம் பாச்சல், திருப்பத்தூர் மாவட்டம், தமிழ்நாடு - 635 602",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (அரசினர் மகளிர் மேல்நிலைப்பள்ளி, மேலூர், 1997)",
+    "profession": "தனி நபர் கூலி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 25000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 25000.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

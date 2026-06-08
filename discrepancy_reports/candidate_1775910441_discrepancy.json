@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910441",
+    "candidate_name": "V. Vinoth Kanna",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "Tamilaga Valvurimai Katchi",
+    "constituency": "Anaikattu",
+    "pan": "AFSPV3558F",
+    "phone": "8667837434",
+    "email": "vvinothkanna083@gmail.com",
+    "address": "No. 106, Bharathiyar Street, Kilmonavoor Madura, Avarampalayam, Melmonavoor Post, Vellore 632 010",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Konavattam Government Higher Secondary School, Konavattam, Vellore District (1996-97)",
+    "profession": "Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 320000.0,
+    "total_liabilities_xls": 1638100.0,
+    "net_worth_xls": 1318100.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "IPC 294B, 323, 324, TNPH Act 4; IPC 294B, 323, 448",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

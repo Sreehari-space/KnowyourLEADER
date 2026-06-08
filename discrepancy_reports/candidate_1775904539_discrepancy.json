@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904539",
+    "candidate_name": "E.R. ESWARAN",
+    "candidate_name_json": null,
+    "age": "64",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "96 - TIRUCHENGODE",
+    "pan": "AAAPE2016Q",
+    "phone": "9445252627",
+    "email": "kongusecretary@gmail.com",
+    "address": "New No: 46, (Old No: 80) Anna Nagar, Ward No.100, U – Block, 5th Main Road, Chennai - 600 040.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "University of Madras.",
+    "profession": "Self: Business (Export of Readymade Garments); Spouse: Business (Construction)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3414040253.0,
+    "total_liabilities_xls": 28570343.0,
+    "net_worth_xls": 3385469910.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

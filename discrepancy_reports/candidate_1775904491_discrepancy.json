@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904491",
+    "candidate_name": "Thiru. Prem Kumar S D",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Bharatiya Janata Party",
+    "constituency": "24, T. Nagar, Tamil Nadu",
+    "pan": "AMJPD0942P",
+    "phone": "9791004325",
+    "email": "drpremkumarsd@gmail.com",
+    "address": "1, New No.17, Ramanujam Street, T. Nagar, Chennai-600 017",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MBBS - ANNAMALAI UNIVERSITY, CHITAMBARAM (1997-2002); DLO (ENT) – MADRAS MEDICAL COLLEGE – CHENNAI (2004-2008)",
+    "profession": "Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6355475.0,
+    "total_liabilities_xls": 40515400.0,
+    "net_worth_xls": 34159925.0,
+    "cash_xls": 26000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

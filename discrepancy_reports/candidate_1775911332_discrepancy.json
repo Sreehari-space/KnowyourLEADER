@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911332",
+    "candidate_name": "R.Sivaraj",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Anna Puratchithalaivar Amma Dravida Munnetra Kazhagam",
+    "constituency": "111 Mettupalayam, Tamil Nadu",
+    "pan": "BQDPS9820G",
+    "phone": "8489531115",
+    "email": "sivaraj0520@gmail.com",
+    "address": "222, Amman Nagar, Velliangadu, Mettupalayam Taluk, Coimbatore District 641 104",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C - Government Higher Secondary School, Pujanganur, 1992",
+    "profession": "Heavy vehicle driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1816412.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1816412.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

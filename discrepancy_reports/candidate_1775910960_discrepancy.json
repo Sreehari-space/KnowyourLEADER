@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910960",
+    "candidate_name": "A. Balaji",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "THAKKAM KATCHI",
+    "constituency": "TIRUTTANI, TAMILNADU",
+    "pan": "FCVPA0984D",
+    "phone": "8778264836",
+    "email": "abalaji14021988@gmail.com",
+    "address": "46-313, BOMMARAJIPETTAI (P), KEEZHKUDIYANAVAR STREET, TIRUTTANI, THIRUVALLUR - 631208",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "2014- BA (History) – Madras University; 2018 - B.Ed - CM Annamalai College - Vellathur",
+    "profession": "Former"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3432370.0,
+    "total_liabilities_xls": 47000.0,
+    "net_worth_xls": 3385370.0,
+    "cash_xls": 35000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916436",
+    "candidate_name": "C. Sundar (C.சுந்தர்)",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent (சுயேட்சை)",
+    "constituency": "131 - Natham Assembly Constituency (131 - நத்தம் சட்டப்பேரவைத் தொகுதி)",
+    "pan": "JWKPS0803L",
+    "phone": "9943539780",
+    "email": "none (இல்லை)",
+    "address": "155, விளாம்பட்டி, சாத்தம்பாடி (போஸ்ட்), நத்தம், திண்டுக்கல் மாவட்டம்.-624401)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th, Government Boys Higher Secondary School, Natham, 2001 (12TH, துரைகமலம் அரசு ஆண்கள் மேல்நிலை, நத்தம், 2001)",
+    "profession": "Farmer (விவசாயி)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 860000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 860000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

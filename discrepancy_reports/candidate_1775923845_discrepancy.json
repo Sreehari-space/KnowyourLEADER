@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923845",
+    "candidate_name": "S. மோகன்",
+    "candidate_name_json": null,
+    "age": "63",
+    "party": "Independent",
+    "constituency": "94, Namakkal Assembly Constituency, Tamil Nadu",
+    "pan": "ANLPM0504B",
+    "phone": "9443214924",
+    "email": "mohannklmk@gmail.com",
+    "address": "1, Chavadi Street, Anbunagar-2, Ramapuram Pudur, Namakkal Town, Namakkal District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "PUC, Chikkaiya Naickar College, Erode, 1977",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6143000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 6143000.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

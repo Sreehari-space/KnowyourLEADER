@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775925251",
+    "candidate_name": "M. Sri Sabarinathan",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Independent",
+    "constituency": "88 Salem West Assembly Constituency",
+    "pan": "CUSPS1810A",
+    "phone": "9994691791",
+    "email": "galaxyassociates05@gmail.com",
+    "address": "69, Meenampalayam Nagar, Kandampatti, Suramangalam, Salem-636 005",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9th standard, Sirumalar Higher Secondary School, Salem-636 007, completed in 1999.",
+    "profession": "Vehicle buyer and seller"
+  },
+  "financial_summary": {
+    "total_assets_xls": 180000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 180000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

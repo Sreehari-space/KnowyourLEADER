@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917713",
+    "candidate_name": "M. Poopathi Ramaraj Chozhan (மு பூபதி ராஜராஜ சோழன்)",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Akila India Viduthalai Vengaikal Katchi (அகில இந்திய விடுதலை வேங்கைகள் கட்சி)",
+    "constituency": "104, Bhavani Assembly Constituency, Tamil Nadu (104, பவானி சட்ட மன்ற தொகுதி, தமிழ்நாடு)",
+    "pan": "FCKPB2961Q",
+    "phone": "9524444446",
+    "email": "NIL",
+    "address": "Door No. 495, Kaveri Street, Bhavani Taluk, Erode District - 638 301 (கதவு எண். 495, காவேரி வீதி, பவானி வட்டம், ஈரோடு மாவட்டம் - 638 301)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "6th Standard, Kullampalayam High School, 1996 (6th Standard, Kullampalayam High School, 1996 Year)",
+    "profession": "NIL"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1375000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1375000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

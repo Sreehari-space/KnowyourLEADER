@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904572",
+    "candidate_name": "K.S.Ravichandran",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "16, Egmore (SC)",
+    "pan": "AVEPS5592E",
+    "phone": "9840022250",
+    "email": "ksravichandranadvocate@gmail.com",
+    "address": "1, Subba Naidu Street, Choolai, Chennai 600 112",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc., Chennai State College, Chennai University (1996); B.L., Madurai, Government Law College, Madurai Kamaraj University (1999)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 52616679.05,
+    "total_liabilities_xls": 7390903.01,
+    "net_worth_xls": 45225776.04,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

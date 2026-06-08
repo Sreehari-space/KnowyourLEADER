@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908225",
+    "candidate_name": "M. Alavandhar",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "Tamizhaga Vazhvurimai Katchi",
+    "constituency": "159-Kattumannarkoil (SC), Tamil Nadu",
+    "pan": "BEQPA1108A",
+    "phone": "8925347350",
+    "email": "amalavandhar@gmail.com",
+    "address": "98, Periya Theru, Keelapoovizhudhanallur, Chettithangal Post, Kattumannarkoil Taluk, Cuddalore District, Pincode: 608304",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Pass, 1989, Government Boys Higher Secondary School, Kattumannarkoil",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3474971.5,
+    "total_liabilities_xls": 2700000.0,
+    "net_worth_xls": 774971.5,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "ADJ. SC.25/2024, கூடுதல் அமர்வு நீதிமன்றம் சிதம்பரம் (காட்டுமன்னார்கோயில் காவல் நிலையம் FIR 387/97, இந்திய தண்டனை பிரிவுகள் சட்டம் 1992, 144, 149, 174, 147, 148, 307, 332, 353, 341, 457, 506, 504(2) மற்றும் 3(1) பிரிவு) / ADJ. SC.25/2024, Additional Sessions Court, Chidambaram (Kattumannarkoil Police Station FIR 387/97, Indian Penal Code 1992, Sections 144, 149, 174, 147, 148, 307, 332, 353, 341, 457, 506, 504(2) and 3(1))",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

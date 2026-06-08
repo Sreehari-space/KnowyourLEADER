@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916324",
+    "candidate_name": "Natarajan Thangappan",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "Independent",
+    "constituency": "177 - Peravurani Assembly Constituency",
+    "pan": "AERPN0497B",
+    "phone": "7373038386",
+    "email": "jjideapasumaibhoomii@gmail.com",
+    "address": "Thanjavur District, Peravurani Taluk, Peravurani Post, Pazhaya Peravurani, South Street, Pin - 614 804, Door No. 73",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B. Sc (Agri), 1994, Agricultural and Research Institute, Tamil Nadu Agricultural University, Madurai",
+    "profession": "Agriculture related profession"
+  },
+  "financial_summary": {
+    "total_assets_xls": 71927785.0,
+    "total_liabilities_xls": 7284000.0,
+    "net_worth_xls": 64643785.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

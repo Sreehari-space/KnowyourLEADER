@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909236",
+    "candidate_name": "சி. அருள் விக்னேஷ்",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "80 கள்ளக்குறிச்சி, தமிழ்நாடு",
+    "pan": "AXEPA4464F",
+    "phone": "8056084366",
+    "email": "arulvignesh.c@gmail.com",
+    "address": "A கச்சிராயபாளையம் ரோடு, கள்ளக்குறிச்சி -606202",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th சரஸ்வதி மெட்ரிக் உயர்நிலைப்பள்ளி – 2005, 12th தாகூர் மெட்ரிக் உயர்நிலைப்பள்ளி – 2007, Msc., (Life Science) Bharathidasan University-2012",
+    "profession": "விளையாட்டு மைதான திடல் வாடகை விடுபவர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10830919.25,
+    "total_liabilities_xls": 8814359.4,
+    "net_worth_xls": 2016559.85,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

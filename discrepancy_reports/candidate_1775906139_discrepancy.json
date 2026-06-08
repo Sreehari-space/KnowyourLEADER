@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906139",
+    "candidate_name": "M.S.M. Anandhan",
+    "candidate_name_json": null,
+    "age": "64",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "114, Tiruppur South Assembly Constituency, Tamil Nadu",
+    "pan": "ACVPA8856D",
+    "phone": "9443927733",
+    "email": "msmanandanminister@gmail.com",
+    "address": "No. 36, Murungapalayam 1st Extension Street, Tiruppur City, Tiruppur District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Tenth grade, Bishop Ubagarasamy Higher Secondary School Tiruppur (1979)",
+    "profession": "Business and agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 86991675.0,
+    "total_liabilities_xls": 26359238.0,
+    "net_worth_xls": 60632437.0,
+    "cash_xls": 723510.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "Cr. No.552/2025 Mangalam P.S Tiruppur District; Cr. No.302/2022 Nungambakkam PS Chennai District; Cr.No.715/2021 Triplicane PS Chennai District",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

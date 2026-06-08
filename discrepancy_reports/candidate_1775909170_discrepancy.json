@@ -1,0 +1,468 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909170",
+    "candidate_name": "K.C. Veeramani",
+    "candidate_name_json": "VEERAMANI K.C.",
+    "age": "61",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "049 Jolarpettai, Tamil Nadu",
+    "pan": "ADKPV3559J",
+    "phone": "9443341745",
+    "email": "kcveeramani@gmail.com, kcvofficegm123@gmail.com",
+    "address": "No.1, Gandhi Road, Idayampatti, Jolarpettai, Tirupattur Taluk, Tirupattur District-635851",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Standard, Government Higher Secondary School, Jolarpettai (1980-1981)",
+    "profession": "Business, Managing Trustee, Director"
+  },
+  "financial_summary": {
+    "total_assets_xls": 579392268.0,
+    "total_liabilities_xls": 310290819.0,
+    "net_worth_xls": 269101449.0,
+    "cash_xls": 2292900.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "22,92,900 22 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "78,550 78 Thou+",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Jolarpet 4,11,841.83 4 Lacs+ Indian Bank Tirupattur Branch 1,311 1 Thou+ Indian Bank Jolarpettai Acc Closed 0 Indian Bank MLA Hostel Branch 14,38,532 14 Lacs+ SBI Jolarpettai Branch Election Purpose 1,500 1 Thou+ Indian Bank Hotel Hills Yelagiri Account 32,796 32 Thou+ Indian Bank Hotel Hills Yelagiri Tirupattur Branch 67,813 67 Thou+ AXIS Bank Hotel Yelagiri Tiruapttur Branch 6,192 6 Thou+ Indian Bank Hotel Hills Hosur Branch 14,761 14 Thou+ AXIS Bank Hotel Hills Mookandapalli Branch Hosur 15,483 15 Thou+ Indian Bank Brave Pipes Tirupattur Branch 57,574 57 Thou+ AXIS Bank Brave Pipes Bommachanadra 14,057 14 Thou+ AXIS Bank Brave Pipes Mokkandapalli Branch Hosur 91,262 91 Thou+",
+        "spouse": "SBI Jolarpettai Branch 0*(Value Not Given)",
+        "huf": "SBI Jolarpettai Branch HUF 1,536 1 Thou+",
+        "dependent1": "HDFC Asiriyar Nagar Branch 824 8 Hund+ Indian Bank Tirupaattur Branch 1,241 1 Thou+",
+        "dependent2": "HDFC Asiriyar Nagar Branch 6,659 6 Thou+ Indian Bank Tirupattur Branch 1,378 1 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "VBR Hills Properties (Firm) 52,29,372 52 Lacs+ Sri Padma Agency (Firm) 23,00,932 23 Lacs+ Home Designer and Fabricators Pvt. Ltd. Hosur 1,15,700 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Harihara Properties Capittal 52,90,628 52 Lacs+ M/s.Akalya Transport Corporation 2,44,97,023 2 Crore+",
+        "dependent1": "Nil",
+        "dependent2": "Home designer and Fabricators Pvt Ltd 2,662.50 2 Thou+",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy 5,00,000 5 Lacs+ LIC Policy 5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Others Sundry Advances Amount 24,03,562 24 Lacs+ Sundry Debtors 96,85,039 96 Lacs+ NIKHIL Sivaprasad 2,00,00,000 2 Crore+ Green Leaves Imex Pvt. Ltd 1,23,00,000 1 Crore+ P.Rr.Chenna 1,00,00,000 1 Crore+ GSK Blue MetalYazhini Amount 11,00,000 11 Lacs+ Guna Contractor 20,00,000 20 Lacs+ VGK Contractor 20,00,000 20 Lacs+ Ramakrishnan 60,00,000 60 Lacs+ DNC Silver Spring 2,00,00,000 2 Crore+ N.Mohan 1,00,00,000 1 Crore+ Loganathan 95,00,000 95 Lacs+ PAC (Palar Agricultural Collage) 30,00,000 30 Lacs+ Loans and Desposits 17,84,500 17 Lacs+ Trade Receivables (Sundry Debtors) 4,65,93,768 4 Crore+ Home Designer and Fabricators Pvt. Ltd. Hosur 11,83,70,505 11 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TN24 BF 2424 THAR (2022) 9,50,000 9 Lacs+ TN83??3142 MAHI THAR RED (2021) 9,00,000 9 Lacs+ TN83MH1670 Bolero (2025) 9,80,000 9 Lacs+ TN83 W6499 Innova (2016) 10,00,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Toyota Innova 3,16,805 3 Lacs+",
+        "dependent1": "Nil",
+        "dependent2": "TN23 CT4509 Bentley (2020) 1,56,800 1 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 450 Gram 9,45,000 9 Lacs+",
+        "spouse": "Gold 1700 gram 35,70,000 35 Lacs+ Silver 100 gram 52,00,000 52 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "BusinessFixed Assets + Stock + Others) Furniture & Fixtures, Electrical, Kitchen Equipment 2,03,79,314 2 Crore+ Plant & Machinery (Hotel & Manufacturing) 1,73,76,003 1 Crore+ Solar Plant, Computers & Software 56,89,319 56 Lacs+ Current Assets: Business Assets Closing Stock / Inventory 6,40,25,159 6 Crore+ Other Current Assets 1,04,54,390 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Tirupattur District, Natrampally Taluk, Gudiyanakuppam Village Survey No. 278/11B, 278/8H Doc no 3405/2025 Total Area 78 (63+15) Cents Built Up Area Whether Inherited N Purchase Date 2025-09-18 Purchase Cost 0.00 Development Cost 0.00 3,27,730 3 Lacs+ Tirupattur District Natrampally Taluk, Gudiyanakuppam Village Survey No. 277/4B1 Doc No 4483/2025 Total Area 1.74 acres Built Up Area Whether Inherited N Purchase Date 2025-12-11 Purchase Cost 0.00 Development Cost 0.00 20,180 20 Thou+ Vellore District, Perranampattu Taluk, Kothamarikuppam Survey No. 95/1B1 Doc No 3516/2023 Total Area 8.87 / Acre Built Up Area Whether Inherited N Purchase Date 2023-10-16 Purchase Cost 0.00 Development Cost 0.00 23,03,100 23 Lacs+ Tirupattur District, Natrampalli Taluk, Gudiyanakuppam Village Survey No.331/4 to 13 Doc no 3487/2023 (54% Share) Total Area 83.09 cents Built Up Area Whether Inherited N Purchase Date 2023-10-02 Purchase Cost 0.00 Development Cost 0.00 4,34,457 4 Lacs+ Gudiyanakuppam Village Survey, Natrampally Taluk, Tirupattur District No.331/7A, 7B 54% Share Doc No 3489/2023 Total Area 61 3/4 cent Built Up Area Whether Inherited N Purchase Date 2023-02-10 Purchase Cost 0.00 Development Cost 0.00 7,52,910 7 Lacs+ Tirupattur District, Natrampalli Taluk, Gudiyanakuppam Village Survey No.331/7A, 7B (54% Share) Doc No 3488/2023 Total Area 61 3/4 cent Built Up Area Whether Inherited N Purchase Date 2023-10-02 Purchase Cost 0.00 Development Cost 0.00 7,52,910 7 Lacs+ Tirupattur District Natrampally Taluk, No. 334/2A, (54% Share) Doc no 4145/2024 Total Area 1.91 acres Built Up Area Whether Inherited N Purchase Date 2024-11-11 Purchase Cost 0.00 Development Cost 0.00 3,33,812 3 Lacs+",
+        "spouse": "Thiruvannamalai District,Guruvumalai Sur No 43/1, Area: 0.11.0 41/2, Area: 0.11.5, 43/3, Area: 0.10.5, 43/4, Area: 0.12.5, 43/5, Area: 0.13.0, 53,Area: 0.12.5, 54/3, Area: 0.19.0, 55/2, Area: 0.23.5, 55/5, Area: 0.10.0, 56,Area: 0.47.0, 57/1, Area: 0.36.5, 58/3,Area: 0.31.0 Total Area Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 2,48,40,000 2 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Tirupattur taluk Yelagirimalai, Kotaiyur village survey no. 90 vacant land Doc No 2003-35 Total Area 8 1/2 cent Built Up Area Whether Inherited N Purchase Date 2003-01-09 Purchase Cost 0.00 Development Cost 0.00 86,160 86 Thou+ Tirupattur taluk , Yelagirimalai, Kotaiyur village survey no.90 vacant land Doc No 1956/2010 Total Area 2 1/4 cent Built Up Area Whether Inherited N Purchase Date 2010-06-21 Purchase Cost 0.00 Development Cost 0.00 52,250 52 Thou+ Tirupattur Taluk, Yelagirimalai, Kotaiyur Village Survey No. 90/12A, Doc No 2899/2013 Total Area 3960 sq. ft Built Up Area Whether Inherited N Purchase Date 2012-10-03 Purchase Cost 0.00 Development Cost 0.00 97,340 97 Thou+ Tirupattur taluk , Yelagirimalai,Kotaiyur village survey no.90/11 vacant land Doc No 3019/2012 Total Area 12 cents Built Up Area Whether Inherited N Purchase Date 2012-10-15 Purchase Cost 0.00 Development Cost 0.00 97,340 97 Thou+ Tirupattur Taluk, Yelagirimalai Kotaiyur Village Survey No. 90/1D2 Patta No. 1061 vacant land Doc No 1768/2013 Total Area 08 cent Built Up Area Whether Inherited N Purchase Date 2013-06-27 Purchase Cost 0.00 Development Cost 0.00 5,00,320 5 Lacs+ Tirupattur Taluk , Jolarpettai Village Survey No. 106/3A, Doc No 2520/2011 Total Area 5720 sq ft Built Up Area Whether Inherited N Purchase Date 2011-08-04 Purchase Cost 0.00 Development Cost 0.00 1,56,916 1 Lacs+ Tirupattur Taluk ,Yelagirimalai, Kotaiyur Village Survey No. 90/10, Doc No 373/2023 Total Area 14 cent Built Up Area Whether Inherited N Purchase Date 2023-02-02 Purchase Cost 0.00 Development Cost 0.00 27,620 27 Thou+ Tirupattur Taluk , Jolarpettai Village Survey No. 106/3A1 Doc No 1536/2013 Total Area 2905 sq m Built Up Area Whether Inherited N Purchase Date 2013-06-06 Purchase Cost 0.00 Development Cost 0.00 5,40,790 5 Lacs+ Tirupattur Taluk Jolarpettai Village Survey No. 106/10, Doc No 630/2021 Total Area 11.70 cents Built Up Area Whether Inherited N Purchase Date 2021-02-09 Purchase Cost 0.00 Development Cost 0.00 26,900 26 Thou+ Tirupattur Taluk, Jolarpettai Village Survey No. 106/8, Doc No 1054/2013 Total Area 28.67 cents Built Up Area Whether Inherited N Purchase Date 2013-04-15 Purchase Cost 0.00 Development Cost 0.00 37,780 37 Thou+ Tirupattur Town, Survey No. 501 Doc No 1783/2016 Total Area 10033.50 sq. ft. Built Up Area Whether Inherited N Purchase Date 2016-02-24 Purchase Cost 0.00 Development Cost 0.00 1,77,560 1 Lacs+ Vellore District, Perranampattu Taluk, Kothamarikuppam Survey No. 95/1B2 Doc No 881/2024 Total Area 13 Cents Built Up Area Whether Inherited N Purchase Date 2024-02-29 Purchase Cost 0.00 Development Cost 0.00 6,13,790 6 Lacs+ Tirupattur Taluk ,Jolarpettai Village Survey No. 106/8 Doc No 630/2021 Total Area 28.67 cents Built Up Area Whether Inherited N Purchase Date 2021-02-09 Purchase Cost 0.00 Development Cost 0.00 26,900 26 Thou+ Tirupattur Taluk, Jolarpettai, Gandhi Road, Idiyampatti Survey No. 102/56, Doc No 2371/2025 Total Area 2702 sq Built Up Area Whether Inherited N Purchase Date 2025-06-27 Purchase Cost 0.00 Development Cost 0.00 7,13,360 7 Lacs+",
+        "spouse": "Tiruvannamalai District, Polur Town, Survey No. 90/3C Total Area 5500 sq ft 90 cent Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,00,00,000 1 Crore+ Tiruvannamalai District , Polur Town, Survey No. 215/2 Total Area 3280 sq ft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 50,00,000 50 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Tirupattur District Tirupattur Taluk Jolarpettai Village Survey No. 106/3A1 Doc No 2041/2015 Total Area 1057 1/2 sq ft Built Up Area Whether Inherited N Purchase Date 2015-07-10 Purchase Cost 0.00 Development Cost 0.00 4,58,320 4 Lacs+ Tirupattur District, Tirupattur Taluk, Jolarpettai Village Survey No. 106/3A1 Doc nO 2174/2013 Total Area 3967 1/2 sq Built Up Area Whether Inherited N Purchase Date 2013-08-13 Purchase Cost 0.00 Development Cost 0.00 8,42,240 8 Lacs+ Tirupattur District, Tirupattur Taluk, Yelagirimalai (Hotel Hills) Village Survey No. 45/1B2, 45/51 Doc No 315/2018 Total Area 73248 sq. ft Built Up Area Whether Inherited N Purchase Date 2018-02-19 Purchase Cost 0.00 Development Cost 0.00 1,64,95,589 1 Crore+ Tirupattur District, Tirupattur Town (Hotel Hills) Survey No. 501, Doc No 4733/2013 Total Area 3327 3/4 sq ft Built Up Area Whether Inherited N Purchase Date 2013-05-13 Purchase Cost 0.00 Development Cost 0.00 2,91,24,864 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Jolarpet Sur No 106/4A 73 cent 106/4B 87 cent Total Area 1.60 Acre Built Up Area 10900 sq ft Whether Inherited N Purchase Date 1993-04-15 Purchase Cost 107492.00 Development Cost 11786200.00 1,18,93,692 1 Crore+ Bengaluru Banaswadi Sur No 102/3 103 doc no 19197/2015 Total Area 19874 sq ft Built Up Area 66497.301 sq ft Whether Inherited N Purchase Date 2015-02-13 Purchase Cost 41640450.00 Development Cost 19209115.00 6,08,49,565 6 Crore+ No.21/LEITH Castel North Street,, Santhome, Chennai600028 S.No.4585/1 Doc No 1842/2017 Total Area 2800 sq ft Built Up Area 7460 sq ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 50129.00 Development Cost 12349400.00 1,23,99,529 1 Crore+ Jolarpet Sur No 65/31 Doc No 3404/2025 Total Area 2458 sq ft Built Up Area 258.34 sq ft Whether Inherited N Purchase Date 2025-06-27 Purchase Cost 911510.00 Development Cost 0.00 9,11,510 9 Lacs+",
+        "spouse": "Tiruvannamalai Polur Nagar No 90/3C Total Area 5500 Built Up Area 4000 sq ft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 1000000.00 1,00,00,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "India Bank Town Branch Tirupattur Term Loan 9,16,14,039 9 Crore+ Indian Bank. Tirupattur Over Draft 1,33,44,883 1 Crore+ M/s.Akalya Transport Corporation 4,13,70,777 4 Crore+ M/s.Suthathan manam 2,00,00,000 2 Crore+ Dhanda Bramantha Rao 1,79,10,360 1 Crore+ Jyothirmaye Real Estate 1,00,00,000 1 Crore+ Premie Drape 56,00,000 56 Lacs+ Other Unsecured Loans 41,80,872 41 Lacs+",
+      "spouse": "Nil",
+      "huf": ".NALABOTH Venkata Rao (HUF) 3,00,00,000 3 Crore+ J.Padmasini Estate (HUF) 85,00,000 85 Lacs+",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "K.K.Chinnaraj Son 1,33,065 1 Lacs+ Padma Agency 42,75,591 42 Lacs+ Trade Payable (Sundry Creditors) 4,83,47,182 4 Crore+ Home Designers & Fabricators Pvt. 1,17,34,841 1 Crore+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Other Current Liabilties 27,69,107 27 Lacs+ Advances from Customer (Reservations) 5,10,102 5 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 42,27,248 | 2023 - 2024: Rs 1,64,64,750 | 2022 - 2023: Rs 86,64,350 | 2021 - 2022: Rs 10,84,490 | 2020 - 2021: Rs 63,36,682"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,52,150 | 2023 - 2024: Rs 4,15,360 | 2022 - 2023: Rs 4,79,950 | 2021 - 2022: Rs 2,03,190 | 2020 - 2021: Rs 19,71,940"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (7 case(s))",
+    "case_numbers_xls": "Crime No.12/2021; Crime No.324/2023; STC 779/2025; Crime No.0065/2021; Crime No.0684/2021; Crime No.0527/2024; Crime No.236/2025",
+    "criminal_cases_json": {
+      "count": "7",
+      "summary": "Number of Criminal Cases:7",
+      "ipc_charges": [
+        "1 charges related to Punishment for criminal intimidation (IPC Section-506)",
+        "1 charges related to Punishment for theft (IPC Section-379)",
+        "1 charges related to Bribery (IPC Section-171B)",
+        "1 charges related to Punishment for bribery (IPC Section-171E)",
+        "1 charges related to Punishment for undue influence or personation at an election (IPC Section-171F)",
+        "1 charges related to Mischief causing damage to the amount of fifty rupees (IPC Section-427)",
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Malignant act likely to spread infection of disease dangerous to life (IPC Section-270)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Refusing to sign a statement made to a public servant when legally required to do so. (BNS Section-215)",
+        "1 charges related to Furnishing false information (BNS Section-212)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (BNS Section-223)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Vigilance Anticorruption Vellore District Crime No.12/2021",
+          "case_no": "Nil",
+          "court": "Honble CJM Court Vellore",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 13(2) R/w 13(1)(e) of PC Act, 13(2) r/w 13(1)(b) of PC Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No.324/2023, on the File of Hennur Police Station Bengaluru City, Banasawadi Sub Division Karnataka State",
+          "case_no": "Nil",
+          "court": "Honble Court of 11th Add.CMM Court Mayhall Bangaluru Karnataka",
+          "law_type": "IPC",
+          "ipc_sections": "427, 506, 379",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "Crl. Op. 136/2024 Petition filed Under/Section 482 CrPC/528 BNSS Before the Honble Karnataka High School Court and it has been Stayed B. Report Filed"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "The Returning Officer Jolarpet Assembly Constituency cum PA to Collector (Land) Tirupattur",
+          "case_no": "STC 779/2025",
+          "court": "Honble Judicial Magistrate 1 court Tirupattur",
+          "law_type": "BNS",
+          "ipc_sections": "215, 212",
+          "other_details": "Section 125A RP Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "Yes",
+          "appeal_status": "To Quash the Complaint 482 CrPC Petition Filed and Dismissed by Honble High Court and Honble Supreme Court"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Crime No.0065/2021 Jolarpettai Police Station",
+          "case_no": "Nil",
+          "court": "Honble Judicial Magistrate 1 court Tirupattur",
+          "law_type": "IPC",
+          "ipc_sections": "171B, 171E, 171F",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Crime No.0684/2021 Tirupattur Town Police Station",
+          "case_no": "Nil",
+          "court": "Honble Judicial Magistrate 1 court Tirupattur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 270, 341",
+          "other_details": "Section-3 TNOPPD Act, Section-51(b) DM Act 2005",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Crime No.0527/2024 Tirupattur Town Police Station",
+          "case_no": "Nil",
+          "court": "Honble Judicial Magistrate 1 court Tirupattur",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 223",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Crime No.236/2025 On the file of Tiruvannamalai Town Police Station",
+          "case_no": "Nil",
+          "court": "Honble Judicial Magistrate Tiruvannamalai",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 55,47,42,574 ~55 Crore+",
+    "Liabilities:": "Rs 31,02,90,819 ~31 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "HIGH",
+      "title": "Severe Negative Net Worth",
+      "description": "Calculated Net Worth is heavily negative (₹-50,362,955), indicating liabilities far exceed assets."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "2250.0g gold declared at ₹4,515,000 (Implied rate: ₹2,007/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'VBR Hills Properties (Firm) 52,29,372 52 Lacs+ Sri Padma Agency (Firm) 23,00,932 23 Lacs+ Home Designer and Fabricators Pvt. Ltd. Hosur 1,15..."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹74,153,256) does not match declared total assets (₹554,742,574). Difference: ₹480,589,318"
+    }
+  ]
+}

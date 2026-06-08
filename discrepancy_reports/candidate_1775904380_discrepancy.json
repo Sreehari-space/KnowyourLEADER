@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904380",
+    "candidate_name": "Ra. Ezhil Ilavarasi",
+    "candidate_name_json": null,
+    "age": "38",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "119-Thondamuthur Assembly Constituency",
+    "pan": "ABNPE8750F",
+    "phone": "96886, 97999",
+    "email": "dr.ezhilelavarasi@gmail.com",
+    "address": "B-201, Green Park, Apartment, Sugar Cane Road, Seeranaicken Palayam, Coimbatore - 641007",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.D.S (Bachelor of Dental Surgery), FEB 2015, Chettinad Dental College",
+    "profession": "தனி நபர் மருத்துவர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8257000.0,
+    "total_liabilities_xls": 2097000.0,
+    "net_worth_xls": 6160000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

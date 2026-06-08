@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918414",
+    "candidate_name": "கவிதா",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "சுயேட்சை",
+    "constituency": "111 மேட்டுப்பாளையம் சட்டமன்ற தொகுதி",
+    "pan": "IKPPK0211L",
+    "phone": "8940610889",
+    "email": "kavithas1204@gmail.com",
+    "address": "190, ஆலாங்கண்டிபுதூர், தோலம்பாளையம், கோபநேரி ஆ . எப்., மேட்டுப்பாளையம் வட்டம், கோயமுத்தூர் மாவட்டம் 641113",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC - அரசு மேல்நிலைப்பள்ளி, புஜங்கனூர், வருடம் - 1995",
+    "profession": "தொழிலாளி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 9333487.0,
+    "total_liabilities_xls": 2675000.0,
+    "net_worth_xls": 6658487.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

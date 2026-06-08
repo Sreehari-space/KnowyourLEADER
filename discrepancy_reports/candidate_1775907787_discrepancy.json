@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907787",
+    "candidate_name": "M.R.Vijayabhaskar",
+    "candidate_name_json": null,
+    "age": "62",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "135, Karur Assembly Constituency",
+    "pan": "AFAPB4102R",
+    "phone": "9092446677",
+    "email": "rainbowvijayabhaskar@gmail.com",
+    "address": "325, N.S.K. Nagar, L.N.S. Post, Andankovil East, Karur- 639 002",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "11th Standard (+1), Municipal Higher Secondary School, Karur, Trichy District (1982-1983)",
+    "profession": "Agriculture, cardboard manufacturing, dyeing, textile, crusher and politics."
+  },
+  "financial_summary": {
+    "total_assets_xls": 170670380.0,
+    "total_liabilities_xls": 54562173.0,
+    "net_worth_xls": 116108207.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (21 case(s))",
+    "case_numbers_xls": "FIR No.457/2016 (Karur Nagar PS); FIR No.1253/2021 (Karur Nagar PS); FIR No.1371/2021 (Karur Nagar PS); FIR No.1510/2021 (Karur Nagar PS); FIR No.1706/2021 (Karur Nagar PS); FIR No.154/2022 (Karur Nagar PS); FIR No.156/2022 (Karur Nagar PS); FIR No.177/2022 (Karur Nagar PS); FIR No.516/2022 (Karur Nagar PS); FIR No.635/2022 (Karur Nagar PS); FIR No.638/2022 (Karur Nagar PS); FIR No.783/2022 (Karur Nagar PS); FIR No.6/2023 (Karur Nagar PS); FIR No.7/2023 (Karur Nagar PS); FIR No.136/2024 (Karur Nagar PS); FIR No.184/2024 (Karur Nagar PS); FIR No.220/2024 (Karur Nagar PS); FIR No.129/2026 (Karur Nagar PS); FIR No.237/2026 (Karur Nagar PS); FIR No.238/2026 (Karur Nagar PS); FIR No.709/2021 (Thanthondrimalai PS); FIR No.710/2021 (Thanthondrimalai PS); FIR No.6/2022 (Thanthondrimalai PS); FIR No.483/2022 (Thanthondrimalai PS); FIR No.6/2025 (Thanthondrimalai PS); FIR No.117/2026 (Thanthondrimalai PS); FIR No.142/2024 (Vangal PS); FIR No.245/2024 (Vangal PS); FIR No.304/2025 (Vangal PS); FIR No.256/2023 (Vengamedu PS); FIR No.307/2025 (Vengamedu PS); FIR No.310/2025 (Vengamedu PS); FIR No.41/2026 (Vengamedu PS); FIR No.1/2024 (Karur Crime Branch); FIR No.05/AC/2021 (Karur V&AC)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

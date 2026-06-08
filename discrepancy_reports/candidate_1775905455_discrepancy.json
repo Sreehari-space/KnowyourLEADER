@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905455",
+    "candidate_name": "R. Narasimmareddy",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "56, Thali Assembly Constituency, Tamil Nadu",
+    "pan": "AMEPRN3569K",
+    "phone": "9944754042",
+    "email": "veebee0884@gmail.com",
+    "address": "227, C.R. Palayam Village (and) Post, Denkanikottai Taluk-635 114, Krishnagiri District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma in Computerized Financial Accounting (DCFA)",
+    "profession": "Construction Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7505879.0,
+    "total_liabilities_xls": 1423896.0,
+    "net_worth_xls": 6081983.0,
+    "cash_xls": 40100.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

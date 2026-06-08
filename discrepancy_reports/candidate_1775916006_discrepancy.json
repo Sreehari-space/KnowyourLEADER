@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916006",
+    "candidate_name": "இரமேஷ்",
+    "candidate_name_json": null,
+    "age": "31",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "32-செங்கல்பட்டு சட்டமன்றத் தொகுதி, தமிழ்நாடு.",
+    "pan": "DSFPR8087G",
+    "phone": "8524088410",
+    "email": "sriramesh94@gmail.com",
+    "address": "எண்.342, வீரகவிராயர் தெரு, மறைமலை நகர், செங்கல்பட்டு வட்டம், செங்கல்பட்டு மாவட்டம், செங்கல்பட்டு - 603209.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., (BACHELOR OF ENGINEERING) - 2017, ARM COLLEGE OF ENGINEERING AND TECHNOLOGY, MARAIMALAI NAGAR.",
+    "profession": "தனியார் நிறுவன ஊழியர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3592220.0,
+    "total_liabilities_xls": 1363000.0,
+    "net_worth_xls": 2229220.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

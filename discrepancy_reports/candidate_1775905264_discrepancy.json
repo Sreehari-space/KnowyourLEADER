@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905264",
+    "candidate_name": "A. Ashokkumar",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "039 Sholingur Assembly Constituency",
+    "pan": "EHMPA1244P",
+    "phone": "8870571662",
+    "email": "tamiltheeran.tamilolli@gmail.com",
+    "address": "1, Subramaniar Kovil Street, Sevur, Arani Taluk, Tiruvannamalai District - 632316",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Engineering – BE., (ECE). 2009 – 2011 – Aarupadai Veedu Institute of Technology. Panaiyur, OMR Road. Chennai -603104",
+    "profession": "Individual - Private monthly salary. (Youtube anchor)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 423000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 423000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923465",
+    "candidate_name": "Mr. Jefferson",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "Tamilaga Valvurimai Katchi",
+    "constituency": "Nagercoil, Tamil Nadu",
+    "pan": "BJWPJ5053L",
+    "phone": "8754849804",
+    "email": "இல்லை / none",
+    "address": "61, Irulappapuram, Kottar, Nagercoil, Agastheeswaram Taluk, Kanyakumari District-6290902",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard, completed in 1996.",
+    "profession": "Self-employed"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4173000.0,
+    "total_liabilities_xls": 562700.0,
+    "net_worth_xls": 3610300.0,
+    "cash_xls": 1000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

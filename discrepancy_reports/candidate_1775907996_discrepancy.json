@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907996",
+    "candidate_name": "Ma. Palanisamy",
+    "candidate_name_json": null,
+    "age": "26",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "83 Yercaud (ST) Assembly Constituency",
+    "pan": "EPSPP8629R",
+    "phone": "7358987325",
+    "email": "palanisamybcom123@gmail.com",
+    "address": "142, Akkaraipatti, Neiyamalai, Pethanaickenpalayam circle, Salem district, Tamil Nadu - 636 114",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Commerce, Salem Sowdeswari College, Salem, Tamil Nadu - 636 010, 2020",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 736840.0,
+    "total_liabilities_xls": 74800.0,
+    "net_worth_xls": 662040.0,
+    "cash_xls": 157240.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

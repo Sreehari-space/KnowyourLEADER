@@ -1,0 +1,335 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917513",
+    "candidate_name": "A. Sudhahar Amalin Christopher",
+    "candidate_name_json": "DR.SATHISH CHRISTOPHER",
+    "age": "47",
+    "party": "Independent",
+    "constituency": "226, Palayamkottai",
+    "pan": "AYQPS2456Q",
+    "phone": "9095050494",
+    "email": "sudhahar.christopher@gmail.com",
+    "address": "Door No. C70, 7th Cross Street, N.G.O. A Colony, Jawahar Nagar, Tirunelveli - 627007",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Sc., (Physics) St. Xavier's College, Palayamkottai. B.Ed., USP College of Education, Tamilnadu Teachers Education University",
+    "profession": "Individual Insurance Agent and Retail Trader"
+  },
+  "financial_summary": {
+    "total_assets_xls": 367145.11,
+    "total_liabilities_xls": 431834.0,
+    "net_worth_xls": 64688.89000000001,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "35,000 35 Thou+",
+        "spouse": "10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "HDFC Bank Vannarpettai Branch Tirunelveli 38,25,681 38 Lacs+ Axis Bank Palayamkottai Tirunelveli 1,01,249 1 Lacs+ ICICI Bank Maharajanagar Branch Tirunelveli 20,145 20 Thou+ IOB Bank Maharajanagar Branch Tirunelveli 15,450 15 Thou+ Federal Bank (IND Money App) 613 6 Hund+ Indian Bank Vallioor 20,00,000 20 Lacs+",
+        "spouse": "HDFC Bank Vannarpettai Branch Tirunelveli 43,782 43 Thou+ ICICI Bank Maharajanagar Branch Tirunelveli 9,614 9 Thou+",
+        "huf": "Nil",
+        "dependent1": "ICICI Bank Maharajanagar Branch Tirunelveli 14,500 14 Thou+",
+        "dependent2": "ICICI Bank Maharajanagar Branch Tirunelveli 14,500 14 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Mutual Funds ICICI Pru Housing App Fund 39,000 39 Thou+ ICICI Pru Technology Fund 3,97,000 3 Lacs+ TATA Digital India Fund 3,91,000 3 Lacs+ ICICI Pru Nifty Next 50 Index 32,000 32 Thou+ ICICI Pru Pharma Healthcare 9,600 9 Thou+ DSP Natural Resources 5,890 5 Thou+ ICICI Pru Nifty Auto Index 5,160 5 Thou+ Kotak Arbitrage Fund 3,320 3 Thou+ Bandhan Short Duration 3,320 3 Thou+ UTI Nifty 50 Index 2,770 2 Thou+ ICICI Pru Nifty 50 Index 2,760 2 Thou+ DSP ELSS Tax Saver Fund 2,750 2 Thou+ ICICI Pru Large Cap Fund 2,630 2 Thou+ Quant ELSS Tax Saver 2,630 2 Thou+ Bandhan Large & Mid Cap 2,000 2 Thou+ Nippon India Nifty Midcap 150 Index Fund 1,940 1 Thou+ Ashirwad Capital 16,722 16 Thou+ IOB 100 Shares 3,220 3 Thou+ Abbott 0.04 Shares 432 4 Hund+ Qualcomm 0.16 Shares 1,925 1 Thou+ Alphabet Inc 0.2 Shares 5,577 5 Thou+ Amazon.com 0.2 Shares 3,956 3 Thou+ Apple Inc 0.16 Shares 3,792 3 Thou+ Netflix 0.6 Shares 5,344 5 Thou+ Mcdonalds Corp 0.16 Shares 4,582 4 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy Bond 10,00,000 10 Lacs+ LIC Policy Bond 10,00,000 10 Lacs+ LIC Policy Bond 2,00,000 2 Lacs+ LIC Policy Bond 3,00,000 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Barioss Foundation Deposit Director 1 25,000 25 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Car XUV300 Mahindra , 2021, TN-72-BT-1499 15,00,000 15 Lacs+ Bike Pulsar 150 2003 Model , KA-17-S-4855 60,000 60 Thou+ Bike Mahindra RODEO RZ , 2013 Model, KA-02-HV-8808 40,000 40 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "80 Grams Gold 11,16,000 11 Lacs+ 4.5 Grams In Augmont Gold App 1,37,375 1 Lacs+",
+        "spouse": "160 Grams Gold 22,32,000 22 Lacs+ Cartlane Gold App 15,000 15 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "IOB Maharaja nagar Branch Tirunelveli Car Loan 4,49,000 4 Lacs+ Bajaj Finserv (APP) Doctor Loan 27,94,000 27 Lacs+ Bajaj Lap 2,69,72,486 2 Crore+ YES Bank Madurai Branch Professional Loan 19,50,000 19 Lacs+ IOB Bank Maharajanagar , Tirunelveli Gold Loan 15,57,000 15 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 17,14,151 | 2024 - 2025: Rs 7,43,770 | 2023 - 2024: Rs 5,48,260 | 2022 - 2023: Rs 5,25,580 | 2021 - 2022: Rs 4,23,330"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,46,64,692 ~1 Crore+",
+    "Liabilities:": "Rs 3,37,22,486 ~3 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹9,855,463) does not match declared total assets (₹14,664,692). Difference: ₹4,809,229"
+    }
+  ]
+}

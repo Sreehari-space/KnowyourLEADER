@@ -1,0 +1,378 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920504",
+    "candidate_name": "P. Kathiravan",
+    "candidate_name_json": "MATHIYALAGAN V.P",
+    "age": "32",
+    "party": "Independent",
+    "constituency": "135 Karur Assembly Constituency",
+    "pan": "ESFPK8319P",
+    "phone": "8098930136",
+    "email": "kathir994400@gmail.com",
+    "address": "1, Bharathiyar Nagar, Sanapiratti Post, Karur - 639004",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.A.,LL.B., K.K.C. College of Law, Puttur, Andrapradesh, Year 2020",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1373000.0,
+    "total_liabilities_xls": 440000.0,
+    "net_worth_xls": 933000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "45,000 45 Thou+",
+        "spouse": "15,000 15 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Central Bank of India Karur Branch SB A/c 1,005 1 Thou+ Karur Vysya Bank Karur Central Branch SB A/c 14,746 14 Thou+ Indian Bank Trichy Subramanyapuram Branch SB A/c 2,380 2 Thou+ Bank of Maharashtra Karur Branch SB A/c 40,000 40 Thou+",
+        "spouse": "Canara Bank Karur Thanthoni Branch SB A/c 16,795 16 Thou+ Karur Vysya Bank, Karur Central Branch SB A/c 38,591 38 Thou+ Bank of Maharashtra Karur Branch SB A/c 40,000 40 Thou+",
+        "huf": "Nil",
+        "dependent1": "Karur Vysya Bank, Thanthoni Branch Kids SB A/c 3,526 3 Thou+",
+        "dependent2": "Karur Vysya Bank, Thanthoni Branch Kids SB A/c 12,252 12 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "M/S.Aanilayappa Tex (Partnership 50%) 10,79,621 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy 94,304 94 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Suzuki Motorcycle India P Ltd - 09/2015 TN 47 AH 4023 Suzuki Access 125 23.11.2015 68,000 68 Thou+ Maruthi Suzuki India Ltd - 03/2014 TN 47 AE 9177 New Swift VDI 30.05.2014 4,30,000 4 Lacs+ Toyota Kirloskar Motor P Ltd 04/2012 TN 47 AB 6610 Innova 25V 28.11.2024 12,00,000 12 Lacs+",
+        "spouse": "Suzuki Motorcycle India P Ltd 07/2015 TN 47 AH 2576 M-Cyde/Scooter 06.04.2023 15,000 15 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "70 Gram of Gold 9,10,000 9 Lacs+",
+        "spouse": "120 Gram of Gold 15,60,000 15 Lacs+ 50 Gram of Silver 12,500 12 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Karur District, Karur Taluk, Mookkanangurichi Village Survey No 440/12 (50% Joint ownership) Total Area 0.23.5 Built Up Area Whether Inherited N Purchase Date 2023-06-14 Purchase Cost 95000.00 Development Cost 0.00 5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Karur District, Karur Taluk, Mookkanangurichi Village, Kairasi City Apartment No: 96/1, 97/1 Flat No 43 Total Area 1584 - 3/8 Sq Ft Built Up Area Whether Inherited N Purchase Date 2009-11-16 Purchase Cost 28310.00 Development Cost 0.00 7,00,000 7 Lacs+ Karur District, Karur Taluk, Thanthoni Village, Apartment No: 303/15 & 304/2 Flat No: 48 Total Area 1534 Sq Ft Built Up Area Whether Inherited N Purchase Date 2016-03-14 Purchase Cost 739600.00 Development Cost 0.00 38,35,000 38 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Karur District, Karur Taluk, Thanthoni Village, Sivaskthi Nagar East, Flower Garden Door No 43/2 Apartment No: 303, Flat No: 48 Total Area 1534 Sq Ft Built Up Area 2000 Sq Ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 2000000.00 30,00,000 30 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Central Bank of India, Karur Gold Loan 4,03,249 4 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 12,13,834 | 2023 - 2024: Rs 6,40,803 | 2022 - 2023: Rs 5,18,358 | 2021 - 2022: Rs 5,00,535 | 2020 - 2021: Rs 4,99,670"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Attempt to commit culpable homicide. (BNS Section-110)",
+        "1 charges related to Where grievous hurt is caused. (BNS Section-125(b))",
+        "1 charges related to Punishment for culpable homicide not amounting to murder (BNS Section-105)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (BNS Section-223)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "855/2025 Karur Town Police Station. The Same was Transferred to CBI FIR No: RC2172025S0022/2025, Dated 18.10.2025 CBI/AC-II/New Delhi Police Station, New Delhi District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "105, 110, 125(b), 223",
+          "other_details": "Section 3 of TN Public Property (Prevention of Damage & Loss) Act, 1992",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,31,07,949 ~1 Crore+",
+    "Liabilities:": "Rs 4,03,249 ~4 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2023 for ₹95,000 (CII Indexed Cost: ₹102,644) is declared at highly inflated value of ₹500,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2009 for ₹28,310 (CII Indexed Cost: ₹71,923) is declared at highly inflated value of ₹700,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "240.0g gold declared at ₹2,470,000 (Implied rate: ₹10,292/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹8,020,503) does not match declared total assets (₹13,107,949). Difference: ₹5,087,446"
+    }
+  ]
+}

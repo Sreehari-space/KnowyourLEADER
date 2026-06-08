@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905184",
+    "candidate_name": "Archana. K.",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "042. Arcot Assembly Constituency. Tamil Nadu.",
+    "pan": "BJZPA7293L",
+    "phone": "6369023729",
+    "email": "archananarasimman28@gmail.com",
+    "address": "No: 47, Pillaiyar Kovil Street, Sarvanthangal Village, Ladavaram (Post). Arcot Taluk, Ranipet District. 632 503.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc. Physics (2011-2014, Bharathi Women's College, Chennai); B.Ed. (2014-2015, Tamil Nadu Teachers Education University, Chennai); M.Sc. Physics (2015-2017, Voorhees College, Vellore)",
+    "profession": "Cloth business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8438000.0,
+    "total_liabilities_xls": 3970000.0,
+    "net_worth_xls": 4468000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

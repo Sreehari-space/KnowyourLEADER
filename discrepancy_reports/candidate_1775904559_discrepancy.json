@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904559",
+    "candidate_name": "Mr. Selvam.K",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "189 Madurai East Assembly Constituency, Tamil Nadu",
+    "pan": "CPOPS7758J",
+    "phone": "NIL",
+    "email": "adv.kms@gmail.com",
+    "address": "142B, Sara Residency Classic Avenue, Valarnagar, Madurai-625107",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BA, BL, 2001-2006, Central Law College, Dr. Ambedkar University, Salem.",
+    "profession": "Individual Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 19732810.73,
+    "total_liabilities_xls": 1585000.0,
+    "net_worth_xls": 18147810.73,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

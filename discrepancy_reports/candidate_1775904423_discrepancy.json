@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904423",
+    "candidate_name": "KARTHIK MOHAN",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "DRAVIDA MUNNETRA KAZHAGAM (DMK)",
+    "constituency": "14-VILLIVAKKAM ASSEMBLY CONSTITUENCY (CHENNAI) TAMILNADU",
+    "pan": "AJLPK4096Q",
+    "phone": "9841977777",
+    "email": "karthickmohan682@gmail.com",
+    "address": "NO-1202, Z BLOCK, 6TH AVENUE, ANNA NAGAR, CHENNAI – 600040",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1.SSLC (X STD) – Don Bosco School, Egmore, in the year of 1996; 2. HSC (XII STD) – SBOA School, Anna Nagar, in the year of 1998; 3. Bachelor of Engineering (Anna University) in the year of 2003; 4. Master of Science (University of Strathclyde) in the year of 2005",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3461222363.65,
+    "total_liabilities_xls": 973267863.0,
+    "net_worth_xls": 2487954500.65,
+    "cash_xls": 175000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

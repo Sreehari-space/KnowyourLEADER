@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924656",
+    "candidate_name": "ம. ராஜ்குமார்",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "சுயேட்சை",
+    "constituency": "121-சிங்காநல்லூர் சட்டமன்றத் தொகுதி, தமிழ்நாடு",
+    "pan": "NONE/ஏதுமில்லை",
+    "phone": "9790666977",
+    "email": "none / ஏதுமில்லை",
+    "address": "கதவு எண் 6B, அன்னை தெரசா வீதி, குட்டி நாயுடு லே-அவுட், உப்பிலிபாளையம், கோயமுத்தூர் - 641015",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10வது வகுப்பு - 1995, அரசு மேல்நிலைப்பள்ளி, ஒண்டிபுதூர், கோயம்புத்தூர்",
+    "profession": "கட்டிட வேலை செய்து வருகிறார்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 305000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 305000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

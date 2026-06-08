@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917355",
+    "candidate_name": "P. Sundarapandian (ப. சுந்தரபாண்டியராஜா)",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "Independent (சுயேட்சை)",
+    "constituency": "Tiruchirappalli West Assembly Constituency (திருச்சிராப்பள்ளி மேற்கு சட்டமன்ற தொகுதி)",
+    "pan": "FKBPS3601H",
+    "phone": "8825600865",
+    "email": "sundar.vulture9@gmail.com",
+    "address": "Door No. 52A, Pallikooda Street, Keezhapanjappur, Trichy District - 620012 (கதவு எண்.52A, பள்ளிகூடத்தெரு, கீழப்பஞ்சப்பூர், திருச்சி மாவட்டம் -620012)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.E at Anna University Chennai – 2014 year.",
+    "profession": "Private Job (தனி நபர்: Private Job)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 355000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 355000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

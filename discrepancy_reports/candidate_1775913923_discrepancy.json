@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913923",
+    "candidate_name": "Navalpattu S Viji",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Tamil Nadu Vetri Kazhagam",
+    "constituency": "142 Thiruverumbur Assembly",
+    "pan": "ACDPV7891H",
+    "phone": "9942477777",
+    "email": "vijiengg1971@gmail.com",
+    "address": "191, A, Bharath Nagar, Poolangudi Colony, Thiruverumbur Taluk, Palanganangudi, H.A.P.P. Post, Tiruchirappalli 620025",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC (Mukkulathor Higher Secondary School, Tiruchirappalli, 1988)",
+    "profession": "Agriculture, Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1653182000.0,
+    "total_liabilities_xls": 99765813.0,
+    "net_worth_xls": 1553416187.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Convicted (1 case(s))",
+    "case_numbers_xls": "Pending Case 1: FIR No. 113/2022 Navalpattu Police Station (Sections: 294(b), 427, 506(1) IPC, Brief: Threatening); Pending Case 2: FIR No. 51/2021 Navalpattu Police Station (Sections: 294(b), 506(i) IPC r/w 67 IT ACT, Brief: Defamatory speech on Facebook); Pending Case 3: FIR No. 73/2019 Navalpattu Police Station (Sections: 294(b), 323 IPC, Brief: Speaking obscene words in public place); Pending Case 4: FIR No. 84/2018 Thiruverumbur Police Station (Sections: 143, 188, 341 IPC, Brief: Protested against ruling party); Pending Case 5: FIR No. 17/2021 Cyber Crime Trichy (Sections: 294(b), 505(2), 506(1) IPC and 67 IT Act, Brief: Defamatory speech on Facebook); Convicted Case 1: STC NO. 2837/2024, Criminal Magistrate Court 1.3. Trichy (Sections: 294(b), 323 IPC, Brief: Speaking obscene words, Date of conviction: 10.06.2025, Punishment: Rs. 2,000/- fine)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

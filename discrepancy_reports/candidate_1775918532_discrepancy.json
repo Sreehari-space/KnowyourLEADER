@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918532",
+    "candidate_name": "G.C. Ramaswamy",
+    "candidate_name_json": null,
+    "age": "61",
+    "party": "Independent",
+    "constituency": "54-Veppanapalli",
+    "pan": "பொருந்தாது/NOTAPPLICABLE",
+    "phone": "8111043703",
+    "email": "இல்லை / none",
+    "address": "106, Govinda Agraharam Village, Begapalli, Krishnagiri District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7th Standard, Government Telugu High School, Pedarapalli, Hosur.",
+    "profession": "Homemaker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6256500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 6256500.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

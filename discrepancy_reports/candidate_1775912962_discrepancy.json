@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912962",
+    "candidate_name": "C. Sudhan",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "Independent",
+    "constituency": "93 Sendamangalam (S.T.)",
+    "pan": "JEKPS0090M",
+    "phone": "6380003961",
+    "email": "sudhanbaby1997@gmail.com",
+    "address": "22, Karaiyankattupatti, Valavanthinadu, Kolli Hills Taluk, Namakkal District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, G.T.R. Higher Secondary School, Kollihills, 2011",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 456000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 456000.0,
+    "cash_xls": 23000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

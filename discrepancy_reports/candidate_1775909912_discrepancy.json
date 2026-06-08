@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909912",
+    "candidate_name": "M.L. Ravi",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "Desiya Makkal Sakthi Katchi",
+    "constituency": "24-T. Nagar, Tamil Nadu",
+    "pan": "AAFPR1527G",
+    "phone": "6380431733",
+    "email": "inmlravi@gmail.com",
+    "address": "11, Venkatraman Street, Thangasala, Chennai-600 001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc from Chennai Loyola College, Master of Law from Nagarjuna University",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 13883300.0,
+    "total_liabilities_xls": 2000000.0,
+    "net_worth_xls": 11883300.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

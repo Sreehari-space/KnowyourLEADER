@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915720",
+    "candidate_name": "கா.அலெக்ஸ் பாண்டியன்",
+    "candidate_name_json": null,
+    "age": "27",
+    "party": "சுயேட்சை",
+    "constituency": "22, விருகம்பாக்கம், தமிழ்நாடு",
+    "pan": "DCBPA5488J",
+    "phone": "9551915552",
+    "email": "alexpandian401@gmail.com",
+    "address": "30, ராணி அண்ணா நகர், கே.கே.நகர் சென்னை 600078",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BCA (2016-2019), LLB (2020-2023)",
+    "profession": "வழக்கறிஞர், சென்னை உயர் நீதிமன்றம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 539574.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 539574.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

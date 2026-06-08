@@ -1,0 +1,365 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915215",
+    "candidate_name": "P.V. Arumugam",
+    "candidate_name_json": "ARUMUGAM. P.V",
+    "age": "51",
+    "party": "Independent",
+    "constituency": "104 Bhavani Assembly Constituency",
+    "pan": "AKLPA1288P",
+    "phone": "8877889595",
+    "email": "arumugampvnavi@gmail.com",
+    "address": "1A, Nandhavana Thottam, 4th Street, Chinnasemur, Periyasemur Post, Erode, Tamil Nadu-638 004",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Pass",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 141120000.0,
+    "total_liabilities_xls": 1320000.0,
+    "net_worth_xls": 139800000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "20,000 20 Thou+",
+        "spouse": "5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Savings Account No. Canara Bank, Veerappan Chatram Branch, Erode District 20,000 20 Thou+ Savings Account No. IDFC Bank Erode Town Branch 40,000 40 Thou+",
+        "spouse": "Savings Account No. Canara Bank, Veerappan Chatram Branch, Erode District 10,000 10 Thou+",
+        "huf": "Nil",
+        "dependent1": "Savings Account No. Canara Bank, Veerappan Chatram Branch, Erode District 10,000 10 Thou+",
+        "dependent2": "Savings Account No. Canara Bank, Veerappan Chatram Branch, Erode District 5,000 5 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Policy no Star insurance 5,00,000 5 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Policy no Star insurance 5,00,000 5 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Two-wheeler Honda Sign TN 33 AQ 7079 Year of purchase 2010 25,000 25 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold 15 Pound 15,00,000 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Vellithirpur Village, Anthiyur Taluk, Erode District 8.856/14 Total Area pura acre 3.37 cent Built Up Area Whether Inherited N Purchase Date 2015-04-23 Purchase Cost 1300000.00 Development Cost 0.00 1,01,10,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Erode District, Erode Taluk, Periyasemur Village, Re-Survey No. 162/1 Total Area 1,342 1/2 Square Feet Built Up Area Whether Inherited N Purchase Date 2000-08-26 Purchase Cost 78000.00 Development Cost 2000000.00 30,00,000 30 Lacs+ Erode District, Erode Taluk, Periyasemur Village, Re-Survey No. 160 Total Area 730 1/2 Square Feet Built Up Area Whether Inherited N Purchase Date 2007-02-23 Purchase Cost 120700.00 Development Cost 0.00 25,00,000 25 Lacs+ Erode District, Erode Taluk, Periyasemur Village.161/A Total Area 2,002 1/2 Square Feet Built Up Area Whether Inherited N Purchase Date 2013-10-04 Purchase Cost 470000.00 Development Cost 500000.00 80,00,000 80 Lacs+",
+        "spouse": "Erode District Erode Taluk Periyasemur Village . 123 Re.Survey Ward C Block No.21 New T.S.No.2 as per city size Total Area 1717 sq.ft Built Up Area Whether Inherited N Purchase Date 2024-03-25 Purchase Cost 490000.00 Development Cost 3000000.00 40,00,000 40 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Erode District Anthiyur Taluk Vellithirpur R.S.No.440 Total Area 8720 sq.ft Built Up Area Whether Inherited N Purchase Date 2025-07-02 Purchase Cost 100000.00 Development Cost 0.00 30,00,000 30 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Erode District Anthiyur Taluk Vellithirpur Primary Agricultural Cooperative Bank Crop Loan Serial No. 6153 Loan Amount 1,60,000 1 Lacs+ IDBI Bank Erode Branch Jewelry Loan 1,60,000 1 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Mortgage No. payable to Mr. T. Chandrasekhar, son of K.P. Dandapani, residing at Temple Avenue Door No. 6, Chamundi Nagar, Erode Taluk, Tindal 12, Erode District 5,50,000 5 Lacs+ An agreement was made to sell the above property, measuring 3.37 sq. m., located in Vellithirpur village, Anthiyur taluk, Erode district, from A. Balakrishnan, son of Arumuga Bhaktar, residing at No. 295, K. Puthur West Gate, Edappadi taluk, Salem district, and received an advance payment of in advance. 5,00,000 5 Lacs+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,30,100 | 2023 - 2024: Rs 3,63,960 | 2022 - 2023: Rs 3,53,460 | 2021 - 2022: Rs 3,69,020 | 2020 - 2021: Rs 3,65,600"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,27,45,000 ~3 Crore+",
+    "Liabilities:": "Rs 13,70,000 ~13 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹21,995,000, but 5-year family income is only ₹1,882,140. Unexplained wealth discrepancy of ₹20,112,860."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2015 for ₹1,300,000 (CII Indexed Cost: ₹1,924,409) is declared at highly inflated value of ₹10,110,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2024 for ₹490,000 (CII Indexed Cost: ₹507,548) is declared at highly inflated value of ₹4,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Dependent1 Non Agricultural Land purchased in 2025 for ₹100,000 (CII Indexed Cost: ₹100,000) is declared at highly inflated value of ₹3,000,000."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹3,515,000 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹22,705,000) does not match declared total assets (₹32,745,000). Difference: ₹10,040,000"
+    }
+  ]
+}

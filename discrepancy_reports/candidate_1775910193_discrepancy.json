@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910193",
+    "candidate_name": "R. Kumaran",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "Tamilaga Valvurimai Katchi",
+    "constituency": "074, Villupuram, Tamil Nadu",
+    "pan": "ITLPK0751E",
+    "phone": "9600677438",
+    "email": "kumarankala30@gmail.com",
+    "address": "No.230, S.R. Nagar, Varaki Kovil Street, Salamedu, Villupuram Town & District, Pin Code: 605 401",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "IX Standard, Thiru Kamaraj Municipal Hr.Sec: School, Villupuram (1986-1987)",
+    "profession": "Individual Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4714420.0,
+    "total_liabilities_xls": 515817.0,
+    "net_worth_xls": 4198603.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "Vikravandi P.S. Cr.No.167/18; Villupuram Taluk P.S. Cr.No.31/15; Villupuram Town P.S. Cr.No.467/11; Villupuram West P.S. Cr.No.167/23 (C.C.No.156/23)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

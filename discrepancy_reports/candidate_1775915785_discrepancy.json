@@ -1,0 +1,365 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915785",
+    "candidate_name": "P. Murugan",
+    "candidate_name_json": "MURUGAN P",
+    "age": "44",
+    "party": "தமிழக படைப்பாளர் மக்கள் கட்சி",
+    "constituency": "228 Radhapuram, Tamil Nadu",
+    "pan": "GVHPM8887F",
+    "phone": "9944831184",
+    "email": "murugan07051982@gmail.com",
+    "address": "215, Kamaraj Street, Settikulam, Tirunelveli District-627120, Radhapuram, Tamil Nadu",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "அரசு உயர்நிலைப்பள்ளி, செட்டிகுளம், 9-ம் வகுப்பு இடைநிறுத்தம் (07-09-1994)",
+    "profession": "தனி நபர் தச்சுவேலை"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2686000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2686000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,00,000 1 Lacs+",
+        "spouse": "30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "40,000 40 Thou+",
+        "dependent2": "30,000 30 Thou+",
+        "dependent3": "50,000 50 Thou+"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Karur Vysya Bank-Thirumangalam branch-Savings A/C 10,241 10 Thou+ Karur Vysya Bank-Thirumangalam branch-Savings A/C 2,500 2 Thou+ Indian Bank-Villupuram branch-Savings A/C 10,000 10 Thou+",
+        "spouse": "Indian Bank, Thirukkanur branch 23,000 23 Thou+ Bank of Baroda, Thuthipattu branch 11,235 11 Thou+",
+        "huf": "Nil",
+        "dependent1": "Karur Vysya Bank-Thirumangalam branch-Savings A/C 4,500 4 Thou+ Indian Bank-Thirukanur branch 3,500 3 Thou+",
+        "dependent2": "Indian Overseas Bank, Puducherry Kathirkamam branch 10,000 10 Thou+",
+        "dependent3": "Indian Bank, Thirukanur branch 66 Karur Vysya Bank-Thirumangalam branch 5 Bank of Baroda-Thuthipet branch 346 3 Hund+"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Innova Crysta PY 01 VA 1000 5,00,000 5 Lacs+ LML Vespa PY 05 VD 7529 1,00,000 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "300 Grams 44,00,000 44 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "V.Parangani Survey No-194/3B Total Area 1.00 Acre Built Up Area Whether Inherited N Purchase Date 2018-05-28 Purchase Cost 135000.00 Development Cost 0.00 10,00,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "V.Nerkunam, Survey No-27/3, dare-1004-09-07 Total Area 872 Sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 2500.00 Development Cost 0.00 7,00,000 7 Lacs+ Puducherry, Villianur Ramanathapuram Survey No-68/3 Total Area 1467 Sqft Built Up Area Whether Inherited N Purchase Date 2015-09-27 Purchase Cost 103000.00 Development Cost 0.00 12,00,000 12 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Sithalambattu, Survey No-46/3B1A Total Area 6000 Sqft Built Up Area 6000 Sqft Whether Inherited N Purchase Date 2021-06-24 Purchase Cost 5000000.00 Development Cost 7800000.00 1,60,00,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Matrambattu Village, Survey No-260/26 Total Area 1216 Sqft Built Up Area 1216 Sqft Whether Inherited N Purchase Date 2020-08-28 Purchase Cost 250000.00 Development Cost 0.00 10,00,000 10 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Indian Bank, Asian Colony branch-IB/RAPCHN/HLP/ASTAD COLONY/2022023 71,82,800 71 Lacs+ Indian Bank, Asian Colony branch-Housing Loan 34,30,856 34 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Indian Bank, Asian Colony branch-overdraft 49,87,034 49 Lacs+ Indian Bank, Asian Colony branch-Term Loan 19,59,580 19 Lacs+ Indian Bank, Thirukkanur Branch-Overdraft 9,65,589 9 Lacs+ Bank of Baroda-Thuthipattu-Term loan 61,88,455 61 Lacs+",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 7,50,330 | 2023 - 2024: Rs 0 | 2022 - 2023: Rs 4,15,020 | 2021 - 2022: Rs 0 | 2020 - 2021: Rs 0"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 7,63,250 | 2023 - 2024: Rs 5,91,250 | 2022 - 2023: Rs 6,49,000 | 2021 - 2022: Rs 6,40,000 | 2020 - 2021: Rs 0"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 13,26,840 | 2023 - 2024: Rs 10,76,280 | 2022 - 2023: Rs 7,57,370 | 2021 - 2022: Rs 0 | 2020 - 2021: Rs 0"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Y",
+      "year": "2023 - 2024",
+      "income": "2023 - 2024: Rs 4,42,180 | 2023 - 2024: Rs 0 | 2022 - 2023: Rs 0 | 2021 - 2022: Rs 0"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 12,80,570 | 2023 - 2024: Rs 9,20,240 | 2022 - 2023: Rs 6,90,000 | 2021 - 2022: Rs 5,00,230 | 2020 - 2021: Rs 4,99,950"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "STC/51/2020",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Disobedience to order duly promulgated by public servant (BNS Section-223)",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "338/2025, Kandanmangalam",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 223, 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 2,45,25,387 ~2 Crore+",
+    "Liabilities:": "Rs 2,47,14,314 ~2 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2018 for ₹135,000 (CII Indexed Cost: ₹181,286) is declared at highly inflated value of ₹1,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Dependent1 Residential Buildings purchased in 2020 for ₹250,000 (CII Indexed Cost: ₹312,292) is declared at highly inflated value of ₹1,000,000."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

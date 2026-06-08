@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905600",
+    "candidate_name": "K. Selvakumar",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "131 Natham Assembly Constituency, Tamil Nadu",
+    "pan": "EVAPS3092B",
+    "phone": "9443165164",
+    "email": "skeerthika160588@gmail.com",
+    "address": "55, Kuditheru, Kothamangalam, Ramji Nagar Post, Tiruchirappalli - 620 009",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bangalore University - Dropout 2008",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 63328072.0,
+    "total_liabilities_xls": 2895918.0,
+    "net_worth_xls": 60432154.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (9 case(s))",
+    "case_numbers_xls": "குற்ற எண். 33/2025 / Crime No. 33/2025; குற்ற எண். 168/2024 / Crime No. 168/2024; குற்ற எண். 690/2023 / Crime No. 690/2023; குற்ற எண். 208/2023 / Crime No. 208/2023; குற்ற எண். 163/2022 / Crime No. 163/2022; குற்ற எண். 92/2021 / Crime No. 92/2021; குற்ற எண். 53/2021 / Crime No. 53/2021; குற்ற எண். 275/2019 / Crime No. 275/2019; குற்ற எண். 68/2017 / Crime No. 68/2017",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

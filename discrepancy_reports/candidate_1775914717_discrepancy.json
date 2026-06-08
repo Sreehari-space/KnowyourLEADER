@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914717",
+    "candidate_name": "S.Eswar",
+    "candidate_name_json": null,
+    "age": "27",
+    "party": "Independent",
+    "constituency": "181 - Thirumayam, Tamil Nadu",
+    "pan": "AEIPE3789A",
+    "phone": "9003595205",
+    "email": "eswarsubramanian99@gmail.com",
+    "address": "Pudukkottai District, Pudukkottai, Mel 3rd Street, T.S.No.3676",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Std, Vairams School, Pudukkottai - 2015",
+    "profession": "Labour Contractor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 129578.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 129578.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

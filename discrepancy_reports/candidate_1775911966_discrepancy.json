@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911966",
+    "candidate_name": "Sunil Anand",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "111 - Mettupalayam, Tamil Nadu",
+    "pan": "ALEPS7648M",
+    "phone": "9003193776",
+    "email": "nsunilanand@gmail.com",
+    "address": "Door No: 11, Ward No: 22, Poraiyagowder Street, Mettupalayam, Coimbatore District - 641301",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (Mahajana Higher Secondary School, Mettupalayam - 1990), 11th Standard (Mahajana Higher Secondary School, Mettupalayam - 1991 - Dropout)",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1674614165.07,
+    "total_liabilities_xls": 28267366.78,
+    "net_worth_xls": 1646346798.29,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

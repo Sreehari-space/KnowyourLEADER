@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911851",
+    "candidate_name": "o Kesavan",
+    "candidate_name_json": null,
+    "age": "70",
+    "party": "Independent",
+    "constituency": "77, Ulundurpettai",
+    "pan": "KNTPK3770D",
+    "phone": "7502038342",
+    "email": "ஏதுமில்லை / nil",
+    "address": "143 Pudhu Colony, Pandur, Ulundurpettai Taluk, Kallakurichi District -606102",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Fifth Standard",
+    "profession": "Agricultural Laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2735500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2735500.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

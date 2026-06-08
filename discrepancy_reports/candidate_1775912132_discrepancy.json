@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912132",
+    "candidate_name": "V. Seetharaman",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "ACDP Anti-Corruption Action Party",
+    "constituency": "68, Cheyyar, Tamil Nadu",
+    "pan": "1BLPS8561Q",
+    "phone": "9940247479",
+    "email": "pvs.thundu@gmail.com",
+    "address": "No. T1, Thirikayamman Street, Pulivalam, Vembakkam Post, Tiruvannamalai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th pass",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2705000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2705000.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

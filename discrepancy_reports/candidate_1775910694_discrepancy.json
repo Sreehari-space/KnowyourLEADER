@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910694",
+    "candidate_name": "Sakayam D",
+    "candidate_name_json": null,
+    "age": "58",
+    "party": "Indian Communist Party (Marxist-Leninist) (Liberation)",
+    "constituency": "Thoothukudi-214",
+    "pan": "FFXPS9080D",
+    "phone": "8056313370",
+    "email": "sahayamaicctu@gmail.com",
+    "address": "7-1, East Street, Pandarampatti, Sankaraperi, Thoothukudi Taluk, Thoothukudi District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, St. Mary's Boys Hr.Sec. School, Thoothukudi - 1986",
+    "profession": "Lorry Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2761597.0,
+    "total_liabilities_xls": 290000.0,
+    "net_worth_xls": 2471597.0,
+    "cash_xls": 1000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

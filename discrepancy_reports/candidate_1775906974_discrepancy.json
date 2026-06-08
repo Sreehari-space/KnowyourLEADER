@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906974",
+    "candidate_name": "V. MOORTHY",
+    "candidate_name_json": null,
+    "age": "67",
+    "party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM (AIADMK)",
+    "constituency": "009 - MADHAVARAM, TAMIL NADU",
+    "pan": "AKGPM3646L",
+    "phone": "9444001055",
+    "email": "madhavarammoorthy5@gmail.com",
+    "address": "9, NEHRU STREET, MADHAVARAM, CHENNAI – 600060",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "(B.A. - HISTORY) BACHELOR OF ARTS, MADRAS UNIVERSITY, 2010",
+    "profession": "Self: POLITICS, BUSINESS; Spouse: POLITICS, HOME MAKER"
+  },
+  "financial_summary": {
+    "total_assets_xls": 75605058.02,
+    "total_liabilities_xls": 1302438.0,
+    "net_worth_xls": 74302620.02,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "CRIME NO: 1196/2024, M1-MADHAVARAM POLICE STATION, MADHAVARAM, CHENNAI – 600060",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

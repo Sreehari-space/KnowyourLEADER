@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913670",
+    "candidate_name": "அபிமன் ரகுநாத்",
+    "candidate_name_json": null,
+    "age": "27",
+    "party": "சுயேச்சை வேட்பாளர்",
+    "constituency": "173, திருவையாறு சட்டமன்ற தொகுதி",
+    "pan": "DTAPA7536M",
+    "phone": "9443854806",
+    "email": "abimanreghu@gmail.com",
+    "address": "13, லெட்சுமி நகர், நாஞ்சிக்கோட்டை, தஞ்சாவூர்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C., H.S.C., B.A., L.L.B.",
+    "profession": "வழக்கறிஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2342000.0,
+    "total_liabilities_xls": 78050.0,
+    "net_worth_xls": 2263950.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

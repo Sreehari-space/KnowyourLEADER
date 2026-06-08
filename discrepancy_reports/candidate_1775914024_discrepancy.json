@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914024",
+    "candidate_name": "T.P.S. PONKUMARAN",
+    "candidate_name_json": null,
+    "age": "66",
+    "party": "NAM NAADU NAM MAKKAL NAM ETHIRKAALAM KATCHI",
+    "constituency": "214-THOOTHUKUDI",
+    "pan": "AAYPP1725H",
+    "phone": "9790366160, 9585512255",
+    "email": "tpsponkumaran@gmail.com",
+    "address": "289-B, SIVANTHAKULAM ROAD, THOOTHUKUDI - 628 003, TAMILNADU",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Master of Commerce (M.Com), Loyola College, Chennai. Year: 1979-1981",
+    "profession": "Social Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 15868607.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 15868607.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

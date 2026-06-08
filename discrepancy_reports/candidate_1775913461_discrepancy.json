@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913461",
+    "candidate_name": "C. Eswaran",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "Independent",
+    "constituency": "51-Uthangarai, Tamil Nadu",
+    "pan": "ABFPE6333A",
+    "phone": "9880264440",
+    "email": "eeshwaran459@gmail.com",
+    "address": "Door No: 09, Vairampatti (Village), Periya Kottagulam (Post), Uthangarai (Taluk), Krishnagiri (District) Pin 635304",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Pass, Government Higher Secondary School, Ananthur, 1995",
+    "profession": "Salesperson (Sindhu Pooja Store)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 7500000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 7500000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

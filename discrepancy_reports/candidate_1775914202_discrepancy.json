@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914202",
+    "candidate_name": "R. Manojkumar",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Independent",
+    "constituency": "194 Madurai West Constituency",
+    "pan": "EBRPM0396H",
+    "phone": "9688910351",
+    "email": "mannarmanoj14@gmail.com",
+    "address": "Door No. 18-4-28, Reddiyar Street, Ramanayakkanpatti, Vadipatti, Madurai 625218",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.com(CA) from Mannar Thirumalai Naicker College, Madurai (2012)",
+    "profession": "Computer Director"
+  },
+  "financial_summary": {
+    "total_assets_xls": 265000.0,
+    "total_liabilities_xls": 800000.0,
+    "net_worth_xls": 535000.0,
+    "cash_xls": 25500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

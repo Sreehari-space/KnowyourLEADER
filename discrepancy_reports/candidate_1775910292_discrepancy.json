@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910292",
+    "candidate_name": "E.EZHILKATHARINE",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "TAMILAGA VETTRI KAZHAGAM",
+    "constituency": "35-MADURANTAKAM (SC) TAMILNADU",
+    "pan": "AATPE1952C",
+    "phone": "8940647111",
+    "email": "katieanand72@gmail.com",
+    "address": "70, AKASH ADITH APARTMENTS, MOHAN NAGAR, 1ST STREET, MADAMBAKKAM, CHENNAI - 600 126",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC – Monahans Higher Secondary School - 1988, 12th – Govt. Hr.Sec. School, MKB Nagar, Chennai – 1990, B.Ed. – St. Christopers College, Chennai, M.Sc. - ANNAMALAI UNIVERSITY, Chidambaram ,1998",
+    "profession": "SELF-EMPLOYED"
+  },
+  "financial_summary": {
+    "total_assets_xls": 408895000.0,
+    "total_liabilities_xls": 70000000.0,
+    "net_worth_xls": 338895000.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr.No. 59 of 2022 (Arakonam Police station) U/s. 279, 304(A), 337 of IPC - Rash driving or riding on a public way, Causing death by Negligence. Charges framed: YES, Date: 01.07.2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

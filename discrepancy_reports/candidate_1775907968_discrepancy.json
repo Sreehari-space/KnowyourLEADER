@@ -1,0 +1,519 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907968",
+    "candidate_name": "K.R.Jayaram",
+    "candidate_name_json": "K.R.JAYARAM",
+    "age": "53",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "121, Singanallur Assembly Constituency",
+    "pan": "AFEPJ8078A",
+    "phone": "9629620277, 9894655888",
+    "email": "krishnaa5316@gmail.com",
+    "address": "6-1, Jeeva Nagar, Vilankurichi, Coimbatore 641035",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "SSLC (Discontinued)",
+    "profession": "Real Estate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1722994043.0,
+    "total_liabilities_xls": 770524373.0,
+    "net_worth_xls": 952469670.0,
+    "cash_xls": 965000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "9,65,000 9 Lacs+",
+        "spouse": "8,20,000 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "BOI, Peelamedu Branch-CB 38,24,048 38 Lacs+ BOI, Peelamedu Branch-SB 1,96,826 1 Lacs+ Karur Vysya Bank, Vilankurichi Branch-SB 6,64,152 6 Lacs+ Canara Bank, Vilankurichi Branch-CB 14,47,724 14 Lacs+ Canara Bank, Vilankurichi Branch-SB 74,884 74 Thou+ Canara Bank, Vilankurichi Branch-SB 30,01,210 30 Lacs+",
+        "spouse": "Karur Vysya Bank, Vilankurichi Branch-SB 7,383 7 Thou+ Canara Bank, Vilankurichi Branch-SB 52,520 52 Thou+ ICICI Bank, Vilankurichi Branch-SB 56,743 56 Thou+ BOI, Peelamedu Branch-SB 5,71,726 5 Lacs+ Canara Bank, Vilankurichi Branch-CB 1,02,430 1 Lacs+ Canara Bank, Vilankurichi Branch-SB 16,000 16 Thou+ Canara Bank, Vilankurichi Branch-Term Deposit 3,19,730 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Karur Vysya Bank, Vilankurichi Branch-SB 2,06,279 2 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Sri Ragavendra Real Estate (Firm-1) Managing Partner, Mr.K.R.Jayaram share-50% 13,19,25,452 13 Crore+ Sri Ragavendra Real Estate (Firm-1) Managing Partner, Mr.K.R.Jayaram share-60% 25,77,859 25 Lacs+ Jaya Jeevan Infra India Pvt. Ltd. Managing Director, Mr. K.R.Jayaram Share-59% 5,90,000 5 Lacs+ R.R.Realtors-Share-50% 1,10,54,530 1 Crore+ Sreeya Merchandise Managing Partner, Mr.K.R.Jayaram 25,00,000 25 Lacs+ KRJ Realtors Pvt Ltd. Managing Director Mr. K.R.Jayaram, Share-50% 50,000 50 Thou+ Sri sakthi Developers and Construction-Share 33% 18,50,000 18 Lacs+ MKS Charitable Trust-Managing Trustee (No Investments) 0",
+        "spouse": "Sri Ragavendra Real Estate (Firm-1) Partner Mrs.J. Geetha Share 4,41,84,175 4 Crore+ Jaya Jeevan Infra India Pvt. Ltd. Managing Director, Mrs.J.Geetha Share 41% 4,10,000 4 Lacs+ KRJ Realtors Pvt Ltd. Director Mrs.J.Geetha, Share-50% 50,000 50 Thou+ Swamy Hiper Market 2,50,000 2 Lacs+ Sri sakthi Developers Construction-Share 17% 1,14,50,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Sri Aalam Health Solutions (Firm) Partner, Mr.J.Sakthiram Share 50% 6,71,203 6 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC 20,581 20 Thou+ Reliance Nippon Policy 11,193 11 Thou+ Star Health Policy 27,778 27 Thou+ Sud Life Policy 10,00,000 10 Lacs+ Sud Life Policy 2,88,750 2 Lacs+",
+        "spouse": "LIC Policy 29,046 29 Thou+ LIC Policy 15,669 15 Thou+ Reliance Nippon Insurance Policy 24,420 24 Thou+ Sud Life Policy 10,50,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "LIC Policy 2,00,395 2 Lacs+ Reliance Nippon Insurance Policy 23,680 23 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Jaya Jeevan Infra India Pvt. Ltd. Managing Director, Mr. K.R.Jayaram 7,35,51,238 7 Crore+ KRJ Realtors Pvt Ltd. Managing Director Mr. K.R.Jayaram, 44,91,00,000 44 Crore+ Sri sakthi Developers and Construction 2,81,92,000 2 Crore+ Kalyanasundaram 10,00,000 10 Lacs+ Jose Charles Martin 11,00,00,000 11 Crore+",
+        "spouse": "Jaya Jeevan Infra India Pvt. Ltd. Managing Director, Mrs.J.Geetha 32,87,250 32 Lacs+ K.R.Jayaram 8,90,66,498 8 Crore+ Swamy Hiper Market 10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Bajaj KB-TN 37 A 3462, 1990 10,000 10 Thou+ Splendor-TN 38 AD 1244, 2005 16,417 16 Thou+ Innova-TN 37 CJ 6666, 2012 9,81,632 9 Lacs+ Swift-TN 38 BY 6666, 2012 4,45,832 4 Lacs+ Volvo-TN 38 CT 6666, 2017 55,00,000 55 Lacs+ Rolls Roys (Pre-Owned) HP 12 Q 6666, 2021 1,93,93,000 1 Crore+ Mercedes-Benz TN 38 DL 6666, 2022 1,15,03,898 1 Crore+ BMW TN 38 DS 6666, 2023 69,59,932 69 Lacs+ Innova TN 37 EK 6666, 2024 36,36,818 36 Lacs+",
+        "spouse": "TVS Scooty-TN 38 AR 1244, 2007 30,000 30 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "57.25 Soverign Gold 62,60,368 62 Lacs+",
+        "spouse": "175.31 Soverign Gold 1,91,71,738 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "15 Soverign Gold 16,40,400 16 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Vilankurichi Village Ganapathy SRO Coimbatore Site No. 4, SF No. 217/1, 216/1 Total Area 1359 Sq ft Built Up Area Whether Inherited N Purchase Date 2003-08-29 Purchase Cost 47000.00 Development Cost 0.00 6,82,218 6 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore Site No. 16, SF No. 131/2A Total Area 5124 Sq ft Built Up Area Whether Inherited N Purchase Date 2005-07-20 Purchase Cost 300000.00 Development Cost 0.00 21,00,000 21 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore Site No. 1, SF No. 140 Total Area 2749 Sq ft Built Up Area Whether Inherited N Purchase Date 2005-07-06 Purchase Cost 68800.00 Development Cost 0.00 20,00,000 20 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore Site No. 69, SF No. 2 Total Area 4815 Sq ft Built Up Area Whether Inherited N Purchase Date 2006-10-05 Purchase Cost 235000.00 Development Cost 0.00 24,17,130 24 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore Site No. 6 SF No. 212/2 Total Area 2147 Sq ft Built Up Area Whether Inherited N Purchase Date 2006-10-05 Purchase Cost 105000.00 Development Cost 0.00 10,77,794 10 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore Site No. 69 SF No. 237/1, 239, 50% Share Total Amount-2750000, Self-1375000 Total Area 1200 Sq ft Built Up Area Whether Inherited N Purchase Date 2008-11-17 Purchase Cost 750000.00 Development Cost 0.00 13,75,000 13 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore SF No. 131/4A, 50% Share Total Amount-23931864, Self-11965932 Total Area 4574 Sq ft Built Up Area Whether Inherited N Purchase Date 2011-01-24 Purchase Cost 8900000.00 Development Cost 0.00 1,19,65,932 1 Crore+ Vilankurichi Village Ganapathy SRO Coimbatore SF No. 130/1, 50% Share Total Amount-3064000, Self-1532000 Total Area 4574 Sq ft Built Up Area Whether Inherited N Purchase Date 2011-01-24 Purchase Cost 1030000.00 Development Cost 0.00 15,32,000 15 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore SF No. 131/4B, 50% Share Total Amount-11674000, Self-5837000 Total Area 21780 Sq ft Built Up Area Whether Inherited N Purchase Date 2011-01-24 Purchase Cost 5250000.00 Development Cost 0.00 58,37,000 58 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore SF No. 239/1, 269/3 Total Area 3200 Sq ft Built Up Area Whether Inherited N Purchase Date 2023-03-08 Purchase Cost 4074500.00 Development Cost 0.00 40,74,500 40 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore SF No. 375/1B, 376/1A, Total Area-27770 Sq ft and 7319 Sq ft Remaining Total Area Built Up Area Whether Inherited N Purchase Date 2022-09-30 Purchase Cost 14685917.00 Development Cost 0.00 1,46,89,465 1 Crore+ Kondayampalayam Periyanaickanpalayam SRO Coimbatore Site No. 16, SF No. 239/1 Total Area 2240 Sq ft Built Up Area Whether Inherited N Purchase Date 2008-02-11 Purchase Cost 67000.00 Development Cost 0.00 3,74,080 3 Lacs+ Kondayampalayam Periyanaickanpalayam SRO Coimbatore SF No. 264/3A Total Area 24829 Sq ft Built Up Area Whether Inherited N Purchase Date 2011-06-03 Purchase Cost 114000.00 Development Cost 0.00 8,78,370 8 Lacs+ Idigarai Village Periyanaickanpalayam SRO Coimbatore SF No.362/2 Total Area 23087 Sq ft Built Up Area Whether Inherited N Purchase Date 2008-11-28 Purchase Cost 1484000.00 Development Cost 0.00 41,78,370 41 Lacs+ Ganapathy Village Ganapathy SRO Coimbatore SF No. 14/2, 15/3, 18/2 Total Area 3440 Sq ft Built Up Area Whether Inherited N Purchase Date 2005-09-23 Purchase Cost 200000.00 Development Cost 0.00 25,80,000 25 Lacs+ Ganapathy Village Ganapathy SRO Coimbatore SF No. 14/2, 15/3, 18/2 Total Area 3440 Sq ft Built Up Area Whether Inherited N Purchase Date 2005-09-23 Purchase Cost 200000.00 Development Cost 0.00 25,80,000 25 Lacs+ Ganapathy Village Ganapathy SRO Coimbatore SF No. 14/2, 15/3, 18/2 Total Area 3440 Sq ft Built Up Area Whether Inherited N Purchase Date 2005-09-23 Purchase Cost 200000.00 Development Cost 0.00 25,80,000 25 Lacs+ Ganapathy Village Ganapathy SRO Coimbatore SF No. 15/3, 18/2 Total Area 22494 Sq ft Built Up Area Whether Inherited N Purchase Date 2019-10-21 Purchase Cost 16870500.00 Development Cost 0.00 1,85,00,000 1 Crore+ Ganapathy Village Ganapathy SRO Coimbatore SF No. 14/2, 15/3, 18/2 Total Area 22275 Sq ft Built Up Area Whether Inherited N Purchase Date 2019-10-21 Purchase Cost 11137500.00 Development Cost 0.00 1,22,50,000 1 Crore+ KalapattiVillage Gandhipuram SRO Coimbatore 303/3 Total Area 56628 sq ft Built Up Area Whether Inherited N Purchase Date 2005-11-28 Purchase Cost 200000.00 Development Cost 0.00 3,03,52,608 3 Crore+ KalapattiVillage Gandhipuram SRO Coimbatore SF No. 167/1 Total Area 40838 Sq ft Built Up Area Whether Inherited N Purchase Date 2018-05-29 Purchase Cost 4000000.00 Development Cost 0.00 46,90,000 46 Lacs+ KalapattiVillage Gandhipuram SRO Coimbatore SF No. 303, 304 Total Area 39740 Sq ft Built Up Area Whether Inherited N Purchase Date 2019-10-19 Purchase Cost 20153700.00 Development Cost 0.00 2,21,70,000 2 Crore+ KalapattiVillage Gandhipuram SRO Coimbatore SF No. 283/1D1A, 282/2B, 50% Share Total Amount-40235000, Self-20117500 Total Area 16612 Sq ft Built Up Area Whether Inherited N Purchase Date 2019-07-01 Purchase Cost 18289000.00 Development Cost 0.00 2,01,17,500 2 Crore+ KalapattiVillage Gandhipuram SRO Coimbatore SF No. 283/1D1A, 282/2B Total Area 30819 Sq ft Built Up Area Whether Inherited N Purchase Date 2019-07-01 Purchase Cost 41261000.00 Development Cost 0.00 4,57,99,710 4 Crore+ Saravanampatti Gandhipuram SRO Coimbatore SF No. 397/1Dpt Total Area 3456 Sq ft Built Up Area Whether Inherited N Purchase Date 2011-08-08 Purchase Cost 1037000.00 Development Cost 0.00 25,00,000 25 Lacs+ Saravanampatti Gandhipuram SRO Coimbatore SF No. 408/3A1, Total Area-IN 16117 Sq ft, 8059 Sq ft Total Area Built Up Area Whether Inherited N Purchase Date 2012-03-30 Purchase Cost 600000.00 Development Cost 0.00 26,99,631 26 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore SF No. 279/2, 280/2, Total Area 13072 Sq ft Built Up Area Whether Inherited N Purchase Date 2012-03-30 Purchase Cost 3922000.00 Development Cost 0.00 87,58,240 87 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore SF No.375/1A1, 50% Share Total Amount-74422260, Self-37211130 Total Area 55539 Sq ft Built Up Area Whether Inherited N Purchase Date 2013-03-20 Purchase Cost 12750000.00 Development Cost 0.00 3,72,11,130 3 Crore+ Keertanatham Village Periyanaickanpalayam SRO Coimbatore SF No. 269/5, 269/3 Total Area 53797 Sq ft Built Up Area Whether Inherited N Purchase Date 2018-11-02 Purchase Cost 2077500.00 Development Cost 0.00 30,87,000 30 Lacs+ Keertanatham Village Periyanaickanpalayam SRO Coimbatore SF No. 269/5 Total Area 18731 Sq ft Built Up Area Whether Inherited N Purchase Date 2018-05-15 Purchase Cost 850000.00 Development Cost 0.00 10,70,000 10 Lacs+ Keertanatham Village Periyanaickanpalayam SRO Coimbatore SF No. 368/1 Total Area 28314 Sq ft Built Up Area Whether Inherited N Purchase Date 2021-10-21 Purchase Cost 2225000.00 Development Cost 0.00 22,25,000 22 Lacs+ Keertanatham Village Periyanaickanpalayam SRO Coimbatore SF No. 357/1A, 357/1B, 357/1C Total Area 25918 Sq ft Built Up Area Whether Inherited N Purchase Date 2025-03-13 Purchase Cost 9820000.00 Development Cost 0.00 98,20,000 98 Lacs+ Keertanatham Village Periyanaickanpalayam SRO Coimbatore SF No. 357/1A, 357/1B, 357/1C Total Area 51945 Sq ft Built Up Area Whether Inherited N Purchase Date 2025-03-13 Purchase Cost 19640000.00 Development Cost 0.00 1,96,40,000 1 Crore+ Keertanatham Village Periyanaickanpalayam SRO Coimbatore SF No. 394/1A, 394/1B, Total Area-60984 Sq ft and 5542 Sq ft Remaining Total Area Built Up Area Whether Inherited N Purchase Date 2021-04-30 Purchase Cost 381678.00 Development Cost 0.00 7,23,010 7 Lacs+ Sarkarsamakkulam Periyanaickanpalayam SRO Coimbatore SF No. 416/2, 417/6, 417/1 Total Area 75794 Sq ft Built Up Area Whether Inherited N Purchase Date 2018-10-24 Purchase Cost 3209000.00 Development Cost 0.00 35,62,000 35 Lacs+ Sarkarsamakkulam Periyanaickanpalayam SRO Coimbatore SF No. 362/1D, 362/3A, 363/1B, 364/4F Total Area 47263 Sq ft Built Up Area Whether Inherited N Purchase Date 2019-09-19 Purchase Cost 5542000.00 Development Cost 0.00 61,56,000 61 Lacs+ Sarkarsamakkulam Periyanaickanpalayam SRO Coimbatore SF No. 362/1D Total Area 18731 Sq ft Built Up Area Whether Inherited N Purchase Date 2023-12-05 Purchase Cost 2500000.00 Development Cost 0.00 30,00,000 30 Lacs+ Sarkarsamakkulam Periyanaickanpalayam SRO Coimbatore SF No. 340/1A Total Area 143095 Sq ft Built Up Area Whether Inherited N Purchase Date 2023-11-27 Purchase Cost 62444205.00 Development Cost 0.00 6,24,44,205 6 Crore+ Sarkarsamakkulam Periyanaickanpalayam SRO Coimbatore SF No.339 Total Area 96812 Sq ft Built Up Area Whether Inherited N Purchase Date 2023-11-29 Purchase Cost 31712662.00 Development Cost 0.00 3,17,12,662 3 Crore+ Sarkarsamakkulam Periyanaickanpalayam SRO Coimbatore SF No. 337/2A Total Area 38551 Sq ft Built Up Area Whether Inherited N Purchase Date 2023-12-01 Purchase Cost 13505100.00 Development Cost 0.00 1,35,05,100 1 Crore+ Sarkarsamakkulam Periyanaickanpalayam SRO Coimbatore SF No. 338/1, 338/2 Total Area 104108 Sq ft Built Up Area Whether Inherited N Purchase Date 2023-12-01 Purchase Cost 31261200.00 Development Cost 0.00 3,12,61,200 3 Crore+ Sarkarsamakkulam Periyanaickanpalayam SRO Coimbatore SF No. 229/2E, 229/4A, 229/4B, 230/5A, 230/5B Total Area-33323 Sq ft and 8490 Sq ft Remaining Total Area Built Up Area Whether Inherited N Purchase Date 2022-10-01 Purchase Cost 1537199.00 Development Cost 0.00 36,65,812 36 Lacs+ Sarkarsamakkulam Periyanaickanpalayam SRO Coimbatore, Dated-2019/02/08, 2020/02/13 Total Area-599386 Sq ft and 80501 Sq ft Remaining Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 3766642.00 Development Cost 0.00 72,49,920 72 Lacs+ Agraharasamakkulam Periyanaickanpalayam SRO Coimbatore SF No.8/3 Total Area 22651 Sq ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 879200.00 Development Cost 0.00 8,79,200 8 Lacs+ Pogalur Annur SRO Mettupalayam Total Area 147342 Sq ft Built Up Area Whether Inherited N Purchase Date 2024-12-10 Purchase Cost 62384560.00 Development Cost 3128153.00 6,55,12,173 6 Crore+ Pogalur Annur SRO Mettupalayam SF No. 463/1A1 Total Area 13939 Sq ft Built Up Area Whether Inherited N Purchase Date 2025-05-02 Purchase Cost 1120000.00 Development Cost 0.00 11,20,000 11 Lacs+ Peedampalli Singanallur SRO Coimbatore SF No. 94/1, 94/2, 93/3 Total Area-552341 Sq ft and 23093 Sq ft Remaining Total Area Built Up Area Whether Inherited N Purchase Date 2018-10-10 Purchase Cost 795323.00 Development Cost 1447007.00 23,24,541 23 Lacs+ Masagoundenehettipalayam Annur SRO Coimbatore SF No. 274/1D, 273/3, Total Area-210504 Sq ft and 89739 Sq ft Remaining Total Area Built Up Area Whether Inherited N Purchase Date 2020-08-20 Purchase Cost 1627865.00 Development Cost 2982924.00 47,39,117 47 Lacs+ Masagoundenehettipalayam Annur SRO Coimbatore Dated- 2020/08/20, 2022/02/28, Total Area-140590 Sq ft and 31245 Sq ft Remaining Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 959222.00 Development Cost 1408837.00 24,86,165 24 Lacs+ Uppilipalayam Siganallur SRO Coimbatore SF No.364 Total Area-35066 Sq ft and 7233 Sq ft Remaining Total Area Built Up Area Whether Inherited N Purchase Date 2023-09-12 Purchase Cost 5490570.00 Development Cost 1598493.00 70,89,063 70 Lacs+",
+        "spouse": "Vilankurichi Village Ganapathy SRO Coimbatore Site No. 69, SF No. 237/1, 239, 50% Share, Total Amount-2750000, Self-1375000 Total Area 1200 Sq ft Built Up Area Whether Inherited N Purchase Date 2008-11-17 Purchase Cost 750000.00 Development Cost 0.00 13,75,000 13 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore Site No. 229, 245, SF No. 237/1, 239 Total Area 3600 Sq ft Built Up Area Whether Inherited N Purchase Date 2004-04-29 Purchase Cost 248000.00 Development Cost 0.00 18,00,000 18 Lacs+ Vilankurichi Village Ganapathy SRO Coimbatore SF No. 201/2 Total Area 39422 Sq ft Built Up Area Whether Inherited N Purchase Date 2008-08-22 Purchase Cost 152444.00 Development Cost 0.00 1,53,292 1 Lacs+ Kondayampalayam Periyanaickanpalayam SRO Coimbatore SF No. 171/3, 169/2 Total Area 4201 Sq ft Built Up Area Whether Inherited N Purchase Date 2008-11-22 Purchase Cost 2662642.00 Development Cost 0.00 26,62,642 26 Lacs+ Kondayampalayam Periyanaickanpalayam SRO Coimbatore SF No. 146/2M8C Total Area 18731 Sq ft Built Up Area Whether Inherited N Purchase Date 2022-09-20 Purchase Cost 2220215.00 Development Cost 0.00 22,20,215 22 Lacs+ Kondayampalayam Periyanaickanpalayam SRO Coimbatore SF No. 169/1A, Dated-2022/09/20, 2022/11/05 Total Area 18731 Sq ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 1996998.00 Development Cost 0.00 19,96,998 19 Lacs+ Kondayampalayam Periyanaickanpalayam SRO Coimbatore SF No. 146/2K, 146/2L Total Area 1300 Sq ft Built Up Area Whether Inherited N Purchase Date 2023-09-27 Purchase Cost 1090000.00 Development Cost 0.00 10,90,000 10 Lacs+ KalapattiVillage Gandhipuram SRO Coimbatore Site No. 7 SF No. 304/1, 304/2, 304/3 Total Area Built Up Area Whether Inherited N Purchase Date 2012-03-30 Purchase Cost 325100.00 Development Cost 0.00 12,00,000 12 Lacs+ KalapattiVillage Gandhipuram SRO Coimbatore Site No. 7 SF No. 750/6 Total Area 549 Sq ft Built Up Area Whether Inherited N Purchase Date 2011-01-27 Purchase Cost 549000.00 Development Cost 0.00 5,49,000 5 Lacs+ Saravanampatti Gandhipuram SRO Coimbatore SF No. 458, 458/2A Total Area 2304 Sq ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 173500.00 Development Cost 0.00 10,80,000 10 Lacs+ KalapattiVillage Gandhipuram SRO Coimbatore Site No. 7 SF No. 406/3, 408/3A1 Total Area 8059 Sq ft Built Up Area Whether Inherited N Purchase Date 2014-09-01 Purchase Cost 2500000.00 Development Cost 0.00 60,00,000 60 Lacs+ Karadivavi Pallam SRO Tirupur Site No. 1,2,3,4 SF No.190/1, 190/3, 190/2 Total Area 13068 Sq ft Built Up Area Whether Inherited N Purchase Date 2011-11-22 Purchase Cost 330400.00 Development Cost 0.00 12,37,000 12 Lacs+ Sarkarsamakkulam Periyanaickanpalayam SRO Coimbatore SF No. 148/1A1B1B Total Area 87120 Sq ft Built Up Area Whether Inherited N Purchase Date 2025-10-25 Purchase Cost 34817350.00 Development Cost 0.00 3,48,17,350 3 Crore+ Kariyampalayam Annur SRO Coimbatore SF No. 336/2A Total Area 6098 Sq ft Built Up Area Whether Inherited N Purchase Date 2021-11-15 Purchase Cost 678300.00 Development Cost 0.00 6,78,300 6 Lacs+ Kariyampalayam Annur SRO Coimbatore SF No. 336/2A Total Area 11326 Sq ft Built Up Area Whether Inherited N Purchase Date 2021-09-20 Purchase Cost 1260000.00 Development Cost 0.00 12,60,000 12 Lacs+ Kariyampalayam Annur SRO Coimbatore SF No. 337, 336/1, 336/2A, 336/3, 378, 377 Total Area 296644 Sq ft Built Up Area Whether Inherited N Purchase Date 2023-09-11 Purchase Cost 14720000.00 Development Cost 0.00 1,47,20,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Vilankurichi Village Jeeva Nagar Site No.6, 7, SF No. 239, 237, Doc No. 3162/2003-2003/10/29, Doc No. 6888/2010-2010/12/10 Total Area 6400 Sq ft Built Up Area 6400 Sq ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 2220900.00 Development Cost 0.00 2,44,00,000 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Vilankurichi Village, Ganapathy SRO, Coimbatore, SF No. 350/1A1 UDS Portion 6706 Sq ft Total Area 12294 Sq ft Built Up Area 12294 Sq ft Whether Inherited N Purchase Date 2007-03-02 Purchase Cost 651160.00 Development Cost 0.00 1,73,23,500 1 Crore+ Vilankurichi Village, Ganapathy SRO, Coimbatore SF No. 149/4pt, 5pt, 6pt, 150/1, 152/1A UDS Portion-6497, Self-3249. Total amount-15200000, 50% Share-7600000 Total Area 3249 Sq ft Built Up Area 3249 Sq ft Whether Inherited N Purchase Date 2013-07-15 Purchase Cost 2642000.00 Development Cost 0.00 76,00,000 76 Lacs+",
+        "spouse": "Singanallur SRO Coimbatore, Plot No.3 07, SF No. 250/1, 250/2, 250/3, 257/2 UDS Portion-138 Sq ft Total Area 553 Sq ft Built Up Area 553 Sq ft Whether Inherited N Purchase Date 2021-12-03 Purchase Cost 580650.00 Development Cost 0.00 10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "BOI, Vehicle Loan, TN 38 DL 6666 (Mercedes-Benz) 62,42,962 62 Lacs+ BOI, Vehicle Loan TN 38 DS 6666 (BMW) 42,45,281 42 Lacs+ BOI, Mortgage Loan 4,08,02,520 4 Crore+ BOI, Mortgage Loan 7,44,19,770 7 Crore+",
+      "spouse": "BOI, Mortgage Loan 3,03,04,070 3 Crore+ BOI, Mortgage Loan 7,44,19,770 7 Crore+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "M/s Bhagyam 40,00,000 40 Lacs+ Dhanush Capital Service Ltd 4,92,80,000 4 Crore+ Gopuram Growth 15,00,00,000 15 Crore+ Ramprakash 3,00,00,000 3 Crore+ Sri Ragavendra Real Estate-1 4,85,00,000 4 Crore+ Sri Ragavendra Real Estate-2 5,30,00,000 5 Crore+ Mr Martin 14,00,00,000 14 Crore+ MKS Charitable Trust (Lease Advance) 6,50,00,000 6 Crore+",
+      "spouse": "KRJ Realtors Pvt. Ltd 3,10,000 3 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 14,60,82,680 | 2023 - 2024: Rs 4,78,80,340 | 2022 - 2023: Rs 94,23,830 | 2021 - 2022: Rs 2,24,08,900 | 2020 - 2021: Rs 36,68,870"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 3,40,850 | 2023 - 2024: Rs 41,93,900 | 2022 - 2023: Rs 43,14,410 | 2021 - 2022: Rs 22,31,220 | 2020 - 2021: Rs 32,07,560"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (10 case(s))",
+    "case_numbers_xls": "564/2025; 706/2021; 898/2021; 932/2021; 87/20222; 422/2022; 528/2021; 728/2025; 715/2021; 302/2022",
+    "criminal_cases_json": {
+      "count": "10",
+      "summary": "Number of Criminal Cases:10",
+      "ipc_charges": [
+        "7 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "5 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "5 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Erasure of mark denoting that stamp has been used (IPC Section-263)",
+        "1 charges related to Punishment for public nuisance in cases not otherwise provided for (IPC Section-290)",
+        "1 charges related to Continuance of nuisance after injunction to discontinue (IPC Section-291)",
+        "2 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "2 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "2 charges related to Negligent conduct with respect to fire or combustible matter. (BNS Section-287)",
+        "2 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "564/2025 C2 Race Course, Coimbatore",
+          "case_no": "Nil",
+          "court": "JM 3 Court, Coimbatore",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 287, 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "706/2021 C2 Race Course, Coimbatore",
+          "case_no": "Nil",
+          "court": "JM 3 Court, Coimbatore",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "898/2021 C2 Race Course, Coimbatore",
+          "case_no": "Nil",
+          "court": "JM 3 Court, Coimbatore",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "932/2021 C2 Race Course, Coimbatore",
+          "case_no": "Nil",
+          "court": "JM 3 Court, Coimbatore",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "87/2022 C2 Race Course, Coimbatore",
+          "case_no": "Nil",
+          "court": "JM 3 Court, Coimbatore",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "422/2022 D4 Kuniyamuthur, Coimbatore",
+          "case_no": "Nil",
+          "court": "JM 7 Court, Coimbatore",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 151 CRPC",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "528/2021 D4 Kuniyamuthur, Co imbatore",
+          "case_no": "Nil",
+          "court": "JM 7 Court, Coimbatore",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 269",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "728/2025 E2 Peelamedu, Coimbatore",
+          "case_no": "Nil",
+          "court": "JM 2 Court, Coimbatore",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 287, 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "715/2021 D1 Triplicane, Chennai",
+          "case_no": "Nil",
+          "court": "II MM Court",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 263",
+          "other_details": "Section 3 of Epidemic Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "302/2022 F3 Nunguambakkam, Chennai",
+          "case_no": "Nil",
+          "court": "XIV MM Egmore",
+          "law_type": "IPC",
+          "ipc_sections": "143, 290, 291",
+          "other_details": "Section 41 TN city Police Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,72,57,36,000 ~172 Crore+",
+    "Liabilities:": "Rs 77,05,24,373 ~77 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹290,728,242, but 5-year family income is only ₹243,752,560. Unexplained wealth discrepancy of ₹46,975,682."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Non Agricultural Land purchased in 2003 for ₹47,000 (CII Indexed Cost: ₹162,128) is declared at highly inflated value of ₹682,218."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2007 for ₹651,160 (CII Indexed Cost: ₹1,897,955) is declared at highly inflated value of ₹17,323,500."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'Sri Ragavendra Real Estate (Firm-1) Managing Partner, Mr.K.R.Jayaram share-50% 13,19,25,452 13 Crore+ Sri Ragavendra Real Estate (Firm-1) Ma..."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "HIGH",
+      "title": "Vehicle Loan Exceeds Declared Vehicle Value",
+      "description": "Vehicle loans sum to ₹10,488,243 but declared vehicles value is only ₹40,000."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹2,718,277 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹331,585,274) does not match declared total assets (₹1,725,736,000). Difference: ₹1,394,150,726"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906492",
+    "candidate_name": "SIVASHANMUGAM",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "Dravida Munnetra Kazhagam (DMK)",
+    "constituency": "75 - Vikravandi",
+    "pan": "BUMPS8518L",
+    "phone": "9791689376",
+    "email": "anniyursiva72@gmail.com",
+    "address": "No. 26, Bharathiyar Street, Anniyur, Vikravandi Taluk, Villupuram District, Tamilnadu - 605202",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC - 10th grade (இடைநிலைப் பள்ளி இறுதி வகுப்புச் சான்றிதழ்), Government High School, Anniyur (அரசு உயர்நிலைப்பள்ளி, அன்னியூர்), 1987",
+    "profession": "Agriculture, Profession"
+  },
+  "financial_summary": {
+    "total_assets_xls": 102897887.0,
+    "total_liabilities_xls": 16912894.0,
+    "net_worth_xls": 85984993.0,
+    "cash_xls": 262000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

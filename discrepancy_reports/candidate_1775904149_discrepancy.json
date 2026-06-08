@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904149",
+    "candidate_name": "N.THALAVAI SUNDARAM",
+    "candidate_name_json": null,
+    "age": "67",
+    "party": "AIADMK (ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM)",
+    "constituency": "229-KANNIYAKUMARI ASSEMBLY CONSTITUENCY",
+    "pan": "ABHPS6156P",
+    "phone": "9444990009",
+    "email": "thalavaisundaram58@gmail.com",
+    "address": "63, Rama Villa, Vadakoor, Thovalai, Kanniyakumari District - 629302",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Government Higher Secondary School, Thovalai - 1975; PUC - Madurai Kamaraj University - 1977; B.Sc (Zoology) - St. Xaviers College, Palayamkottai, Madurai Kamaraj University -1980; B.L - Madras Law College, University of Madras - 1984",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 30838960.0,
+    "total_liabilities_xls": 1993154.0,
+    "net_worth_xls": 28845806.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "Cr.No: 715/2021; Cr. No: 302/2022; CR.No: 549/2017",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

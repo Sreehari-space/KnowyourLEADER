@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920247",
+    "candidate_name": "R. Ethiraj",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "INDEPENDENT",
+    "constituency": "NO. 18 HARBOUR ASSEMBLY CONSTITUENCY",
+    "pan": "AAHPE6229Q",
+    "phone": "98417, 65438",
+    "email": "ethirajanu@gmail.com",
+    "address": "24, Perumal Koil Garden, 2nd Lane, Sowcarpet, Chennai - 600 001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "H.S.C - 2008 [Dr. Gurusamy Thondai Mandala Thuluva Vellalar Higher Secondary School, Sowcarpet, Chennai – 600 001]",
+    "profession": "Business (Petty Shop)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2615750.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2615750.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

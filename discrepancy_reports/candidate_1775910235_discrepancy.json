@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910235",
+    "candidate_name": "S. Giridharaprasad",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "OBC People's Rights Party",
+    "constituency": "Vellore, Tamil Nadu (Assembly Constituency No. 349, Part No. 260)",
+    "pan": "ASOPG9181C",
+    "phone": "9365858404",
+    "email": "sadagopangiridharaprasad@gmail.com",
+    "address": "No.38, Jagajyothi Nagar, Alamelumangapuram, Sathuvachari Extn, Vellore-632009, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A. Political Science (Presidency College Chennai, 1993), B.L. Law (B.M.S. College of Law Bangalore, 1996)",
+    "profession": "Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4940000.0,
+    "total_liabilities_xls": 1456603.0,
+    "net_worth_xls": 3483397.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

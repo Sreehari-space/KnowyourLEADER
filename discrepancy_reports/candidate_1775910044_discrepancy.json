@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910044",
+    "candidate_name": "Mr. Manigounder",
+    "candidate_name_json": null,
+    "age": "72",
+    "party": "Tamilaga Vetrikkazhagam",
+    "constituency": "102 Kangeyam Assembly Constituency, Tamil Nadu",
+    "pan": "BNPPM2743B",
+    "phone": "9443034054, 9994634054, 7338728085",
+    "email": "manigoundar@gmail.com",
+    "address": "No. 39, Chinnammuthu 3rd Street, Idayankattuvalasu, Erode - 638 011. Erode District.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "1969 S.S.L.C Sengunther Hr.Sec.School, Erode; 1974 B.Com., Sri Vasavi College (Incomplete)",
+    "profession": "Joint business - 3 numbers and rent"
+  },
+  "financial_summary": {
+    "total_assets_xls": 168092746.0,
+    "total_liabilities_xls": 1911736.0,
+    "net_worth_xls": 166181010.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

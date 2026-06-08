@@ -1,0 +1,408 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904759",
+    "candidate_name": "P. Thangamani",
+    "candidate_name_json": "P.THANGAMANI",
+    "age": "65",
+    "party": "A.I. Anna, D.M.K.",
+    "constituency": "97 - Kumarapalayam Assembly Constituency",
+    "pan": "ABCPT7700K",
+    "phone": "9842740154",
+    "email": "thangamani1960admk@gmail.com",
+    "address": "54, Govindampalayam, Alampalayam, Samayasangili Agraharam, Kumarapalayam Taluk, Namakkal District - 638 008, Tamilnadu, India",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "PUC not passed. Erode Arts College, Erode - 9. University of Madras. 1976-77",
+    "profession": "Rental income, Salary and Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 37207437.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 37207437.0,
+    "cash_xls": 1800000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "18,00,000 18 Lacs+",
+        "spouse": "10,00,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Union Bank Of India Pallipalayam Current Bank 71,250 71 Thou+ Indian Bank MLA Hashtal France Chennai 81,75,787 81 Lacs+ Union Bank Of India Pallipalayam 25,15,051 25 Lacs+",
+        "spouse": "Union Bank Of Indian School Palayam 15,527 15 Thou+ Union Bank Of India Pallipalayam Current Bank 15,000 15 Thou+ Union Bank Of India Pallipalayam Current Bank 9,622 9 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Qualish Car TN33AC6556 -2002 1,20,000 1 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "560 gm Gold 66,64,000 66 Lacs+",
+        "spouse": "768 gm 91,39,200 91 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Pallipalayam Village S No. 21/6260/39,21/2, 5.95 Acer 2. 17/10ABC 2.15Acers Total Area 8.10 Acer 1/3 Share, 2.70 Acer Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 18,90,000 18 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Vacant Land, Location Pallipalayam Amani Village S No. 288/1,2 Total Area 2100 sqft Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 10,50,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Shop 171 Thiruchengode Road Pallipalalyam Total Area 900 sqft Built Up Area Whether Inherited N Purchase Date 2005-03-14 Purchase Cost 0.00 Development Cost 0.00 10,50,000 10 Lacs+ Dyeing Butter Rai Road Pallipalayam Total Area 3000 sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 10,00,000 10 Lacs+ Pallipalayam Rjaveethi House , 1092.5 sqft (1/3Share) Total Area 1092.5 sqft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 67000.00 Development Cost 0.00 10,92,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Govindampalayam 5-6/54 Total Area 1400 sqft Built Up Area 1200 sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 16,00,000 16 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 12,40,200 | 2023 - 2024: Rs 15,02,290 | 2022 - 2023: Rs 12,98,680 | 2021 - 2022: Rs 10,69,210 | 2020 - 2021: Rs 7,19,100"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "FIR No.08/AC/2021, Namakkal V&AC, D.V&AC Namakkal. Sections: u/s.13(2) r.w 13(1)(e), 109 r/w 13(2) r/w 13(1)(e) 13(2) r/w 13(1)(b),12 r/w 13(2) r/w 13(1)(b) PC ACT 1988 & IPC. Description: Disproportionate Assets Case. Status: Charges not filed.; FIR No.0347/2024, Rasipuram Police Station, Namakkal District. Sections: u/s 189(2), 126(2), 285 of BNS, 2023. Description: Unlawful assembly in public place causing nuisance to public. Status: Not filed as investigation is pending.; FIR No.0126/2025, Rasipuram Police Station, Namakkal District. Sections: u/s 189(2), 126(2), 292 of BNS, 2023. Description: Unlawful assembly in public place causing trouble to public. Status: Not filed as investigation is pending.; FIR No.0302/2022, Nungambakkam Police Station, Chennai. Sections: u/s 143, 290, 291.IPC & 41 Tamilnadu City Police Act 1888. Description: Unlawful assembly without city police permission, causing nuisance to public and traffic by protesting. Status: Not filed as investigation is pending.",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Punishment for public nuisance in cases not otherwise provided for (IPC Section-290)",
+        "1 charges related to Continuance of nuisance after injunction to discontinue (IPC Section-291)",
+        "2 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "2 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Causing danger or obstruction in public way or line of navigation. (BNS Section-285)",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr No.08/AC /2021, V&AC D.V&AC Namakkal District",
+          "case_no": "Nil",
+          "court": "District Sessions Court Namakkal",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 13(2), 13(1)(e), 109, 13(2), 13(1)(e), 13(2), 13(1)(b), 12, 13(2), 13(1)(b), PC Act. 1988",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "0347/2024, Police Station Namakkal District Date 30.12.2024",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Court Rasipuram",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 285",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "0126/2025, Police Station Namakkal District, Date 18.4.2025",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Court Rasipuram",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "302/2022, Police Station Nungambakkam Police Thiruvallikeni Chennai, Dated 19.10.2022",
+          "case_no": "Nil",
+          "court": "XIV Metropolitan Magistrate Court (FAC) Egmore Chennai -8",
+          "law_type": "IPC",
+          "ipc_sections": "143, 290, 291",
+          "other_details": "Sections 41 Tamil Nadu City Police Act. 1888",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,72,07,437 ~3 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹24,399,977, but 5-year family income is only ₹5,829,480. Unexplained wealth discrepancy of ₹18,570,497."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹24,399,977) does not match declared total assets (₹37,207,437). Difference: ₹12,807,460"
+    }
+  ]
+}

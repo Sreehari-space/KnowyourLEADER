@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906344",
+    "candidate_name": "வஜீர் அஹம்மத். ஜே",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "Bahujan Samaj Party (BSP)",
+    "constituency": "48-Ambur Assembly Constituency",
+    "pan": "AQKPV4564E",
+    "phone": "7598515119",
+    "email": "shahidahmed3685@gmail.com",
+    "address": "No.34, Niyamath Street, Pernambut, Pernambut Post, Vellore District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "3rd Standard only",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8979500.0,
+    "total_liabilities_xls": 2700000.0,
+    "net_worth_xls": 6279500.0,
+    "cash_xls": 150000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

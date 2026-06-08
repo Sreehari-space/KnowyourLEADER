@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905414",
+    "candidate_name": "I. S.MUTHUSAMY",
+    "candidate_name_json": null,
+    "age": "77",
+    "party": "DRAVIDA MUNNETRA KAZHAGAM",
+    "constituency": "99.ERODE (WEST), TAMIL NADU",
+    "pan": "ABGPM3328J",
+    "phone": "9841017999, 9176947999",
+    "email": "sumuthusamy1948@gmail.com",
+    "address": "168 D, Anna Enclave, East Coast Road, Injambakkam, Chennai - 600115",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A (Master of Arts) Sri Venkateswara University - 1979",
+    "profession": "Agriculturist"
+  },
+  "financial_summary": {
+    "total_assets_xls": 176706021.6,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 176706021.6,
+    "cash_xls": 19509.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

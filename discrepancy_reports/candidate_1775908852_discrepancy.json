@@ -1,0 +1,380 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908852",
+    "candidate_name": "P. Selvam",
+    "candidate_name_json": "SELVAM P",
+    "age": "31",
+    "party": "Tamizhaga Vetri Kazhagam",
+    "constituency": "206 Virudhunagar Constituency",
+    "pan": "HMSPS1801N",
+    "phone": "9080505920",
+    "email": "pselvam185@gmail.com",
+    "address": "2605, Muthal Nagar, Rosalpatty, Virudhunagar, Virudhunagar District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "SSLC, DCE",
+    "profession": "Real Estate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 44893681.44,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 44893681.44,
+    "cash_xls": 35000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "35,000 35 Thou+",
+        "spouse": "40,000 40 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "ICICI Bank, Sathur Branch, SB A/C. 9,38,308 9 Lacs+ KVB Bank, Virudhunagar, SB A/C. 5,000 5 Thou+ DBS Bank, Virudhunagar Branch, SB A/C. 10,000 10 Thou+ KVB Bank, Virudhunagar, SB A/C,(Election Purpose). 10,000 10 Thou+",
+        "spouse": "BOB Bank, Rosalpatti Branch SB A/C. 1,000 1 Thou+ ICICI Bank, Sathur Branch SB A/C. 25,03,958 25 Lacs+ IOB Bank, Sengottai Branch, SB A/C. 1,615 1 Thou+ KVB Bank, Virudhunagar Branch, SB A/C. 5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "ICICI Lambard Policy 22,020 22 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Suzuki Access 125 Bike TN 67 BR 1316, Model 2024 85,000 85 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 30 Grams 4,20,000 4 Lacs+",
+        "spouse": "Gold 260 Grams 36,40,000 36 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Rajasurimadai, S.No. 448/8A Total Area 1 Acre Built Up Area Whether Inherited N Purchase Date 2025-10-08 Purchase Cost 1250000.00 Development Cost 0.00 13,50,000 13 Lacs+ Rajasurimadai, S.No. 449/1A Total Area 47 Cent Built Up Area Whether Inherited N Purchase Date 2025-10-08 Purchase Cost 180000.00 Development Cost 0.00 2,30,000 2 Lacs+ Rosal Patti, S.No. 40/1B Total Area 0.11.33 Hectre Built Up Area Whether Inherited N Purchase Date 2022-04-11 Purchase Cost 112621.00 Development Cost 0.00 3,50,000 3 Lacs+ Villipathiri, S.No. 120/4A, 120/5A, 120/3B Total Area 0.57.50 Hectre Built Up Area Whether Inherited N Purchase Date 2019-11-15 Purchase Cost 571550.00 Development Cost 0.00 7,10,000 7 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Azhagiyanallur S.No. 421/2 Total Area 4655 sqft Built Up Area Whether Inherited N Purchase Date 2023-01-19 Purchase Cost 236000.00 Development Cost 0.00 3,50,000 3 Lacs+ Azhagiyanallur S.No. 421/2 Total Area 8800sqft Built Up Area Whether Inherited N Purchase Date 2023-04-12 Purchase Cost 665000.00 Development Cost 0.00 8,85,000 8 Lacs+ Azhagiyanallur S.No. 421/2 Total Area 2180 sqft Built Up Area Whether Inherited N Purchase Date 2023-01-30 Purchase Cost 223000.00 Development Cost 0.00 3,15,000 3 Lacs+ Azhagiyanallur S.No. 421/2 Total Area 1520 sqft Built Up Area Whether Inherited N Purchase Date 2025-09-24 Purchase Cost 130000.00 Development Cost 0.00 1,80,000 1 Lacs+ Azhagiyanallur S.No. 421/2 Total Area 1440 sqft Built Up Area Whether Inherited N Purchase Date 2022-12-13 Purchase Cost 73000.00 Development Cost 0.00 1,15,000 1 Lacs+ Azhagiyanallur S.No. 421/2 Total Area 8825 sqft Built Up Area Whether Inherited N Purchase Date 2023-01-30 Purchase Cost 448000.00 Development Cost 0.00 6,10,000 6 Lacs+ Azhagiyanallur S.No. 421/2 Total Area 4400 sqft Built Up Area Whether Inherited N Purchase Date 2023-04-26 Purchase Cost 332500.00 Development Cost 0.00 4,80,000 4 Lacs+ Azhagiyanallur S.No. 421/2 Total Area 5440 sqft Built Up Area Whether Inherited N Purchase Date 2023-01-19 Purchase Cost 276000.00 Development Cost 0.00 4,10,000 4 Lacs+ Pattanagere, Bangalore, S.No. 2/4 Total Area 2240 sqft Built Up Area Whether Inherited N Purchase Date 2023-03-13 Purchase Cost 8220000.00 Development Cost 0.00 1,00,00,000 1 Crore+",
+        "spouse": "Azhagiyanallur S.No. 421/2 Total Area 6583 sqft Built Up Area Whether Inherited N Purchase Date 2023-01-19 Purchase Cost 236000.00 Development Cost 0.00 3,90,000 3 Lacs+ Maravankulam S.No. 23/1A, 34/4, 35/47, 35/48, 35/50, 35/57, 35/58. Total Area 47.33 Cent Built Up Area Whether Inherited N Purchase Date 2023-01-31 Purchase Cost 7310245.00 Development Cost 0.00 83,50,000 83 Lacs+ Rosalpatti New S.No. 113/9, (Old 113/6). Total Area 0.06.30 Hectre Built Up Area Whether Inherited N Purchase Date 2026-05-03 Purchase Cost 1025000.00 Development Cost 0.00 10,50,000 10 Lacs+ Thirumangalam, T.S.No.102/1 (New T.S.No. 53). Total Area 5132 sqft Built Up Area Whether Inherited N Purchase Date 2026-02-19 Purchase Cost 5000000.00 Development Cost 0.00 51,00,000 51 Lacs+ Chinnamuppanpatti S.No. 132 Total Area 1020 sqft Built Up Area Whether Inherited N Purchase Date 2022-11-15 Purchase Cost 800000.00 Development Cost 0.00 9,50,000 9 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Bajaj Finserve Loan, Arrears to be Paid. 55,000 55 Thou+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 6,07,820 | 2023 - 2024: Rs 4,97,050 | 2022 - 2023: Rs 4,92,060 | 2021 - 2022: Rs 4,38,170"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "402/2016 (IPC 323, 324 - Assault using weapons); 325/2024 (WLR.Act, BNS 126(2), 189(2) - Wildlife Protection Act, Protesting against arrest of General Secretary)",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "1 charges related to Voluntarily causing hurt by dangerous weapons or means (IPC Section-324)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Virudhunagar East Police Station, Allampatti.",
+          "case_no": "Crime No.402/2016",
+          "court": "Judicial Magistrate No. 2 Virudhunagar Court.",
+          "law_type": "IPC",
+          "ipc_sections": "323, 324",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "09 Sep 2016",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Selvam (A9) Sivasaki Forest Ranger Office Sivasaki.",
+          "case_no": "STR.No.3/2018",
+          "court": "Judicial Magistrate Court No. 2, Sattur.",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section-2(31)(b), 39(b), 49-A(b) and 49(B), 50, 57 of WLR.Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Virudhunagar West Police Station,",
+          "case_no": "Crime No.325/2024",
+          "court": "Judicial Magistrate No. 1 Virudhunagar Court.",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "30 Dec 2024",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,95,41,901 ~3 Crore+",
+    "Liabilities:": "Rs 55,000 ~55 Thou+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹7,271,328) does not match declared total assets (₹39,541,901). Difference: ₹32,270,573"
+    }
+  ]
+}

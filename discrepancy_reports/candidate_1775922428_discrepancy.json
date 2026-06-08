@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922428",
+    "candidate_name": "Dr. Babu Shanmugam",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "Independent",
+    "constituency": "132 Dindigul, Tamil Nadu",
+    "pan": "AHMPB3727G",
+    "phone": "9442283357",
+    "email": "drbabushan@gmail.com",
+    "address": "No.25C, Shivaji Ganesan 1st Street, West Ashok Nagar, Dindigul, Dindigul District 624001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.B.B.S., MPH., Madurai Medical College - March 1991",
+    "profession": "Doctor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 29472000.0,
+    "total_liabilities_xls": 1300000.0,
+    "net_worth_xls": 28172000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

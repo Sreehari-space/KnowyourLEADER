@@ -1,0 +1,345 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904702",
+    "candidate_name": "Silambarasan (சிலம்பரசன்)",
+    "candidate_name_json": "SILAMBARASAN",
+    "age": "35",
+    "party": "Naam Tamilar Katchi (நாம் தமிழர் கட்சி)",
+    "constituency": "08 - Ambattur Assembly Constituency, Tamil Nadu (08 - அம்பத்தூர் சட்டமன்றத் தொகுதி, தமிழ்நாடு)",
+    "pan": "KPCPK9663C",
+    "phone": "6381078469",
+    "email": "silambarasantk@gmail.com",
+    "address": "1, 3வது தெரு, வ.உ.சி நகர், மேனாம்பேடு, அம்பத்தூர், சென்னை – 600053)",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Sc, Visual Communications from St. Thomas College of Arts & Science, Koyambedu (2009-2011) (B.Sc, Visual Communications, St. Thomas College of Arts & Science, Koyambedu (2009-2011))",
+    "profession": "Individual - Business (தனி நபர் - வியாபாரம்)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 905384.62,
+    "total_liabilities_xls": 1124428.0,
+    "net_worth_xls": 219043.38,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "25,000 25 Thou+",
+        "spouse": "20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Federal Bank 2,948 2 Thou+ IOB 4,392 4 Thou+ EQUITAS Bank 0*(Value Not Given) HDFC Bank 0*(Value Not Given)",
+        "spouse": "Axis Bank 200 2 Hund+ IOB 2,184 2 Thou+ SBI 0*(Value Not Given) EQUITAS Bank 660 6 Hund+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "YAMAHA RAY-ZR TN13AB8375 55,000 55 Thou+",
+        "spouse": "TATA FIGO TN02BW1165 2016 2,50,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "40 Grams 5,45,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Finc Friends Pvt Ltd 14,551 14 Thou+ Incred Financial Services Pvt Ltd 17,839 17 Thou+ Branch International Financial Pvt Ltd 6,213 6 Thou+ Krazybee Services Pvt Ltd 15,130 15 Thou+ HDFC Bank 3,90,814 3 Lacs+ The Suryoday Micro Finance Pvt Ltd 21,321 21 Thou+ HDFC Bank 17,483 17 Thou+ Tata Capital Ltd 45,061 45 Thou+",
+      "spouse": "Axis Bank 0 Finc Friends Pvt Ltd 23,948 23 Thou+ Branch International Financial Pvt Ltd 4,627 4 Thou+ Sampathi Credits Pvt Ltd 21,000 21 Thou+ Krazybee Services Pvt Ltd 17,260 17 Thou+ PayU Finance India Pvt Ltd 2,048 2 Thou+ True Credits Pvt Ltd 36,780 36 Thou+ Incred Financial Services 1,82,609 1 Lacs+ IDFC Bank Car Loan 1,99,843 1 Lacs+ SI Creava Capital 63,836 63 Thou+ Karus Vysya Bank Consumer 20,859 20 Thou+ Capfloat Financial Services Pvt Ltd 21,815 21 Thou+ ICIC Bank 1,391 1 Thou+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2022 - 2023",
+      "income": "2022 - 2023: Rs 4,45,440"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2022 - 2023",
+      "income": "2022 - 2023: Rs 4,35,190"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No: 686/2022, Police Station: T1 Ambattur, Sections: 406, 420 IPC, Description: Alleged cheating by receiving money (முதல் தகவல் அறிக்கை எண்: 686/2022, காவல் நிலையம்: T1 அம்பத்தூர், பிரிவுகள்: 406, 420 IPC, விளக்கம்: பணம் பெற்றுக் கொண்டு மோசடி செய்ததாக)",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Punishment for criminal breach of trust (IPC Section-406)",
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "686/2022, T1 PS Ambattur",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "406, 420",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 9,05,384 ~9 Lacs+",
+    "Liabilities:": "Rs 11,24,428 ~11 Lacs+"
+  },
+  "discrepancies": []
+}

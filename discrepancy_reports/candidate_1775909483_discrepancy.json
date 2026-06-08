@@ -1,0 +1,545 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909483",
+    "candidate_name": "Arul Arumugam",
+    "candidate_name_json": "ARUL ARUMUGAM",
+    "age": "43",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "55 Hosur, Tamil Nadu",
+    "pan": "AHLPA0665M",
+    "phone": "9952976790",
+    "email": "arulface@gmail.com",
+    "address": "1196-8, 1st Cross, 3rd Main NTR Nagar, Mukandapalli, Hosur, Krishnagiri District - 635126",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "1.10th - St.Mary's High School, Harur-1996; 2.12th - Govt Boys Higher Secondary School, Harur-1998; 3.B.Sc., Mathematics, Islamiah College, Vaniyambadi-2001; 4.M.C.A., (Master of Computer Applications), PGP College of Arst and Science, Namakkal-2004; 5.M.B.A., (Master of Business Administration), Periyar University Salem-2005",
+    "profession": "Self-employed software engineer and agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 64069340.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 64069340.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "50,000 50 Thou+",
+        "spouse": "50,000 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "ICICI Bank Hosur Main Branch 2,25,000 2 Lacs+ Bank Opened for Election Purpose Bank of India Upper Pallipattu Branch A/c 98,500 98 Thou+",
+        "spouse": "ICICI Bank Hosur Main Branch 1,17,807 1 Lacs+ Bank A/c (Joint Bank A/c With Spouse) HDFC Bank Mookandapalli Branch 67,033 67 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Ontime Office Solutions, Hosur 1/3 Share Investment 200000 Book Value 300000 5,00,000 5 Lacs+",
+        "spouse": "GBrit Software Solutions Pvt Ltd, Hosur 50% Share Investment 100000 Book Value 200000 3,00,000 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Yamaha RX 135 TN 29 K 0642 Year 16-03-2007 40,000 40 Thou+ Suzuki Access TN 25 AA 2116 Year 05-05-2014 62,000 62 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "50 Gram of Gold 7,00,000 7 Lacs+",
+        "spouse": "750 Gram of Gold 1,05,00,000 1 Crore+ 400 Gramof Silver 1,06,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Thiruvannamalai District, Chengam Sarpathivalar Office, Katamaduvu Village S.No 88/4, 88/100, 88/100A, 100/2D, 100/2F,101/4E, 87/3, 87/45B, 87/6, 88/3 Area: Half of the Total 11.94/2 Acres is 5.97 Acres Total Area 5.97 Acre Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,20,00,000 1 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Krishnagiri Reedy Hosur Chapadi, Mookandapalli Village S.No 115/3A2, 115/3A3 Total Area 1950 Sq Ft Built Up Area 2700 Sq Ft Whether Inherited N Purchase Date 2010-08-27 Purchase Cost 253000.00 Development Cost 7000000.00 2,00,00,000 2 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,98,160 | 2023 - 2024: Rs 6,87,710 | 2022 - 2023: Rs 5,00,000 | 2021 - 2022: Rs 4,28,770 | 2020 - 2021: Rs 24,430"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,97,570 | 2023 - 2024: Rs 6,82,570 | 2022 - 2023: Rs 5,00,000 | 2021 - 2022: Rs 1,50,000 | 2020 - 2021: Rs 79,180"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (13 case(s))",
+    "case_numbers_xls": "Cr.No.316/2023; Cr.No.317/2023; Cr.No.207/2023; Cr.No.195/2023; Cr.No.319/2023; Cr.No.318/2023; Cr.No.375/2023; Cr.No.256/2023; Cr.No.324/2023; Cr.No.320/2023; Cr.No.603/2023; Cr.No.156/2025; Cr.No.380/2025; CC.No.233/2023; CC.No.258/2023; S.T.C.No.537/2023; S.T.C.No.536/2023; CC.No.235/2023; CC.No.232/2023; CC.No.234/2023; S.T.C.No.4/2024; S.T.C.No.872/2024",
+    "criminal_cases_json": {
+      "count": "13",
+      "summary": "Number of Criminal Cases:13",
+      "ipc_charges": [
+        "1 charges related to Punishment for Criminal intimidation. (BNS Section-351(2))",
+        "1 charges related to Punishment for Rioting (BNS Section-191(2))",
+        "11 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "6 charges related to Punishment for Rioting (IPC Section-147)",
+        "6 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "4 charges related to Punishment for public nuisance in cases not otherwise provided for (IPC Section-290)",
+        "3 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)",
+        "3 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "2 charges related to Punishment for criminal trespass (IPC Section-447)",
+        "2 charges related to Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment (IPC Section-109)",
+        "1 charges related to Negligent conduct with respect to fire or combustible matter (IPC Section-285)",
+        "1 charges related to Rash navigation of vessel (IPC Section-280)",
+        "2 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Wantonly giving provocation with intent to cause riot (BNS Section-192)",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "Cr. No. 316/2023 Anakkavur Police Station Thiruvannamalai District",
+          "case_no": "CC No. 233/2023",
+          "court": "Honorable Judicial Arbitration Court",
+          "law_type": "IPC",
+          "ipc_sections": "147, 341, 294B, 506(i), 447",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Cr. No. 317/2023 Anakkavur Police Station Thiruvannamalai District",
+          "case_no": "CC No. 258/2023",
+          "court": "Honorable Judicial Arbitration Court",
+          "law_type": "IPC",
+          "ipc_sections": "147, 341, 294B, 506(i)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Cr. No. 207/2023 Vandavasi North Police Station Thiruvannamalai District",
+          "case_no": "STC No. 537/2023",
+          "court": "Honorable Judicial Arbitration Court",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 283, 290, 109",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "Cr. No. 195/2023 Vandavasi North Police Station Thiruvannamalai District",
+          "case_no": "STC No. 543/2023",
+          "court": "Honorable Judicial Arbitration Court, Vandavasi",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 285, 283, 290",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "Cr. No. 319/2023 Anakkavur Police Station Thiruvannamalai District",
+          "case_no": "CC No. 235/2023",
+          "court": "Honorable Judicial Arbitrator Court",
+          "law_type": "IPC",
+          "ipc_sections": "147, 341, 294B, 506(i)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "Cr. No. 318/2023 Anakkavur Police Station Thiruvannamalai District",
+          "case_no": "CC No. 232/2023",
+          "court": "Honorable Judicial Arbitration Court",
+          "law_type": "IPC",
+          "ipc_sections": "147, 341, 294B, 506(i), 447",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "Cr. No. 375/2023 Seyyur Police Station Thiruvannamalai District",
+          "case_no": "CC No. 234/2023",
+          "court": "Honorable Judicial Arbitration Court",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 353, 280",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "Cr. No. 256/2023 Vandavasi North Police Station Thiruvannamalai District",
+          "case_no": "STC No. 4/2024",
+          "court": "Honorable Judicial Arbitration Court Vandavasi",
+          "law_type": "IPC",
+          "ipc_sections": "143, 294B, 341, 353, 283, 290, 109",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "Cr. No. 324/2023 Anakkavur Police Station Thiruvannamalai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 341, 143, 294B, 353, 506(i)",
+          "other_details": "Section- 3 TPP Act, 1992",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "Cr. No. 320/2023 Anakkavur Police Station Thiruvannamalai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 341, 294B, 506(i)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "11",
+          "fir_no": "Cr. No. 603/2023 Thiruvannamalai Police Station East Thiruvannamalai District",
+          "case_no": "STC No. 872/2024",
+          "court": "Honorable Judicial Arbitration Court II Thiruvannamalai",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 290",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "12",
+          "fir_no": "Cr. No. 156/2025 Chengam Police Station Thiruvannamalai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 192, 292, 351(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "13",
+          "fir_no": "Cr. No. 380/2025 Polur Police Station Thiruvannamalai District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "296(6), 189(2), 191(2), 353(1)(6)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 4,48,16,340 ~4 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹44,482,807, but 5-year family income is only ₹4,048,390. Unexplained wealth discrepancy of ₹40,434,417."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2010 for ₹253,000 (CII Indexed Cost: ₹569,629) is declared at highly inflated value of ₹20,000,000."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1200.0g gold declared at ₹11,200,000 (Implied rate: ₹9,333/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'Ontime Office Solutions, Hosur 1/3 Share Investment 200000 Book Value 300000 5,00,000 5 Lacs+', 'spouse': 'GBrit Software Solutions Pvt Ltd,..."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

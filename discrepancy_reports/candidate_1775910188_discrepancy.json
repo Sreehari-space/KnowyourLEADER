@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910188",
+    "candidate_name": "K. PERUMAL",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "Independent",
+    "constituency": "122, Kinathukadavu Assembly Constituency",
+    "pan": "EFIPP2295M",
+    "phone": "7305295974",
+    "email": "ajithbh0279@gmail.com",
+    "address": "245-1 H.G.R. NAGAR, HYLERIPALAYKH, COIMBATORE-641032",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "Technician"
+  },
+  "financial_summary": {
+    "total_assets_xls": 149000.0,
+    "total_liabilities_xls": 40000.0,
+    "net_worth_xls": 109000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

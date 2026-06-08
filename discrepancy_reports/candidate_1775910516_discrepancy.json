@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910516",
+    "candidate_name": "R. Vijay Saravanan",
+    "candidate_name_json": null,
+    "age": "50",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "174 Thanjavur",
+    "pan": "CNCPS4074D",
+    "phone": "9443913766",
+    "email": "thanjavurcentraltvkrvs@gmail.com",
+    "address": "A, Milagumari Chettitheru, Karanthai, Thanjavur-613002",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC, Uma Maheswara Higher Secondary School, Karanthai, Thanjavur, 1991",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2942530.0,
+    "total_liabilities_xls": 199090.0,
+    "net_worth_xls": 2743440.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "52/2026 (செங்கிப்பட்டி காவல் நிலையம், தஞ்சாவூர் மாவட்டம் / Sengipatti Police Station, Thanjavur District)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

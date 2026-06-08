@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904409",
+    "candidate_name": "கா. ஆனந்தி",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "நாம் தமிழர் கட்சி",
+    "constituency": "105 அந்தியூர் சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "CIGPA5832E",
+    "phone": "9965664588",
+    "email": "kkanandhi@gmail.com",
+    "address": "கதவு எண். 46, லிங்குசெட்டி தோட்டம், ஆலாங்காட்டுபுதுார், பொலவகாளிபாளையம் (அ) கோபி வட்டம், ஈரோடு மாவட்டம்-638 476",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MCA, B.Ed. (MCA - PKR Arts & Science College 2006-2009, B.Ed. - St. Pauls College, Muruganpudur, Gobi 2011-2012)",
+    "profession": "இல்லத்தரசி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1837200.0,
+    "total_liabilities_xls": 580000.0,
+    "net_worth_xls": 1257200.0,
+    "cash_xls": 16000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

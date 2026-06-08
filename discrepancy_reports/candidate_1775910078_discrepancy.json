@@ -1,0 +1,419 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910078",
+    "candidate_name": "Thanga. Shanmuga Sundaram",
+    "candidate_name_json": "THANGA. SHANMUGA SUNDARAM",
+    "age": "48",
+    "party": "Naadalum Makkal Katchi",
+    "constituency": "149-Ariyalur, Tamil Nadu",
+    "pan": "BXUPS9591Q",
+    "phone": "8220365496",
+    "email": "akshayapublication@gmail.com",
+    "address": "89, Nadutheru, Keelakavattankurichi Village & Post, Thrumanur Way, Ariyalur Taluk, Ariyalur District, P.O. No. 621 715",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.B.A., OMASP (Thanthai Han's Roever College, Perambalur, 1997-2000); M.B.A. (Finance) (KSR Cetre for Management Studies, Thiruchengode, Salem, 2000-2002); Dip.Acupuncture Science (Periyar Maniyammai University, Thanjavur, 2012-13); B.Sc. Acupuncture Science (Thanjai Tamil University, Thanjavur, 2013-14)",
+    "profession": "Natural farmer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 13647499.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 13647499.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,000 10 Thou+",
+        "spouse": "5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Thirumanur Indian Bank A/c 1,000 1 Thou+ Thirumanur Indian Bank A/c 500 5 Hund+ Keelakawattang Kurichi Primary Agriculture Cooperative Bank 999 9 Hund+",
+        "spouse": "Thirumanur Indian Bank 1,000 1 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Indeminty Documents Duration 6 years 1/1939/2025, Date 28/05/2025 10,00,000 10 Lacs+ Indeminty Documents 1/2118/2020 Duration 6 Year Date 28/05/2025 4,00,000 4 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "LIC Policy 2,00,000 2 Lacs+ LIC Policy 1,00,000 1 Lacs+ LIC Policy 2,10,000 2 Lacs+ LIC Policy 1,00,000 1 Lacs+ LIC Policy 7,50,000 7 Lacs+ LIC Policy 8,00,000 8 Lacs+",
+        "spouse": "LIC Policy 1,00,000 1 Lacs+ LIC Policy 1,50,000 1 Lacs+ LIC Policy 2,50,000 2 Lacs+ LIC Policy 8,00,000 8 Lacs+ LIC Policy 2,00,000 2 Lacs+ LIC Policy 1,00,000 1 Lacs+ LIC Policy 1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "LIC 1,00,000 1 Lacs+ LIC 1,00,000 1 Lacs+ LIC 2,00,000 2 Lacs+ LIC 75,000 75 Thou+",
+        "dependent2": "LIC 1,00,000 1 Lacs+ LIC 1,00,000 1 Lacs+ LIC 2,20,000 2 Lacs+ LIC 75,000 75 Thou+",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Two Wheeler Hero Honda Splender TN 61 1774 15,000 15 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "8 Gram Gold 1,00,000 1 Lacs+",
+        "spouse": "10 Pound Gold 8 Gram 8,00,000 8 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Ariyalur Taluk, Keelakkavattankurchiya Village Ayan Nanchai Nelam Patta No 6006 Total Area 2 Arce 86 Cent Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 28,60,000 28 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "1) Ariyalur Taluk, Keezhakavattang Kurichi Revenue Village Patta No 330 Survey No 474/2025-101 Sqmtr 2) Ariyalur Taluk, Keezhakavattang Kurichi Revenue Village Pattam No 331 Total Area 1) 1081 Sqft, 2) 969 Sqft Built Up Area 1081 Sqft, 2) 969 Sqft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 4000000.00 Development Cost 0.00 0*(Value Not Given)",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 92,215"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (5 case(s))",
+    "case_numbers_xls": "337/2018; 519/2020; 33/2024; 174/2019; 154/2025",
+    "criminal_cases_json": {
+      "count": "5",
+      "summary": "Number of Criminal Cases:5",
+      "ipc_charges": [
+        "2 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "2 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "1 charges related to Punishment for public nuisance in cases not otherwise provided for (IPC Section-290)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "337/2018 Keelappazhuvur Police Station (Farmers Protest Case)",
+          "case_no": "STC No. 868/2025",
+          "court": "Criminal Arbitration Court - II Ariyalur.",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 341",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "17 Oct 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "519/2020 Keelappazhuvur Police Station (Farmers Protest Case)",
+          "case_no": "STC No. 77/2026",
+          "court": "Criminal Arbitration Court - II Ariyalur.",
+          "law_type": "IPC",
+          "ipc_sections": "143",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "23 Jan 2026",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "33/2024 Thirumanur Police Station (Farmers Protest Case)",
+          "case_no": "STC No. 862/2025",
+          "court": "Criminal Arbitration Court - II Ariyalur.",
+          "law_type": "IPC",
+          "ipc_sections": "290, 353",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "19 Aug 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "174/2019 Thiruvayur Police Station (Farmers Protest Case)",
+          "case_no": "CC No. 67/2021",
+          "court": "Criminal Arbitration Court - II Ariyalur.",
+          "law_type": "IPC",
+          "ipc_sections": "296b, 351(3)",
+          "other_details": "Section- 4 of TNPHW Act, Section- 4 of TN Extra Interest Act",
+          "charges_framed": "Yes",
+          "charges_date": "12 Dec 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "154/2025 Thirumanur Police Station (Farmers Protest Case)",
+          "case_no": "CC No. 481/2025",
+          "court": "Womens Court Ariyalur",
+          "law_type": "IPC",
+          "ipc_sections": "341, 353, 506(i)",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "18 Feb 2026",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 1,48,37,499 ~1 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "96.0g gold declared at ₹900,000 (Implied rate: ₹9,375/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹5,292,000) does not match declared total assets (₹14,837,499). Difference: ₹9,545,499"
+    }
+  ]
+}

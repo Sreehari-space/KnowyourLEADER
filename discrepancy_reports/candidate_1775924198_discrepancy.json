@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924198",
+    "candidate_name": "Smt. D. VIJAYA",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "INDEPENDENT",
+    "constituency": "74 VILLUPURAM ASSEMBLY CONSTITUENCY, TAMILNADU STATE",
+    "pan": "FTBPD9280A",
+    "phone": "9952625017",
+    "email": "NIL",
+    "address": "547(A), Maruthi Nagar, Salamedu, Kandamanadi Post, Villupuram, Villupuram Taluk, Villupuram District 605 401",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "H.S.C 12th Std, Government Girls Higher Secondary School, Vettavalam, 1991",
+    "profession": "House wife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2014000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2014000.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

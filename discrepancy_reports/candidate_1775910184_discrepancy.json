@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910184",
+    "candidate_name": "D. சரத் குமார்",
+    "candidate_name_json": null,
+    "age": "34",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "31 - தாம்பரம், தமிழ்நாடு",
+    "pan": "ERCPS7204B",
+    "phone": "9600133546",
+    "email": "sarathkumar0828@gmail.com",
+    "address": "எண் 22, பாலாஜி நகர், ஸ்ரீனிவாசா நகர், பெருங்களத்தூர், செங்கல்பட்டு, சென்னை - 600063",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.B.A. M.M.JAIN COLLEGE, MEENAMBAKKAM - 2012",
+    "profession": "தனி நபர் சிவில் கான்ரக்டர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 40947531.96,
+    "total_liabilities_xls": 2000000.0,
+    "net_worth_xls": 38947531.96,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

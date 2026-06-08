@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908549",
+    "candidate_name": "J. Karthi",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "Viswa Tamil Kazhagam",
+    "constituency": "97 Kumarapalayam Assembly Constituency, Tamil Nadu",
+    "pan": "DFSPK8621B",
+    "phone": "9976638322",
+    "email": "jkarthi083@gmail.com",
+    "address": "129, Gandhi Nagar, Veppadai, Elanthakuttai Panchayat, Kumarapalayam Taluk, Namakkal District-638008",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Government High School, Sowdapuram, Veppadai (2000-2001)",
+    "profession": "Carpentry work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 613700.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 613700.0,
+    "cash_xls": 3000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919810",
+    "candidate_name": "T.Neelakannan",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Independent",
+    "constituency": "198 Andipatty Constituency",
+    "pan": "BEUPN5576H",
+    "phone": "9095704780",
+    "email": "nkannant@gmail.com",
+    "address": "No.69, West Street, Karisalpatty Panchayat, Shanmugasundarapuram Post, Andipatty Taluk, Theni District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Hindu HSS, Jakkampatty, completed in the year of 2009.",
+    "profession": "Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 38400.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 38400.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

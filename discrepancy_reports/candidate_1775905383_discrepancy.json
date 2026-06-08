@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905383",
+    "candidate_name": "மு.மணிமாறன்",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "திராவிட முன்னேற்ற கழகம்",
+    "constituency": "196 - திருமங்கலம் சட்டமன்றத்தொகுதி",
+    "pan": "ACMPM4151E",
+    "phone": "8973406666",
+    "email": "muthugurumcom@gmail.com",
+    "address": "154-105, முத்தப்பன்பட்டி கிராமம், கெஞ்சம்பட்டி அஞ்சல், பேரையூர் வட்டம், மதுரை மாவட்டம்-625708",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "7ம் வகுப்பு தேர்ச்சி, அரசு உயர்நிலைப்பள்ளி, டி.கல்லுப்பட்டி, பேரையூர் தாலுகா, மதுரை மாவட்டம் (1987-1988)",
+    "profession": "விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 37307349.0,
+    "total_liabilities_xls": 3942926.0,
+    "net_worth_xls": 33364423.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Cr.No. 13/2016",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

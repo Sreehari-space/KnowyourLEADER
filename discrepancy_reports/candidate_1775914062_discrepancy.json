@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914062",
+    "candidate_name": "S. Rajeev Gandhi",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Independent",
+    "constituency": "80 Kallakurichi (SC) Assembly Constituency",
+    "pan": "EAEPR2933H",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "144, Colony, Mallapuram Village, Sankarapuram Taluk, Kallakurichi District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Eighth Standard - Govt. Boys Hr Sec. School, Devapandalam, Kallakurichi District, Year: 1996-97",
+    "profession": "Tailor and Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10541000.0,
+    "total_liabilities_xls": 840000.0,
+    "net_worth_xls": 9701000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

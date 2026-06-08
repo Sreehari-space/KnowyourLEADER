@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906041",
+    "candidate_name": "M. Ram Kumar",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "125. Udumalpet Assembly Constituency",
+    "pan": "BZQPR0937M",
+    "phone": "8122317572",
+    "email": "ram0495udt@gmail.com",
+    "address": "K.No.C31, Mathiyazhagan Nagar, Dharapuram Road, Udumalpet, Tiruppur District 642 126.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Higher Secondary School Education, March 2012, Government Boys Higher Secondary School, Udumalpet. Bachelor of Commerce (B.Com., C.A.), April 2015, Government Arts College, Udumalpet.",
+    "profession": "Individual Tax Consultant"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1599840.0,
+    "total_liabilities_xls": 616139.0,
+    "net_worth_xls": 983701.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906582",
+    "candidate_name": "P.K.Sekarbabu",
+    "candidate_name_json": null,
+    "age": "63",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "15, T.V.K. Nagar (SC), Tamil Nadu",
+    "pan": "AASPS5876L",
+    "phone": "9841040026",
+    "email": "sekarbabu.pk@gmail.com",
+    "address": "Door No.7, Sellappa Street, Otteri, Chennai-600 012",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Kotti M. Appuchettiar High School, K.H. Road, Chennai-600 012",
+    "profession": "Politics, Public Service Consultant"
+  },
+  "financial_summary": {
+    "total_assets_xls": 29379775.4,
+    "total_liabilities_xls": 280000.0,
+    "net_worth_xls": 29099775.4,
+    "cash_xls": 23000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

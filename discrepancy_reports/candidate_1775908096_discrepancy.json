@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908096",
+    "candidate_name": "Thiru. Ezhumalai",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "65. Kalasapakkam, Tamil Nadu",
+    "pan": "APOPE3489J",
+    "phone": "9514520705",
+    "email": "elumalaicivil2021@gmail.com",
+    "address": "No. 84, North Street, Padi Agrahara Village and Post, Chengam Taluk, Tiruvannamalai District - 606 705",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E., Engineer - 2013 Krishna Institute of Technology, Padappai, Tambaram",
+    "profession": "Building Engineer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1875908.2,
+    "total_liabilities_xls": 1070000.0,
+    "net_worth_xls": 805908.2,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

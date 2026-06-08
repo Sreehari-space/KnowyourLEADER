@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921058",
+    "candidate_name": "SHASHI KIRAN KN",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "INDEPENDENT",
+    "constituency": "TAMILNADU",
+    "pan": "HUSPS2497L",
+    "phone": "9688162147",
+    "email": "dyuthi.sarathi@gmail.com",
+    "address": "TAMILNADU – 635 109",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MASTER OF BUSINESS ADMINISATRATION IN INTERNATIONAL BUSINESS MANAGEMENT (MBA) IN ANNAMALAI UNIVERSITY – 2017",
+    "profession": "BUSINESS"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2484100.0,
+    "total_liabilities_xls": 509592.0,
+    "net_worth_xls": 1974508.0,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

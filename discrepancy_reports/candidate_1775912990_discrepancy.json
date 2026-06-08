@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912990",
+    "candidate_name": "Poosathurai Mu",
+    "candidate_name_json": null,
+    "age": "38",
+    "party": "All India Revolutionary Leader People's Progressive Federation",
+    "constituency": "Tenkasi Assembly Constituency",
+    "pan": "CRVPP9186J",
+    "phone": "7373731334",
+    "email": "spmpoosaidurai@gmail.com",
+    "address": "43, Bajanaimadam Street, Tiruchitrambalam, Sundarapandiyapuram, Tenkasi Taluk, Tenkasi District, 627858",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., B.L., 5-year law degree, Government Law College, Tirunelveli, 2012, Dr. Ambedkar Law University, Chennai",
+    "profession": "Advocate, Farmer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10600988.0,
+    "total_liabilities_xls": 1719719.0,
+    "net_worth_xls": 8881269.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "STC No.397/2022 (Section 138 Negotiable Instrument Act - Cheque dishonour)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

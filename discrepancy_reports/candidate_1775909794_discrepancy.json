@@ -1,0 +1,528 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909794",
+    "candidate_name": "Thai. Kannaiyan",
+    "candidate_name_json": "KANNAIYAN. T",
+    "age": "64",
+    "party": "Indian Communist Party (Marxist-Leninist Liberation)",
+    "constituency": "170 Thiruvidaimaruthur, Tamil Nadu",
+    "pan": "KNEPK5692D",
+    "phone": "9486601829",
+    "email": "cpimlkannaiyan@gmail.com",
+    "address": "House No. 531, Main Road, Chandrakumar Nagar, Manalur, Manalur Post, Thiruvidaimaruthur Taluk, Thanjavur District - 609 804",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "8th Standard, Kasturibai Gandhi Government Aided Middle School, Thugili",
+    "profession": "Agricultural laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 325500.0,
+    "total_liabilities_xls": 85000.0,
+    "net_worth_xls": 240500.0,
+    "cash_xls": 1000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,000 1 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI Bank Thiruvidaimaruthur 9,000 9 Thou+",
+        "spouse": "Canara Bank Aduthurai 500 5 Hund+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "TVS XL TN68AB0731-2019 65,000 65 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Gold 2 Pavin 2,00,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Free Housing Provided By the Govt ID Total Area 2.5 Cents Built Up Area 1110 Sq Ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 50,000 50 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Co-operative Bank 25,000 25 Thou+ Canara Bank 30,000 30 Thou+",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (14 case(s))",
+    "case_numbers_xls": "730/2022-அய்யம்பேட்டை காவல் நிலையம், தஞ்சாவூர் மாவட்டம். / 730/2022-Ayyampettai Police Station, Thanjavur District.; 44/2025 கபிஸ்தலம் காவல் நிலையம், தஞ்சாவூர் மாவட்டம். / 44/2025-Kabistalam Police Station, Thanjavur District.; 1791/2021, கிழக்கு காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம். / 1791/2021, East Police Station, Kumbakonam, Thanjavur District.; 1350/2020- கிழக்கு காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம். / 1350/2020-East Police Station, Kumbakonam, Thanjavur District.; 7/2020- மேற்கு காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம். / 7/2020-West Police Station, Kumbakonam, Thanjavur District.; 1066/2020-சுவாமிமலை காவல் நிலையம், தஞ்சாவூர் மாவட்டம். / 1066/2020-Swamimalai Police Station, Thanjavur District.; 758/2021- திருநீலக்குடி காவல் நிலையம், தஞ்சாவூர் மாவட்டம். / 758/2021-Thiruneelakudi Police Station, Thanjavur District.; 147/2025- திருப்பனந்தாள் காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம். / 147/2025-Thiruppanandal Police Station, Kumbakonam, Thanjavur District.; 435/2023- திருப்பனந்தாள் காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம். / 435/2023-Thiruppanandal Police Station, Kumbakonam, Thanjavur District.; 74/2020- திருப்பனந்தாள் காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம். / 74/2020-Thiruppanandal Police Station, Kumbakonam, Thanjavur District.; 519/2023- திருவிடைமருதூர் காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம். / 519/2023-Thiruvidaimaruthur Police Station, Kumbakonam, Thanjavur District.; 975/2020- திருவிடைமருதூர் காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம். / 975/2020-Thiruvidaimaruthur Police Station, Kumbakonam, Thanjavur District.; 314/2016- திருவிடைமருதூர் காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம். / 314/2016-Thiruvidaimaruthur Police Station, Kumbakonam, Thanjavur District.; 974/2020- நாச்சியார்கோவில் காவல் நிலையம், கும்பகோணம், தஞ்சாவூர் மாவட்டம். / 974/2020-Nachiyarkovil Police Station, Kumbakonam, Thanjavur District.",
+    "criminal_cases_json": {
+      "count": "13",
+      "summary": "Number of Criminal Cases:13",
+      "ipc_charges": [
+        "1 charges related to Assault or criminal force to woman with intent to outrage her modesty (IPC Section-354)",
+        "1 charges related to Abetment of such assault, if the assault is committed (IPC Section-134)",
+        "1 charges related to Mischief causing loss or damage to the amount of twenty thousand rupees but less than 2 lakh rupees. (BNS Section-324(4))",
+        "1 charges related to If threat be to cause death or grievous hurt, etc. (BNS Section-351(3))",
+        "1 charges related to Voluntarily causing hurt by dangerous weapons or means. (BNS Section-118(1))",
+        "1 charges related to Voluntarily causing grievous hurt by dangerous weapons or means [except as provided in section 122(2)]. (BNS Section-118(2))",
+        "1 charges related to Punishment for Rioting (BNS Section-191(2))",
+        "1 charges related to Rioting, armed with a deadly weapon. (BNS Section-191(3))",
+        "8 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "6 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "3 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "3 charges related to Malignant act likely to spread infection of disease dangerous to life (IPC Section-270)",
+        "2 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Abetment of desertion of soldier, sailor or airman (IPC Section-135)",
+        "1 charges related to Unlawful assembly (IPC Section-141)",
+        "1 charges related to Mischief causing damage to the amount of fifty rupees (IPC Section-427)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Oath (IPC Section-51)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Punishment for voluntarily causing hurt (BNS Section-115(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "730/2022, Ayyampettai PS Thanjavur District",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section-4A 1(a) TNOPPD Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "44/2025, Kabisthalam Police Station Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "1791/2021, East PS Kumbakonam Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 270",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "1350/2020, East PS Kumbakonam Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 269, 270",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "1066/2020, Swamimalai PS Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "758/2021, Thiruneelakudi PS Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section-4A, 1(a) TNOPPD Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "147/2025, Thiruppanandal PS Kumbakonam, Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "115(2), 296(b), 324(4), 351(3), 118(1), 118(2), 191(2), 191(3)",
+          "other_details": "Section-3(1) TNPPOD Act & Section-4 TNPHW Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "435/2023, Thiruppanandal PS Kumbakonam, Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294B, 354, 427, 506(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "74/2020, Thiruppanandal PS Kumbakonam, Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "519/2023, Thiruvidaimarudur PS Kumbakonam, Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "141, 143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "11",
+          "fir_no": "975/2020, Thiruvidaimarudur PS Kumbakonam, Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "134, 135, 143, 188, 269, 270, 51",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "12",
+          "fir_no": "314/2016, Thiruvidaimarudur PS Kumbakonam, Thanjavur Dist.r",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "13",
+          "fir_no": "974/2020, Natchiarkoil PS Kumbakonam Thanjavur Dist.",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,25,500 ~3 Lacs+",
+    "Liabilities:": "Rs 55,000 ~55 Thou+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    }
+  ]
+}

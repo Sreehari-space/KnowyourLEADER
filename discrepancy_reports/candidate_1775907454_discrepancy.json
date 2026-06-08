@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907454",
+    "candidate_name": "P. V. Ramana",
+    "candidate_name_json": null,
+    "age": "58",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "004-Tiruvallur Assembly Constituency, Tamil Nadu",
+    "pan": "AAXPV4344D",
+    "phone": "9445653333",
+    "email": "ramanasribalaji8@yahoo.com",
+    "address": "No. 12, V.M. Nagar Annex, V.M. Nagar, Tiruvallur Town, Tiruvallur Taluk, Tiruvallur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th - St. George's Anglo Indian Higher Secondary School, Chennai-30, Year of completion-1984; D.Pharm - C.L. Baid Mehta Pharmacy College, Chennai-90, Year of completion-1990",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 134841640.0,
+    "total_liabilities_xls": 65246151.0,
+    "net_worth_xls": 69595489.0,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "RC.No.08(A)/2018 CBI, AC-III, Delhi; C.C.No.16/2024 Special Court No.1 for MP, MLA Cases Singaravelan Maligai, Chennai; Cr.No.00635/2024 Tiruvallur Town PS; Cr.No.0158/2023 Tiruvallur Town PS; Cr.No.0226/2021 Tiruvallur Town PS; Cr.No.0163/2021 Tiruvallur Town PS",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

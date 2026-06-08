@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913209",
+    "candidate_name": "சசி ரேகா",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "People's Political Party",
+    "constituency": "049- Jolarpettai, Tamil Nadu",
+    "pan": "JMKPS2999D",
+    "phone": "9360499615",
+    "email": "NIL",
+    "address": "AR Police Quarters Backside, Pachchal, Tirupattur District, Tamil Nadu - 635 602",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC, Government Girls Higher Secondary School, Melur, 1997",
+    "profession": "Daily Wage Earner"
+  },
+  "financial_summary": {
+    "total_assets_xls": 25000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 25000.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

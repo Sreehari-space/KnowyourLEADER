@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919274",
+    "candidate_name": "N. Pavunraj",
+    "candidate_name_json": null,
+    "age": "28",
+    "party": "Independent",
+    "constituency": "195, Tiruparankundram Assembly Constituency, Tamil Nadu",
+    "pan": "CUCPN8484K",
+    "phone": "7094330007",
+    "email": "NIL",
+    "address": "o. Natarajan, Door No. 340, Maruthupandiyar Nagar, Sathangudi Village, Sathangudi Post, Tirumangalam Taluk, Madurai District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard, Jothidharman RCC Higher Secondary School, Sathangudi - 2010-11",
+    "profession": "Electrician"
+  },
+  "financial_summary": {
+    "total_assets_xls": 501000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 501000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

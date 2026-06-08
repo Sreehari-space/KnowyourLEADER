@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905418",
+    "candidate_name": "மு.திராவிடமணி",
+    "candidate_name_json": null,
+    "age": "66",
+    "party": "திராவிட முன்னேற்ற கழகம்",
+    "constituency": "109 - கூடலூர் (தனி)",
+    "pan": "DBLPM6144Q",
+    "phone": "9443900711",
+    "email": "thiravidamanimlagudalur@gmail.com",
+    "address": "82 E7, எம்.ஜி.ஆர், நகர், பந்தலுர், நீலகிரி மாவட்டம், தமிழ்நாடு",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A., B.L. (சிக்கன்னா அரசு கனக்கல்லூரி, அரசு கனக்கல்லூரி சேலம், அரசு சட்டக்கல்லூரி கோவை, சென்னை மற்றும் பாரதியார் பல்கலைக்கழகம்)",
+    "profession": "வழக்கறிஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 121949984.0,
+    "total_liabilities_xls": 4795348.0,
+    "net_worth_xls": 117154636.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "FIR No. 282/2020; FIR No. 125/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

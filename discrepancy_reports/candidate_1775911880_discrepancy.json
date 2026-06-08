@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911880",
+    "candidate_name": "S.Soundrapandian",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Indian Ganasanagam Party",
+    "constituency": "136 - Krishnarayapuram",
+    "pan": "CILPS9102G",
+    "phone": "9786439947",
+    "email": "ஏதுமில்லை / nil",
+    "address": "Door No. 65, Natarajapuram, Palarajapuram Village, Veerarakkiyam Post, Veerarakkiyam Post, Krishnarayapuram Taluk, Karur District - 639114",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Tenth Standard, GOVT ADW HS MILGUPARAI -1987.",
+    "profession": "Wage labor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1000.0,
+    "cash_xls": 500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919943",
+    "candidate_name": "M.JOHN BOSCO",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "Independent",
+    "constituency": "117-KAVUNDAMPALAYAM Assembly Constituency, Tamil Nadu",
+    "pan": "AEJPJ9956P",
+    "phone": "9894071980",
+    "email": "johnbosco.legal@gmail.com",
+    "address": "No.E1, K.S.Garden, S.P.Nagar-II, Edayarpalayam, Coimbatore - 641025",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th (1987, AP Govt Higher secondary School, Tiruppattur Sivagangai dt), +2 (1989, AP Govt Higher secondary School, Tiruppattur Sivagangai dt), B.Sc. (1992, St.Xavier's College, Palayamkottai, Tirunelveli Dt), L.LB. (2015, Karnataka State Law University, Hubballi)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 392307500.0,
+    "total_liabilities_xls": 11700402.41,
+    "net_worth_xls": 380607097.59,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

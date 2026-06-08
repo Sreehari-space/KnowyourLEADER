@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918142",
+    "candidate_name": "G.D. Arun Kumar",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "Independent",
+    "constituency": "005, Poonamallee, Tamil Nadu",
+    "pan": "BPBPA8964A",
+    "phone": "9092428313",
+    "email": "arungd765@gmail.com",
+    "address": "No.1007, 2nd Cross Street, Vinayagapuram, Kattupakkam, Poonamallee, Thiruvallur District, Pin Code - 600 056",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A.,L.L.B., Dr. Ambedkar Law College, Chennai. (2015-18)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1872379.06,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1872379.06,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912041",
+    "candidate_name": "Y.T.Aravind Gosh",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "Independent",
+    "constituency": "24 Thiyagaraya Nagar",
+    "pan": "AEFPA2166Q",
+    "phone": "99400, 26968",
+    "email": "agmlatn2026@gmail.com",
+    "address": "65, Gajapathy Street, Shenoy Nagar, Chennai - 600 030",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Law – Dr.Ambedkar Govt. Law College – Madras University - 1999",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 159879808.1,
+    "total_liabilities_xls": 60425332.0,
+    "net_worth_xls": 99454476.1,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

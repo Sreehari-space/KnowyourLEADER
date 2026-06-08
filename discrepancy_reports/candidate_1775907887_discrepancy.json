@@ -1,0 +1,427 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907887",
+    "candidate_name": "S.Pavunraj",
+    "candidate_name_json": "PAVUNRAJ. S",
+    "age": "69",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "162 Poompuhar Assembly Constituency, Tamil Nadu",
+    "pan": "AADPP8175E",
+    "phone": "9443574056",
+    "email": "spavunraj1957@gmail.com",
+    "address": "18 Vellalar Street, Budhanoor, Tharangampadi Taluk, Mayiladuthurai District, Tamilnadu",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "SSLC, I studied at Ayyapadi National High School in 1976.",
+    "profession": "Housewife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 37066244.98,
+    "total_liabilities_xls": 7869739.55,
+    "net_worth_xls": 29196505.43,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,00,000 1 Lacs+",
+        "spouse": "1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "IOB, Thiruklacherry 3,46,232 3 Lacs+ IOB, Sembanarcoil 11,420 11 Thou+ Indian Bank Tharangambadi 0 IOB, Thirukkalacherry, Chennai Anna Road 60,000 60 Thou+ IOB Bank 60,000 60 Thou+ IOB, Thirukkalacherry 1,22,176 1 Lacs+",
+        "spouse": "IOB, Thiruklacherry 27,414 27 Thou+ Canara Bank 5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Fortuner Car TN 82 S 0009,2020 14,00,000 14 Lacs+ Jeep TN 82 AJ 0005,2026 15,00,000 15 Lacs+ Innova Crysta TM 82 D 6999 20,84,000 20 Lacs+",
+        "spouse": "Tractor TN 82 P 4947 3,50,000 3 Lacs+ Tata Ace TN 51 Q 9059 1,00,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "80 gm Gold 80,00,000 80 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Butanur Village R.S.38/13-A1-65, 40/90.. Date of Purchase :1997.7.24, 2002.12.15, 2008.12.12 Total Area 9.02 Cent Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 390550.00 Development Cost 0.00 15,00,000 15 Lacs+",
+        "spouse": "Manga Village,323/2B1,1.62 C, 300/11A,A1-26C ,299/1B,0-34C.. Date of Purchase : 2013.8.22, 2013.2.14, 2015.6.20, 2020.2.7,2016.9.28, 2018.11.18 Cost of Purchase: 302100, 307300, 55200, 276000, 15800 Total Area 11.28 sq.ft Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 18,00,000 18 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "1.Vellazha Street, Bhuthanur Village R.S 117/10, 6758 sq.ft,R.S No.117/10 654 sq.ft , 17933 sq.ft , 1996.6.26 2. Parasalur Village RS 99/2-2 Natam 100sq.mts, Total Area Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 603796.00 Development Cost 700000.00 40,00,000 40 Lacs+",
+        "spouse": "Sirkazhi Taluk Kavilancherry Circle 106/2,10346..., Date Of Purchase: 2000.3.9, 2015.1.23,1996.6.26, 2008.11.12, 2017.11.13, 2018.5.2, 2018.12.19, 20.09.25. Cost of Purchase: 2582732, 631500, 1924,800, 42,85,800,2380000,4368000,3,79,300,20000 Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 1,00,00,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "IOB Thirukkalachery (Vehicle Loan) 11,80,000 11 Lacs+ IOB Thirukkalachery (Vehicle Loan) 18,38,168 18 Lacs+ Thirukkalachery Pudhu Agriculture , Cooperative Society Agriculture Loan 1,59,800 1 Lacs+",
+      "spouse": "Canara Bank Thiruccadaiyur (Housing Loan) 45,31,971 45 Lacs+ Thirukkalachery Pudhu Agriculture , Cooperative Society Agriculture Loan 1,59,800 1 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 7,67,340 | 2024 - 2025: Rs 7,63,990 | 2023 - 2024: Rs 7,31,750 | 2022 - 2023: Rs 5,51,700 | 2021 - 2022: Rs 5,48,980"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 11,92,190 | 2024 - 2025: Rs 10,17,240 | 2023 - 2024: Rs 9,95,640 | 2022 - 2023: Rs 5,09,090 | 2021 - 2022: Rs 4,69,040"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "1. Poraiyar Police Station, Cr.No.114/2024 (IPC 171(f), 352, 506(1), Rep People Act 132); 2. Mayiladuthurai Police Station, Cr.No.708/2024 (IPC 126(2), 189(2), BNS Act); 3. Kuthalam Police Station, Cr.No.454/2022 (143, 341 IPC); 4. Mayiladuthurai District Crime Branch Police Station, Cr.No.26/2023 (406, 419, 420, 465, 467, 468, 471, 477(A) IPC)",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "1 charges related to Punishment for undue influence or personation at an election (IPC Section-171F)",
+        "1 charges related to Punishment for criminal breach of trust (IPC Section-406)",
+        "1 charges related to Cheating and dishonestly inducing delivery of property (IPC Section-420)",
+        "1 charges related to Forgery of valuable security, will, etc. (IPC Section-467)",
+        "1 charges related to Forgery for purpose of cheating (IPC Section-468)",
+        "1 charges related to Falsification of accounts (IPC Section-477A)",
+        "1 charges related to Punishment for assault or criminal force otherwise than on grave provocation (IPC Section-352)",
+        "1 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Punishment for cheating by personation (IPC Section-419)",
+        "1 charges related to Punishment for forgery (IPC Section-465)",
+        "1 charges related to Using as genuine a forged document or electronic record (IPC Section-471)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "114/2024, Porayar Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "171F, 352, 506(1)",
+          "other_details": "Section-132 Rep. People Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "708/2024, Mayiladuthurai Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "BNS",
+          "ipc_sections": "126(2), 189(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "454/2022, Kutthalam Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "26/2023, Mauyiladuthurai District Crime Division Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "406, 419, 420, 465, 467, 468, 471, 477A",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,15,66,244 ~3 Crore+",
+    "Liabilities:": "Rs 78,69,739 ~78 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹21,911,675, but 5-year family income is only ₹7,546,960. Unexplained wealth discrepancy of ₹14,364,715."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Overvalued (Parking Illicit Funds)",
+      "description": "80.0g gold declared at ₹8,000,000 (Implied rate: ₹100,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "HIGH",
+      "title": "Vehicle Loan Exceeds Declared Vehicle Value",
+      "description": "Vehicle loans sum to ₹3,018,168 but declared vehicles value is only ₹1,750,000."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹27,623,646) does not match declared total assets (₹31,566,244). Difference: ₹3,942,598"
+    }
+  ]
+}

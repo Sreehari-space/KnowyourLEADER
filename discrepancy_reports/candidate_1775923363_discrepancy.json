@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923363",
+    "candidate_name": "திரு.நா.தினேஷ் குமார்",
+    "candidate_name_json": null,
+    "age": "34",
+    "party": "சுயேட்சை",
+    "constituency": "22, விருகம்பாக்கம், தமிழ்நாடு",
+    "pan": "BCLPD8068B",
+    "phone": "9363000666",
+    "email": "hcadvdineshkumar@gmail.com",
+    "address": "எண் 11. பழைய எண் 5, 6 வது தெரு, தசரதபுரம், சாலிகிராமம், சென்னை 600098",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "DIT, BCA, LLB., பள்ளி- 10 ம் வகுப்பு 2006-2007 அவிச்சி மேல்நிலை பள்ளி, விருகம்பாக்கம், சென்னை; 12 ம் வகுப்பு 2008-2009 திரு காமராஜ் நகராட்சி மேல்நிலை பள்ளி, விழுப்புரம்; DIPLOMA IN INFORMATION TECHNOLOGY, 2009-2011, தாய் மூகாம்பிகை பாலிடெக்னிக் கல்லூரி சென்னை; BCA 2014-2016 சென்னை பல்கலைக்கழகம் சென்னை; LLB 2017-2022 எஸ்..பி.ஆர்.டி.ம், கடப்பா",
+    "profession": "தனி நபர் - வழக்கறிஞர், சென்னை உயர் நீதிமன்றம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4655134.23,
+    "total_liabilities_xls": 1334451.0,
+    "net_worth_xls": 3320683.23,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

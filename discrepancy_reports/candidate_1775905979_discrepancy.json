@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905979",
+    "candidate_name": "E. Saroja",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "constituency": "146 - Thuraiyur (Reserved)",
+    "pan": "DHQPS7560K",
+    "phone": "8072651868",
+    "email": "sarojaelangovan22@gmail.com",
+    "address": "No.49L, Malayappan Salai-2, Thuraiyur Town, Thuraiyur - 621010, Tiruchirappalli District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "9th standard not passed, NLC High School, Neyveli, 1989",
+    "profession": "Not specified"
+  },
+  "financial_summary": {
+    "total_assets_xls": 29365364.58,
+    "total_liabilities_xls": 900000.0,
+    "net_worth_xls": 28465364.58,
+    "cash_xls": 500000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Crime No. 385/2022 (IPC Sections: 143, 283, 290) - Regarding road blockade",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

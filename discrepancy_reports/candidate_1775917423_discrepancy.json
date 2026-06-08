@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917423",
+    "candidate_name": "J. Jayabharath",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "Independent",
+    "constituency": "Kilvaithinankuppam-45 (SC)",
+    "pan": "BAFPJ5041L",
+    "phone": "9787867196",
+    "email": "cs.jayabharath@gmail.com",
+    "address": "52, Arunthathiyar Colony, Veppanganeri Village, K.V. Kuppam Post (M) Circle, Vellore District, Tamil Nadu 632201",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.E. (Computer Science and Engineering), Sri Balaji Chockalingam Engineering College (Anna University 2019), Second Class",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 55000.0,
+    "total_liabilities_xls": 30000.0,
+    "net_worth_xls": 25000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

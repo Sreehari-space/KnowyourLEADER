@@ -1,0 +1,474 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905814",
+    "candidate_name": "N. Pandi",
+    "candidate_name_json": "PANDI. N",
+    "age": "68",
+    "party": "Indian Communist Party (Marxist)",
+    "constituency": "127. Palani Assembly Constituency",
+    "pan": "CODPP8268J",
+    "phone": "9443150831, 9043065617",
+    "email": "pandicpm@gmail.com",
+    "address": "2, Thirumalaisamipuram, Nagalnagar, Dindigul 624 003",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "School Final Class 1975, Government Higher Secondary School, Ayyalur.",
+    "profession": "Social worker and Chief Manager, Theekkathir Daily"
+  },
+  "financial_summary": {
+    "total_assets_xls": 5385127.1,
+    "total_liabilities_xls": 45000.0,
+    "net_worth_xls": 5340127.1,
+    "cash_xls": 1000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,000 1 Thou+",
+        "spouse": "5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "10,000 10 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Bharath State Bank,Nheruji Nagar,Dindugal 76,151 76 Thou+ Indian Bank,Chathiram street,Dindugal 41,174 41 Thou+ IOB, Palani 25,000 25 Thou+",
+        "spouse": "Bharath State Bank,Nagal Nagar,Dindugal 18,549 18 Thou+ Central co operative bank,Dindugal 92,251 92 Thou+",
+        "huf": "Nil",
+        "dependent1": "ICICI bank,DIndugal 0*(Value Not Given) THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, Cathedral, Chennai,Rajalakshmi, No 5 & 7, Cathedral Road,Teynampet, Chennai 20,614 20 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "POSTAL 76,000 76 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Honda Motorcycle and Scooter TN 57 BE 9946,(2018) 20,000 20 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "40 g gold 5,50,000 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Dindugal,Thirumalasamypuram,ward no-6,T.S.No:2668/1B Total Area 1510 sqft Built Up Area 1080 sq ft Whether Inherited N Purchase Date 2002-06-24 Purchase Cost 217080.00 Development Cost 2583500.00 45,00,000 45 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "MD 107,T.N.A Govt transport corporaton employees cooperative savings bank ltd, dindigul,individual loan 45,000 45 Thou+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2025 - 2026",
+      "income": "2025 - 2026: Rs 13,27,470 | 2024 - 2025: Rs 6,11,220 | 2023 - 2024: Rs 4,93,300 | 2022 - 2023: Rs 4,99,660 | 2021 - 2022: Rs 4,87,800"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (10 case(s))",
+    "case_numbers_xls": "2484/2020; 2239/2020; 2176/2020; 2118/2020; 2111/2020; 1702/2020; 159/2021; 1177/2021; 1202/2021; 41/2017",
+    "criminal_cases_json": {
+      "count": "10",
+      "summary": "Number of Criminal Cases:10",
+      "ipc_charges": [
+        "7 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "6 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "5 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "4 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)",
+        "4 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Unlawful assembly (IPC Section-141)",
+        "1 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "2484/ 2020,Dindugal North PS",
+          "case_no": "CC 59/ 2022",
+          "court": "JM-II Court,Dindugal",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 283, 341",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "18 Apr 2026",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "2239/ 2020,Dindugal North PS",
+          "case_no": "CC 30/ 2022",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 269, 341",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "28 Apr 2026",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "2176/2020,Dindugal North PS",
+          "case_no": "CC 66/ 2022",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 269, 341",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "25 May 2026",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "2118/ 2020,Dindugal North PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 269, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "2111/ 2020 ,Dindugal North PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 269, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "1702/ 2020,Dindugal North PS",
+          "case_no": "CC 155/ 2022",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 283, 341",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "06 Jun 2026",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "159/ 2021,Dindugal North PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 4A (1a), 4B TNOPPD ACT",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "1177/ 2021 ,Dindugal North PS",
+          "case_no": "CC 89/ 2022",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "16 Apr 2026",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "1202/ 2021,Dindugal North PS",
+          "case_no": "CC 85/ 2022",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 283, 141",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "22 Jun 2026",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "10",
+          "fir_no": "41/ 2017,Dindugal North PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 54,35,740 ~54 Lacs+",
+    "Liabilities:": "Rs 45,000 ~45 Thou+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Residential Buildings purchased in 2002 for ₹217,080 (CII Indexed Cost: ₹777,353) is declared at highly inflated value of ₹4,500,000."
+    }
+  ]
+}

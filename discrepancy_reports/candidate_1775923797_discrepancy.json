@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923797",
+    "candidate_name": "N.ராஜா",
+    "candidate_name_json": null,
+    "age": "52",
+    "party": "சுயேட்சை",
+    "constituency": "065 கலசபாக்கம்",
+    "pan": "HGPPR3702C",
+    "phone": "9159764927",
+    "email": "nil / ஏதுமில்லை",
+    "address": "170, பிள்ளையார் கோயில் தெரு, தொப்பானந்தல் கிராமம், கிடாம்பாளையம் அஞ்சல், கலசபாக்கம் வட்டம், திருவண்ணாமலை மாவட்டம்-606 901",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10 STD",
+    "profession": "தனி நபர் விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 272175.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 272175.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

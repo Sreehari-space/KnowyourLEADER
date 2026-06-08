@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919896",
+    "candidate_name": "Moorthi Ra",
+    "candidate_name_json": null,
+    "age": "32",
+    "party": "Dalit Viduthalai Katchi",
+    "constituency": "Avinashi 112, Tamil Nadu",
+    "pan": "FTWPM5199C",
+    "phone": "9514740769",
+    "email": "moorthimoorthi7379@gmail.com",
+    "address": "127, Pazhaya Colony, Nambiyampalayam, Avinashi Taluk, Tiruppur District - 641670",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Sixth Standard, Panchayat Union Middle School Nambiyampalayam (2007)",
+    "profession": "Car Driver"
+  },
+  "financial_summary": {
+    "total_assets_xls": 12000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 12000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

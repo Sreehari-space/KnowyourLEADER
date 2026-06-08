@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908158",
+    "candidate_name": "P. Senthilpandian",
+    "candidate_name_json": null,
+    "age": "59",
+    "party": "Tamil Text: தமிழக வெற்றிக் கழகம்",
+    "constituency": "164 Kilvelur, Tamil Nadu",
+    "pan": "DEPPS6718B",
+    "phone": "9443436847",
+    "email": "senthilpandian19@gmail.com",
+    "address": "8, Keelatheru, Thazhaikudi & Post 613 701, Tiruvarur Taluk, Tiruvarur District, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "D.C.E. (1985-1988) from Shanmuga Polytechnic, Thirumalaisamudram, Thanjavur; B.B.A. (1997) from Institute of Correspondence Education, University of Madras, Chennai",
+    "profession": "Tamil Text: விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 12545000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 12545000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

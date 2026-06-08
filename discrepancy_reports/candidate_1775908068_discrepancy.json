@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908068",
+    "candidate_name": "கௌ சித்ரா",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "தமிழக வெற்றி கழகம்",
+    "constituency": "101, தாராபுரம்(தனி) தொகுதி, தமிழ்நாடு",
+    "pan": "BQYPG1804P",
+    "phone": "9843679714",
+    "email": "NIL",
+    "address": "17, சீத்தா நகர், தேவேந்திரர் தெரு, தாராபுரம் நகர், தாராபுரம் தாலுக்கா, திருப்பூர் மாவட்டம்- 638656.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th grade (SSLC) 1986 - Passed from Girls Higher Secondary School, Udumalpet (பத்தாம் வகுப்பு (SSLC) 1986-ஆம் ஆண்டு பெண்கள் மேல்நிலைப் பள்ளி உடுமலைபேட்டை தேர்ச்சிபெற்றுள்ளார்); 12th grade (HSC) 1988 - Passed from Tmt. GVG Visalakshi Girls Higher Secondary School, Udumalpet (பன்னிரண்டாம் வகுப்பு - (HSC)1988- ஆம் ஆண்டு திரு.GVG விசாலாட்சி பெண்கள் மேல்நிலைப் பள்ளி, உடுமலைபேட்டை தேர்ச்சிபெற்றுள்ளார்); M.A., Political Science - Passed from Madurai Kamaraj University, Directorate of Distance Education, Academic Year (2001-2002) (M.A., Political Science-தொலைதூறக்கல்வி இயக்கம் மதுரை காமராஜ் பல்கலைக்கழகம் கல்வியாண்டு (2001-2002). தேர்ச்சிபெற்றுள்ளார்)",
+    "profession": "விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3380486.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 3380486.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

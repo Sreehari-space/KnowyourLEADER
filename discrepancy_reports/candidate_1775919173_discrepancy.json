@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919173",
+    "candidate_name": "Joslal",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Congress",
+    "constituency": "233, Vilavancode, Tamil Nadu",
+    "pan": "AOGPJ9589P",
+    "phone": "9488972726",
+    "email": "johin177@gmail.com",
+    "address": "க.எண். கன்னியாகுமரி மாவட்டம், விளவங்கோடு தாலுகா, குழித்துறை அஞ்சல், இடவிளாகம், கோணத்துவிளை வீடு, வீட்டு எண். 17/163 / Kanyakumari District, Vilavancode Taluk, Kuzhithurai Post, Idavilagam, Konathuvilai House, House No. 17/163",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.Tech (Chennai National College (Correspondent Course))",
+    "profession": "Individual Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6895000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 6895000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

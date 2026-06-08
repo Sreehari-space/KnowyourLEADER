@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912046",
+    "candidate_name": "P. Suresh",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "73-Vanur Assembly Constituency, Tamil Nadu",
+    "pan": "CXRPS2295F",
+    "phone": "9843467082",
+    "email": "vijaygpsuresh@gmail.com",
+    "address": "No. 63, Govindaraja Perumal Street, Villupuram Town, Villupuram District-605 602, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Std - 2002- Private study; B.B.A., COMPUTER APPLICATIONS - JUNE-2007, ANNAMALAI UNIVERSITY, ANNAMALAI NAGAR, CUDDALORE",
+    "profession": "Restaurant business (Hotel)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 13116387.0,
+    "total_liabilities_xls": 2133418.0,
+    "net_worth_xls": 10982969.0,
+    "cash_xls": 250000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No: 178/2025, STC 1564/2025",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

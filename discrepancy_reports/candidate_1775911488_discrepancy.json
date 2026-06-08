@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911488",
+    "candidate_name": "P. GANESAN",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "INDHU DRAVIDA MAKKAL KATCHI",
+    "constituency": "40, KATPADI, TAMILNADU",
+    "pan": "BPNPG3656M",
+    "phone": "9629339065, 8608696052",
+    "email": "ganesan.sasthra007@gmail.com",
+    "address": "No.34, Sriram Nagar, Trinity School Backside, Gandhi Nara, Katpadi, Vellore District, State of Tamilnadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5TH STANDARD ONLY",
+    "profession": "PROGITHAR (PANDITS)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 120000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 120000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

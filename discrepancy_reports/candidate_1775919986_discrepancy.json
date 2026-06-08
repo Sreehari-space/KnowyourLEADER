@@ -1,0 +1,353 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919986",
+    "candidate_name": "S.Murugan",
+    "candidate_name_json": "M.MURUGAN",
+    "age": "49",
+    "party": "Independent",
+    "constituency": "Tirumangalam Assembly Constituency, Madurai District",
+    "pan": "AKIPM7887M",
+    "phone": "9443856445",
+    "email": "smurugan4200@gmail.com",
+    "address": "2, South Street, Maruthangudi, Kallikudi Taluk, Madurai District",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "4th Standard, Maruthangudi Government Higher Secondary School",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2855000.0,
+    "total_liabilities_xls": 1873000.0,
+    "net_worth_xls": 982000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "9,42,000 9 Lacs+",
+        "spouse": "85,000 85 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "SBI, Melur Branch-FD 13,57,046 13 Lacs+ SBI, Melur Branch-FD 3,89,981 3 Lacs+ SBI, Melur Branch-CB 4,56,804 4 Lacs+ Indian Bank, Melur Branch-SB 35,625 35 Thou+ ICICI Bank, Madurai Trichy Main Road-CB 28,065 28 Thou+ ICICI Bank, Madurai Trichy Main Road-SB 4,264 4 Thou+ SBI-FD 10,02,400 10 Lacs+ ICICI Bank 0",
+        "spouse": "ICICI Bank, Melur Branch-SB 22,087 22 Thou+ ICICI Bank, Melur Branch-CB 1,22,450 1 Lacs+ Indian Bank, Melur Branch-SB 2,224 2 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Equity Shares 34,716 34 Thou+ Proprietor of Ganesh Fuels 100% Ownership-Capital 2,22,17,000 2 Crore+",
+        "spouse": "Sri Ganesh Ice creams-50% Share 56,87,177 56 Lacs+ ICICI Mutual Fund-Rs-25000 25,000 25 Thou+ Equity Shares 82,366 82 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Moovendar Panpaatu Kazhagam 21,30,000 21 Lacs+ Loan to M.Manoj Kumar 39,83,070 39 Lacs+ Loan to M.Malathi 26,94,742 26 Lacs+ Loan to SPC Murugan 24,95,181 24 Lacs+ Loan to M.Mahesh Raj 2,96,890 2 Lacs+ Loan to M.Yogaganesh 3,77,757 3 Lacs+ Loan to M.Muthuganesan 31,03,428 31 Lacs+ Loan to M.Muthukumar 6,34,581 6 Lacs+ Loan to Ganesh Theatre 57,26,170 57 Lacs+",
+        "spouse": "Loan to Mahi Fashions 15,27,308 15 Lacs+ Loan to ganesh theatre 20,49,390 20 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Car-TN 59 DZ 3666 15,00,000 15 Lacs+ Car-TN 59 BV 0572 2,72,000 2 Lacs+ Car-TN 59 DV 5052 19,50,000 19 Lacs+ Mini Tractor Ashok Layland (Yet to be Registered) 31,61,300 31 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Gold 80 Gms 11,08,000 11 Lacs+",
+        "spouse": "Gold 190 Gms 26,31,500 26 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "3,09,000 3 Lacs+ Sundry Debators 83,41,163 83 Lacs+ IOCL and other Deposit 1,60,000 1 Lacs+",
+        "spouse": "Other movable 6,50,000 6 Lacs+ Electricity Deposit 31,275 31 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Total Area 15.04 Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 1600000.00 2,71,82,000 2 Crore+",
+        "spouse": "Total Area 6.54 Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 645000.00 Development Cost 0.00 5,30,50,000 5 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Total Area 160460 Built Up Area Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 479571.00 Development Cost 936580.00 25,15,00,000 25 Crore+",
+        "spouse": "Total Area 231080 Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 268000.00 Development Cost 685420.00 6,32,00,000 6 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Total Area 13165 Built Up Area 5500 Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 11,09,00,000 11 Crore+",
+        "spouse": "Total Area 40590 Built Up Area 6350 Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 463000.00 Development Cost 5718075.00 5,49,50,000 5 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Total Area 2100 Built Up Area 1800 Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 343000.00 Development Cost 125300.00 1,15,00,000 1 Crore+",
+        "spouse": "Total Area 600 Built Up Area 452 Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 181000.00 Development Cost 545890.00 55,00,000 55 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 5,26,356 5 Lacs+",
+        "spouse": "Total Area Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 3,69,266 3 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "SBI EDFS, Melur Branch 82,62,735 82 Lacs+ ICICI Bank KCC Loan 1,00,40,635 1 Crore+ ICICI Bank KCC Loan 1,17,86,399 1 Crore+ SBI Car Loan 7,53,622 7 Lacs+ SBI Mini Tanker Loan 23,04,411 23 Lacs+ Gold Loan 18,76,726 18 Lacs+ ICICI Car Loan 11,45,000 11 Lacs+",
+      "spouse": "ICICI Gold Loan 26,02,370 26 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Other Sundry Creditors 16,17,236 16 Lacs+",
+      "spouse": "Sundry Creditors 26,94,740 26 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "6,30,000 6 Lacs+",
+      "spouse": "2,50,000 2 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 26,98,120 | 2023 - 2024: Rs 66,52,460 | 2022 - 2023: Rs 27,27,120 | 2021 - 2022: Rs 24,67,970 | 2020 - 2021: Rs 23,63,150"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 9,63,130 | 2023 - 2024: Rs 6,91,810 | 2022 - 2023: Rs 5,30,760 | 2021 - 2022: Rs 4,91,490 | 2020 - 2021: Rs 4,74,440"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 65,63,04,583 ~65 Crore+",
+    "Liabilities:": "Rs 4,39,63,874 ~4 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹580,604,375, but 5-year family income is only ₹20,060,450. Unexplained wealth discrepancy of ₹560,543,925."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "HIGH",
+      "title": "Gold Loan Exceeds Expected LTV",
+      "description": "Gold loans sum to ₹4,479,096 against declared gold value of ₹3,739,500 (exceeds 90% LTV)."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹596,661,456) does not match declared total assets (₹656,304,583). Difference: ₹59,643,127"
+    }
+  ]
+}

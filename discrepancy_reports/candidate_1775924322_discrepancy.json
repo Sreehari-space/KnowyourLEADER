@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924322",
+    "candidate_name": "S.Raja",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Independent",
+    "constituency": "78-Rishivandiyam Assembly",
+    "pan": "BTXPR3735C",
+    "phone": "9629886555",
+    "email": "NIL",
+    "address": "32, South street, Kurur village, Mudiyanur post, Kallakurichi Taluk & Dt, Tamilnadu. PIN-606 203",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "D.ECE from Muruga Polytechnic, Kallakurichi (2009)",
+    "profession": "Agriculture and collie Income."
+  },
+  "financial_summary": {
+    "total_assets_xls": 447500.0,
+    "total_liabilities_xls": 180000.0,
+    "net_worth_xls": 267500.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

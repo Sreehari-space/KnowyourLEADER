@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775924994",
+    "candidate_name": "G. ராஜகுமார்",
+    "candidate_name_json": null,
+    "age": "63",
+    "party": "Dravida Munnetra Kazhagam",
+    "constituency": "121-Singanallur, Tamil Nadu",
+    "pan": "NIL",
+    "phone": "8015268757",
+    "email": "NIL",
+    "address": "56, G.R.G Chandrakanti Nagar, Saouripalayam, Coimbatore-641028",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard – St. John's Higher Secondary School - 1977",
+    "profession": "Individual - Wage earner"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4024.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 4024.0,
+    "cash_xls": 2000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

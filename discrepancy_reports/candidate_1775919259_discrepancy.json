@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919259",
+    "candidate_name": "S. Arulraj",
+    "candidate_name_json": null,
+    "age": "65",
+    "party": "Independent",
+    "constituency": "Sankarankovil (219)",
+    "pan": "DEQPA9609A",
+    "phone": "9965472620",
+    "email": "NIL",
+    "address": "No. 44, Indira Colony, Sumai Theerka Puram, Vallam, Sankarankovil Taluk, Tenkasi District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th standard",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 38000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 38000.0,
+    "cash_xls": 8830.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

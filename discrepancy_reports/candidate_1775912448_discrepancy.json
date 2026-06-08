@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912448",
+    "candidate_name": "K. Raghu",
+    "candidate_name_json": null,
+    "age": "37",
+    "party": "Puthiya Thamizhagam Katchi",
+    "constituency": "Sholavandan Constituency (190), Tamil Nadu",
+    "pan": "CABPR1244J",
+    "phone": "9789460779",
+    "email": "kraghu0203@gmail.com",
+    "address": "36, East Street, Palamedu Post, Palamedu, Madurai 625503",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.Sc. (Tamil University, Thanjavur, 2016), B.Ed. (Tamil Nadu Teachers Education University, Chennai, 2014)",
+    "profession": "Travels"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2539000.0,
+    "total_liabilities_xls": 1600000.0,
+    "net_worth_xls": 939000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

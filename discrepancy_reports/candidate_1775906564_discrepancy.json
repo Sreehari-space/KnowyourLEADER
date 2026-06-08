@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906564",
+    "candidate_name": "K. Marimuthu",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Communist Party of India",
+    "constituency": "166 - Thiruthuraipoondi Assembly Constituency, Tamil Nadu",
+    "pan": "CSNPM6653G",
+    "phone": "9443530487",
+    "email": "இல்லை / none",
+    "address": "1, Colony Street, Kaduvaakkudi, Karuppukilar, Kottur, Mannargudi Taluk, Thiruvarur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Commerce, Mannai Rajagopalasamy Government Arts College, Mannargudi, completed in 1993",
+    "profession": "Politics, Public Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 664326.0,
+    "total_liabilities_xls": 120000.0,
+    "net_worth_xls": 544326.0,
+    "cash_xls": 5000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

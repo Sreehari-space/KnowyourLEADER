@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775915379",
+    "candidate_name": "P. Sathishkumar",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Independent",
+    "constituency": "T. Nagar, Tamil Nadu",
+    "pan": "EIWPS0120R",
+    "phone": "9940256118",
+    "email": "sathishrdsnew@gmail.com",
+    "address": "No. 38, Netaji Street, Ponniyamman Medu, S.O. Tiruvallur - 600110",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard",
+    "profession": "Private company job"
+  },
+  "financial_summary": {
+    "total_assets_xls": 692000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 692000.0,
+    "cash_xls": 12000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

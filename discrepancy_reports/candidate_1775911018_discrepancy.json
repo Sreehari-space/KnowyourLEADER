@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911018",
+    "candidate_name": "Lakshmi",
+    "candidate_name_json": null,
+    "age": "30",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "83, Yercaud",
+    "pan": "AZLPL7637E",
+    "phone": "8098484850",
+    "email": "janakarunyalakchu@gmail.com",
+    "address": "Door No. 5-3455, Servaipattu, Maniyarkundam, Chinnakalrayanmalai North, Salem District, Tamil Nadu - 636138",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC, 2012, GTR HS School, Karumandurai, Salem",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4270706.0,
+    "total_liabilities_xls": 1031888.0,
+    "net_worth_xls": 3238818.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

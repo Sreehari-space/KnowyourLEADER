@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910947",
+    "candidate_name": "N.Ganesh",
+    "candidate_name_json": null,
+    "age": "NIL",
+    "party": "Tamilaga Padaippalar Makkal Katchi",
+    "constituency": "230 Nagercoil, Tamil Nadu",
+    "pan": "AQDPG7397R",
+    "phone": "9345111001",
+    "email": "ganesh9345111001@gmail.com",
+    "address": "55B,3-1, Pallivilai Road, Vettoornimadam, Nagercoil-629003, Kanyakumari District.",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "MCA, Madurai Kamarajar University, 2011 (Master of Computer Application, Madurai Kamarajar University (Distance Education))",
+    "profession": "Individual Sculpture Work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3587000.0,
+    "total_liabilities_xls": 6344000.0,
+    "net_worth_xls": 2757000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

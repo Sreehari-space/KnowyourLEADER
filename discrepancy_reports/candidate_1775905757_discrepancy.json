@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905757",
+    "candidate_name": "Gandhi Mavilai Ramaswamy Nadar",
+    "candidate_name_json": null,
+    "age": "81",
+    "party": "Bharatiya Janata Party",
+    "constituency": "230, Nagercoil Assembly Constituency",
+    "pan": "CKUPN2771B",
+    "phone": "9443173827",
+    "email": "m.r.gandhi75@gmail.com",
+    "address": "71, Keela Mavilai, South Surangudi, Agastheeswaram Taluk, Kanyakumari District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Madurai Kamaraj University, 1967)",
+    "profession": "Full-time party worker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6147759.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 6147759.0,
+    "cash_xls": 11000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (27 case(s))",
+    "case_numbers_xls": "0189/2017; 0188/2025; 0235/2024; 0049/2023; 0456/2021; 0274/2025; 0020/2026; 0143/2025; 0452/2025; 0080/2022; 0540/2015; 0659/2012; 0615/2012; 0247/2015; 0223/2022; 0182/2018; 0168/2022; 0356/2021; 0106/2019; 0028/2025; 0516/2020; 0271/2022; 0545/2021; 0158/2016; 0100/2021; 0678/2017; 0105/2026",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

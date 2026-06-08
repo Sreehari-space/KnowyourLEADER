@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907247",
+    "candidate_name": "Premalatha",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "Desiya Murpokku Dravida Kazhagam (DMDK)",
+    "constituency": "Virugambakkam (Constituency No. 22)",
+    "pan": "AINPP2589A",
+    "phone": "9025111314",
+    "email": "contact@dmdkparty.com",
+    "address": "12A, Kannammal Street, Saligramam, Chennai - 600093",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A. (Auxilium Arts and Science College, Katpadi, Vellore, Madras University, 1986)",
+    "profession": "Public Service"
+  },
+  "financial_summary": {
+    "total_assets_xls": 945776764.0,
+    "total_liabilities_xls": 578110656.0,
+    "net_worth_xls": 367666108.0,
+    "cash_xls": 275000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (9 case(s))",
+    "case_numbers_xls": "0262/2009; 0191/2016; 0046/2012; 0045/2012; 0364/2021; 0005/2018; 670/2023; 156/2023; 21/2024",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

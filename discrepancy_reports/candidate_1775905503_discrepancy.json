@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905503",
+    "candidate_name": "M. Gajendran",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "32 Chengalpattu Assembly Constituency",
+    "pan": "AIYPG4736D",
+    "phone": "9841673585, 9444110119",
+    "email": "gajarakesh123@gmail.com",
+    "address": "No.01. Gaja Castal, Balasundaram Street, Rathinamangalam, Vandalur Taluk, Chengalpattu District - 600127",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Madras University - Bachelor of Arts (Political Science) - 2003",
+    "profession": "Director of MSGAJAA Properties Private Ltd & MSGAJAA Homes Private Ltd"
+  },
+  "financial_summary": {
+    "total_assets_xls": 208202350.7,
+    "total_liabilities_xls": 89918716.0,
+    "net_worth_xls": 118283634.7,
+    "cash_xls": 15500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 827/2024, Sections BNS 2023 189(2), 292, 126 (2) - Complaint for organizing a protest without prior permission, condemning sexual assault in Tamil Nadu and the state government's failure to maintain law and order.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

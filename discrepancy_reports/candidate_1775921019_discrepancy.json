@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921019",
+    "candidate_name": "P. Prakash",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Independent",
+    "constituency": "201 - Cumbum Assembly Constituency, Tamil Nadu",
+    "pan": "EJBPP7365B",
+    "phone": "9994779125",
+    "email": "hrwatchindia@gmail.com",
+    "address": "29W, Mani Nagar, L.F. Road, Cumbum",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., B.L.. - Govt Law College, Tirunelveli, 2002-2007",
+    "profession": "Self: Advocate, Managing Director; Spouse: Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 19783250.0,
+    "total_liabilities_xls": 1008328.0,
+    "net_worth_xls": 18774922.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "01/2020 (IPC sections 417, 495, 506(2), 324 - related to cheating and causing injury)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

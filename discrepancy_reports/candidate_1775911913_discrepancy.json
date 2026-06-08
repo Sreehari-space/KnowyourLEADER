@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911913",
+    "candidate_name": "J. Reagan Antony",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Tamilaga Valvurimai Party",
+    "constituency": "Kanyakumari",
+    "pan": "BABPR6794Q",
+    "phone": "9092188755, 9677356331",
+    "email": "reagonanto@yahoo.co.in",
+    "address": "1-80C, Prathana Veethi, Seethapal, Boothapandy Post-629852",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Engineering - Computer Science and Engineering (B.E.CSE), Sun College of Engineering and Technology, Anna University, April 2014",
+    "profession": "Engineer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 127842500.0,
+    "total_liabilities_xls": 26850000.0,
+    "net_worth_xls": 100992500.0,
+    "cash_xls": 2000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

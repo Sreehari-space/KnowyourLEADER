@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904697",
+    "candidate_name": "Ma. Gomathi",
+    "candidate_name_json": null,
+    "age": "40",
+    "party": "Bahujan Samaj Party",
+    "constituency": "136 - Krishnarayapuram (SC), Tamil Nadu",
+    "pan": "HRDPM4258R",
+    "phone": "6383762736",
+    "email": "gomathi638326@gmail.com",
+    "address": "Door No. 26, Chinnagoundanur, Puliyur Cement Factory, Uppidamangalam Post, Karur Taluk, Karur District 639 114",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "Labourer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 226155.0,
+    "total_liabilities_xls": 207000.0,
+    "net_worth_xls": 19155.0,
+    "cash_xls": 2000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

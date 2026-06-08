@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919749",
+    "candidate_name": "A.M. Shekthavuth B.A.",
+    "candidate_name_json": null,
+    "age": "62",
+    "party": "Independent",
+    "constituency": "Anthiyur, 105",
+    "pan": "NO",
+    "phone": "9842173149",
+    "email": "no",
+    "address": "14 M.G.R. Street, Anthiyur, 638501",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A. History, 1985-1989, Chikkaiya Naicker College, Erode",
+    "profession": "Tailor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 75000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 75000.0,
+    "cash_xls": 75000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

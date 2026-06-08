@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919697",
+    "candidate_name": "த. மகேஷ்குமார்",
+    "candidate_name_json": null,
+    "age": "29",
+    "party": "சுயேட்சை",
+    "constituency": "உத்திரமேரூர் சட்டமன்ற தொகுதி, எண்.36, தமிழ்நாடு மாநிலம்",
+    "pan": "DDEPM2340P",
+    "phone": "9894854592, 9994365761",
+    "email": "magesh10395ka@gmail.com",
+    "address": "பிளாட் எண்.5, வசந்தா அவென்யூ, அப்துல் கலாம் தெரு, வேளிங்கபட்டறை, ஓரிக்கை, காஞ்சிபுரம் தாலுகா & மாவட்டம் 631 502",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "முதுகலை பட்டம் (MSW) அண்ணாமலை பல்கலைக்கழகம் (தொலைதூர கல்வி)",
+    "profession": "கட்டுமான சுய தொழில்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2130015.01,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2130015.01,
+    "cash_xls": 15000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

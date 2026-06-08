@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913714",
+    "candidate_name": "G.P. Krishnan",
+    "candidate_name_json": null,
+    "age": "76",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "143, Lalgudi Assembly Constituency",
+    "pan": "ADJPK2197A",
+    "phone": "9994145555",
+    "email": "kupakrishnan@gmail.com",
+    "address": "12, Melakulumani, Kulumani Post, Srirangam Taluk, Trichy District - 639 103",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A., Bishop Heber College, Trichy - 1972",
+    "profession": "Farm land agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 117539615.5,
+    "total_liabilities_xls": 5580000.0,
+    "net_worth_xls": 111959615.5,
+    "cash_xls": 2000000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

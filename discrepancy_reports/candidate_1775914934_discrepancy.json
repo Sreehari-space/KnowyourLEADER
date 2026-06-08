@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914934",
+    "candidate_name": "Smt. Dr. P. Tamilarasi",
+    "candidate_name_json": null,
+    "age": "71",
+    "party": "Pattali Makkal Katchi",
+    "constituency": "152, Vriddhachalam, Tamil Nadu",
+    "pan": "AEFPT6405D",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "122, Bharathiyar Street, North Periyar Nagar, Vriddhachalam 606 001, Cuddalore District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Thanjavur Medical College 1980",
+    "profession": "Medical Profession"
+  },
+  "financial_summary": {
+    "total_assets_xls": 33691105.0,
+    "total_liabilities_xls": 16542466.0,
+    "net_worth_xls": 17148639.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

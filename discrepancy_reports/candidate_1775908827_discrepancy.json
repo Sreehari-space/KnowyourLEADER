@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908827",
+    "candidate_name": "G. Muthuraj",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "Bahujan Samaj Party",
+    "constituency": "03, Tiruttani, Tamil Nadu",
+    "pan": "FGSPM1047N",
+    "phone": "8807938590",
+    "email": "gmuthuraj597@gmail.com",
+    "address": "Door No. 70, Anjaneyar Nagar, Pallipattu Circle, Tiruvallur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "NIL",
+    "profession": "Daily wage worker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 131200.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 131200.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

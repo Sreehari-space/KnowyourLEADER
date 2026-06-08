@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905877",
+    "candidate_name": "D. செந்தமிழ் செல்வன்",
+    "candidate_name_json": null,
+    "age": "38",
+    "party": "திராவிட முன்னேற்றக் கழகம்",
+    "constituency": "118 கோயம்புத்தூர் வடக்கு",
+    "pan": "BXFPS1776J",
+    "phone": "9894671655",
+    "email": "duraisenthamilselvan@gmail.com",
+    "address": "கதவு எண். 87, ஆர்.கே. மில்ஸ் 'B' காலனி, பீளமேடு புதூர், கோயமுத்தூர் 641004",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BE (Mechanical), Anna University, 2009",
+    "profession": "வியாபாரம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 19842409.0,
+    "total_liabilities_xls": 2501442.0,
+    "net_worth_xls": 17340967.0,
+    "cash_xls": 150000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

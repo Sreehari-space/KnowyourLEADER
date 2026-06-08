@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906448",
+    "candidate_name": "Vidhyarani",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "85 Mettur Assembly Constituency",
+    "pan": "AXOPV7819D",
+    "phone": "7904207580",
+    "email": "vidhyablitc@gmail.com",
+    "address": "224, 4th Road, Pottaneri, Mettur Taluk, Salem District, Tamil Nadu - 636 453",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Twelfth standard pass, Bethel Matriculation School, Chennai, completed in 2009",
+    "profession": "Individual Nursery School Correspondent"
+  },
+  "financial_summary": {
+    "total_assets_xls": 698120.0,
+    "total_liabilities_xls": 350000.0,
+    "net_worth_xls": 348120.0,
+    "cash_xls": 131000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906092",
+    "candidate_name": "Tamil",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "158- Chidambaram Assembly Constituency",
+    "pan": "BFOPT1282H",
+    "phone": "9150599830, 9025134284",
+    "email": "j.jayatamil28@gmail.com",
+    "address": "E-1, Aatrangarai Street, C. Mutlur, Bhuvanagiri Taluk, Cuddalore District-608102",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A., (Economics) M.A., (Tamil)",
+    "profession": "Farmer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 804000.0,
+    "total_liabilities_xls": 8071.0,
+    "net_worth_xls": 795929.0,
+    "cash_xls": 70000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "36/2014; S.C.No.106/2018; 646/2017; C.C.No.53/2018",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

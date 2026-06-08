@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917477",
+    "candidate_name": "K.P.U. Yuvaraj",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Independent Candidate",
+    "constituency": "54, Veppanahalli, Tamil Nadu",
+    "pan": "ACRPY4515H",
+    "phone": "9787777467",
+    "email": "yuvarides@gmail.com",
+    "address": "425-9, Sathya Sai Nagar, TNHB, 2nd Phase, Krishnagiri- 635002, Krishnagiri District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma in Mechanical Engineering (D.M.E.) from Sri Balaji Polytechnic College, Chennai, 2005",
+    "profession": "Business & Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 35171392.0,
+    "total_liabilities_xls": 700000.0,
+    "net_worth_xls": 34471392.0,
+    "cash_xls": 24000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

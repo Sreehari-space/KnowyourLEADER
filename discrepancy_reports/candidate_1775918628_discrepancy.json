@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918628",
+    "candidate_name": "C.Sambath",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Independent",
+    "constituency": "061, Harur (SC), Tamil Nadu",
+    "pan": "KGUPS5049M",
+    "phone": "9688409145",
+    "email": "NIL",
+    "address": "Door No. 76, Surapatti Village, Santhapatti Post, Harur Taluk, Dharmapuri District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "No formal education",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2050500.0,
+    "total_liabilities_xls": 200000.0,
+    "net_worth_xls": 1850500.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

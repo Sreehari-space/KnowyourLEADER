@@ -1,0 +1,383 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775923849",
+    "candidate_name": "Abhishek.R",
+    "candidate_name_json": "ABISHEK. R",
+    "age": "36",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "16, Egmore (SC) Assembly Constituency",
+    "pan": "AXAPA4121D",
+    "phone": "NIL",
+    "email": "NIL",
+    "address": "16, Kuttitheru, Nungambakkam, Chennai - 600 034",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "B.Tech., - Velammal Engineering and Technology College, Chennai. (September 2007 - May 2011); B.L., - Dr. Ambedkar Government Law College, Chennai. (September 2014 - April 2017)",
+    "profession": "Garment manufacturing company, trade business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1202306798.0,
+    "total_liabilities_xls": 117796632.0,
+    "net_worth_xls": 1084510166.0,
+    "cash_xls": 0.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "25,000 25 Thou+",
+        "spouse": "25,000 25 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "HDFC Bnak Nungambakkam Branch 1,77,866 1 Lacs+ DBC Bank Nungambakkam Branch 6,200 6 Thou+ DBC Bank Nungambakkam Branch 0*(Value Not Given) HDFC Bank Nungambakkam Branch 4,000 4 Thou+ HDFC Bank Nungambakkam Branch 6,76,863 6 Lacs+ Axis Bank Nungambakkam Branch 0*(Value Not Given) Bank A/C Opened For The Election Overseas Bank 45,000 45 Thou+ HDFC Bank Nungambakkam Branch 3,737 3 Thou+ DBC Bank Nungambakkam Branch 4,139 4 Thou+ DBC Bank Nungambakkam Branch Chennai 2,054 2 Thou+ DCB Bank Nungambakkam Branch Chennai 0*(Value Not Given) DCB Bank Nungambakkam Branch Chennai 18,581 18 Thou+ HDFC Bank Nungambakkam Branch Chennai 20,659 20 Thou+",
+        "spouse": "HDFCNungambakkam Branch Chennai 259 2 Hund+ DBC Bank Nungambakkam Branch Chennai 55,000 55 Thou+ IDFC Bank Nungambakkam Branch Chennai 3,218 3 Thou+ UCO Bank Nungambakkam Branch Chennai 2,422 2 Thou+",
+        "huf": "Nil",
+        "dependent1": "HDFC Bank Nungambakkam Branch Chennai 28,230 28 Thou+",
+        "dependent2": "HDFC Bank Nungambakkam Branch Chennai 28,106 28 Thou+",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Postal Term Deposite Fund Thyagarayar Nagr Chennai 13,214 13 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Deed Of Simple Mortage Tiruvanamalai 30,00,000 30 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Harley Davidson Bike TN06 M 5559 90,689 90 Thou+ TN494824 49,328 49 Thou+ TN06 X 6789 55,50,000 55 Lacs+",
+        "spouse": "Swift 2018 TN01BE 2633 5,50,000 5 Lacs+ Range Rover 2018 TN66W7396 23,10,146 23 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "68 gm Gold 10,17,069 10 Lacs+",
+        "spouse": "247gm Gold 36,94,354 36 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Rental Income 12,000 12 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Arambakkam Village Gummidipoondi Taluk Sy No.335/1B Total Area 16299Sqft Built Up Area Whether Inherited N Purchase Date 2020-03-09 Purchase Cost 1629900.00 Development Cost 0.00 40,00,000 40 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "54&55, Flat No.2, Water Lily, Okiyam Duraipakkam Chennai-97 Total Area 1155.39/2Sqft Built Up Area Whether Inherited N Purchase Date 2019-09-13 Purchase Cost 5005000.00 Development Cost 0.00 1,25,00,000 1 Crore+ 2.Kuberan Nagar Madipakkam Village Sy No.21 & 22, Total Area 950 Sq.Ft. Built Up Area Whether Inherited N Purchase Date 2016-02-16 Purchase Cost 5250000.00 Development Cost 0.00 66,50,000 66 Lacs+ .Kuttitheru Nugambakkam Chennai Sy No.32/34 Total Area 490 Sqft Built Up Area Whether Inherited N Purchase Date 2022-01-27 Purchase Cost 2600000.00 Development Cost 0.00 40,00,000 40 Lacs+ .Ampa Home 144 Nelson Manickam Road Chennai Sy No.144 Total Area 2485Sqft Built Up Area Whether Inherited N Purchase Date 2016-11-16 Purchase Cost 53397900.00 Development Cost 0.00 6,68,45,000 6 Crore+ .Kuttitheru Nugambakkam Chennai Sy No.45/19 Total Area 968Sqft Built Up Area Whether Inherited N Purchase Date 2024-06-18 Purchase Cost 10500000.00 Development Cost 0.00 1,20,00,000 1 Crore+",
+        "spouse": "Okiyam Duraipakkam Chennai Sy No.257 Total Area 1155.39/2Sqft Built Up Area 2046/2Sqft Whether Inherited N Purchase Date 2019-09-13 Purchase Cost 5005000.00 Development Cost 0.00 1,25,00,000 1 Crore+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "IDCB Bank Kuttitheru Nugambakkam Chennai 42,35,768 42 Lacs+ DBC Bank Kuttitheru Nugambakkam Chennai 21,91,466 21 Lacs+ DBC Bank Kuttitheru Nugambakkam Chennai 83,97,870 83 Lacs+ DBC Bank Kuttitheru Nugambakkam Chennai 4,79,975 4 Lacs+ DBC Bank Kuttitheru Nugambakkam Chennai 78,55,843 78 Lacs+ DBC Bank Kuttitheru Nugambakkam Chennai 1,41,64,534 1 Crore+ UGRO Bank Nugambakkam Chennai 79,16,884 79 Lacs+ HDFC Bank Nugambakkam Chennai 46,73,153 46 Lacs+ HDFC Nugambakkam Chennai 3,22,00,361 3 Crore+ ICICI Bank Nugambakkam Chennai 1,09,55,466 1 Crore+ Deutsche Bank Thousand Lights Branch 16,40,253 16 Lacs+ URGO Bnak Nugambakkam Chennai 2,03,57,941 2 Crore+",
+      "spouse": "IDFC Bank Thiagarayar Nagar Branch Chennai 7,81,994 7 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Muthoot Capital Servies Ltd 19,45,124 19 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 69,39,830 | 2023 - 2024: Rs 26,34,240 | 2022 - 2023: Rs 92,24,880 | 2021 - 2022: Rs 1,06,78,780 | 2020 - 2021: Rs 84,84,150"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 4,98,200 | 2023 - 2024: Rs 4,89,640 | 2022 - 2023: Rs 7,73,740 | 2021 - 2022: Rs 6,83,470 | 2020 - 2021: Rs 6,79,490"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (3 case(s))",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "3",
+      "summary": "Number of Criminal Cases:3",
+      "ipc_charges": [
+        "1 charges related to Punishment for kidnapping (IPC Section-363)",
+        "2 charges related to Punishment for Rioting (IPC Section-147)",
+        "2 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Punishment for wrongful Confinement (IPC Section-342)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Assault or criminal force to deter public servant from discharge of his duty (IPC Section-353)",
+        "1 charges related to Punishment of criminal conspiracy (IPC Section-120B)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "CC No. 190/2025, FTC Alandur",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "Nil",
+          "other_details": "Section 138 of Negotiable Instrument Act",
+          "charges_framed": "Yes",
+          "charges_date": "17 Sep 2025",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "Crime No. 85/2024, Anna Nagar PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294B, 342, 323, 363, 506(2)",
+          "other_details": "Section 25(1A) Arms Act., (Chargesheet not filed yet)",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "Crime No. 90/2024, Thirumangalam PS",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294B, 353, 506(ii), 120B",
+          "other_details": "Section 25(1A) of Arms Act and Section 8(c) r/w 20(b)(ii)(A) of NDPS Act.",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 13,59,08,134 ~13 Crore+",
+    "Liabilities:": "Rs 11,77,96,632 ~11 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹37,661,530) does not match declared total assets (₹135,908,134). Difference: ₹98,246,604"
+    }
+  ]
+}

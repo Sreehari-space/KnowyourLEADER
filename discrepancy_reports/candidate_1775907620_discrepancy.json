@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907620",
+    "candidate_name": "Pushnakumar Se",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Bahujan Samaj Party",
+    "constituency": "27-Sholinganallur",
+    "pan": "FLSPP5932E",
+    "phone": "9884268300",
+    "email": "pushnakumarspushnakumars@gmail.com",
+    "address": "56, Ponniyamman Kovil Street, Injambakkam, Kanchipuram, Tamil Nadu 600 115",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A (History) 2001, St. Joseph Hr. Sec. School, Kovalam",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 826571.0,
+    "total_liabilities_xls": 295000.0,
+    "net_worth_xls": 531571.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

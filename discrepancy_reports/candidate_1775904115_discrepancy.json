@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904115",
+    "candidate_name": "S. Anis Fathima",
+    "candidate_name_json": null,
+    "age": "25",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "172 Papanasam Assembly Constituency",
+    "pan": "AGRPF5736H",
+    "phone": "6383582426",
+    "email": "anisfathima1309@gmail.com",
+    "address": "Door No. 56, Mariyamman Kovil Street, Ganesapuram, Karaikudi, 630001, Karaikudi Taluk, Sivaganga District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc. (Computer Science) from Nachiappa Swamigal Arts and Science College, Koviloor, Karaikudi (2018-2021); LLB from Govt. Law College, Madurai (2021-2024)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 642000.0,
+    "total_liabilities_xls": 458000.0,
+    "net_worth_xls": 184000.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

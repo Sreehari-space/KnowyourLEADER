@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917945",
+    "candidate_name": "o NATESAN",
+    "candidate_name_json": null,
+    "age": "41",
+    "party": "Independent",
+    "constituency": "(73) VANUR (SC), TAMILNADU",
+    "pan": "AXHPT8950E",
+    "phone": "9791557599",
+    "email": "thangarasun765@gmail.com",
+    "address": "NO. 1, NEW COLONY STREET, SOZHAGANUR VILLAGE, VIKRAVANDI TALUK, VILLUPURAM DIST, TAMIL NADU - 605402",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Tenth Standard. Completed on - 2000",
+    "profession": "Self Employed"
+  },
+  "financial_summary": {
+    "total_assets_xls": 897000.0,
+    "total_liabilities_xls": 788000.0,
+    "net_worth_xls": 109000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

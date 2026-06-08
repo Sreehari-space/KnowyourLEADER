@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921655",
+    "candidate_name": "V.S. Gopu",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Pattali Makkal Katchi",
+    "constituency": "7, Mailam-Tamil Nadu",
+    "pan": "ATCPG7099J",
+    "phone": "9790346132",
+    "email": "vsgopu1@gmail.com",
+    "address": "6, Kengaiamman Kovil Street, 4th Street, Damodharapuram, Adyar, Chennai-600020",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Ambedkar Law University (2008)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3490000.0,
+    "total_liabilities_xls": 1184000.0,
+    "net_worth_xls": 2306000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

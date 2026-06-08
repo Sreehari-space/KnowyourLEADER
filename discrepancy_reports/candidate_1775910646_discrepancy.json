@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910646",
+    "candidate_name": "Er.V.Saravanan D.C.E.",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "Tamilaga Valvurimai Katchi",
+    "constituency": "136, Krishnarayapuram (SC), Karur, Tamilnadu",
+    "pan": "DLNPS3828H",
+    "phone": "8925108797, 9952775835",
+    "email": "sinerithu@gmail.com",
+    "address": "64, Puravipalayam, Adithiravidar Street, Puliyur, Puliyur C.F.(Po), Karur District, Tamilnadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma Civil Engineering - The Karur Polytechnic, Karur",
+    "profession": "Sinebuilders Building Contractor"
+  },
+  "financial_summary": {
+    "total_assets_xls": 10400000.0,
+    "total_liabilities_xls": 450000.0,
+    "net_worth_xls": 9950000.0,
+    "cash_xls": 80000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

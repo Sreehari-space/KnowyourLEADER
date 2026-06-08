@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775916104",
+    "candidate_name": "Venkatesh @ Dr. VK Swamy",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "பாரத மக்கள் சிகிச்சை கட்சி (பா.ம.சி.க)",
+    "constituency": "061. Harur (SC) Constituency",
+    "pan": "HIYPK3791M",
+    "phone": "8383917856, 8383902778",
+    "email": "drvkswamy123@gmail.com",
+    "address": "1, Reddiyar Thottam, Kamaraj Nagar West, Uthangarai, Krishnagiri, Tamilnadu - 635 207",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BDS (Tamil Nadu Dr. MGR Medical University), M.Sc (Forensic Odontology: National Forensic Sciences University, Gujarat), LL. B (Law: CCS University, Meerut)",
+    "profession": "Doctor & Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 12862036.0,
+    "total_liabilities_xls": 427000.0,
+    "net_worth_xls": 12435036.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

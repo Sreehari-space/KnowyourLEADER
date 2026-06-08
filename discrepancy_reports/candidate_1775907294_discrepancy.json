@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907294",
+    "candidate_name": "C.V. Sekar",
+    "candidate_name_json": null,
+    "age": "63",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "176-Pattukkottai Assembly Constituency, Tamil Nadu",
+    "pan": "AYBPS2907H",
+    "phone": "9843239090",
+    "email": "cvsekar3636@gmail.com",
+    "address": "70, South Street, Alathur Village, Pattukkottai Taluk, Thanjavur District - 614 901",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A. from Bishop Heber College, Trichy (1980-1983); B.L. from Law College, Trichy, Bharathidasan University (1983-1986)",
+    "profession": "Agriculture and Lawyer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 41382930.96,
+    "total_liabilities_xls": 8266999.93,
+    "net_worth_xls": 33115931.03,
+    "cash_xls": 325000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (5 case(s))",
+    "case_numbers_xls": "Cr.No.93/2026; Cr.No.479/2025; Cr.No.237/2025; Cr.No.699/2024; Cr.No.1236/2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

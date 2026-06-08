@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904644",
+    "candidate_name": "S. Selvam",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "227 Nanguneri Assembly Constituency",
+    "pan": "CPLPS6197C",
+    "phone": "9894778889",
+    "email": "selvams241214@gmail.com",
+    "address": "1, Sathyamurthy Street, Cheranmahadevi, Tirunelveli District-627414",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th Standard (Shankar Higher Secondary School, Shankarnagar, Tirunelveli, 1996-1997), Bachelor of Chemistry (Sadakathullah Appa College, Palayamkottai, Tirunelveli, April 2000)",
+    "profession": "Sales Representative"
+  },
+  "financial_summary": {
+    "total_assets_xls": 13614044.0,
+    "total_liabilities_xls": 5441496.0,
+    "net_worth_xls": 8172548.0,
+    "cash_xls": 152000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "FIR 291/2025, Tirunelveli Santhippu Police Station; FIR 510/2025, Cheranmahadevi Police Station, CC2630/2025, JM-4 Court Tirunelveli (BNSS 189(2), BNSS 324(4), BNSS 351(2), BNSS170)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

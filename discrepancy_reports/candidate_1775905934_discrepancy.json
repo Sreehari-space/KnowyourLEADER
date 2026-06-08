@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905934",
+    "candidate_name": "பா.சுதாகர்",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "பகுஜன் சமாஜ் கட்சி",
+    "constituency": "38, அரக்கோணம், தமிழ்நாடு",
+    "pan": "FCVPS5422L",
+    "phone": "9894957707",
+    "email": "sudhakarbsp79@gmail.com",
+    "address": "15, மீனாம்பாள் சிவராஜ் தெரு, அம்பேத்கார்நகர், அரக்கோணம் வட்டம், ராணிப்பேட்டை மாவட்டம் - 631001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "+2 அரசினர் ஆண்கள் மேல்நிலைப்பள்ளி, வருடம்-2000",
+    "profession": "கூலி"
+  },
+  "financial_summary": {
+    "total_assets_xls": 891000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 891000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

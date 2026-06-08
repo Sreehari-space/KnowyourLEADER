@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909987",
+    "candidate_name": "C.DINESH KUMAR",
+    "candidate_name_json": null,
+    "age": "34",
+    "party": "INDEPENDENT",
+    "constituency": "110- COONOOR Assembly Constituency",
+    "pan": "BJPPD8251F",
+    "phone": "9787581531",
+    "email": "dinvim19@gmail.com",
+    "address": "168, Anna Nagar, Wellington, Coonoor, The Nilgiris, Tamil Nadu - 643232",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A. (English Literature) from Bharathiar University, Coimbatore (2009-2012); LL.B. from Karnataka State Law University, Hubli, Karnataka (2015-2018)",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 4109740.0,
+    "total_liabilities_xls": 2440000.0,
+    "net_worth_xls": 1669740.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

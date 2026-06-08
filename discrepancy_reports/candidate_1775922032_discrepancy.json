@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775922032",
+    "candidate_name": "வெ.செந்தில்குமார்",
+    "candidate_name_json": null,
+    "age": "51",
+    "party": "சுயேட்சை",
+    "constituency": "111 மேட்டுப்பாளையம், தமிழ்நாடு",
+    "pan": "BRPPS0646K",
+    "phone": "9047443090",
+    "email": "nil / இல்லை",
+    "address": "அண்ணா நகர் வடக்கு, சாமிசெட்டிபாளையம், ஜோதிபுரம் அஞ்சல், கோயமுத்தூர் 641047",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "DIPLAMA IN PRODUCTION ENGINEERING, GOVT POLY TECHNIC COIMBATORE- 1995 வருடம்",
+    "profession": "தனி நபர் ஓட்டுனர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1189994.0,
+    "total_liabilities_xls": 341000.0,
+    "net_worth_xls": 848994.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

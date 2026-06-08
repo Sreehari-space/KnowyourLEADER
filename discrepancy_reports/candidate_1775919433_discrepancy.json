@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919433",
+    "candidate_name": "பத்மினி",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "இந்து மக்கள் கட்சி",
+    "constituency": "24 தியாகராய நகர் சட்டமன்ற தொகுதி & தமிழ்நாடு",
+    "pan": "AHRPP7507P",
+    "phone": "908034102",
+    "email": "NIL",
+    "address": "240, எல் ஐ ஜி பிளாட் 7 வது அவென்யு, அசோக் நகர், சென்னை- 600083",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "வழங்கப்படவில்லை",
+    "profession": "தனியார்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1000.0,
+    "cash_xls": 500.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

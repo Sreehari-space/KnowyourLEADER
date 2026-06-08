@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911226",
+    "candidate_name": "S. Elsi",
+    "candidate_name_json": null,
+    "age": "66",
+    "party": "Independent",
+    "constituency": "125, Udumalpet Assembly Constituency, Tamil Nadu State",
+    "pan": "AAHPE1016B",
+    "phone": "8300943178",
+    "email": "guruchandrasekaran246@gmail.com",
+    "address": "9, Kapoorkhan Street Extension, Udumalpet, Udumalpet Taluk, Tiruppur District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Diploma in Civil Draftsman, Institute of Engineering Education, Coimbatore, Private Exam - 2004",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 280543.54,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 280543.54,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -1,0 +1,400 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911856",
+    "candidate_name": "M.Pradeep",
+    "candidate_name_json": "PRADEEP. M",
+    "age": "34",
+    "party": "Puthiya Tamizhagam",
+    "constituency": "132 Dindigul Assembly Constituency Tamil Nadu",
+    "pan": "GMRPP5220G",
+    "phone": "9965474998",
+    "email": "bheemachlm90@gmail.com",
+    "address": "திண்டுக்கல் மாவட்டம், திண்டுக்கல் மேற்கு தாலுகா, நந்தவனப்பட்டி, வள்ளுவர் காலனி, வார்டு 5, கதவு எண் 5/5/NA / Dindigul District, Dindigul West Taluk, Nandavanapatti, Valluvar Colony, Ward 5, Door No. 5/5/NA",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th standard, Dudley Higher Secondary School, Dindigul, 2005-2006",
+    "profession": "Land Broker"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1970350.0,
+    "total_liabilities_xls": 2290000.0,
+    "net_worth_xls": 319650.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,000 10 Thou+",
+        "spouse": "5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Indian Bank Neruji Nagar Br 350 3 Hund+ Bank of Baroda Dindigul Main Br 0*(Value Not Given)",
+        "spouse": "Indian Bank Dindigul br 0*(Value Not Given)",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Tn57BP1977, 2022 mahindra Scorpio S5 MH 2W140 9,00,000 9 Lacs+",
+        "spouse": "TN 57 BS 4043 Model 2024, Access 125 85,000 85 Thou+ TN 57 BL 1006 Model 2020 Pulzar 125 70,000 70 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "90 Gram Gold Jewel 9,00,000 9 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "1KF Finance Dingidul Car Loan 7,80,000 7 Lacs+ Non-toxic Finance Dindigul Jewel Loan 4,50,000 4 Lacs+ Bajaj Finance Personal Loan 10,000 10 Thou+",
+      "spouse": "Kenpin Mortgage loan 10,50,000 10 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "Nil",
+      "year": "Nil",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "FIR 582/2020, தாடிக்கொம்பு காவல் நிலையம் (Thadicombu Police Station); Case C.C.No.309/2021, திண்டுக்கல் குற்றவியல் நடுவர் நீதிமன்றம் எண். 2 (Dindigul Criminal Magistrate Court No. 2); Sections IPC 147, 294(b), 324,506(2), 323; Description: அடிதடி தகராறு (Assault/Quarrel); Charges framed: Yes (2021); Appeal/Revision: No; FIR 809/2020, தாடிக்கொம்பு காவல் நிலையம் (Thadicombu Police Station); Case C.C.No.669/2025, திண்டுக்கல் குற்றவியல் நடுவர் நீதிமன்றம் எண். 2 (Dindigul Criminal Magistrate Court No. 2); Sections IPC 147, 294(B), 452, 427, 506(i); Description: அடிதடி (Assault/Quarrel); Charges framed: Yes (2025); Appeal/Revision: No; FIR 11/2019, தாடிக்கொம்பு காவல் நிலையம் (Thadicombu Police Station); Case S.C.No.39/2025, தலைமை குற்றவியல் நடுவர் மன்றம் திண்டுக்கல (Chief Criminal Magistrate Court Dindigul); Sections IPC 147,148, 294(b) 506(2), 307, 324, 326, 427; Description: கொலை முயற்சி (Attempted Murder); Charges framed: Yes (2025); Appeal/Revision: No; FIR 2363/2020, திண்டுக்கல் நகர் வடக்கு காவல் நிலையம் (Dindigul City North Police Station); Case not yet filed in court; Sections 147,283,341,269 IPC, r/w 3 of Epidemic Decease Act; Description: அரசியல் ஆர்ப்பாட்டம் (Political Protest); Charges framed: No; Appeal/Revision: No",
+    "criminal_cases_json": {
+      "count": "4",
+      "summary": "Number of Criminal Cases:4",
+      "ipc_charges": [
+        "2 charges related to Voluntarily causing hurt by dangerous weapons or means (IPC Section-324)",
+        "1 charges related to House-trespass after preparation for hurt, assault or wrongful restraint (IPC Section-452)",
+        "1 charges related to Attempt to murder (IPC Section-307)",
+        "1 charges related to Voluntarily causing grievous hurt by dangerous weapons or means (IPC Section-326)",
+        "4 charges related to Punishment for Rioting (IPC Section-147)",
+        "2 charges related to Mischief causing damage to the amount of fifty rupees (IPC Section-427)",
+        "1 charges related to Punishment for voluntarily causing hurt (IPC Section-323)",
+        "1 charges related to Rioting, armed with deadly weapon (IPC Section-148)",
+        "1 charges related to Danger or obstruction in public way or line of navigation (IPC Section-283)",
+        "1 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "1 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "582/2020 Thadikombu Police Station",
+          "case_no": "C.C.No.309/2021",
+          "court": "Judicial Magistrate -II, Dindigul",
+          "law_type": "IPC",
+          "ipc_sections": "147, 294b, 324, 506(2), 323",
+          "other_details": "Framed -2021",
+          "charges_framed": "Yes",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "809/2020 Thadikombu Police Station",
+          "case_no": "C.C.No.669/2025",
+          "court": "Judicial Magistrate -II, Dindigul",
+          "law_type": "IPC",
+          "ipc_sections": "147, 294B, 452, 427, 506(i)",
+          "other_details": "Framed -2025",
+          "charges_framed": "Yes",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "11/2019 Thadikombu Police Station",
+          "case_no": "S.C.No.39/2025",
+          "court": "Chief Judicial Magistrate Dindigul",
+          "law_type": "IPC",
+          "ipc_sections": "147, 148, 294b, 506(2), 307, 324, 326, 427",
+          "other_details": "Framed -2025",
+          "charges_framed": "Yes",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "2363/2020 Dindigul City North Police Station",
+          "case_no": "Nil",
+          "court": "Nil",
+          "law_type": "IPC",
+          "ipc_sections": "147, 283, 341, 269",
+          "other_details": "Section 3 of Epidemic Decease Act",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 19,70,350 ~19 Lacs+",
+    "Liabilities:": "Rs 22,90,000 ~22 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "90.0g gold declared at ₹900,000 (Implied rate: ₹10,000/g vs April 2026 Market Rate of ~₹14,200/g)."
+    }
+  ]
+}

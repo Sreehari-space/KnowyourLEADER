@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775918693",
+    "candidate_name": "கு.கோபாலன்",
+    "candidate_name_json": null,
+    "age": "56",
+    "party": "சுயேட்சை",
+    "constituency": "95, பரமத்தி வேலூர் சட்ட மன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "CTWPG7830F",
+    "phone": "9942798536",
+    "email": "nil / ஏதுமில்லை",
+    "address": "35, அருந்ததியர் தெரு மரவாபாளையம் (அ) பரமத்தி வேலூர் (வ), நாமக்கல் (மா)-637207",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "ஐந்தாம் வகுப்பு (V)",
+    "profession": "கூலி வேலை"
+  },
+  "financial_summary": {
+    "total_assets_xls": 43000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 43000.0,
+    "cash_xls": 20000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

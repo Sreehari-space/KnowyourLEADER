@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775907502",
+    "candidate_name": "P. Murthy",
+    "candidate_name_json": null,
+    "age": "67",
+    "party": "Dravida Munnetra Kazhagam (DMK)",
+    "constituency": "189 Madurai East",
+    "pan": "AHXPM0152F",
+    "phone": "9842122446",
+    "email": "maduraidistrictdmk@gmail.com",
+    "address": "1079, Roja Veethi, Ezhil Nagar, Ayyarbangala, Madurai 625 014",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C (1975-1976) from Govt. High School, Sathirapatti; +2 (HSC) (1979-1980) from Govt. Higher Secondary School, Alanganallur",
+    "profession": "Agriculture, MLA (189- Madurai East)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 149382592.91,
+    "total_liabilities_xls": 13925677.88,
+    "net_worth_xls": 135456915.03,
+    "cash_xls": 36151.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

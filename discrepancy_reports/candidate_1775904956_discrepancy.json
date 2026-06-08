@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904956",
+    "candidate_name": "P. Kandasamy",
+    "candidate_name_json": null,
+    "age": "66",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "116, Sulur, Tamil Nadu",
+    "pan": "AFPPK2720P",
+    "phone": "9791960757",
+    "email": "kandasamy1400@gmail.com",
+    "address": "400 Kovil Thottam, V. Vadugapalayam, Sulur Taluk, Coimbatore District - 641669",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A. (1979, University of Madras, Chikkanna Arts and Science College, Tiruppur); P.U.C. (1976, University of Madras, Chikkanna Arts and Science College, Tiruppur); S.S.L.C. (1975, Chokkan Chettiyar, Mallammah High School, Vadambachery)",
+    "profession": "Agriculture and Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 481730045.0,
+    "total_liabilities_xls": 11700000.0,
+    "net_worth_xls": 470030045.0,
+    "cash_xls": 600000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (6 case(s))",
+    "case_numbers_xls": "Crime No. 166/2024 (Karumathampatti PS, Coimbatore Dist) - STC.NO 990/2025 (Judicial Magistrate Court, Sulur); Crime No. 422/2022 (Kuniyamuthur PS, Coimbatore Dist) - Not filed in court (Judicial Magistrate No. 7, Coimbatore); Crime No. 97/2022 (Panthayasalai PS, Coimbatore City) - Not filed in court (Judicial Magistrate No. 3, Coimbatore); Crime No. 87/2022 (Panthayasalai PS, Coimbatore City) - Not filed in court (Judicial Magistrate No. 3, Coimbatore); Crime No. 1080/2021 (Sulur PS, Coimbatore Dist) - Not filed in court (Judicial Magistrate Court, Sulur); Crime No. 528/2021 (Kuniyamuthur PS, Coimbatore Dist) - Not filed in court (Judicial Magistrate No. 7, Coimbatore)",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

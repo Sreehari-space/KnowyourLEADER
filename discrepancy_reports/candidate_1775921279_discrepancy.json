@@ -1,0 +1,359 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921279",
+    "candidate_name": "C.Gowtham",
+    "candidate_name_json": "GOWTHAM C",
+    "age": "32",
+    "party": "Independent",
+    "constituency": "RISHIVANDIYAM",
+    "pan": "CQUPG5242G",
+    "phone": "9786095254",
+    "email": "cgowtham866@gmail.com",
+    "address": "28, Theppakula lane, Thirukoilur, Thirukoilur-Tk, Kallakurichi- Dt-605757",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "LLB, RKM Law College, Chittor, 2025",
+    "profession": "Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 22640426.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 22640426.0,
+    "cash_xls": 1058000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "10,58,000 10 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "12,58,000 12 Lacs+",
+        "dependent2": "3,25,000 3 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "KVB 14,114 14 Thou+ ICICI 25,277 25 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "KVB 5,995 5 Thou+ KVB 34,204 34 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Car (TN02AK0928) 2,05,885 2 Lacs+ Two wheeler (TN32BH7131) 3,75,800 3 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Car (TN32AJ0659) 2,58,600 2 Lacs+ JCB (PY01AF1074) 16,325 16 Thou+ Lorry (TN32 F6770) 29,648 29 Thou+ Car (TN32AF272 8) 1,95,327 1 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Gold 100 grams 16,20,000 16 Lacs+",
+        "dependent2": "Gold 50 Gram 8,10,000 8 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Thirukoilur Village: SF.No.672/1 Total Area 1.75 Acres Built Up Area Whether Inherited N Purchase Date 2013-04-23 Purchase Cost 533120.00 Development Cost 0.00 8,33,000 8 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "T.Keeranur NIL NIL Village: S.F.No:16/3- 0.22 Cents,S.F.No:1 9/5- 0.07Cents.S.F. No:16/1-0.561 Cents, S.F.No:24/3A0.16 Cents, S.F.No:2 4/3C20,Cents,S.F.N 0:26/1-0.43 14 Cents. Total Area 1.64 3/4 Acres Built Up Area Whether Inherited N Purchase Date 2005-01-10 Purchase Cost 33600.00 Development Cost 0.00 7,25,800 7 Lacs+ T.Athipakkam Village: S.F No:140/13C0.07.0 Ares, S.F No:141/7- 0.18.0 Ares, Total Area 0.25.0 Ares Built Up Area Whether Inherited N Purchase Date 2025-10-23 Purchase Cost 224000.00 Development Cost 0.00 12,58,000 12 Lacs+ Prithivimangal am Village:S.F No:171/4A1.00 Acer, S.F.No:17 1/7-1.06 Acres Total Area 2.06 Acres Built Up Area Whether Inherited N Purchase Date 2008-06-04 Purchase Cost 112000.00 Development Cost 0.00 4,25,000 4 Lacs+ Kolappaai Village:S.F.NO :102/6A-44 Cents, 102/11- 24 Cents, 102/12- 22 Cents Total Area 90 cents Built Up Area Whether Inherited N Purchase Date 2010-05-31 Purchase Cost 852000.00 Development Cost 0.00 8,52,000 8 Lacs+ Thirukovilur Village:S.F.No: 714/1A1A1A45.5 Cents Total Area 45.5 cents Built Up Area Whether Inherited Y Purchase Date 2024-10-29 Purchase Cost 1.00 Development Cost 0.00 6,58,000 6 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Pullur Village(50% Share) S.F.No:344/1,3 45/1,2,3,4,5,6,3 47/4,348/2B,2C 2D,349/1?,1B, 1C,2B,350/2A, 2B.2C.2D.2E 2 F,2G,2H,21,2J,2 K.2L.2M,2N,2 0,2P-569.95 cents Total Area 569.95 Cents Built Up Area Whether Inherited N Purchase Date 2012-03-29 Purchase Cost 561680.00 Development Cost 0.00 2,01,28,354 2 Crore+ Thirukovilur Village Kaspa):S.F.No :714/1-1800 Sq.ft Total Area 1800 Sq.ft Built Up Area Whether Inherited N Purchase Date 2023-12-01 Purchase Cost 604800.00 Development Cost 0.00 9,45,000 9 Lacs+ Thirukovilur Village ( Kaspa):S.F.No :714/1-1800 Sq.ft Total Area 1800 Sq.ft Built Up Area Whether Inherited N Purchase Date 2022-12-14 Purchase Cost 336000.00 Development Cost 0.00 5,25,000 5 Lacs+ Thirukovilur Village (Kaspa):S.F.N 0:674/1A2A/1- 7380 Sq.ft. Total Area 7380 Sq.ft Built Up Area Whether Inherited N Purchase Date 2023-08-14 Purchase Cost 2016000.00 Development Cost 0.00 31,50,000 31 Lacs+ Thirukovilur Village (Kaspa):S.F.N 0:710/2B-1750 Sq.ft. Total Area 1750 Sq.ft Built Up Area Whether Inherited Y Purchase Date 2024-03-06 Purchase Cost 1.00 Development Cost 0.00 6,57,000 6 Lacs+ Thirukovilur Village (Kaspa):S.F.N 0:674/1A2B1650 Sq.ft. Total Area 1650 Sq.ft Built Up Area Whether Inherited N Purchase Date 2025-10-30 Purchase Cost 554400.00 Development Cost 0.00 8,66,250 8 Lacs+ Thirukovilur Village (Kaspa):S.F.N 0:674/1A2A3600 Sq.ft. Total Area 3600 Sq.ft Built Up Area Whether Inherited N Purchase Date 2023-08-14 Purchase Cost 1008000.00 Development Cost 0.00 16,25,000 16 Lacs+ Ivathukudi Village: S.F.No:268/4,6, 8,15,16,270/12, 271/2,3,6,11,26 8/1,2-568.5 Cents Total Area 568.5 Cents Built Up Area Whether Inherited N Purchase Date 2013-03-22 Purchase Cost 2805600.00 Development Cost 0.00 31,31,250 31 Lacs+ hirukovilur Village(North) 50% Share:S.F.No:7 14/1A1A1A45.32 Cents Total Area 19759 Sq.ft Built Up Area Whether Inherited Y Purchase Date 2024-10-29 Purchase Cost 1.00 Development Cost 0.00 59,27,700 59 Lacs+ Thirukovilur Village(North) 50% Share:S.F.No:7 14/1A1A1A3.70 Cents Total Area 1613 Sq.ft Built Up Area Whether Inherited Y Purchase Date 2020-08-11 Purchase Cost 1.00 Development Cost 0.00 4,83,900 4 Lacs+ Thirukovilur Village(50% Share)Thendr al Nagar: S.F.No:710/2B 2,710- 2D,710/2A,710 /2B,710/2C17008 Sq.ft Total Area 17008 Sq.ft Built Up Area Whether Inherited N Purchase Date 2005-09-29 Purchase Cost 208788.00 Development Cost 0.00 7,25,025 7 Lacs+ hirukovilur Village:S.F.No: 733/3,733/2A2100 Sq.f Total Area 21100 Sq.ft Built Up Area Whether Inherited N Purchase Date 2014-10-15 Purchase Cost 336000.00 Development Cost 0.00 3,72,960 3 Lacs+ hirukovilur Village(North) 50% Share:S.F.No:6 74/16-8.5 Cents Total Area 37066 Sq.ft Built Up Area Whether Inherited N Purchase Date 2025-03-17 Purchase Cost 0.00 Development Cost 0.00 11,11,800 11 Lacs+ Thirukovilur Village(North) :S.F.No:714/22 -28.41 Cents Total Area 12386.76 Sq.ft Built Up Area Whether Inherited N Purchase Date 2020-10-28 Purchase Cost 0.00 Development Cost 0.00 37,16,028 37 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Thirukovilur Village:S.F. No:710/2B2 Total Area 6230 Sq.ft Built Up Area 6230 Sq.ft Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 8036.00 Development Cost 1585000.00 22,58,000 22 Lacs+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 9,01,660 | 2023 - 2024: Rs 5,34,330 | 2022 - 2023: Rs 5,46,430 | 2021 - 2022: Rs 4,98,650 | 2020 - 2021: Rs 3,78,650"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 9,46,240 | 2023 - 2024: Rs 7,80,360 | 2022 - 2023: Rs 5,76,010 | 2021 - 2022: Rs 4,98,650 | 2020 - 2021: Rs 4,95,530"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "0",
+      "summary": "No criminal cases",
+      "ipc_charges": [],
+      "pending_cases": [],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 5,54,75,038 ~5 Crore+",
+    "Liabilities:": "Nil"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹29,500,748, but 5-year family income is only ₹6,156,510. Unexplained wealth discrepancy of ₹23,344,238."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Dependent1 Agricultural Land purchased in 2005 for ₹33,600 (CII Indexed Cost: ₹107,979) is declared at highly inflated value of ₹725,800."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Dependent1 Non Agricultural Land purchased in 2012 for ₹561,680 (CII Indexed Cost: ₹1,055,958) is declared at highly inflated value of ₹20,128,354."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹29,500,748) does not match declared total assets (₹55,475,038). Difference: ₹25,974,290"
+    }
+  ]
+}

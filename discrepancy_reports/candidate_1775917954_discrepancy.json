@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775917954",
+    "candidate_name": "D. Govindan (alias) D. Govinda Rajan",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Independent",
+    "constituency": "Bargur (52)",
+    "pan": "ALPPG1617D",
+    "phone": "9444664632",
+    "email": "govindarajanjothi3@gmail.com",
+    "address": "69, Sendarappalli Village, Anjoor Post, Bargur Taluk, Krishnagiri District, Tamil Nadu - 635 203",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard (1988-1989), Jagadevi Government Higher Secondary School, Anjoor",
+    "profession": "Army Pensioner"
+  },
+  "financial_summary": {
+    "total_assets_xls": 297131044.0,
+    "total_liabilities_xls": 3713920.0,
+    "net_worth_xls": 293417124.0,
+    "cash_xls": 250000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR 0114/2025 (Kanthikuppam Police Station, Bargur Taluk) - மின் இணைப்பு பெறுதலுக்காக அண்ணன், தம்பி பிரச்சனை / Brother, brother problem for getting electricity connection",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

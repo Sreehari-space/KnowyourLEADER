@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904865",
+    "candidate_name": "V. Ezhilarasi",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "180, Pudukkottai Assembly Constituency",
+    "pan": "ABKPE1581F",
+    "phone": "8668160984",
+    "email": "ezhilpop@gmail.com",
+    "address": "No. 407, Rajalakshmi Illam, Sathyamurthy Nagar, Pudukkottai, Pudukkottai Taluk, Pudukkottai District, Tamil Nadu 622001",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "L.L.B (Hons) - June 2025, K.K.C. Law College, P.R. Mangalam, Puthur, Tirupati, Andhra Pradesh.",
+    "profession": "Employee in a private company"
+  },
+  "financial_summary": {
+    "total_assets_xls": 14629000.0,
+    "total_liabilities_xls": 4528160.0,
+    "net_worth_xls": 10100840.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No. 0063/2026 Date: 28.03.2026, Sections 75 - Juvenile Justice (CARE AND PROTECTION OF CHILDREN) ACT-2015, Sections 3 and 14(1) - THE CHILD AND ADOLESCENT LABOUR (PROHIBITION AND REGULATION) Act - 1986. Description: 1) Naam Tamilar Katchi State Coordinator Thiru. Thriloka Sundar, 2) Naam Tamilar Katchi Pudukkottai Assembly Candidate Ezhilarasi, 3) and 1 unidentified person belonging to Naam Tamilar Katchi used children to hold the party flag and collect votes while standing on a vehicle.",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

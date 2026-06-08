@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920327",
+    "candidate_name": "M. Raman Masilamani",
+    "candidate_name_json": null,
+    "age": "63",
+    "party": "Independent Candidate",
+    "constituency": "062 Chengam (Individual), Tamil Nadu",
+    "pan": "CEVPR6418G",
+    "phone": "9790849542, 9840586444",
+    "email": "NIL",
+    "address": "No: 101, Vedha Salai, Kulasekarapuram, Chinnamma Nagar, Virugambakkam, Chennai - 600092",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5th Standard",
+    "profession": "Retired (from Chennai Corporation)"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6055000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 6055000.0,
+    "cash_xls": 35000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

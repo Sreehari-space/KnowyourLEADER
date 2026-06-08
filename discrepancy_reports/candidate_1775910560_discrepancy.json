@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910560",
+    "candidate_name": "ச.சுரேஷ்",
+    "candidate_name_json": null,
+    "age": "36",
+    "party": "தமிழக வாழ்வுரிமை கட்சி",
+    "constituency": "67 ஆரணி சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "TFDPS3528N",
+    "phone": "9361624197",
+    "email": "harishdevi@gmail.com",
+    "address": "நெ.29, கார்த்திகேயன் ரோடு, சைதாப்பேட்டை, ஆரணி, திருவண்ணாமலை மாவட்டம் - 632301",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8-ம் வகுப்பு தேர்ச்சி, சுப்ரமணிய சாஸ்திரியார் மேல்நிலைப்பள்ளி, ஆரணி, 2002",
+    "profession": "தனியார் நிறுவன பணியாளர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 302000.0,
+    "total_liabilities_xls": 250000.0,
+    "net_worth_xls": 52000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

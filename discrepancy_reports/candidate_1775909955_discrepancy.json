@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909955",
+    "candidate_name": "Ra. Edmund Jayandren",
+    "candidate_name_json": null,
+    "age": "53",
+    "party": "Tamilaga Vazhvurimai Katchi",
+    "constituency": "Avadi Assembly Constituency",
+    "pan": "AKTPJ2287K",
+    "phone": "9840082704",
+    "email": "ஏதும்மில்லை / none",
+    "address": "1, Poonga Street, Kamarajar Nagar, Avadi, Chennai-600 071",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Bachelor of Arts in History - 1991-1993, Hindu College, Pattabiram, Chennai 600 072, University: University of Madras",
+    "profession": "Individual Department Store"
+  },
+  "financial_summary": {
+    "total_assets_xls": 43601194.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 43601194.0,
+    "cash_xls": 45000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

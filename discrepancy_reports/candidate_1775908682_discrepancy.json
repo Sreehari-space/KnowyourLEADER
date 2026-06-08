@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908682",
+    "candidate_name": "K. Selvam",
+    "candidate_name_json": null,
+    "age": "42",
+    "party": "Tamilaga Vetri Kazhagam",
+    "constituency": "85, Mettur, Tamil Nadu",
+    "pan": "JRXPS9060M",
+    "phone": "9994887358",
+    "email": "selvam.tvk1984@gmail.com",
+    "address": "1 Pandianvalavu, Jalakandapuram, Mettur Taluk, Salem District, Tamil Nadu-636501",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard, completed in 1998 from Government Middle School, Chinnasorakai, Nangavalli, Salem.",
+    "profession": "Textile business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2792764.0,
+    "total_liabilities_xls": 2290282.0,
+    "net_worth_xls": 502482.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

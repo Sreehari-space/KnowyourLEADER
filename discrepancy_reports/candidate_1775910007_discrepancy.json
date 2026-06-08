@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910007",
+    "candidate_name": "J.V. Durai",
+    "candidate_name_json": null,
+    "age": "48",
+    "party": "All India Youth Development Party",
+    "constituency": "163. Nagapattinam Assembly Constituency, Tamil Nadu",
+    "pan": "ANUPD2009B",
+    "phone": "7397679539, 9840927397",
+    "email": "chefdurai27@gmail.com",
+    "address": "8, Pallivasal Street, Kattumavadi, Purakiramam Post, Nagapattinam Taluk, Nagapattinam District, Pincode 609703, Tamil Nadu",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "D.C.Tech., & F.P.P.(USA)-National Institute of Hotel Management & Catering Technology, Karaikal - 1998-99",
+    "profession": "Executive Chef"
+  },
+  "financial_summary": {
+    "total_assets_xls": 79000.0,
+    "total_liabilities_xls": 26500.0,
+    "net_worth_xls": 52500.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "FIR No.240/2023, திட்டச்சேரி காவல் நிலையம் / Thittacheri Police Station, u/s 294(b), 324, 506(2) IPC, அடிதடி வழக்கு / Assault case; CC 512/2024, நீதித்துறை நடுவர் நீதிமன்றம், நாகப்பட்டினம் / Judicial Magistrate Court, Nagapattinam, u/s 294(b), 324, 506(2) IPC, அடிதடி வழக்கு / Assault case",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

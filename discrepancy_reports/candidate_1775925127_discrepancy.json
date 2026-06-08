@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775925127",
+    "candidate_name": "R. Rajguru",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent",
+    "constituency": "R.K. Nagar, Tamil Nadu",
+    "pan": "AYHPR2208N",
+    "phone": "8939678765",
+    "email": "bharathamakkaliyakkam@gmail.com",
+    "address": "32, Mamman Kovil Street, A.U.C.A., Chennai-81",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th Standard, Chennai Corporation School, Chennai-81 (1990-1991)",
+    "profession": "Car driving"
+  },
+  "financial_summary": {
+    "total_assets_xls": 602000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 602000.0,
+    "cash_xls": 30000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

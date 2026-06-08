@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906349",
+    "candidate_name": "M. Chandrabrabha",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "203-Srivilliputtur (SC)",
+    "pan": "AJQPC9065J",
+    "phone": "9655658203",
+    "email": "chandraprabhamuthiah2005@gmail.com",
+    "address": "15, South Kulampatti, Appayanayakkanpatti Post, Ayanachiyarkovil Village, Srivilliputtur Taluk, Virudhunagar District - 626141",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "M.A (Tamil) from Thanjavur Tamil University, Thanjavur (2013)",
+    "profession": "Homemaker, Former MLA"
+  },
+  "financial_summary": {
+    "total_assets_xls": 38304841.51,
+    "total_liabilities_xls": 23885514.0,
+    "net_worth_xls": 14419327.51,
+    "cash_xls": 95000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

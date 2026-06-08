@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920954",
+    "candidate_name": "ந. மாயக்கண்ணன்",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "சுயேட்சை",
+    "constituency": "90, சேலம் தெற்கு சட்டமன்றத் தொகுதி",
+    "pan": "EYLPM5361K",
+    "phone": "9042742761",
+    "email": "none / ஏதுமில்லை",
+    "address": "1, அம்பேத்கார் நகர், கொண்டலாம்பட்டி, சேலம்-636 010",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10ம் வகுப்பு, அரசினர் மேல்நிலைப்பள்ளி, கொண்டலாம்பட்டி, சேலம்-636 010, வருடம் 1998-99",
+    "profession": "விவசாயம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 532667.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 532667.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

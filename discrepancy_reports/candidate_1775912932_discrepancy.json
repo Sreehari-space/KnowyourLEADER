@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912932",
+    "candidate_name": "G.Karuppaiya",
+    "candidate_name_json": null,
+    "age": "47",
+    "party": "Independent",
+    "constituency": "200 Bodinayakanur Legislative Assembly Constituency, Tamil Nadu",
+    "pan": "FJIPK6150B",
+    "phone": "9751767570",
+    "email": "NIL",
+    "address": "o. Gopal, Choladamman Kovil Street, Silamalai Post, Bodinayakanur Taluk, Theni District, 655528",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8th standard, Government Higher Secondary School, Silamalai",
+    "profession": "Individual farming, Chicken Curry Shop"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2310000.0,
+    "total_liabilities_xls": 1600000.0,
+    "net_worth_xls": 710000.0,
+    "cash_xls": 300000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

@@ -45,6 +45,16 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
     }
   }, { scope: containerRef });
 
+  // Filters
+  const [searchQuery, setSearchQuery] = useState('');
+  const [filterParty, setFilterParty] = useState<string>('ALL');
+  const [filterEducation, setFilterEducation] = useState<string>('ALL');
+  const [filterCriminal, setFilterCriminal] = useState<'ALL' | 'CLEAN' | 'HAS_CASES'>('ALL');
+  const [sortBy, setSortBy] = useState<'name' | 'assets_high' | 'assets_low' | 'cases_high' | 'age'>('name');
+  const [showFilters, setShowFilters] = useState(false);
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 20;
+
   // Grid update stagger
   useGSAP(() => {
     if (gridRef.current && gridRef.current.children.length > 0) {
@@ -55,15 +65,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
     }
   }, { dependencies: [currentPage, searchQuery, filterParty, filterEducation, filterCriminal, sortBy], scope: containerRef });
 
-  // Filters
-  const [searchQuery, setSearchQuery] = useState('');
-  const [filterParty, setFilterParty] = useState<string>('ALL');
-  const [filterEducation, setFilterEducation] = useState<string>('ALL');
-  const [filterCriminal, setFilterCriminal] = useState<'ALL' | 'CLEAN' | 'HAS_CASES'>('ALL');
-  const [sortBy, setSortBy] = useState<'name' | 'assets_high' | 'assets_low' | 'cases_high' | 'age'>('name');
-  const [showFilters, setShowFilters] = useState(false);
-  const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 20;
+
 
   // Modal
   const [activeDetailedCandidate, setActiveDetailedCandidate] = useState<Candidate | null>(null);
@@ -229,7 +231,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
                     <select
                       value={filterParty}
                       onChange={(e) => setFilterParty(e.target.value)}
-                      className="w-full bg-neutral-50 border border-neutral-200 rounded-xl px-3 py-2.5 text-xs font-semibold text-neutral-700 focus:outline-none focus:border-neutral-400 cursor-pointer transition-all"
+                      className="w-full bg-neutral-50 border border-neutral-200 rounded-xl px-3 py-3 min-h-[44px] text-sm sm:text-xs font-semibold text-neutral-700 focus:outline-none focus:border-neutral-400 cursor-pointer transition-all"
                     >
                       <option value="ALL">{t.allParties}</option>
                       {allPartiesList.map(p => <option key={p} value={p}>{p}</option>)}
@@ -242,7 +244,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
                     <select
                       value={filterEducation}
                       onChange={(e) => setFilterEducation(e.target.value)}
-                      className="w-full bg-neutral-50 border border-neutral-200 rounded-xl px-3 py-2.5 text-xs font-semibold text-neutral-700 focus:outline-none focus:border-neutral-400 cursor-pointer transition-all"
+                      className="w-full bg-neutral-50 border border-neutral-200 rounded-xl px-3 py-3 min-h-[44px] text-sm sm:text-xs font-semibold text-neutral-700 focus:outline-none focus:border-neutral-400 cursor-pointer transition-all"
                     >
                       <option value="ALL">{t.allEducation}</option>
                       <option value="School">{lang === 'en' ? 'School' : 'பள்ளிக்கல்வி'}</option>
@@ -259,7 +261,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
                     <select
                       value={filterCriminal}
                       onChange={(e) => setFilterCriminal(e.target.value as any)}
-                      className="w-full bg-neutral-50 border border-neutral-200 rounded-xl px-3 py-2.5 text-xs font-semibold text-neutral-700 focus:outline-none focus:border-neutral-400 cursor-pointer transition-all"
+                      className="w-full bg-neutral-50 border border-neutral-200 rounded-xl px-3 py-3 min-h-[44px] text-sm sm:text-xs font-semibold text-neutral-700 focus:outline-none focus:border-neutral-400 cursor-pointer transition-all"
                     >
                       <option value="ALL">{t.allCriminal}</option>
                       <option value="CLEAN">{t.noCriminal}</option>
@@ -271,7 +273,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
                     <div className="sm:col-span-3 flex justify-end">
                       <button
                         onClick={() => { setFilterParty('ALL'); setFilterEducation('ALL'); setFilterCriminal('ALL'); }}
-                        className="text-[10px] font-bold text-neutral-400 hover:text-neutral-600 cursor-pointer transition-colors underline underline-offset-2"
+                        className="py-3 px-4 mt-2 bg-neutral-100 rounded-xl text-xs font-bold text-neutral-600 hover:bg-neutral-200 cursor-pointer transition-colors"
                       >
                         {lang === 'en' ? 'Reset all filters' : 'அனைத்தையும் மீட்டமை'}
                       </button>

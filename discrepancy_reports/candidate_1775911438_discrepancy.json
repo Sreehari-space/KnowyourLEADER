@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911438",
+    "candidate_name": "D. Jaheer Husain",
+    "candidate_name_json": null,
+    "age": "54",
+    "party": "தமிழக வாழ்வுரிமைக் கட்சி",
+    "constituency": "036 - உத்திரமேரூர் சட்டமன்றத் தொகுதி",
+    "pan": "CBOPJ4761J",
+    "phone": "9791497717",
+    "email": "jaheerusenjaheerusen@gmail.com",
+    "address": "எண்: 35- வாழைதோட்டம் தெரு, உத்திரமேரூர் டவுன், உத்திரமேரூர் தாலுக்கா, காஞ்சிபுரம் மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "\"4-ஆம் வகுப்பு\" - தொடக்கப் பள்ளி, உத்திரமேரூர்",
+    "profession": "தனி நபர் - ஜூஸ் வியாபாரம்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 710000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 710000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Crime No. 52/2026, Uthiramerur Police Station, Kanchipuram District, Sections .296(b), 351(3) BNS Act - Complaint of verbally abusing the petitioner inside the mosque and threatening to kill. / குற்ற எண்.52/2026 உத்திரமேரூர் காவல் நிலையம் காஞ்சிபுரம் மாவட்டம், .296(b),351(3) BNS Act - பள்ளிவாசலுக்குள் சென்று மனுதாரரை தகாதவார்த்தைகளால் பேசி கொலை மிரட்டல் விடுத்தாக புகார்",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

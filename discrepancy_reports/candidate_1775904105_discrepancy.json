@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775904105",
+    "candidate_name": "K. Selvaraj",
+    "candidate_name_json": null,
+    "age": "70",
+    "party": "Dravida Munnetra Kazhagam (DMK)",
+    "constituency": "115 Palladam Assembly Constituency, Tamil Nadu",
+    "pan": "BVSPS3034C",
+    "phone": "9842202997",
+    "email": "tirupurkselvaraj@gmail.com",
+    "address": "5, Kongu Nagar 3rd Street, Tiruppur-641607",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "5th Standard, Vasavi Vidyalayam, Perumalkovil Street, Tiruppur. 1966",
+    "profession": "Real Estate Agent, Hosiery business partner"
+  },
+  "financial_summary": {
+    "total_assets_xls": 50876165.98,
+    "total_liabilities_xls": 4225655.7,
+    "net_worth_xls": 46650510.28,
+    "cash_xls": 1105550.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

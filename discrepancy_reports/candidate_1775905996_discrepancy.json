@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775905996",
+    "candidate_name": "K. Manickam",
+    "candidate_name_json": null,
+    "age": "60",
+    "party": "All India Anna Dravida Munnetra Kazhagam",
+    "constituency": "190, Sholavandan (SC) Assembly Constituency",
+    "pan": "AHPPM0569E",
+    "phone": "94430, 56394, &, 96296, 24331",
+    "email": "manic0410@gmail.com",
+    "address": "Door No-239A East Anna Nagar Kurinji Residency, Vandiyur, Madurai District, Pincode-625 020",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "DIPLOMA OF MECHANICAL ENGINEERING (DME-1989) Mohamed Sathak Polytechnic Kilakarai, Ramanathapuram (STATE BOARD OF TECHNICAL EDUCATION AND TRAINING, DEPARTMENT OF TECHNICAL EDUCATION MADRAS-600 025) November - 1989",
+    "profession": "Agriculture and business of renting out equipment and machinery for construction work"
+  },
+  "financial_summary": {
+    "total_assets_xls": 166917959.99,
+    "total_liabilities_xls": 51792182.0,
+    "net_worth_xls": 115125777.99,
+    "cash_xls": 2000000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (4 case(s))",
+    "case_numbers_xls": "209/2023; 391/2022; 54/2021; 177/2016",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

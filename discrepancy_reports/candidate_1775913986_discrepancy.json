@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775913986",
+    "candidate_name": "S. Kumar",
+    "candidate_name_json": null,
+    "age": "28",
+    "party": "Independent",
+    "constituency": "199.Periyakulam Assembly Constituency, Tamil Nadu",
+    "pan": "FKLPK2697M",
+    "phone": "9994834109",
+    "email": "jothampaul20@gmail.com",
+    "address": "33, North Forest Road, Vadakarai, Periyakulam Taluk, Theni District",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "SSLC, Victoria Memorial Govt Hr Sec School, Periyakulam",
+    "profession": "Agricultural Laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 545812.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 545812.0,
+    "cash_xls": 540000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

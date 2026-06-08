@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914814",
+    "candidate_name": "M.P.Kavitha",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "Tamilaga Vettri Kazhagam",
+    "constituency": "91. Veerapandi Constituency, State of Tamilnadu",
+    "pan": "AVUPK9625J",
+    "phone": "9442075555",
+    "email": "mpkavithapalanivel@gmail.com",
+    "address": "New.D.No.34, Old No.925, H-Block, 17th Main Road, Anna Nagar West, Chennai – 600 040",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "Higher Secondary Education (+2) National Girls Higher Secondary School, Rasipuram completed in year of -1996",
+    "profession": "House Wife"
+  },
+  "financial_summary": {
+    "total_assets_xls": 515591274.33,
+    "total_liabilities_xls": 92308229.0,
+    "net_worth_xls": 423283045.33,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

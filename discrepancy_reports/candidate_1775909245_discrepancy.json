@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909245",
+    "candidate_name": "கே.என்.சேகர்",
+    "candidate_name_json": null,
+    "age": "55",
+    "party": "பாட்டாளி மக்கள் கட்சி",
+    "constituency": "008- அம்பத்தூர் சட்டமன்ற தொகுதி, தமிழ்நாடு",
+    "pan": "AQAPS8743C",
+    "phone": "9444072838",
+    "email": "sekarkn17@gmail.com",
+    "address": "பழைய எண்.16, புதிய எண்.25, அண்ணா தெரு, கள்ளிக்குப்பம், அம்பத்தூர், சென்னை - 600053",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "8-ஆம் வகுப்பு தேர்ச்சி, மே 1985, ஸ்ரீமகா கணேச வித்யாசாலா நடுநிலைப்பள்ளி, அம்பத்தூர், சென்னை - 600 053",
+    "profession": "சிவில் கட்டுமானத் தொழில்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 228177172.0,
+    "total_liabilities_xls": 30175763.0,
+    "net_worth_xls": 198001409.0,
+    "cash_xls": 85000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

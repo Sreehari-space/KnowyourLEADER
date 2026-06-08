@@ -1,0 +1,502 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775919977",
+    "candidate_name": "S RAJENDRAN",
+    "candidate_name_json": "RAJENDRAN S",
+    "age": "62",
+    "party": "Independent",
+    "constituency": "004-Tiruvallur Assembly Constituency",
+    "pan": "BCZPR9099E",
+    "phone": "8148809497",
+    "email": "NIL",
+    "address": "No: 1, Chinna Street, Kilnallathur Village, Tiruvallur Taluk and District-602002",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "5th standard pass, Middle School, Kilnallathur, Tiruvallur District. Year of completion - April 1972",
+    "profession": "Individual Business"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1383360.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1383360.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "1,00,000 1 Lacs+",
+        "spouse": "20,000 20 Thou+",
+        "huf": "Nil",
+        "dependent1": "5,000 5 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Ariyalur State Bank Of India 3,06,103 3 Lacs+ Chennai Indian Overseas Bank 13,340 13 Thou+ Ariyalur City Union Bank 1,51,841 1 Lacs+ Ariyalur Tiruchirappalli Central Cooperative Bank 3,29,546 3 Lacs+ Govindapuram Primary Agriculture Cooperative Bank 1,49,682 1 Lacs+ Ariyalur Bank Of India 13,51,317 13 Lacs+ Ariyalur Canara Bank 1,00,007 1 Lacs+",
+        "spouse": "Ariyalur State Bank Of India 66,815 66 Thou+ Ariyalur Canara Bank 1,34,000 1 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Ariyalur Canara Bank 85 Sidhartha Indian Bank 14,377 14 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "LIC Single Premium 51,971 51 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Toyota Innova Hycross Car 34,10,685 34 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "6 Pounds 148gm Gold 6,00,000 6 Lacs+",
+        "spouse": "40 Pounds 320gm Gold 40,00,000 40 Lacs+",
+        "huf": "Nil",
+        "dependent1": "50 Pavan Gold Jewellery (400 Grams) 50,00,000 50 Lacs+",
+        "dependent2": "10 Pavan Gold Jewelry (80 Grams) 10,00,000 10 Lacs+",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "LIC 23,029 23 Thou+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Ariyalur Taluk Kallangurichi Revenue Village Sy No.137/1-0.46.50, Total Area 3.93Acres Built Up Area 9.44Sqft Whether Inherited N Purchase Date 2014-09-20 Purchase Cost 22000.00 Development Cost 0.00 40,00,000 40 Lacs+ Ariyalur Taluk Kallangurichi Revenue Village Sy No.137/13.0.09.50 Total Area 3Sqft Built Up Area Whether Inherited N Purchase Date 2023-03-20 Purchase Cost 614000.00 Development Cost 0.00 22,784 22 Thou+ Ariyalur Taluk Kallangurichi Revenue Village Sy No.137/14-0.31.00 Total Area 102Acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 0.00 6,73,345 6 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Ariyalur Taluk Ariyalur South Village Sy No.287/3C Total Area 7885Acres Built Up Area Whether Inherited N Purchase Date 2014-09-20 Purchase Cost 6350000.00 Development Cost 0.00 70,17,637 70 Lacs+",
+        "spouse": "Ariyalur Talu141/5C3 Total Area 8072Acres Built Up Area Whether Inherited N Purchase Date 2011-03-20 Purchase Cost 162000.00 Development Cost 0.00 35,62,500 35 Lacs+ Ariyalur Taluk Kurumbanjava Village Sy No.212/2C1A1A Total Area 3444Acres Built Up Area Whether Inherited N Purchase Date 0000-00-00 Purchase Cost 1380000.00 Development Cost 0.00 15,16,800 15 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Ariyalur Taluk Kallangurichi Revenue Village Sy No.696/13 Total Area 2400Acres Built Up Area 1721Sqft Whether Inherited Y Purchase Date 0000-00-00 Purchase Cost 0.00 Development Cost 3000000.00 28,00,000 28 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Ariyalur Sundaram Finance Vehicle Loan 10,58,400 10 Lacs+ Govindapuram Startup Agriculture 50,000 50 Thou+",
+      "spouse": "Jewelry Loan Ariyalur 6,00,614 6 Lacs+ Jewelry Loan Ariyalur 7,22,832 7 Lacs+ Jewelry Loan Ariyalur 3,03,860 3 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 7,89,780 | 2023 - 2024: Rs 6,95,330 | 2022 - 2023: Rs 3,57,500 | 2021 - 2022: Rs 3,01,850 | 2020 - 2021: Rs 3,27,480"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 16,30,970"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "Y",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "9",
+      "summary": "Number of Criminal Cases:9",
+      "ipc_charges": [
+        "8 charges related to Punishment for Being member of an unlawful assembly (IPC Section-143)",
+        "6 charges related to Punishment for wrongful restraint (IPC Section-341)",
+        "3 charges related to Disobedience to order duly promulgated by public servant (IPC Section-188)",
+        "3 charges related to Negligent act likely to spread infection of disease dangerous to life (IPC Section-269)",
+        "3 charges related to Malignant act likely to spread infection of disease dangerous to life (IPC Section-270)",
+        "2 charges related to Punishment for public nuisance in cases not otherwise provided for (IPC Section-290)",
+        "2 charges related to Negligent conduct with respect to fire or combustible matter (IPC Section-285)",
+        "1 charges related to Punishment for Rioting (IPC Section-147)",
+        "1 charges related to Disobedience to quarantine rule (IPC Section-271)",
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "427/2024 Ariyalur PS",
+          "case_no": "Nil",
+          "court": "Criminal Justice Division Court- 1, Ariyalur",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 126(2), 292",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "2",
+          "fir_no": "75/2023, Ariyalur PS",
+          "case_no": "Nil",
+          "court": "Criminal Justice Division Court-1, Ariyalur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 290",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "3",
+          "fir_no": "322/2022, Ariyalur PS",
+          "case_no": "Nil",
+          "court": "Criminal Justice Division Court-1, Ariyalur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 290",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "4",
+          "fir_no": "260/2022, Ariyalur PS",
+          "case_no": "Nil",
+          "court": "Criminal Justice Division Court-1, Ariyalur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 341",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "5",
+          "fir_no": "159/2022, Ariyalur PS",
+          "case_no": "Nil",
+          "court": "Criminal Justice Division Court-1, Ariyalur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 188, 341, 285",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "6",
+          "fir_no": "88/2022, Ariyalur PS",
+          "case_no": "Nil",
+          "court": "Criminal Justice Division Court-1, Ariyalur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 270",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "7",
+          "fir_no": "912/2021, Ariyalur PS",
+          "case_no": "Nil",
+          "court": "Criminal Justice Division Court-1, Ariyalur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 269, 270",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "8",
+          "fir_no": "751/2021, Ariyalur PS",
+          "case_no": "Nil",
+          "court": "Criminal Justice Division Court-1, Ariyalur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 147, 341, 271, 269, 270",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        },
+        {
+          "serial_no": "9",
+          "fir_no": "151/2022, Ariyalur PS",
+          "case_no": "STC No 311/26",
+          "court": "Criminal Justice Division Court -1, Ariyalur",
+          "law_type": "IPC",
+          "ipc_sections": "143, 341, 188, 285",
+          "other_details": "Nil",
+          "charges_framed": "Yes",
+          "charges_date": "25 Apr 2022",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 3,64,20,864 ~3 Crore+",
+    "Liabilities:": "Rs 27,35,706 ~27 Lacs+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹30,319,103, but 5-year family income is only ₹4,102,910. Unexplained wealth discrepancy of ₹26,216,193."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Agricultural Land purchased in 2014 for ₹22,000 (CII Indexed Cost: ₹34,467) is declared at highly inflated value of ₹4,000,000."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Spouse Non Agricultural Land purchased in 2011 for ₹162,000 (CII Indexed Cost: ₹331,043) is declared at highly inflated value of ₹3,562,500."
+    },
+    {
+      "flag_id": "F4",
+      "severity": "CRITICAL",
+      "title": "Gold Heavily Undervalued (Tax/Duty Evasion)",
+      "description": "1316.0g gold declared at ₹4,600,000 (Implied rate: ₹3,495/g vs April 2026 Market Rate of ~₹14,200/g)."
+    },
+    {
+      "flag_id": "Q2",
+      "severity": "HIGH",
+      "title": "Zero Income Dependent Assets",
+      "description": "Dependents have ₹6,019,377 in assets but declared Nil income."
+    },
+    {
+      "flag_id": "F6",
+      "severity": "MEDIUM",
+      "title": "Data Quality / Typo Anomaly",
+      "description": "Found data quality issues: Invalid Date (0000-00-00)"
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹31,978,117) does not match declared total assets (₹36,420,864). Difference: ₹4,442,747"
+    }
+  ]
+}

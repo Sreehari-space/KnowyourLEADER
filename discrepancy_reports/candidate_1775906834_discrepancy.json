@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906834",
+    "candidate_name": "பூ.பூல்பாண்டி",
+    "candidate_name_json": null,
+    "age": "35",
+    "party": "நாம் தமிழர் கட்சி",
+    "constituency": "218 - கோவில்பட்டி சட்டமன்றத் தொகுதி, தூத்துக்குடி மாவட்டம், தமிழ்நாடு",
+    "pan": "BMAPP6689R",
+    "phone": "9629952629",
+    "email": "pandikayathar99@gmail.com",
+    "address": "கதவு எண்.210, வடக்குத்தெரு, வடக்கு இலந்தைகுளம் கிராமம், கயத்தார் வட்டம், தூத்துக்குடி மாவட்டம்",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A.L.L.B - Government Law College, Ramanathapuram - 2017-2022",
+    "profession": "வழக்கறிஞர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 8373000.0,
+    "total_liabilities_xls": 1100000.0,
+    "net_worth_xls": 7273000.0,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

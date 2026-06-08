@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775914910",
+    "candidate_name": "Veerayya",
+    "candidate_name_json": null,
+    "age": "57",
+    "party": "Tamilaga Valvurimai Katchi",
+    "constituency": "143 Lalgudi",
+    "pan": "ATKPV2894C",
+    "phone": "9047544589",
+    "email": "NIL",
+    "address": "62 Angalamman Street, Pullambadi, Lalgudi Taluk, Trichy District 621 711",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "12th std 1994-1995 Higher Secondary School, Pullambadi",
+    "profession": "Individual agricultural laborer"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2291000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 2291000.0,
+    "cash_xls": 10000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

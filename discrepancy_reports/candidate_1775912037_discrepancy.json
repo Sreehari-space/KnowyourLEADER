@@ -1,0 +1,371 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775912037",
+    "candidate_name": "M.ANANDAN",
+    "candidate_name_json": "M.GAJENDRAN",
+    "age": "41",
+    "party": "INDEPENDENT",
+    "constituency": "32-Chengalpattu-Tamil Nadu",
+    "pan": "BTTPA4790A",
+    "phone": "9941871026",
+    "email": "NIL",
+    "address": "No.1, Barathiyar Street, Guduvancherry, Vandalur Taluk, Chengalpattu District- 603202",
+    "combined_from": [
+      "xls",
+      "json"
+    ],
+    "education": "10th Standard – Government Boys Higher Sec. School, Nandhivaram, year of passing – 2001.",
+    "profession": "Real Estate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 140000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 140000.0,
+    "cash_xls": 100000.0
+  },
+  "asset_details": {
+    "movable": {
+      "Cash": {
+        "self": "15,500 15 Thou+",
+        "spouse": "67,200 67 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies": {
+        "self": "Axis Bank. 10,69,406 10 Lacs+ ICICI Bank 58,261 58 Thou+ PNB Bank 51,235 51 Thou+ IDBI Bank 5,683 5 Thou+ PNB Bank 6,01,000 6 Lacs+",
+        "spouse": "PNB Bank 24,421 24 Thou+ Axis Bank 30,118 30 Thou+ IDBI Bank 6,850 6 Thou+ PNB Bank 11,000 11 Thou+",
+        "huf": "Nil",
+        "dependent1": "Axis Bank. 10,735 10 Thou+ Monzo Account 7,598 7 Thou+ HSBC UK 63,506 63 Thou+",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Bonds, Debentures and Shares in companies": {
+        "self": "Equity Shares In MSGAJAA Properties Pvt Ltd 51,000 51 Thou+ Equity Shares In MSGAJAA Homes Pvt Ltd., 51,000 51 Thou+",
+        "spouse": "Equity Shares In MSGAJAA Properties Pvt Ltd 49,000 49 Thou+ Equity Shares In MSGAJAA Homes Pvt Ltd., 49,000 49 Thou+ Equity Shares In GS Goldmines Pvt Ltd., 2,00,000 2 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(a) NSS, Postal Savings etc": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "(b) LIC or other insurance Policies": {
+        "self": "Life Insurance Corporation Of India 48,32,460 48 Lacs+",
+        "spouse": "Life Insurance Corporation Of India 50,73,300 50 Lacs+ Axis Max Life Insurance 5,00,000 5 Lacs+ Aditya Birla Sun Life Insurance 5,71,295 5 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Personal loans/advance given": {
+        "self": "Loan Given To MSGAJAA Homes Pvt Ltd 90,00,000 90 Lacs+ Loan Given To Mr.R.Sundares 25,00,000 25 Lacs+ Loan Given To Mr.Ganesh Raja 9,04,000 9 Lacs+",
+        "spouse": "Loan Given To MSGAJAA Homes Pvt Ltd 40,00,000 40 Lacs+ Loan Given To Mrs Lavanya 7,00,000 7 Lacs+ Flat Purchase Advance Paid Till Date To Casa Grand 64,00,894 64 Lacs+ Advance To GS FGolden Mines Pvt Ltd 67,11,000 67 Lacs+ Loan To Horology Impex 15,00,000 15 Lacs+ Loan Given To Mr.R.Sundaresan 25,00,000 25 Lacs+ Loan Given To Mr.R.Manimaran 82,50,000 82 Lacs+ Loan Given To Mr.S.Murugesan 10,04,000 10 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Motor Vehicles (details of make, etc.)": {
+        "self": "Toyota Fortuner TN 11 AU 0123 2020 34,87,581 34 Lacs+ Hero Honda Splendor TN 22 AE 2259 2004 10,000 10 Thou+ TATA Sumo TN 21 C 2202 1998 20,000 20 Thou+ 2 Wheeler Royal Enfield TN 11 BF 2202 2023 2,25,935 2 Lacs+",
+        "spouse": "Innova Crysra TN 11 AZ 0123 2021 30,13,539 30 Lacs+ Vespa SXL TN 11 AP 5757 2019 91,960 91 Thou+ TVS Scooty PEP Plus TN 11 F 8123 2014 5,000 5 Thou+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Jewellery (give details weight value)": {
+        "self": "630 Grams Gold 87,88,500 87 Lacs+",
+        "spouse": "500 Grams Gold 69,75,000 69 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Other assets, such as values of claims / interests": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    },
+    "immovable": {
+      "Agricultural Land": {
+        "self": "Kullamanayakkan Patti, Omalur Tluk, Salem Dist. Sy No. 21/1B2A Total Area 0.07 Acre 1/2 Cent Built Up Area Whether Inherited N Purchase Date 2019-09-05 Purchase Cost 600000.00 Development Cost 0.00 7,00,000 7 Lacs+ Kullamanayakkan Patti, Omalur Tluk, Salem Dist. Sy No.21/1B2B Total Area Acre 1.07 Cent Built Up Area Whether Inherited N Purchase Date 2014-11-10 Purchase Cost 909500.00 Development Cost 0.00 97,00,000 97 Lacs+ Kullamanayakkan Patti, Omalur Tluk, Salem Dist. Sy No. 21/1B2B Total Area Acre 0.28.75 Cent Built Up Area Whether Inherited N Purchase Date 2014-11-10 Purchase Cost 259000.00 Development Cost 0.00 16,50,000 16 Lacs+ Kullamanayakkan Patti, Omalur Tluk, Salem Dist. Sy No. 21/1B2F, 21/1B2E, 21/1B2D Total Area Acre 1.83.25 Cent Built Up Area Whether Inherited N Purchase Date 2019-09-05 Purchase Cost 2130000.00 Development Cost 0.00 21,30,000 21 Lacs+ Kullamanayakkan Patti, Omalur Tluk, Salem Dist Sy No. 68/3B1 Total Area Acre 0.20 Cent Built Up Area Whether Inherited N Purchase Date 2019-09-05 Purchase Cost 270000.00 Development Cost 0.00 2,70,000 2 Lacs+ Kommakkadu, Yercaud Taluk, Salem Dist. Sy No. 9/4A1B7 Total Area Acre 0.28 Cent Built Up Area Whether Inherited N Purchase Date 2018-01-22 Purchase Cost 2565000.00 Development Cost 0.00 35,00,000 35 Lacs+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Non Agricultural Land": {
+        "self": "Melakottai, Vandalur Taluk, Chengalpattu District. Sy No. 159/1 Total Area 1500 Sq Ft Built Up Area Whether Inherited N Purchase Date 2012-03-13 Purchase Cost 1425000.00 Development Cost 0.00 15,50,000 15 Lacs+ Rathnamangalam, Vandalur Taluk. Chengalpattu Dist. Sy No. 112/18 Total Area 2924 Sq Ft Built Up Area Whether Inherited N Purchase Date 2015-12-16 Purchase Cost 2500000.00 Development Cost 0.00 25,05,000 25 Lacs+ Rathnamangalam, Vandalur Taluk. Chengalpattu Dist. Sy No. 112/16, 112/25A Total Area 1962 Sq Ft Built Up Area Whether Inherited N Purchase Date 2015-12-16 Purchase Cost 2500000.00 Development Cost 0.00 25,05,000 25 Lacs+ Rathnamangalam, Vandalur Taluk. Chengalpattu Dist. Sy No. 112/17 Total Area 0.58 Cent Built Up Area Whether Inherited N Purchase Date 2018-03-20 Purchase Cost 6069200.00 Development Cost 0.00 1,76,85,360 1 Crore+ Rathnamangalam, Vandalur Taluk. Chengalpattu Dist. Sy No. 121/3B Total Area 2011 Sq Ft Built Up Area Whether Inherited N Purchase Date 2018-09-14 Purchase Cost 1421800.00 Development Cost 0.00 20,11,000 20 Lacs+ Rathnamangalam, Vandalur Taluk. Chengalpattu Dist. Sy No. 121/2A Total Area 1661 Sq Ft Built Up Area Whether Inherited N Purchase Date 2018-09-14 Purchase Cost 2500000.00 Development Cost 0.00 25,05,000 25 Lacs+ Rathnamangalam, Vandalur Taluk. Chengalpattu Dist. Sy No. 55/2A4 Total Area 1109 Sq Ft Built Up Area Whether Inherited N Purchase Date 2018-09-14 Purchase Cost 550000.00 Development Cost 0.00 7,76,300 7 Lacs+ Mambakkam, Sy No. 308/3 Vandalur Taluk, Chengalpattu Dist. Total Area 1950 Cent Built Up Area Whether Inherited N Purchase Date 2007-04-12 Purchase Cost 214500.00 Development Cost 0.00 23,40,000 23 Lacs+ Rathnamangalam, Vandalur Taluk. Chengalpattu Dist. Sy No. 121/1A2 Total Area 1377 Cent Built Up Area Whether Inherited N Purchase Date 2025-07-31 Purchase Cost 1377000.00 Development Cost 0.00 14,00,000 14 Lacs+ Rathnamangalam, Vandalur Taluk. Chengalpattu Dist. Sy No. 121/1A3 Total Area 1377 Cent Built Up Area Whether Inherited N Purchase Date 2025-07-31 Purchase Cost 1377000.00 Development Cost 0.00 14,00,000 14 Lacs+ Rathnamangalam, Vandalur Taluk. Chengalpattu Dist. Sy No.150/1 Total Area 1288 Cent Built Up Area Whether Inherited N Purchase Date 2022-07-13 Purchase Cost 1674400.00 Development Cost 0.00 18,00,000 18 Lacs+",
+        "spouse": "Kayar, Thiruporur Taluk, Chengalpattu Dist, Sy No. 687/4 & 687/3 Total Area 1337 Sq Ft Built Up Area Whether Inherited N Purchase Date 2015-03-11 Purchase Cost 200550.00 Development Cost 0.00 2,05,550 2 Lacs+ Kolapakkam, Vandalur Taluk. Chengalpattu Dist. Sy No. 113/2B Total Area 0.54 Cent Built Up Area Whether Inherited N Purchase Date 2018-01-19 Purchase Cost 8140500.00 Development Cost 0.00 81,45,500 81 Lacs+ Canal Vandalur Taaluk, Chengalpattu Dist. Sy No.248/3B Total Area 1550 Sq Ft Built Up Area Whether Inherited N Purchase Date 2018-04-04 Purchase Cost 623100.00 Development Cost 0.00 6,28,100 6 Lacs+ Kalwai, Vandalur Taluk, Chengalpattu Dist. Sy No. 249/2 Total Area 1350 Sq Ft Built Up Area Whether Inherited N Purchase Date 2018-04-04 Purchase Cost 1085400.00 Development Cost 0.00 10,90,400 10 Lacs+ Kolabakkam Vandalur Taluk, Chengalpattu Dist. Sy No. 136/2A1 Total Area 0.21.50 Cent Built Up Area Whether Inherited N Purchase Date 2022-06-11 Purchase Cost 5647400.00 Development Cost 0.00 93,00,000 93 Lacs+",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Commercial Buildings": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Residential Buildings": {
+        "self": "Rathnamangalam, Vandalur Taluk. Chengalpattu Dist. Sy No. 112/18, 112/20, 112/16, 112/19, 112/20 Total Area 21000 Sq Ft Built Up Area 18000 Sq Ft Whether Inherited N Purchase Date 2015-12-16 Purchase Cost 2500000.00 Development Cost 50000000.00 5,50,00,000 5 Crore+",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      },
+      "Others": {
+        "self": "Nil",
+        "spouse": "Nil",
+        "huf": "Nil",
+        "dependent1": "Nil",
+        "dependent2": "Nil",
+        "dependent3": "Nil"
+      }
+    }
+  },
+  "liability_details": {
+    "Loans from Banks / FIs": {
+      "self": "Americal Express Bank- Credit Card. 1,17,432 1 Lacs+",
+      "spouse": "Axis Bank-Housing Loan Agreement 47,99,360 47 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Loans due to Individual / Entity": {
+      "self": "Elangeshwaran 78,00,000 78 Lacs+ KBS Properties. 83,50,000 83 Lacs+ Mr. Mahendran 10,00,000 10 Lacs+ Narayana Builders. 16,00,000 16 Lacs+ P. Arumugam 36,09,770 36 Lacs+ S M Promoters 34,00,002 34 Lacs+ Star Homes 10,00,000 10 Lacs+ Universal Reality Properties 26,00,000 26 Lacs+ Vishak Promoters. 50,00,000 50 Lacs+ R Suresh 25,00,000 25 Lacs+",
+      "spouse": "Elangeshwaran 48,00,000 48 Lacs+ Ganesh Raja 5,00,000 5 Lacs+ KBS Builders 20,00,000 20 Lacs+ K Saravanan 40,00,000 40 Lacs+ Mr. Mahendran 10,00,000 10 Lacs+ MSBALA Enterprises 48,48,002 48 Lacs+ Narayana Builders 22,30,000 22 Lacs+ Nitesh Jain 15,00,000 15 Lacs+ P. Arumugam 14,98,050 14 Lacs+ P.Balaji 20,00,000 20 Lacs+ PVS Vengadasubramaniam 25,00,000 25 Lacs+ R Murugesan 34,650 34 Thou+ R Vigneshwaran 1,32,31,350 1 Crore+ Sivaramakrishnan 30,00,000 30 Lacs+ Visham Promoters 50,00,100 50 Lacs+",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any other Liability": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with government accommodation": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of water": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of electricity": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with telephones": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Dues to departments dealing with supply of transport": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Income Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Wealth Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Service Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Property Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Sales Tax Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "GST Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Any Other Dues": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    },
+    "Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending": {
+      "self": "Nil",
+      "spouse": "Nil",
+      "huf": "Nil",
+      "dependent1": "Nil",
+      "dependent2": "Nil",
+      "dependent3": "Nil"
+    }
+  },
+  "income_history": [
+    {
+      "relation": "self",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 71,20,790 | 2023 - 2024: Rs 49,73,170 | 2022 - 2023: Rs 48,42,520 | 2021 - 2022: Rs 25,53,300 | 2020 - 2021: Rs 17,47,220"
+    },
+    {
+      "relation": "spouse",
+      "pan_given": "Y",
+      "year": "2024 - 2025",
+      "income": "2024 - 2025: Rs 39,41,280 | 2023 - 2024: Rs 27,85,390 | 2022 - 2023: Rs 33,41,610 | 2021 - 2022: Rs 20,37,780 | 2020 - 2021: Rs 13,77,790"
+    },
+    {
+      "relation": "huf",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent1",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent2",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    },
+    {
+      "relation": "dependent3",
+      "pan_given": "N",
+      "year": "None",
+      "income": "Nil"
+    }
+  ],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {
+      "count": "1",
+      "summary": "Number of Criminal Cases:1",
+      "ipc_charges": [
+        "1 charges related to Being member of an unlawful assembly. (BNS Section-189(2))",
+        "1 charges related to Committing public nuisance in cases not otherwise provided for. (BNS Section-292)",
+        "1 charges related to Wrongfully restraining any person. (BNS Section-126(2))"
+      ],
+      "pending_cases": [
+        {
+          "serial_no": "1",
+          "fir_no": "827/2024, D -1, Chengalpet City Police Station, Old Bus Stop Nearby, G.S.T Road, Chengalpet Town",
+          "case_no": "Nil",
+          "court": "Judicial Magistrate Court -1, Chengalpattu",
+          "law_type": "BNS",
+          "ipc_sections": "189(2), 292, 126(2)",
+          "other_details": "Nil",
+          "charges_framed": "No",
+          "charges_date": "Nil",
+          "appeal_filed": "No",
+          "appeal_status": "Nil"
+        }
+      ],
+      "convicted_cases": []
+    }
+  },
+  "asset_liability_summary": {
+    "Assets:": "Rs 20,82,84,190 ~20 Crore+",
+    "Liabilities:": "Rs 8,99,18,716 ~8 Crore+"
+  },
+  "discrepancies": [
+    {
+      "flag_id": "F1",
+      "severity": "CRITICAL",
+      "title": "Net Worth vs Income Reconciliation Failure",
+      "description": "Calculated Net Worth is ₹86,396,400, but 5-year family income is only ₹34,720,850. Unexplained wealth discrepancy of ₹51,675,550."
+    },
+    {
+      "flag_id": "F5",
+      "severity": "HIGH",
+      "title": "Suspicious Property Overvaluation",
+      "description": "Self Residential Buildings purchased in 2015 for ₹2,500,000 (CII Indexed Cost: ₹3,700,787) is declared at highly inflated value of ₹55,000,000."
+    },
+    {
+      "flag_id": "Q1",
+      "severity": "HIGH",
+      "title": "Unlisted Shares Present",
+      "description": "Found private/unlisted shares: {'self': 'Equity Shares In MSGAJAA Properties Pvt Ltd 51,000 51 Thou+ Equity Shares In MSGAJAA Homes Pvt Ltd., 51,000 51 Thou+', 'spouse': 'Equity Sha..."
+    },
+    {
+      "flag_id": "F7",
+      "severity": "HIGH",
+      "title": "Mathematical Mismatch (Assets)",
+      "description": "Sum of individual assets (₹103,913,192) does not match declared total assets (₹208,284,190). Difference: ₹104,370,998"
+    }
+  ]
+}

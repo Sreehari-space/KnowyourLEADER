@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775906476",
+    "candidate_name": "S. Muthulakshmi",
+    "candidate_name_json": null,
+    "age": "34",
+    "party": "Naam Tamilar Katchi",
+    "constituency": "183 Aranthangi Assembly Constituency, Tamil Nadu",
+    "pan": "PVSPS2897M",
+    "phone": "7708019638",
+    "email": "advocatemuthuaj@gmail.com",
+    "address": "159, Egap Perumalur, Eganivayal Post, Aranthangi Taluk, Pudukkottai District, Pin code: 614616",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.A.B.L.; 10th Standard (2007), 12th Standard (2009) from Government Girls Higher Secondary School, Aranthangi; B.A. (History) (2012) from Alagappa University; B.L. (Law) (2016) from Government Law College, Tiruchirappalli, Dr. Ambedkar Law University, Chennai",
+    "profession": "Advocate"
+  },
+  "financial_summary": {
+    "total_assets_xls": 6446500.0,
+    "total_liabilities_xls": 1665000.0,
+    "net_worth_xls": 4781500.0,
+    "cash_xls": 550000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (2 case(s))",
+    "case_numbers_xls": "FIR No. 285/2025; STC No. 91/2026",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

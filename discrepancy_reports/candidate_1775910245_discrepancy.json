@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775910245",
+    "candidate_name": "A. SELVA KUMAR",
+    "candidate_name_json": null,
+    "age": "49",
+    "party": "THAKKAM KATCHI",
+    "constituency": "THIRU-VI-KA NAGAR (SC), TAMILNADU",
+    "pan": "HOXPS8537N",
+    "phone": "9566061379",
+    "email": "selvakumarprem2007@gmail.com",
+    "address": "c, KAVUKAPATTU VILLAGE, VANIYAMBADI, EACHANGAL, THIRUPATHUR-635801",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "10th Standard - Islamia Higher Secondary School - Vaniyambadi - 1990-1991",
+    "profession": "Electrician"
+  },
+  "financial_summary": {
+    "total_assets_xls": 1793500.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 1793500.0,
+    "cash_xls": 50000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

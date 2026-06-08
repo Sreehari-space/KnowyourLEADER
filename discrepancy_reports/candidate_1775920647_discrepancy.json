@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775920647",
+    "candidate_name": "பழனி",
+    "candidate_name_json": null,
+    "age": "46",
+    "party": "சுயேட்சை",
+    "constituency": "அம்பத்தூர்",
+    "pan": "AWJPP8162D",
+    "phone": "9094031143",
+    "email": "saraswathygears@yahoo.com",
+    "address": "8, திருவள்ளுவர் தெரு TMP நகர், பாடி, அம்பத்தூர், சென்னை 600050",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "T.T.I., திருவள்ளுவர் I.T.I, டீப்ப 1994-96",
+    "profession": "தனி நபர் சிறுதொழில் இயர் தயாóப்பு, mis Saraswathy Gears"
+  },
+  "financial_summary": {
+    "total_assets_xls": 3268450.0,
+    "total_liabilities_xls": 407888.0,
+    "net_worth_xls": 2860562.0,
+    "cash_xls": 10200.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

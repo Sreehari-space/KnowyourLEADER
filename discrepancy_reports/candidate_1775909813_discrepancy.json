@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775909813",
+    "candidate_name": "திரு. J.முனிரத்தினம்",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "தமிழக வெற்றிக் கழகம்",
+    "constituency": "36, உத்திரமேரூர் சட்டப்பேரவைத் தொகுதி, தமிழ்நாடு",
+    "pan": "AKLPM8021E",
+    "phone": "9500181920",
+    "email": "mdsreesairambuilders@gmail.com",
+    "address": "88, பட்டுரோஜா தெரு, ஆரனேரி கிராமம், ஸ்ரீபெரும்புதூர், காஞ்சிபுரம் மாவட்டம் 602106",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "May 2007, L.L.B, - Sri Venkateswara College of Law, Tirupathi - 2014",
+    "profession": "தனி நபர் கட்டிட நிர்மாணிப்பவர் மற்றும் நில மேம்பாட்டாளர்"
+  },
+  "financial_summary": {
+    "total_assets_xls": 235180600.0,
+    "total_liabilities_xls": 51281261.0,
+    "net_worth_xls": 183899339.0,
+    "cash_xls": 180000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "Crime No. 106/2017, Sriperumbudur Police Station / குற்ற எண்.106/2017, திருப்பெரும்புதூர் காவல் நிலையம்",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

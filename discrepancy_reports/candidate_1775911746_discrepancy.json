@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775911746",
+    "candidate_name": "P. Sasikumar (ப.சசிக்குமார்)",
+    "candidate_name_json": null,
+    "age": "45",
+    "party": "Independent (சுயேட்சை வேட்பாளர்)",
+    "constituency": "Gandarvakottai Assembly Constituency (கந்தர்வக்கோட்டை சட்டமன்ற தொகுதி)",
+    "pan": "CCLPS3949B",
+    "phone": "9786505014",
+    "email": "teachersasikumar@gmail.com",
+    "address": "774, Kottaikkadu & Post, Karambakkudi (Taluk), Pudukkottai District (774, கோட்டைக்காடு & அஞ்சல், கறம்பக்குடி (வட்டம்), புதுக்கோட்டை மாவட்டம்)",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "B.Sc. (Mathematics) from Bharathidasan University (Nov 2001), B.Ed. from Annamalai University (May 2007) (B.Sc., (MATHEMATICS) பாரதிதாசன் பல்கலைக் கழகம்- நவம்பர் 2001, B.Ed.,-அண்ணாமலை பல்கலைக் கழகம்- மே 2007)",
+    "profession": "Individual Business (P. Sasikumar) (தனி நபர் வியாபாரம் (ப.சசிக்குமார்))"
+  },
+  "financial_summary": {
+    "total_assets_xls": 2050000.0,
+    "total_liabilities_xls": 738763.0,
+    "net_worth_xls": 1311237.0,
+    "cash_xls": 25000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

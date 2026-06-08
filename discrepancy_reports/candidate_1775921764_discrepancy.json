@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775921764",
+    "candidate_name": "Santha Kumaran. A",
+    "candidate_name_json": null,
+    "age": "44",
+    "party": "Not Specified",
+    "constituency": "065 Kalasapakkam (Assembly Constituency)",
+    "pan": "CQXPS2985P",
+    "phone": "9968034142",
+    "email": "santhakumar98@gmail.com",
+    "address": "24 Nachamalai Village, Yeriyur Madurai, Kovilantur Post, Jamunamarathur Taluk, Tiruvannamalai District - 631 102",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "BA.BL., (2000-2005) Tamil Nadu Dr. Ambedkar Law University",
+    "profession": "Agriculture"
+  },
+  "financial_summary": {
+    "total_assets_xls": 40000.0,
+    "total_liabilities_xls": 0.0,
+    "net_worth_xls": 40000.0,
+    "cash_xls": 40000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Clean",
+    "case_numbers_xls": "NIL",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}

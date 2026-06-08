@@ -1,0 +1,38 @@
+{
+  "candidate_details": {
+    "affidavit_id": "1775908615",
+    "candidate_name": "V.P. Durai",
+    "candidate_name_json": null,
+    "age": "43",
+    "party": "All India Congress",
+    "constituency": "225, Ambasamudram Assembly Constituency",
+    "pan": "ATJPD3565F",
+    "phone": "9443171111",
+    "email": "duraibl@gmail.com",
+    "address": "274, Kanganankulam, Thiruviruthanpulli, Tirunelveli District - 627 414",
+    "combined_from": [
+      "xls"
+    ],
+    "education": "S.S.L.C. - 2000 - St.Johns HSS, Palayamkottai; H.S.C. - 2002 - IIPE LR HSS, Tirunelveli; L.LB. - Dr.RML Law College, Bangalore",
+    "profession": "Self-employment"
+  },
+  "financial_summary": {
+    "total_assets_xls": 207933609.1,
+    "total_liabilities_xls": 23177143.0,
+    "net_worth_xls": 184756466.1,
+    "cash_xls": 200000.0
+  },
+  "asset_details": {
+    "movable": {},
+    "immovable": {}
+  },
+  "liability_details": {},
+  "income_history": [],
+  "criminal_summary": {
+    "criminal_status": "Pending (1 case(s))",
+    "case_numbers_xls": "FIR No.131/2019, C.C.No.162/2022",
+    "criminal_cases_json": {}
+  },
+  "asset_liability_summary": {},
+  "discrepancies": []
+}
