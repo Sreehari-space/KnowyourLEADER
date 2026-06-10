@@ -7,7 +7,7 @@ import React, { useRef } from 'react';
 import { gsap } from 'gsap';
 import { Candidate, FontSizeSetting } from '../types';
 import { TRANSLATIONS } from '../data/translations';
-import { ShieldCheck, GraduationCap, Landmark, ArrowRight, AlertCircle, Briefcase, MapPin, Scale, Eye, Plus } from 'lucide-react';
+import { ShieldCheck, GraduationCap, Landmark, ArrowRight, AlertCircle, Briefcase, MapPin, Scale, Eye, Plus, Trophy } from 'lucide-react';
 
 interface CandidateCardProps {
   key?: React.Key;
@@ -205,12 +205,14 @@ export default function CandidateCard({
 
   const constituencyClean = candidate.constituency.split('(')[0]?.trim() || candidate.constituency;
 
+  const isActualWinner = candidate.isWinner || /\(Winner\)/i.test(candidate.name);
+
   return (
     <div className="h-full w-full">
       {/* ================= UNIFIED RESPONSIVE LAYOUT ================= */}
       <div 
         ref={desktopCardRef}
-        className={`flex group relative bg-white rounded-3xl overflow-hidden border border-neutral-100 shadow-[0_4px_20px_rgba(0,0,0,0.04)] flex-col h-full cursor-pointer ${partyStyle.glow}`}
+        className={`flex group relative bg-white rounded-3xl overflow-hidden border ${isActualWinner ? 'border-amber-400 ring-2 ring-amber-400/50 shadow-[0_4px_20px_rgba(251,191,36,0.3)]' : 'border-neutral-100 shadow-[0_4px_20px_rgba(0,0,0,0.04)]'} flex-col h-full cursor-pointer ${partyStyle.glow}`}
         onClick={() => onOpenDetails(candidate)}
         onMouseEnter={() => handleMouseEnter(desktopCardRef)}
         onMouseLeave={() => handleMouseLeave(desktopCardRef)}
@@ -220,7 +222,7 @@ export default function CandidateCard({
         <div className={`h-28 w-full relative overflow-hidden ${partyStyle.bg}`}>
           {getPartyFlagUrl(candidate.party) ? (
             <div 
-              className="absolute inset-0 z-0 bg-no-repeat bg-center bg-contain transition-transform duration-700 group-hover:scale-110" 
+              className="absolute inset-0 z-0 bg-no-repeat bg-center bg-cover transition-transform duration-700 group-hover:scale-110" 
               style={{ backgroundImage: `url('${getPartyFlagUrl(candidate.party)}')`, opacity: 0.85 }} 
             />
           ) : (
@@ -245,9 +247,9 @@ export default function CandidateCard({
         <div className="px-6 flex justify-between items-end -mt-12 relative z-10">
           <div className={`w-24 h-24 rounded-2xl overflow-hidden border-[4px] border-white bg-white shadow-xl flex items-center justify-center text-3xl font-bold ${partyStyle.text} transform transition-transform duration-500 group-hover:scale-105 group-hover:-rotate-2 ring-1 ring-black/5`}>
             {candidate.photo ? (
-              <img src={candidate.photo.replace('images/', '/candidates/')} alt={candidate.name} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
+              <img src={candidate.photo.replace('images/', '/candidates/')} alt={candidate.name.replace(/\s*\(Winner\)/i, '').trim()} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
             ) : (
-              candidate.name.charAt(0)
+              candidate.name.replace(/\s*\(Winner\)/i, '').trim().charAt(0)
             )}
           </div>
           
@@ -255,6 +257,12 @@ export default function CandidateCard({
             <div className={`px-4 py-1.5 rounded-xl text-xs font-black tracking-widest uppercase backdrop-blur-md ${partyStyle.badge}`}>
               {candidate.party}
             </div>
+            {isActualWinner && (
+              <div className="px-3 py-1 bg-gradient-to-r from-amber-400 to-yellow-500 text-yellow-950 font-black text-[10px] tracking-widest uppercase rounded-xl shadow-md flex items-center space-x-1 border border-yellow-300">
+                <Trophy className="w-3 h-3" />
+                <span>{lang === 'en' ? 'Winner' : 'வெற்றியாளர்'}</span>
+              </div>
+            )}
           </div>
         </div>
 
@@ -268,7 +276,7 @@ export default function CandidateCard({
               </span>
             </div>
             <h3 className={`${nameSize()} font-display font-black text-neutral-900 tracking-tight group-hover:text-neutral-800 transition-colors line-clamp-2`}>
-              {candidate.name}
+              {candidate.name.replace(/\s*\(Winner\)/i, '').trim()}
             </h3>
             <div className="flex items-center space-x-3 mt-2">
               <span className="text-xs font-bold text-neutral-400 bg-neutral-100 px-2 py-0.5 rounded-md">

@@ -8,6 +8,8 @@ import CandidateCard from '../components/CandidateCard';
 import { FORMAT_CURRENCY } from '../data/candidates';
 import { ArrowLeft, Users, Landmark, ShieldAlert, Trophy } from 'lucide-react';
 import { TRANSLATIONS } from '../data/translations';
+import { isPartyMatch } from '../utils/partyMatch';
+import AnimatedCandidateModal from '../components/AnimatedCandidateModal';
 interface PartyDetailsProps {
   candidates: Candidate[];
   lang: LanguageSetting;
@@ -21,6 +23,7 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
   const containerRef = useRef<HTMLElement>(null);
   const headerRef = useRef<HTMLDivElement>(null);
   const gridRef = useRef<HTMLDivElement>(null);
+  const [selectedCandidate, setSelectedCandidate] = React.useState<Candidate | null>(null);
 
   useGSAP(() => {
     const tl = gsap.timeline();
@@ -39,13 +42,13 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
   // Map partyId if we need custom names, otherwise just use it
   const partyKey = partyId?.toUpperCase() || '';
   
-  // Filter candidates for this party
-  const partyCandidates = candidates.filter(c => c.party === partyKey);
+  // Filter candidates for this party using the utility function
+  const partyCandidates = candidates.filter(c => isPartyMatch(c.party, partyKey));
 
   // Compute Stats
   const totalAssets = partyCandidates.reduce((sum, c) => sum + c.netWorth, 0);
   const totalCases = partyCandidates.reduce((sum, c) => sum + c.caseCount, 0);
-  const totalWinners = 0; // Not available in current JSON
+  const totalWinners = partyCandidates.filter(c => c.isWinner || /\(Winner\)/i.test(c.name)).length;
 
   const getGlobalFontSizeClass = () => {
     switch (fontSize) {
@@ -149,7 +152,7 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
                 candidate={cand}
                 lang={lang}
                 fontSize={fontSize}
-                onOpenDetails={() => {}}
+                onOpenDetails={(c) => setSelectedCandidate(c)}
                 onAddToCompare={() => {}}
                 isComparing={false}
               />
@@ -157,6 +160,16 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
           </div>
         )}
       </div>
+      
+      {/* ===== CANDIDATE MODAL ===== */}
+      {selectedCandidate && (
+        <AnimatedCandidateModal
+          candidate={selectedCandidate}
+          lang={lang}
+          fontSize={fontSize}
+          onClose={() => setSelectedCandidate(null)}
+        />
+      )}
     </main>
     </>
   );

@@ -1,0 +1,21 @@
+{
+  "mla_id": "subramanian-s-dmk-tirunelveli-62b55b80",
+  "mla_name": "SUBRAMANIAN.S",
+  "constituency": "TIRUNELVELI  (TIRUNELVELI)",
+  "party": "DMK",
+  "last_updated": "2026-06-10T08:50:46.444Z",
+  "events": [
+    {
+      "id": "cffeeb2d",
+      "event_date": "2026-05-26",
+      "event_type": "LEGAL",
+      "summary_en": "DMK MLA arrested for inspection, sparking controversy over political power and media freedom.",
+      "summary_ta": null,
+      "severity": "CRITICAL",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/when-a-dmk-mla-was-arrested-for-conducting-an-inspection-and-a-journalist-landed-behind-bars/article71026843.ece",
+      "source_domain": "thehindu.com",
+      "confidence": 0.9,
+      "ai_curated": true
+    }
+  ]
+}

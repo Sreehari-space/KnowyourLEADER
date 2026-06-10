@@ -1,0 +1,33 @@
+{
+  "mla_id": "aadhav-arjuna-tamilaga-vettri-kazhagam-villivakkam-58963db3",
+  "mla_name": "AADHAV ARJUNA",
+  "constituency": "VILLIVAKKAM  (CHENNAI)",
+  "party": "Tamilaga Vettri Kazhagam",
+  "last_updated": "2026-06-10T08:49:12.129Z",
+  "events": [
+    {
+      "id": "9c97cfaf",
+      "event_date": "2026-05-20",
+      "event_type": "STATEMENT",
+      "summary_en": "Minister Aadhav Arjuna stated CM C Joseph Vijay wants the cabinet to function like one family.",
+      "summary_ta": null,
+      "severity": "INFO",
+      "source_url": "https://www.aninews.in/news/national/politics/cm-wants-cabinet-to-function-like-one-family-tamil-nadu-minister-aadhav-arjuna20260520120229/",
+      "source_domain": "aninews.in",
+      "confidence": 0.9,
+      "ai_curated": true
+    },
+    {
+      "id": "39d8ac44",
+      "event_date": "2026-05-28",
+      "event_type": "STATEMENT",
+      "summary_en": "Tamil Nadu Minister Aadhav Arjuna claimed 90% of AIADMK leaders will join TVK within a month.",
+      "summary_ta": null,
+      "severity": "INFO",
+      "source_url": "https://www.indiatvnews.com/tamil-nadu/news-90-per-cent-of-aiadmk-leaders-to-join-tvk-within-a-month-claims-tamil-nadu-minister-2026-05-29-1042896",
+      "source_domain": "indiatvnews.com",
+      "confidence": 0.9,
+      "ai_curated": true
+    }
+  ]
+}

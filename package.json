@@ -7,10 +7,12 @@
     "dev": "vite --port=3001 --host=0.0.0.0",
     "build": "node scripts/generate_sitemap.js && vite build",
     "preview": "vite preview",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
+    "pipeline": "node --loader ts-node/esm scripts/runPipeline.ts"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
+    "dotenv": "^17.4.2",
     "gsap": "^3.15.0",
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",
@@ -18,14 +20,16 @@
     "react-dom": "^19.0.1",
     "react-helmet-async": "^3.0.0",
     "react-router-dom": "^7.16.0",
-    "recharts": "^3.8.1"
+    "recharts": "^3.8.1",
+    "rss-parser": "^3.13.0"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.14",
-    "@types/node": "^22.14.0",
+    "@types/node": "^22.19.20",
     "@vitejs/plugin-react": "^5.0.4",
     "autoprefixer": "^10.4.21",
     "tailwindcss": "^4.1.14",
+    "ts-node": "^10.9.2",
     "typescript": "~5.8.2",
     "vite": "^6.2.3"
   }

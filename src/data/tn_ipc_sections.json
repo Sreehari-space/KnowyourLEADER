@@ -1,0 +1,357 @@
+{
+  "ipc_sections_reference": {
+    "description": "Reference index of IPC sections cited across all candidate affidavits",
+    "sections": [
+      {
+        "section": "IPC 143",
+        "title": "Unlawful Assembly",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Being a member of an unlawful assembly of 5 or more persons with a common object to commit an offence.",
+        "max_punishment": "6 months imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 144",
+        "title": "Joining Unlawful Assembly Armed with Deadly Weapon",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Joining or continuing in unlawful assembly while armed with any deadly weapon.",
+        "max_punishment": "2 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 147",
+        "title": "Rioting",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Committing rioting, i.e., use of force or violence by an unlawful assembly.",
+        "max_punishment": "2 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 148",
+        "title": "Rioting Armed with Deadly Weapon",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Rioting while armed with a deadly weapon or anything that can be used as a weapon.",
+        "max_punishment": "3 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 153A",
+        "title": "Promoting Enmity Between Groups",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Promoting disharmony or feelings of enmity, hatred or ill-will between different religious, racial or linguistic groups.",
+        "max_punishment": "3 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 188",
+        "title": "Disobedience to Order of Public Servant",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Disobeying an order promulgated by a public servant causing obstruction or annoyance.",
+        "max_punishment": "1 month imprisonment or fine of Rs.200 or both"
+      },
+      {
+        "section": "IPC 269",
+        "title": "Negligent Act Likely to Spread Infection of Disease",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Negligently doing any act known to be likely to spread infection of any disease dangerous to life.",
+        "max_punishment": "6 months imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 294",
+        "title": "Obscene Acts and Songs",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Committing any obscene act in a public place causing annoyance to others.",
+        "max_punishment": "3 months imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 302",
+        "title": "Punishment for Murder",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Committing murder — the intentional killing of a person.",
+        "max_punishment": "Death or life imprisonment and fine"
+      },
+      {
+        "section": "IPC 304",
+        "title": "Culpable Homicide Not Amounting to Murder",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Causing death by doing an act with the intention of causing death or bodily injury likely to cause death.",
+        "max_punishment": "Life imprisonment or 10 years imprisonment and fine"
+      },
+      {
+        "section": "IPC 307",
+        "title": "Attempt to Murder",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Doing any act with intention or knowledge that if the act caused death, it would amount to murder.",
+        "max_punishment": "10 years imprisonment and fine; life imprisonment if hurt caused"
+      },
+      {
+        "section": "IPC 323",
+        "title": "Voluntarily Causing Hurt",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Voluntarily causing hurt to another person not amounting to grievous hurt.",
+        "max_punishment": "1 year imprisonment or fine of Rs.1,000 or both"
+      },
+      {
+        "section": "IPC 324",
+        "title": "Voluntarily Causing Hurt by Dangerous Weapons",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Voluntarily causing hurt using any instrument for shooting, stabbing or cutting or by fire or heated substance.",
+        "max_punishment": "3 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 325",
+        "title": "Voluntarily Causing Grievous Hurt",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Voluntarily causing grievous hurt to another person.",
+        "max_punishment": "7 years imprisonment and fine"
+      },
+      {
+        "section": "IPC 341",
+        "title": "Punishment for Wrongful Restraint",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Voluntarily obstructing a person to prevent them from proceeding in any direction they have a right to go.",
+        "max_punishment": "1 month imprisonment or fine of Rs.500 or both"
+      },
+      {
+        "section": "IPC 353",
+        "title": "Assault or Criminal Force to Deter Public Servant",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Assaulting or using criminal force to any person being a public servant in discharge of his duty.",
+        "max_punishment": "2 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 354",
+        "title": "Assault or Criminal Force on Woman",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Assaulting or using criminal force on any woman intending to outrage her modesty.",
+        "max_punishment": "1 to 5 years imprisonment and fine"
+      },
+      {
+        "section": "IPC 376",
+        "title": "Rape",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Sexual intercourse with a woman against her will or without consent under any of the stipulated circumstances.",
+        "max_punishment": "10 years to life imprisonment and fine"
+      },
+      {
+        "section": "IPC 379",
+        "title": "Theft",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Committing theft — moving of property with dishonest intention.",
+        "max_punishment": "3 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 384",
+        "title": "Extortion",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Putting a person in fear of injury to dishonestly induce delivery of property or valuable security.",
+        "max_punishment": "3 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 392",
+        "title": "Robbery",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Committing theft or extortion accompanied by force or threat of force.",
+        "max_punishment": "10 years imprisonment and fine; 14 years on highway or night"
+      },
+      {
+        "section": "IPC 395",
+        "title": "Dacoity",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Committing dacoity — robbery by five or more persons.",
+        "max_punishment": "Life imprisonment or 10 years rigorous imprisonment and fine"
+      },
+      {
+        "section": "IPC 406",
+        "title": "Criminal Breach of Trust",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Committing criminal breach of trust — dishonest misappropriation of property entrusted.",
+        "max_punishment": "3 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 417",
+        "title": "Cheating",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Cheating any person by deception, inducing them to deliver property or cause harm.",
+        "max_punishment": "1 year imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 420",
+        "title": "Cheating and Dishonestly Inducing Delivery of Property",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Cheating and thereby dishonestly inducing the person deceived to deliver property or to alter or destroy any signed document.",
+        "max_punishment": "7 years imprisonment and fine"
+      },
+      {
+        "section": "IPC 427",
+        "title": "Mischief Causing Damage",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Committing mischief and causing loss or damage to the amount of Rs.50 or more.",
+        "max_punishment": "2 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 436",
+        "title": "Mischief by Fire or Explosive Substance",
+        "bailable": false,
+        "cognizable": true,
+        "description": "Committing mischief by fire or explosive substance with intent to destroy a house, place of worship or other property.",
+        "max_punishment": "Life imprisonment or 10 years imprisonment and fine"
+      },
+      {
+        "section": "IPC 447",
+        "title": "Criminal Trespass",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Entering or remaining on property in possession of another with intent to commit an offence or to intimidate, insult or annoy.",
+        "max_punishment": "3 months imprisonment or fine of Rs.500 or both"
+      },
+      {
+        "section": "IPC 465",
+        "title": "Forgery",
+        "bailable": false,
+        "cognizable": false,
+        "description": "Making a false document or electronic record with intent to cause damage or injury to the public or any person.",
+        "max_punishment": "2 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 471",
+        "title": "Using Forged Document as Genuine",
+        "bailable": false,
+        "cognizable": false,
+        "description": "Fraudulently or dishonestly using as genuine any document known to be forged.",
+        "max_punishment": "2 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 499",
+        "title": "Defamation",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Making or publishing any imputation concerning a person with intent to harm reputation.",
+        "max_punishment": "2 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 500",
+        "title": "Punishment for Defamation",
+        "bailable": true,
+        "cognizable": false,
+        "description": "Defaming any person through spoken, written, or published means.",
+        "max_punishment": "2 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 505",
+        "title": "Statements Conducive to Public Mischief",
+        "bailable": false,
+        "cognizable": false,
+        "description": "Making, publishing or circulating statements likely to cause public mischief or incite to offence against the State.",
+        "max_punishment": "3 years imprisonment or fine or both"
+      },
+      {
+        "section": "IPC 506",
+        "title": "Criminal Intimidation",
+        "bailable": false,
+        "cognizable": false,
+        "description": "Threatening another person with injury to person, reputation or property with intent to cause alarm.",
+        "max_punishment": "2 years imprisonment or fine or both; 7 years if threat of death/grievous hurt"
+      },
+      {
+        "section": "IPC 509",
+        "title": "Word, Gesture Intended to Insult Modesty of a Woman",
+        "bailable": true,
+        "cognizable": true,
+        "description": "Uttering any word, making any sound or gesture intending that such word or sound is heard or gesture is seen by a woman.",
+        "max_punishment": "3 years imprisonment or fine or both"
+      }
+    ]
+  },
+  "special_acts_reference": {
+    "description": "Non-IPC special acts cited in candidate affidavits",
+    "acts": [
+      {
+        "act": "Arms Act — Section 25",
+        "description": "Punishment for contravening provisions regarding acquisition, possession, or carrying of arms or ammunition.",
+        "max_punishment": "3 years imprisonment or fine or both; 7 years in aggravated cases"
+      },
+      {
+        "act": "Arms Act — Section 27",
+        "description": "Punishment for use of arms or ammunition in contravention of the Act.",
+        "max_punishment": "3 years to life imprisonment"
+      },
+      {
+        "act": "Prevention of Corruption Act — Section 7",
+        "description": "Public servant taking gratification other than legal remuneration in respect of an official act.",
+        "max_punishment": "6 months to 5 years imprisonment and fine"
+      },
+      {
+        "act": "Prevention of Corruption Act — Section 13",
+        "description": "Criminal misconduct by a public servant — possession of disproportionate assets.",
+        "max_punishment": "1 to 7 years imprisonment and fine"
+      },
+      {
+        "act": "TNDA (Tamil Nadu District Authorities Act) — Section 3",
+        "description": "Detention of persons threatening public order or maintenance of supplies essential to the community.",
+        "max_punishment": "Administrative detention without bail"
+      },
+      {
+        "act": "Goondas Act — Section 3",
+        "description": "Detention of goondas, bootleggers, drug offenders, etc., to prevent them from acting in a manner prejudicial to public order.",
+        "max_punishment": "Administrative detention without bail"
+      },
+      {
+        "act": "Narcotic Drugs and Psychotropic Substances (NDPS) Act — Section 20",
+        "description": "Punishment for contravention in relation to cannabis plant and cannabis.",
+        "max_punishment": "6 months to 20 years rigorous imprisonment and fine depending on quantity"
+      },
+      {
+        "act": "NDPS Act — Section 21",
+        "description": "Punishment for contravention in relation to manufactured drugs and preparations.",
+        "max_punishment": "1 to 20 years rigorous imprisonment and fine depending on quantity"
+      },
+      {
+        "act": "Representation of People Act (RPA) — Section 125",
+        "description": "Promoting enmity between classes in connection with elections.",
+        "max_punishment": "3 years imprisonment or fine or both"
+      },
+      {
+        "act": "Representation of People Act (RPA) — Section 135",
+        "description": "Removal of ballot papers from polling stations.",
+        "max_punishment": "1 year imprisonment or fine or both"
+      },
+      {
+        "act": "Explosives Act — Section 5",
+        "description": "Unlawful manufacture, possession, use, sale, transport or import of explosives.",
+        "max_punishment": "14 years imprisonment"
+      },
+      {
+        "act": "IT Act — Section 66",
+        "description": "Computer related offences — dishonestly or fraudulently doing any act.",
+        "max_punishment": "3 years imprisonment and fine up to Rs.5 lakh"
+      },
+      {
+        "act": "SC/ST (Prevention of Atrocities) Act — Section 3",
+        "description": "Punishment for offences of atrocities committed against members of Scheduled Castes and Scheduled Tribes.",
+        "max_punishment": "6 months to life imprisonment"
+      }
+    ]
+  }
+}

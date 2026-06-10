@@ -113,8 +113,8 @@ function getPartyFill(party: string): string {
   if (p === 'DMDK' || p.includes('DESIYA MURPOKKU')) return '#0E7490';
   // BSP
   if (p === 'BSP' || p.includes('BAHUJAN SAMAJ')) return '#1D4ED8';
-  // MNM (Makkal Needhi Maiam)
-  if (p === 'MNM' || p.includes('MAKKAL NEEDHI')) return '#EA580C';
+  // IUML (Indian Union Muslim League)
+  if (p === 'IUML' || p.includes('MUSLIM LEAGUE')) return '#16A34A'; // Green
   // AMMK (Amma Makkal Munnettra Kazagam)
   if (p.includes('AMMA MAKKAL')) return '#0D9488';
   // IND (Independents)

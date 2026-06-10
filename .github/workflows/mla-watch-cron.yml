@@ -1,0 +1,42 @@
+name: MLA Watch Daily Pipeline
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight (UTC)
+  workflow_dispatch: # Allows manual trigger from the GitHub UI
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit the updated JSON files back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run MLA Watch Pipeline
+        env:
+          GEMINI_KEY_1: ${{ secrets.GEMINI_KEY_1 }}
+          GEMINI_KEY_2: ${{ secrets.GEMINI_KEY_2 }}
+          GEMINI_KEY_3: ${{ secrets.GEMINI_KEY_3 }}
+          GEMINI_KEY_4: ${{ secrets.GEMINI_KEY_4 }}
+          GEMINI_KEY_5: ${{ secrets.GEMINI_KEY_5 }}
+        run: npm run pipeline
+
+      - name: Commit and push updated JSON data
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add public/data/mla-watch/*.json
+          git commit -m "Automated update: MLA Watch timelines [skip ci]" || exit 0
+          git push

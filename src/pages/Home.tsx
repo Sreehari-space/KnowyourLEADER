@@ -170,7 +170,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
 
   // Hero figures data with party mapping
   const heroFigures = [
-    { key: 'Kadaar', src: '/KADAAR.png', alt: 'Kadaar', party: 'MNM', zBase: 10, offset: 'left-0 sm:left-[45px] md:left-[60px]', opacityBase: 0.55 },
+    { key: 'Kadaar', src: '/KADAAR.png', alt: 'Kadaar', party: 'IUML', zBase: 10, offset: 'left-0 sm:left-[45px] md:left-[60px]', opacityBase: 0.55 },
     { key: 'Rahul', src: '/rahul.png', alt: 'Rahul', party: 'INC', zBase: 10, offset: 'left-0 sm:left-[30px] md:left-[40px]', opacityBase: 0.55 },
     { key: 'Edappadi', src: '/edappadi.png', alt: 'Edappadi', party: 'AIADMK', zBase: 20, offset: 'left-0 sm:left-[15px] md:left-[20px]', opacityBase: 0.7 },
     { key: 'Vijay', src: '/vijay.png', alt: 'Vijay', party: 'TVK', zBase: 30, offset: '', opacityBase: 0.85 },

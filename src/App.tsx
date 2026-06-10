@@ -16,6 +16,7 @@ const Affidavits = React.lazy(() => import('./pages/Affidavits'));
 const PartyDetails = React.lazy(() => import('./pages/PartyDetails'));
 const Dashboard = React.lazy(() => import('./pages/Dashboard'));
 const Compare = React.lazy(() => import('./pages/Compare'));
+const MlaWatch = React.lazy(() => import('./pages/MlaWatch'));
 
 export default function App() {
   // Global State
@@ -123,6 +124,26 @@ export default function App() {
                 path="/party/:partyId" 
                 element={
                   <PartyDetails 
+                    candidates={candidates} 
+                    lang={lang} 
+                    fontSize={fontSize} 
+                  />
+                } 
+              />
+              <Route 
+                path="/mla-watch" 
+                element={
+                  <MlaWatch 
+                    candidates={candidates} 
+                    lang={lang} 
+                    fontSize={fontSize} 
+                  />
+                } 
+              />
+              <Route 
+                path="/mla-watch/:id" 
+                element={
+                  <MlaWatch 
                     candidates={candidates} 
                     lang={lang} 
                     fontSize={fontSize} 
