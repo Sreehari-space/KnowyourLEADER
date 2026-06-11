@@ -122,18 +122,18 @@ export default function Header({
       <div className="max-w-7xl mx-auto px-4 md:px-8">
         <div className="flex items-center justify-between h-14 sm:h-16">
           {/* Left: Logo / Brand */}
-          <div className="flex items-center space-x-3 shrink-0">
+          <Link to="/" className="flex items-center space-x-3 shrink-0 group cursor-pointer">
             {/* Brand Mark */}
-            <img src="/logo.png" alt="KnowyourLeader Logo" className="w-8 h-8 object-contain rounded-xl shadow-sm bg-black p-1" />
-            <div className="hidden sm:block">
-              <span className="font-display font-bold text-neutral-900 text-[15px] tracking-tight leading-none">
+            <img src="/logo.png" alt="KnowyourLeader Logo" className="w-8 h-8 object-contain rounded-xl shadow-sm bg-black p-1 transition-transform group-hover:scale-105" />
+            <div className="hidden sm:flex sm:flex-col justify-center">
+              <span className="font-display font-bold text-neutral-900 text-[15px] tracking-tight leading-none mb-[1px]">
                 KnowyourLeader
               </span>
-              <span className="block text-[9px] font-mono text-neutral-400 tracking-wider uppercase font-bold leading-tight mt-0.5">
-                {lang === 'en' ? 'Tamil Nadu · Transparency Portal' : 'தமிழ்நாடு · வெளிப்படைத்தன்மை தளம்'}
+              <span className="block text-[9px] font-mono text-neutral-400 tracking-wider uppercase font-bold leading-none">
+                {lang === 'en' ? 'Transparency Portal' : 'வெளிப்படைத்தன்மை தளம்'}
               </span>
             </div>
-          </div>
+          </Link>
 
           {/* Center: Desktop Navigation Tabs */}
           <nav className="hidden md:flex items-center space-x-1" id="navigation-anchor">

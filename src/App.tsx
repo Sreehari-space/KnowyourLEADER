@@ -9,6 +9,7 @@ import { Candidate, FontSizeSetting, LanguageSetting } from './types';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Disclaimer from './components/Disclaimer';
+import ScrollToTop from './components/ScrollToTop';
 import { Loader2 } from 'lucide-react';
 
 const Home = React.lazy(() => import('./pages/Home'));
@@ -66,6 +67,7 @@ export default function App() {
 
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <div className={`font-sans tracking-normal antialiased bg-[#FCFBF9] text-neutral-800 selection:bg-indigo-500 selection:text-white ${getGlobalFontSizeClass()}`} id="main-root-workspace">
         <Header
           lang={lang}

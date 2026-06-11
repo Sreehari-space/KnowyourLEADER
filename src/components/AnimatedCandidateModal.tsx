@@ -8,7 +8,7 @@ import { gsap } from 'gsap';
 import { useGSAP } from '@gsap/react';
 
 gsap.registerPlugin(useGSAP);
-import { Candidate, FontSizeSetting } from '../types';
+import { Candidate, FontSizeSetting, AssetOwnership } from '../types';
 import { TRANSLATIONS } from '../data/translations';
 import { getIpcDescription, getIpcDetails } from '../data/criminalCodes';
 import { X, ShieldCheck, ShieldAlert, FileText, Sparkles, Printer, ArrowRight, Share2, Check, AlertTriangle, Send, Info, User, Landmark, Scale, Briefcase, GraduationCap, Building, Map } from 'lucide-react';
@@ -65,6 +65,130 @@ const ExpandableText = ({ text, clamp = 2, className = '', lang = 'en' }: { text
           </svg>
         </button>
       )}
+    </div>
+  );
+};
+
+const ImmovableSubCategory = ({ title, icon, data, lang, formatter }: { title: string, icon: string, data?: AssetOwnership, lang: 'en'|'ta', formatter: (val: string) => React.ReactNode }) => {
+  if (!data || (!data.self && !data.spouse && !data.huf && (!data.dependents || data.dependents.every(d => !d || d === 'Nil')))) return null;
+  
+  const hasSelf = data.self && data.self !== 'Nil';
+  const hasSpouse = data.spouse && data.spouse !== 'Nil';
+  const hasHuf = data.huf && data.huf !== 'Nil';
+  const dependents = data.dependents ? data.dependents.filter(d => d && d !== 'Nil') : [];
+  
+  if (!hasSelf && !hasSpouse && !hasHuf && dependents.length === 0) return null;
+
+  return (
+    <div className="bg-white p-4 rounded-xl border border-teal-100 shadow-sm mb-3">
+      <span className="text-[10px] font-bold text-teal-600 uppercase tracking-widest flex items-center mb-3">
+        <span className="mr-1.5">{icon}</span> {title}
+      </span>
+      <div className="space-y-3">
+        {hasSelf && (
+          <div>
+            <span className="text-[9px] font-bold bg-teal-50 text-teal-700 px-1.5 py-0.5 rounded uppercase tracking-wider mr-2">{lang === 'en' ? 'Self' : 'சுய'}</span>
+            <div className="text-sm text-teal-900 font-medium leading-relaxed mt-1.5">{formatter(data.self)}</div>
+          </div>
+        )}
+        {hasSpouse && (
+          <div className="mt-3 pt-3 border-t border-teal-50">
+            <span className="text-[9px] font-bold bg-pink-50 text-pink-700 px-1.5 py-0.5 rounded uppercase tracking-wider mr-2">{lang === 'en' ? 'Spouse' : 'வாழ்க்கை துணை'}</span>
+            <div className="text-sm text-teal-900 font-medium leading-relaxed mt-1.5">{formatter(data.spouse)}</div>
+          </div>
+        )}
+        {hasHuf && (
+          <div className="mt-3 pt-3 border-t border-teal-50">
+            <span className="text-[9px] font-bold bg-amber-50 text-amber-700 px-1.5 py-0.5 rounded uppercase tracking-wider mr-2">{lang === 'en' ? 'HUF' : 'இந்து கூட்டுக் குடும்பம்'}</span>
+            <div className="text-sm text-teal-900 font-medium leading-relaxed mt-1.5">{formatter(data.huf)}</div>
+          </div>
+        )}
+        {dependents.length > 0 && (
+          <div className="mt-3 pt-3 border-t border-teal-50">
+            <span className="text-[9px] font-bold bg-indigo-50 text-indigo-700 px-1.5 py-0.5 rounded uppercase tracking-wider mr-2">{lang === 'en' ? 'Dependents' : 'சார்ந்தவர்கள்'}</span>
+            <div className="mt-1.5 space-y-2">
+              {dependents.map((dep, idx) => (
+                <div key={idx} className="flex">
+                  <span className="text-xs text-teal-500 font-bold mr-1">{idx + 1}.</span>
+                  <div className="text-sm text-teal-900 font-medium leading-relaxed">{formatter(dep)}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+};
+
+const MovableAssetCard = ({ title, icon, data, lang, formatter }: { title: string, icon: React.ReactNode, data?: AssetOwnership, lang: 'en'|'ta', formatter?: (val: string) => React.ReactNode }) => {
+  const format = (v: string) => formatter ? formatter(v) : v;
+  
+  if (!data || (!data.self && !data.spouse && !data.huf && (!data.dependents || data.dependents.every(d => !d || d === 'Nil')))) {
+    return (
+      <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
+        <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
+          {icon} <span>{title}</span>
+        </p>
+        <p className="text-sm font-semibold text-slate-800 leading-snug">{lang === 'en' ? 'Nil' : 'ஏதுமில்லை'}</p>
+      </div>
+    );
+  }
+
+  const hasSelf = data.self && data.self !== 'Nil';
+  const hasSpouse = data.spouse && data.spouse !== 'Nil';
+  const hasHuf = data.huf && data.huf !== 'Nil';
+  const dependents = data.dependents ? data.dependents.filter(d => d && d !== 'Nil') : [];
+
+  if (!hasSelf && !hasSpouse && !hasHuf && dependents.length === 0) {
+    return (
+      <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
+        <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
+          {icon} <span>{title}</span>
+        </p>
+        <p className="text-sm font-semibold text-slate-800 leading-snug">{lang === 'en' ? 'Nil' : 'ஏதுமில்லை'}</p>
+      </div>
+    );
+  }
+
+  return (
+    <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
+      <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4 flex items-center space-x-1.5">
+        {icon} <span>{title}</span>
+      </p>
+      <div className="space-y-4">
+        {hasSelf && (
+          <div>
+            <span className="text-[9px] font-bold bg-indigo-50 text-indigo-600 px-1.5 py-0.5 rounded uppercase tracking-wider mb-1.5 inline-block">{lang === 'en' ? 'Self' : 'சுய'}</span>
+            <div className="text-sm font-semibold text-slate-800 leading-snug">{format(data.self)}</div>
+          </div>
+        )}
+        {hasSpouse && (
+          <div className={hasSelf ? "pt-3 border-t border-slate-100" : ""}>
+            <span className="text-[9px] font-bold bg-pink-50 text-pink-600 px-1.5 py-0.5 rounded uppercase tracking-wider mb-1.5 inline-block">{lang === 'en' ? 'Spouse' : 'வாழ்க்கை துணை'}</span>
+            <div className="text-sm font-semibold text-slate-800 leading-snug">{format(data.spouse)}</div>
+          </div>
+        )}
+        {hasHuf && (
+          <div className={(hasSelf || hasSpouse) ? "pt-3 border-t border-slate-100" : ""}>
+            <span className="text-[9px] font-bold bg-amber-50 text-amber-600 px-1.5 py-0.5 rounded uppercase tracking-wider mb-1.5 inline-block">{lang === 'en' ? 'HUF' : 'இந்து கூட்டுக் குடும்பம்'}</span>
+            <div className="text-sm font-semibold text-slate-800 leading-snug">{format(data.huf)}</div>
+          </div>
+        )}
+        {dependents.length > 0 && (
+          <div className={(hasSelf || hasSpouse || hasHuf) ? "pt-3 border-t border-slate-100" : ""}>
+            <span className="text-[9px] font-bold bg-teal-50 text-teal-600 px-1.5 py-0.5 rounded uppercase tracking-wider mb-1.5 inline-block">{lang === 'en' ? 'Dependents' : 'சார்ந்தவர்கள்'}</span>
+            <div className="space-y-2 mt-1">
+              {dependents.map((dep, idx) => (
+                <div key={idx} className="flex space-x-2">
+                  <span className="text-xs text-slate-400 font-bold">{idx + 1}.</span>
+                  <div className="text-sm font-semibold text-slate-800 leading-snug">{format(dep)}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
     </div>
   );
 };
@@ -561,12 +685,13 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
 
                 {/* Additional Asset Details */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
-                    <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
-                      <span>🚗</span> <span>{lang === 'en' ? 'Motor Vehicles' : 'மோட்டார் வாகனங்கள்'}</span>
-                    </p>
-                    <p className="text-sm font-semibold text-slate-800 leading-snug">{formatVehicleData(candidate.vehicles)}</p>
-                  </div>
+                  <MovableAssetCard 
+                    title={lang === 'en' ? 'Motor Vehicles' : 'மோட்டார் வாகனங்கள்'} 
+                    icon={<span>🚗</span>} 
+                    data={candidate.vehiclesData} 
+                    lang={lang} 
+                    formatter={formatVehicleData} 
+                  />
                   {/* Immovable Assets (Land & Properties) */}
                   <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
                     <div className="flex items-start justify-between">
@@ -577,54 +702,12 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
                         </h4>
                         
                         {candidate.immovableAssetsDetails ? (
-                          <div className="space-y-3 max-h-80 overflow-y-auto pr-2 custom-scrollbar">
-                            {candidate.immovableAssetsDetails.agricultural && candidate.immovableAssetsDetails.agricultural !== 'Nil' && (
-                              <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
-                                <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
-                                  🌾 {lang === 'en' ? 'Agricultural Land' : '\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0ba8\u0bbf\u0bb2\u0bae\u0bcd'}
-                                </span>
-                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{formatLandData(candidate.immovableAssetsDetails.agricultural)}</p>
-                              </div>
-                            )}
-                            {candidate.immovableAssetsDetails.nonAgricultural && candidate.immovableAssetsDetails.nonAgricultural !== 'Nil' && (
-                              <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
-                                <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
-                                  🏗️ {lang === 'en' ? 'Non-Agricultural Land' : '\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bae\u0bcd'}
-                                </span>
-                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{formatLandData(candidate.immovableAssetsDetails.nonAgricultural)}</p>
-                              </div>
-                            )}
-                            {candidate.immovableAssetsDetails.commercial && candidate.immovableAssetsDetails.commercial !== 'Nil' && (
-                              <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
-                                <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
-                                  🏢 {lang === 'en' ? 'Commercial Buildings' : '\u0bb5\u0ba3\u0bbf\u0b95 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd'}
-                                </span>
-                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{formatLandData(candidate.immovableAssetsDetails.commercial)}</p>
-                              </div>
-                            )}
-                            {candidate.immovableAssetsDetails.residential && candidate.immovableAssetsDetails.residential !== 'Nil' && (
-                              <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
-                                <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
-                                  🏠 {lang === 'en' ? 'Residential Buildings' : '\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd'}
-                                </span>
-                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{formatLandData(candidate.immovableAssetsDetails.residential)}</p>
-                              </div>
-                            )}
-                            {candidate.immovableAssetsDetails.others && candidate.immovableAssetsDetails.others !== 'Nil' && (
-                              <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
-                                <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
-                                  📦 {lang === 'en' ? 'Other Assets' : '\u0baa\u0bbf\u0bb1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd'}
-                                </span>
-                                <p className="text-sm text-teal-800 font-medium leading-relaxed">{formatLandData(candidate.immovableAssetsDetails.others)}</p>
-                              </div>
-                            )}
-                            {(!candidate.immovableAssetsDetails.agricultural || candidate.immovableAssetsDetails.agricultural === 'Nil') &&
-                             (!candidate.immovableAssetsDetails.nonAgricultural || candidate.immovableAssetsDetails.nonAgricultural === 'Nil') &&
-                             (!candidate.immovableAssetsDetails.commercial || candidate.immovableAssetsDetails.commercial === 'Nil') &&
-                             (!candidate.immovableAssetsDetails.residential || candidate.immovableAssetsDetails.residential === 'Nil') &&
-                             (!candidate.immovableAssetsDetails.others || candidate.immovableAssetsDetails.others === 'Nil') && (
-                              <p className="text-sm text-teal-700 italic">{lang === 'en' ? 'Nil' : '\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8'}</p>
-                            )}
+                          <div className="max-h-96 overflow-y-auto pr-2 custom-scrollbar">
+                            <ImmovableSubCategory title={lang === 'en' ? 'Agricultural Land' : '\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0ba8\u0bbf\u0bb2\u0bae\u0bcd'} icon="🌾" data={candidate.immovableAssetsDetails.agricultural} lang={lang} formatter={formatLandData} />
+                            <ImmovableSubCategory title={lang === 'en' ? 'Non-Agricultural Land' : '\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bae\u0bcd'} icon="🏗️" data={candidate.immovableAssetsDetails.nonAgricultural} lang={lang} formatter={formatLandData} />
+                            <ImmovableSubCategory title={lang === 'en' ? 'Commercial Buildings' : '\u0bb5\u0ba3\u0bbf\u0b95 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd'} icon="🏢" data={candidate.immovableAssetsDetails.commercial} lang={lang} formatter={formatLandData} />
+                            <ImmovableSubCategory title={lang === 'en' ? 'Residential Buildings' : '\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd'} icon="🏠" data={candidate.immovableAssetsDetails.residential} lang={lang} formatter={formatLandData} />
+                            <ImmovableSubCategory title={lang === 'en' ? 'Other Assets' : '\u0baa\u0bbf\u0bb1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd'} icon="📦" data={candidate.immovableAssetsDetails.others} lang={lang} formatter={formatLandData} />
                           </div>
                         ) : (
                           <p className="text-sm text-teal-700 mt-2 leading-relaxed">
@@ -636,13 +719,13 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
                   </div>
                   
                   {/* Jewelry */}
-                  <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs md:col-span-2">
-                    <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
-                      <span>💎</span> <span>{lang === 'en' ? 'Jewelry & Gold' : '\u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bcd'}</span>
-                    </p>
-                    <p className="text-sm font-semibold text-slate-800 leading-snug">
-                      {candidate.jewelry && candidate.jewelry !== 'Nil' ? candidate.jewelry : (lang === 'en' ? 'Nil' : 'ஏதுமில்லை')}
-                    </p>
+                  <div className="md:col-span-2">
+                    <MovableAssetCard 
+                      title={lang === 'en' ? 'Jewelry & Gold' : '\u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bcd'} 
+                      icon={<span>💎</span>} 
+                      data={candidate.jewelryData} 
+                      lang={lang} 
+                    />
                   </div>
                 </div>
 

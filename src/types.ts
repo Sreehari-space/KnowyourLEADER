@@ -21,12 +21,19 @@ export interface PendingCase {
   other_details: string;
 }
 
+export interface AssetOwnership {
+  self: string;
+  spouse: string;
+  huf: string;
+  dependents: string[];
+}
+
 export interface ImmovableAssetsDetails {
-  agricultural: string;
-  nonAgricultural: string;
-  commercial: string;
-  residential: string;
-  others: string;
+  agricultural: AssetOwnership;
+  nonAgricultural: AssetOwnership;
+  commercial: AssetOwnership;
+  residential: AssetOwnership;
+  others: AssetOwnership;
 }
 
 export interface Candidate {
@@ -63,6 +70,8 @@ export interface Candidate {
   vehicles?: string;
   land?: string;
   jewelry?: string;
+  vehiclesData?: AssetOwnership;
+  jewelryData?: AssetOwnership;
   immovableAssetsDetails?: ImmovableAssetsDetails;
   pendingCasesDetails?: PendingCase[];
   taxYearsSpouse?: TaxYear[];

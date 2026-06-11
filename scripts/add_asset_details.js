@@ -9,7 +9,7 @@ const ROOT_DIR = path.resolve(__dirname, '..');
 const MERGED_JSON_PATH = path.join(ROOT_DIR, 'src', 'data', 'all_candidates.json');
 const PUBLIC_DIR = path.join(ROOT_DIR, 'public');
 const OUTPUT_JSON_PATH = path.join(PUBLIC_DIR, 'merged_candidates.json');
-const RAW_JSON_DIR = path.join(ROOT_DIR, 'source', 'candidates_json_data');
+const RAW_JSON_DIR = 'd:\\\\source\\\\candidates_json_data';
 
 console.log('Loading existing merged candidates...');
 const candidates = JSON.parse(fs.readFileSync(MERGED_JSON_PATH, 'utf-8'));
@@ -21,18 +21,39 @@ const cleanValue = (val) => {
   return val.trim();
 };
 
+const getOwnershipData = (categoryObj) => {
+  if (!categoryObj) return { self: '', spouse: '', huf: '', dependents: [] };
+  const getClean = (key) => cleanValue(categoryObj[key]);
+  
+  const self = getClean('self');
+  const spouse = getClean('spouse');
+  const huf = getClean('huf');
+  const dep1 = getClean('dependent1');
+  const dep2 = getClean('dependent2');
+  const dep3 = getClean('dependent3');
+  
+  const dependents = [];
+  if (dep1) dependents.push(dep1);
+  if (dep2) dependents.push(dep2);
+  if (dep3) dependents.push(dep3);
+  
+  return { self, spouse, huf, dependents };
+};
+
 console.log(`Processing ${candidates.length} candidates...`);
 
 const updatedCandidates = candidates.map(c => {
   let vehicles = '';
   let jewelry = '';
   let land = '';
+  let vehiclesData = { self: '', spouse: '', huf: '', dependents: [] };
+  let jewelryData = { self: '', spouse: '', huf: '', dependents: [] };
   let immovableAssetsDetails = {
-    agricultural: '',
-    nonAgricultural: '',
-    commercial: '',
-    residential: '',
-    others: ''
+    agricultural: { self: '', spouse: '', huf: '', dependents: [] },
+    nonAgricultural: { self: '', spouse: '', huf: '', dependents: [] },
+    commercial: { self: '', spouse: '', huf: '', dependents: [] },
+    residential: { self: '', spouse: '', huf: '', dependents: [] },
+    others: { self: '', spouse: '', huf: '', dependents: [] }
   };
   let pendingCasesDetails = [];
 
@@ -44,12 +65,14 @@ const updatedCandidates = candidates.map(c => {
         
         // Extract vehicles
         if (rawData.movable_assets && rawData.movable_assets["Motor Vehicles (details of make, etc.)"]) {
-          vehicles = cleanValue(rawData.movable_assets["Motor Vehicles (details of make, etc.)"].self);
+          vehiclesData = getOwnershipData(rawData.movable_assets["Motor Vehicles (details of make, etc.)"]);
+          vehicles = vehiclesData.self;
         }
 
         // Extract jewelry
         if (rawData.movable_assets && rawData.movable_assets["Jewellery (give details weight value)"]) {
-          let rawJewelry = cleanValue(rawData.movable_assets["Jewellery (give details weight value)"].self);
+          jewelryData = getOwnershipData(rawData.movable_assets["Jewellery (give details weight value)"]);
+          let rawJewelry = jewelryData.self;
           if (rawJewelry) {
             let cleaned = rawJewelry.replace(/(?:Rs\.?\/?-?\s*)?[\d,.]+\s*(?:Lacs?\+?|Crores?\+?|Cr|Lakhs?|Lakh|Thou\+?|Thousand\+?)\b/gi, '');
             cleaned = cleaned.replace(/(?:Rs\.?\/?-?\s*)[\d,.]+\b/gi, '');
@@ -91,22 +114,16 @@ const updatedCandidates = candidates.map(c => {
         // Extract land & properties
         let landArr = [];
         if (rawData.immovable_assets) {
-          const agri = cleanValue(rawData.immovable_assets["Agricultural Land"]?.self);
-          const nonAgri = cleanValue(rawData.immovable_assets["Non Agricultural Land"]?.self);
-          const commercial = cleanValue(rawData.immovable_assets["Commercial Buildings"]?.self);
-          const residential = cleanValue(rawData.immovable_assets["Residential Buildings"]?.self);
-          const others = cleanValue(rawData.immovable_assets["Others"]?.self);
-          
-          if (agri) landArr.push(`Agri: ${agri}`);
-          if (nonAgri) landArr.push(`Non-Agri: ${nonAgri}`);
-
           immovableAssetsDetails = {
-            agricultural: agri,
-            nonAgricultural: nonAgri,
-            commercial: commercial,
-            residential: residential,
-            others: others
+            agricultural: getOwnershipData(rawData.immovable_assets["Agricultural Land"]),
+            nonAgricultural: getOwnershipData(rawData.immovable_assets["Non Agricultural Land"]),
+            commercial: getOwnershipData(rawData.immovable_assets["Commercial Buildings"]),
+            residential: getOwnershipData(rawData.immovable_assets["Residential Buildings"]),
+            others: getOwnershipData(rawData.immovable_assets["Others"])
           };
+          
+          if (immovableAssetsDetails.agricultural.self) landArr.push(`Agri: ${immovableAssetsDetails.agricultural.self}`);
+          if (immovableAssetsDetails.nonAgricultural.self) landArr.push(`Non-Agri: ${immovableAssetsDetails.nonAgricultural.self}`);
         }
         land = landArr.join(' | ');
 
@@ -135,6 +152,8 @@ const updatedCandidates = candidates.map(c => {
     vehicles: vehicles || 'Nil',
     jewelry: jewelry || 'Nil',
     land: land || 'Nil',
+    vehiclesData,
+    jewelryData,
     immovableAssetsDetails,
     pendingCasesDetails
   };

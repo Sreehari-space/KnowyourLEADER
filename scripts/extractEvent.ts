@@ -17,7 +17,8 @@ export interface MlaEvent {
 
 export async function extractEvent(
   mlaName: string,
-  article: { title: string; snippet: string; publishedAt: string; url: string; source: string }
+  article: { title: string; snippet: string; publishedAt: string; url: string; source: string },
+  recentEvents: Pick<MlaEvent, "id" | "event_date" | "summary_en">[] = []
 ): Promise<MlaEvent | null> {
   const prompt = `You are a Tamil Nadu political journalist AI. Extract a structured event from this news article about MLA "${mlaName}".
 
@@ -26,12 +27,17 @@ SNIPPET: ${article.snippet}
 PUBLISHED: ${article.publishedAt}
 SOURCE: ${article.source}
 
+EXISTING RECENT EVENTS:
+${JSON.stringify(recentEvents, null, 2)}
+
 Return ONLY valid JSON, no markdown, no explanation. Ensure all strings have correctly escaped quotes:
 {
+  "existing_event_id": "string id of the matching event from the list above if this article is about the exact SAME event, or null if it's a new event",
   "event_date": "YYYY-MM-DD",
   "event_type": "ELECTION|SWORN_IN|ASSEMBLY|LEGAL|CONTROVERSY|STATEMENT|FINANCIAL|DEVELOPMENT|PARTY|OTHER",
   "summary_en": "One sentence max 100 chars in English",
   "summary_ta": "One sentence in Tamil if article is Tamil else null",
+  "topic_slug": "2-3 word lowercase hyphen-separated slug of the core event (e.g. 'resignation-from-assembly')",
   "severity": "INFO|NOTABLE|HIGH|CRITICAL",
   "confidence": 0.0 to 1.0,
   "is_about_mla": true or false
@@ -61,8 +67,8 @@ If MLA is not the main subject return: {"confidence": 0.0, "is_about_mla": false
     }
 
     // Generate dedup ID using MD5
-    const hashInput = `${mlaName}|${parsed.event_date}|${parsed.event_type}|${parsed.summary_en.slice(0, 50).toLowerCase()}`;
-    const id = crypto.createHash("md5").update(hashInput).digest("hex").slice(0, 8);
+    const hashInput = `${mlaName}|${parsed.event_date}|${parsed.event_type}|${parsed.topic_slug}`;
+    const id = parsed.existing_event_id || crypto.createHash("md5").update(hashInput).digest("hex").slice(0, 8);
 
     return {
       id,

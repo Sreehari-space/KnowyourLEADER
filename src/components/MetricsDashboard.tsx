@@ -129,57 +129,57 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
   };
 
   return (
-    <div className="space-y-8 animate-fade-in">
+    <div className="space-y-6 sm:space-y-8 animate-fade-in">
       {/* Dynamic Summary Cards */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-5">
         {/* KPI 1 */}
-        <div className="bg-white border border-neutral-200/60 p-6 rounded-3xl flex items-center space-x-4 shadow-[0_4px_16px_rgba(0,0,0,0.01)] transition-all">
-          <div className="p-3 bg-neutral-100 text-neutral-800 rounded-2xl">
+        <div className="bg-white border border-slate-200/80 p-5 sm:p-6 rounded-3xl flex items-center space-x-4 shadow-[0_4px_20px_rgba(0,0,0,0.02)] transition-all hover:shadow-md hover:border-slate-300">
+          <div className="p-3 bg-slate-50 text-slate-800 rounded-2xl">
             <Users className="w-5 h-5" />
           </div>
           <div>
             <p className={labelClass()}>{t.totalCandidates}</p>
-            <h3 className="text-2xl font-extrabold text-neutral-900 tracking-tight font-sans">
+            <h3 className="text-2xl font-extrabold text-slate-900 tracking-tight font-sans">
               {totalCount}
             </h3>
           </div>
         </div>
 
         {/* KPI 2 */}
-        <div className="bg-white border border-neutral-200/60 p-6 rounded-3xl flex items-center space-x-4 shadow-[0_4px_16px_rgba(0,0,0,0.01)] transition-all">
-          <div className="p-3 bg-neutral-100 text-neutral-800 rounded-2xl">
+        <div className="bg-white border border-slate-200/80 p-5 sm:p-6 rounded-3xl flex items-center space-x-4 shadow-[0_4px_20px_rgba(0,0,0,0.02)] transition-all hover:shadow-md hover:border-slate-300">
+          <div className="p-3 bg-slate-50 text-slate-800 rounded-2xl">
             <Landmark className="w-5 h-5" />
           </div>
-          <div>
+          <div className="overflow-hidden">
             <p className={labelClass()}>{t.totalAssetsSum}</p>
-            <h3 className="text-xl font-bold text-neutral-900 tracking-tight font-mono">
+            <h3 className="text-xl font-bold text-slate-900 tracking-tight font-mono truncate">
               {FORMAT_CURRENCY(totalAssetsSum, lang)}
             </h3>
           </div>
         </div>
 
         {/* KPI 3 */}
-        <div className="bg-white border border-neutral-200/60 p-6 rounded-3xl flex items-center space-x-4 shadow-[0_4px_16px_rgba(0,0,0,0.01)] transition-all">
-          <div className="p-3 bg-neutral-100 text-neutral-800 rounded-2xl">
-            <ShieldAlert className="w-5 h-5 text-[#D9383A]" />
+        <div className="bg-white border border-slate-200/80 p-5 sm:p-6 rounded-3xl flex items-center space-x-4 shadow-[0_4px_20px_rgba(0,0,0,0.02)] transition-all hover:shadow-md hover:border-slate-300">
+          <div className="p-3 bg-red-50 text-[#D9383A] rounded-2xl">
+            <ShieldAlert className="w-5 h-5" />
           </div>
           <div>
             <p className={labelClass()}>{t.totalCasesSum}</p>
             <h3 className="text-2xl font-extrabold text-[#D9383A] tracking-tight font-sans">
-              {totalCasesSum} <span className="text-xs font-normal text-neutral-400">({avgCases} avg)</span>
+              {totalCasesSum} <span className="text-xs font-normal text-slate-400">({avgCases} avg)</span>
             </h3>
           </div>
         </div>
 
         {/* KPI 4 */}
-        <div className="bg-white border border-neutral-200/60 p-6 rounded-3xl flex items-center space-x-4 shadow-[0_4px_16px_rgba(0,0,0,0.01)] transition-all">
-          <div className="p-3 bg-neutral-100 text-[#0F8A5F] rounded-2xl">
+        <div className="bg-white border border-slate-200/80 p-5 sm:p-6 rounded-3xl flex items-center space-x-4 shadow-[0_4px_20px_rgba(0,0,0,0.02)] transition-all hover:shadow-md hover:border-slate-300">
+          <div className="p-3 bg-emerald-50 text-[#0F8A5F] rounded-2xl">
             <CheckCircle className="w-5 h-5" />
           </div>
           <div>
             <p className={labelClass()}>{t.percentClean}</p>
             <h3 className="text-2xl font-extrabold text-[#0F8A5F] tracking-tight font-sans">
-              {cleanPct}% <span className="text-xs font-normal text-neutral-400">({cleanRecords} cand.)</span>
+              {cleanPct}% <span className="text-xs font-normal text-slate-400">({cleanRecords} cand.)</span>
             </h3>
           </div>
         </div>
@@ -188,55 +188,55 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
       {/* Interactive Charts Matrix Grid */}
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
         {/* Controls Column */}
-        <div className="lg:col-span-3 flex flex-col space-y-2">
+        <div className="lg:col-span-3 flex flex-col sm:flex-row lg:flex-col gap-3">
           <button
             onClick={() => setActiveChart('assets')}
-            className={`w-full text-left px-5 py-4 rounded-xl border transition-all flex items-center justify-between cursor-pointer ${
+            className={`flex-1 text-left px-4 py-3 sm:py-4 rounded-xl border transition-all flex items-center justify-between cursor-pointer ${
               activeChart === 'assets'
-                ? 'bg-neutral-900 text-white border-neutral-900 shadow-xs'
-                : 'bg-white text-neutral-700 border-neutral-200 hover:bg-neutral-50'
+                ? 'bg-slate-900 text-white border-slate-900 shadow-sm'
+                : 'bg-white text-slate-700 border-slate-200 hover:bg-slate-50 hover:border-slate-300'
             }`}
           >
-            <div className="flex items-center space-x-3 text-xs font-bold font-mono tracking-tight grayscale-30:hover">
-              <Coins className="w-4 h-4" />
-              <span>{lang === 'en' ? 'Wealthiest Candidates' : 'செல்வந்த வேட்பாளர்கள்'}</span>
+            <div className="flex items-center space-x-2 sm:space-x-3 text-xs font-bold font-mono tracking-tight">
+              <Coins className="w-4 h-4 shrink-0" />
+              <span className="truncate">{lang === 'en' ? 'Wealthiest Candidates' : 'செல்வந்த வேட்பாளர்கள்'}</span>
             </div>
-            <span className="text-[9px] px-1.5 py-0.5 bg-neutral-100 text-neutral-800 rounded font-mono font-bold">TOP 5</span>
+            <span className="hidden sm:inline-block text-[9px] px-1.5 py-0.5 bg-slate-100 text-slate-800 rounded font-mono font-bold ml-2">TOP 5</span>
           </button>
 
           <button
             onClick={() => setActiveChart('education')}
-            className={`w-full text-left px-5 py-4 rounded-xl border transition-all flex items-center justify-between cursor-pointer ${
+            className={`flex-1 text-left px-4 py-3 sm:py-4 rounded-xl border transition-all flex items-center justify-between cursor-pointer ${
               activeChart === 'education'
-                ? 'bg-neutral-900 text-white border-neutral-900 shadow-xs'
-                : 'bg-white text-neutral-700 border-neutral-200 hover:bg-neutral-50'
+                ? 'bg-slate-900 text-white border-slate-900 shadow-sm'
+                : 'bg-white text-slate-700 border-slate-200 hover:bg-slate-50 hover:border-slate-300'
             }`}
           >
-            <div className="flex items-center space-x-3 text-xs font-bold font-mono tracking-tight">
-              <GraduationCap className="w-4 h-4" />
-              <span>{t.filterEducation}</span>
+            <div className="flex items-center space-x-2 sm:space-x-3 text-xs font-bold font-mono tracking-tight">
+              <GraduationCap className="w-4 h-4 shrink-0" />
+              <span className="truncate">{t.filterEducation}</span>
             </div>
           </button>
 
           <button
             onClick={() => setActiveChart('cases')}
-            className={`w-full text-left px-5 py-4 rounded-xl border transition-all flex items-center justify-between cursor-pointer ${
+            className={`flex-1 text-left px-4 py-3 sm:py-4 rounded-xl border transition-all flex items-center justify-between cursor-pointer ${
               activeChart === 'cases'
-                ? 'bg-neutral-900 text-white border-neutral-900 shadow-xs'
-                : 'bg-white text-neutral-700 border-neutral-200 hover:bg-neutral-50'
+                ? 'bg-slate-900 text-white border-slate-900 shadow-sm'
+                : 'bg-white text-slate-700 border-slate-200 hover:bg-slate-50 hover:border-slate-300'
             }`}
           >
-            <div className="flex items-center space-x-3 text-xs font-bold font-mono tracking-tight">
-              <ShieldAlert className="w-4 h-4" />
-              <span>{lang === 'en' ? 'Cases by Political Party' : 'கட்சி வாரியாக வழக்குகள்'}</span>
+            <div className="flex items-center space-x-2 sm:space-x-3 text-xs font-bold font-mono tracking-tight">
+              <ShieldAlert className="w-4 h-4 shrink-0" />
+              <span className="truncate">{lang === 'en' ? 'Cases by Party' : 'கட்சி வாரியாக வழக்குகள்'}</span>
             </div>
           </button>
 
-          <div className="bg-neutral-50 border border-neutral-200/60 p-5 rounded-2xl mt-4">
-            <h5 className="text-[10px] font-bold text-neutral-400 uppercase tracking-widest mb-1.5 font-mono">
+          <div className="hidden lg:block bg-slate-50 border border-slate-200/60 p-5 rounded-2xl mt-4">
+            <h5 className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-1.5 font-mono">
               {lang === 'en' ? 'Civic Responsibility' : 'குடிமைப் பொறுப்பு'}
             </h5>
-            <p className="text-xs text-neutral-500 leading-normal font-sans">
+            <p className="text-xs text-slate-500 leading-normal font-sans">
               {lang === 'en' 
                 ? 'This portal aggregates values declared directly in the Form 26 affidavits submitted to the Election Commission of India.' 
                 : 'இந்த போர்டல் இந்திய தேர்தல் ஆணையத்திடம் தாக்கல் செய்த வாக்குமூலங்களில் உள்ள தகவல்களின் அடிப்படையில் தொகுக்கப்பட்டுள்ளது.'}
@@ -245,26 +245,26 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
         </div>
 
         {/* Dynamic Display SVG Panel */}
-        <div className="lg:col-span-9 bg-white border border-slate-200/80 p-6 rounded-2xl shadow-sm min-h-[380px] flex flex-col justify-between">
+        <div className="lg:col-span-9 bg-white border border-slate-200/80 p-4 sm:p-6 rounded-2xl shadow-sm min-h-[380px] flex flex-col justify-between">
           <div>
-            <h4 className="text-lg font-bold text-slate-800 border-b border-slate-100 pb-3 mb-6">
+            <h4 className="text-base sm:text-lg font-bold text-slate-800 border-b border-slate-100 pb-3 mb-5 sm:mb-6">
               {activeChart === 'assets' && (lang === 'en' ? 'Asset Declared Value Comparison (Highest Net Worth)' : 'சொத்து பிரகடன மதிப்பு ஒப்பீடு (அதிக நிகர மதிப்பு)')}
               {activeChart === 'education' && (lang === 'en' ? 'Education Background Stats' : 'கல்வி பின்னணி புள்ளிவிவரங்கள்')}
               {activeChart === 'cases' && (lang === 'en' ? 'Overall Sum of Judicial Criminal Cases by Party' : 'கட்சி வாரியாக நீதிமன்ற கிரிமினல் வழக்குகள்')}
             </h4>
           </div>
 
-          <div className="flex-1 flex flex-col justify-center">
+          <div className="flex-1 flex flex-col justify-center w-full">
             {/* Asset Horizontal Interactive SVG Chart */}
             {activeChart === 'assets' && (
-              <div className="space-y-4">
+              <div className="space-y-4 sm:space-y-4">
                 {topWealthy.map((cand, idx) => {
                   const maxNetWorth = topWealthy[0]?.netWorth || 1;
                   const percent = Math.max(12, (cand.netWorth / maxNetWorth) * 100);
                   const styles = getPartyStyles(cand.party);
                   
                   return (
-                    <div key={cand.id} className="group flex flex-col sm:flex-row sm:items-center space-y-1 sm:space-y-0 sm:space-x-4">
+                    <div key={cand.id} className="group flex flex-col sm:flex-row sm:items-center space-y-1.5 sm:space-y-0 sm:space-x-4">
                       {/* Name Label */}
                       <div className="w-full sm:w-48 text-sm font-semibold text-slate-800 truncate">
                         {idx + 1}. {cand.name} 
@@ -272,27 +272,27 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
                       </div>
                       
                       {/* SVG representation bar */}
-                      <div className="flex-1 bg-slate-50 h-8 rounded-lg relative overflow-hidden flex items-center border border-slate-100/50">
+                      <div className="w-full sm:flex-1 bg-slate-50 h-8 rounded-lg relative overflow-hidden flex items-center border border-slate-100/50">
                         <div 
                           className={`h-full transition-all duration-700 shadow-sm flex items-center px-3 ${styles.bg}`}
                           style={{ width: `${percent}%` }}
                         >
                           {/* Inner Bar Label (inside if space permits, or above) */}
-                          {percent > 30 && (
-                            <span className="text-white text-xs font-bold font-mono">
+                          {percent > 35 && (
+                            <span className="text-white text-[10px] sm:text-xs font-bold font-mono truncate">
                               {FORMAT_CURRENCY(cand.netWorth, lang)}
                             </span>
                           )}
                         </div>
-                        {percent <= 30 && (
-                          <span className="absolute left-3 text-slate-700 text-xs font-bold font-mono pl-2">
+                        {percent <= 35 && (
+                          <span className="absolute left-3 text-slate-700 text-[10px] sm:text-xs font-bold font-mono pl-2 truncate" style={{ left: `${percent}%` }}>
                             {FORMAT_CURRENCY(cand.netWorth, lang)}
                           </span>
                         )}
                       </div>
 
                       {/* Constituency Tag */}
-                      <div className="hidden md:block w-36 text-right text-xs font-medium text-slate-400 font-mono">
+                      <div className="hidden md:block w-36 text-right text-xs font-medium text-slate-400 font-mono truncate">
                         {cand.constituency.split('(')[0]?.trim() || cand.constituency}
                       </div>
                     </div>
@@ -303,7 +303,7 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
 
             {/* Education Donut Grid Bar */}
             {activeChart === 'education' && (
-              <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-3 sm:gap-4">
                 {Object.keys(eduCounts).map((eduCat) => {
                   const count = eduCounts[eduCat];
                   const percentage = totalCount > 0 ? Math.round((count / totalCount) * 100) : 0;
@@ -311,18 +311,18 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
                   return (
                     <div 
                       key={eduCat} 
-                      className="bg-slate-50/50 p-4 rounded-xl border border-slate-100 flex flex-col items-center justify-center text-center hover:border-slate-200 hover:bg-slate-50/80 transition-all"
+                      className="bg-slate-50/50 p-3 sm:p-4 rounded-xl border border-slate-100 flex flex-col items-center justify-center text-center hover:border-slate-200 hover:bg-slate-50/80 transition-all"
                     >
-                      <GraduationCap className="w-8 h-8 text-indigo-500 mb-2" />
-                      <span className="text-2xl font-black text-slate-800 font-sans">{count}</span>
-                      <span className="text-xs text-slate-400 font-semibold uppercase mt-1">
+                      <GraduationCap className="w-6 h-6 sm:w-8 sm:h-8 text-indigo-500 mb-2" />
+                      <span className="text-xl sm:text-2xl font-black text-slate-800 font-sans">{count}</span>
+                      <span className="text-[10px] sm:text-xs text-slate-400 font-semibold uppercase mt-1">
                         {eduCat === 'School' && (lang === 'en' ? 'Schooling' : 'பள்ளிக்கல்வி')}
                         {eduCat === 'Graduate' && (lang === 'en' ? 'Graduate' : 'பட்டதாரி')}
                         {eduCat === 'Post Graduate' && (lang === 'en' ? 'Post Graduate' : 'முதுகலை')}
-                        {eduCat === 'Professional' && (lang === 'en' ? 'Law/Prof' : 'சட்டம்/தொழில்முறை')}
+                        {eduCat === 'Professional' && (lang === 'en' ? 'Law/Prof' : 'சட்டம்')}
                         {eduCat === 'Doctorate' && (lang === 'en' ? 'Doctorate' : 'முனைவர்')}
                       </span>
-                      <span className="text-xs font-mono font-bold text-indigo-600 mt-2 bg-indigo-50/50 px-2 py-0.5 rounded-full">
+                      <span className="text-[10px] sm:text-xs font-mono font-bold text-indigo-600 mt-2 bg-indigo-50/50 px-2 py-0.5 rounded-full">
                         {percentage}%
                       </span>
                     </div>
@@ -337,24 +337,31 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
                 {Object.keys(partyWiseData).map((party) => {
                   const data = partyWiseData[party];
                   const maxCases = Math.max(...Object.values(partyWiseData).map(d => d.cases)) || 1;
-                  const ratio = Math.max(10, (data.cases / maxCases) * 100);
+                  const ratio = Math.max(15, (data.cases / maxCases) * 100);
                   const styles = getPartyStyles(party);
 
                   return (
-                    <div key={party} className="flex items-center space-x-4">
+                    <div key={party} className="flex flex-col sm:flex-row sm:items-center space-y-1 sm:space-y-0 sm:space-x-4">
                       {/* Party tag */}
-                      <div className="w-24 text-sm font-bold text-slate-800">{party}</div>
+                      <div className="w-full sm:w-24 text-sm font-bold text-slate-800">{party}</div>
                       
                       {/* Bar indicator */}
-                      <div className="flex-1 bg-slate-50 h-8 rounded-lg relative overflow-hidden flex items-center">
+                      <div className="w-full sm:flex-1 bg-slate-50 h-8 rounded-lg relative overflow-hidden flex items-center border border-slate-100/50">
                         <div 
                           className={`h-full transition-all duration-700 flex items-center px-3 ${data.cases > 0 ? styles.bg : 'bg-slate-200'}`}
                           style={{ width: `${ratio}%` }}
                         >
-                          <span className="text-white text-xs font-bold">
+                          {ratio > 30 && (
+                            <span className="text-white text-[10px] sm:text-xs font-bold truncate">
+                              {data.cases} {lang === 'en' ? 'Cases' : 'வழக்குகள்'} ({data.count} {lang === 'en' ? 'cand.' : 'வேட்பாளர்'})
+                            </span>
+                          )}
+                        </div>
+                        {ratio <= 30 && (
+                          <span className="absolute left-3 text-slate-700 text-[10px] sm:text-xs font-bold pl-2 truncate" style={{ left: `${ratio}%` }}>
                             {data.cases} {lang === 'en' ? 'Cases' : 'வழக்குகள்'} ({data.count} {lang === 'en' ? 'cand.' : 'வேட்பாளர்'})
                           </span>
-                        </div>
+                        )}
                       </div>
                     </div>
                   );
@@ -363,7 +370,7 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
             )}
           </div>
 
-          <div className="border-t border-slate-100 pt-4 mt-6 flex justify-between items-center text-xs text-slate-400">
+          <div className="border-t border-slate-100 pt-4 mt-6 flex flex-col sm:flex-row justify-between items-start sm:items-center text-xs text-slate-400 space-y-2 sm:space-y-0">
             <span>{t.sourceECI}</span>
             <span>2026 Tamil Nadu Legislative Assembly Elections</span>
           </div>

@@ -67,7 +67,8 @@ async function main() {
     const articles = await fetchMlaArticles(mla.name, mla.constituency);
 
     for (const article of articles) {
-      const event = await extractEvent(mla.name, article);
+      const recentEvents = events.slice(0, 5).map(e => ({ id: e.id, event_date: e.event_date, summary_en: e.summary_en }));
+      const event = await extractEvent(mla.name, article, recentEvents);
 
       // Delay to prevent API burst rate limits
       await new Promise((r) => setTimeout(r, 1500));
