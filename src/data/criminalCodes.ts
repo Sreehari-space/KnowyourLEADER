@@ -5,7 +5,7 @@ export interface IpcSectionDetail {
   act?: string;
   title?: string;
   description: string;
-  max_punishment: string;
+  max_punishment?: string;
   bailable?: boolean;
   cognizable?: boolean;
 }

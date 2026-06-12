@@ -17,7 +17,7 @@ export interface PendingCase {
   fir_no: string;
   case_no: string;
   court: string;
-  ipc_sections: string;
+  ipc_sections: any;
   other_details: string;
 }
 
@@ -29,11 +29,11 @@ export interface AssetOwnership {
 }
 
 export interface ImmovableAssetsDetails {
-  agricultural: AssetOwnership;
-  nonAgricultural: AssetOwnership;
-  commercial: AssetOwnership;
-  residential: AssetOwnership;
-  others: AssetOwnership;
+  agricultural: AssetOwnership | string;
+  nonAgricultural: AssetOwnership | string;
+  commercial: AssetOwnership | string;
+  residential: AssetOwnership | string;
+  others: AssetOwnership | string;
 }
 
 export interface Candidate {

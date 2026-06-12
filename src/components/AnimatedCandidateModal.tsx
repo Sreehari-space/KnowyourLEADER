@@ -121,8 +121,19 @@ const ImmovableSubCategory = ({ title, icon, data, lang, formatter }: { title: s
   );
 };
 
-const MovableAssetCard = ({ title, icon, data, lang, formatter }: { title: string, icon: React.ReactNode, data?: AssetOwnership, lang: 'en'|'ta', formatter?: (val: string) => React.ReactNode }) => {
+const MovableAssetCard = ({ title, icon, data, lang, formatter }: { title: string, icon: React.ReactNode, data?: AssetOwnership | string, lang: 'en'|'ta', formatter?: (val: string) => React.ReactNode }) => {
   const format = (v: string) => formatter ? formatter(v) : v;
+  
+  if (typeof data === 'string') {
+    return (
+      <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
+        <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
+          {icon} <span>{title}</span>
+        </p>
+        <p className="text-sm font-semibold text-slate-800 leading-snug">{format(data)}</p>
+      </div>
+    );
+  }
   
   if (!data || (!data.self && !data.spouse && !data.huf && (!data.dependents || data.dependents.every(d => !d || d === 'Nil')))) {
     return (
@@ -798,77 +809,50 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
                           </div>
 
                           {candidate.pendingCasesDetails && candidate.pendingCasesDetails.length > 0 && (
-                            <div className="space-y-3">
-                              <h5 className="text-sm font-bold text-rose-900">
-                                {lang === 'en' ? 'Detailed Case & FIR Records' : 'விரிவான வழக்கு பதிவுகள்'}
-                              </h5>
-                              <div className="space-y-3 max-h-96 overflow-y-auto pr-2 custom-scrollbar">
-                                {candidate.pendingCasesDetails.map((pc, idx) => (
-                                  <div key={idx} className="bg-white p-4 rounded-xl border border-rose-200 shadow-sm text-sm">
-                                    <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                                      {pc.fir_no && pc.fir_no !== 'Nil' && (
-                                        <div className="md:col-span-2">
-                                          <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">FIR No</span>
-                                          <span className="font-semibold text-rose-900 leading-snug">{pc.fir_no}</span>
-                                        </div>
-                                      )}
-                                      {pc.case_no && pc.case_no !== 'Nil' && (
-                                        <div>
-                                          <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Case No</span>
-                                          <span className="font-semibold text-rose-900">{pc.case_no}</span>
-                                        </div>
-                                      )}
-                                      {pc.ipc_sections && pc.ipc_sections !== 'Nil' && (
-                                        <div className="md:col-span-2">
-                                          <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">IPC Sections</span>
-                                          <span className="font-medium text-rose-800">{pc.ipc_sections}</span>
-                                        </div>
-                                      )}
-                                      {pc.other_details && pc.other_details !== 'Nil' && (
-                                        <div className="md:col-span-2">
-                                          <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Additional Details</span>
-                                          <span className="font-medium text-rose-800">{pc.other_details}</span>
-                                        </div>
-                                      )}
-                                      {pc.court && pc.court !== 'Nil' && (
-                                        <div className="md:col-span-2 bg-rose-50/50 p-2 rounded-lg mt-1">
-                                          <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Court / Jurisdiction</span>
-                                          <span className="font-medium text-rose-800 text-xs">{pc.court}</span>
-                                        </div>
-                                      )}
-                                    </div>
-                                  </div>
-                                ))}
-                              </div>
-                            </div>
-                          )}
-
-                          {/* Criminal Record Details using mapped IPC sections */}
-                          {candidate.pendingCasesDetails && candidate.pendingCasesDetails.length > 0 && (
                             <div className="bg-rose-50/50 border border-rose-200 rounded-3xl p-6 shadow-sm mt-6">
                               <div className="flex items-center space-x-2 mb-4">
                                 <Scale className="w-5 h-5 text-rose-600" />
                                 <h4 className="text-lg font-bold text-rose-900">
-                                  {lang === 'en' ? 'Criminal Record Details' : 'கிரிமினல் வழக்கு விவரங்கள்'}
+                                  {lang === 'en' ? 'Detailed Case & FIR Records' : 'விரிவான வழக்கு பதிவுகள்'}
                                 </h4>
                               </div>
-                              <div className="space-y-4">
-                                {candidate.pendingCasesDetails.map((c, i) => (
-                                  <div key={i} className="bg-white p-4 rounded-2xl border border-rose-100 shadow-sm flex flex-col space-y-2">
-                                    <div className="flex justify-between items-start">
-                                      <span className="text-xs font-bold text-rose-500 uppercase tracking-widest">FIR NO: {c.fir_no || 'N/A'}</span>
-                                      <span className="text-[10px] font-mono bg-rose-100 text-rose-800 px-2 py-0.5 rounded-full">{c.court || 'Court'}</span>
+                              <div className="space-y-4 max-h-[32rem] overflow-y-auto pr-2 custom-scrollbar">
+                                {candidate.pendingCasesDetails.map((pc, idx) => (
+                                  <div key={idx} className="bg-white p-5 rounded-2xl border border-rose-200 shadow-sm text-sm flex flex-col space-y-4">
+                                    <div className="flex justify-between items-start border-b border-rose-100 pb-3">
+                                      <div>
+                                        <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">FIR No</span>
+                                        <span className="font-semibold text-rose-900 leading-snug">{pc.fir_no || 'N/A'}</span>
+                                      </div>
+                                      {pc.court && pc.court !== 'Nil' && (
+                                        <div className="text-right">
+                                          <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Court / Jurisdiction</span>
+                                          <span className="text-[10px] font-mono bg-rose-100 text-rose-800 px-2 py-0.5 rounded-full mt-1 inline-block">{pc.court}</span>
+                                        </div>
+                                      )}
                                     </div>
-                                    <div className="text-sm text-slate-800 font-medium">
-                                      <span className="font-bold text-slate-500 mr-2 block mb-2">Detailed Charges:</span> 
+                                    
+                                    {pc.case_no && pc.case_no !== 'Nil' && (
+                                      <div>
+                                        <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Case No</span>
+                                        <span className="font-semibold text-rose-900">{pc.case_no}</span>
+                                      </div>
+                                    )}
+
+                                    {pc.other_details && pc.other_details !== 'Nil' && (
+                                      <div>
+                                        <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Additional Details</span>
+                                        <span className="font-medium text-rose-800">{pc.other_details}</span>
+                                      </div>
+                                    )}
+
+                                    <div className="pt-2">
+                                      <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block mb-2">Detailed Charges (IPC Sections)</span>
                                       <div className="space-y-3">
-                                        {c.ipc_sections ? c.ipc_sections.split(',').map((code, idx) => {
-                                          const details = getIpcDetails(code);
-                                          if (!details) {
-                                            return <p key={idx} className="text-xs text-slate-600 bg-slate-50 p-2 rounded-lg border border-slate-100">{code}</p>;
-                                          }
+                                        {pc.ipc_sections ? (Array.isArray(pc.ipc_sections) ? pc.ipc_sections : pc.ipc_sections.split(',').map((code: string) => getIpcDetails(code.trim()) || { section: code.trim() })).map((details: any, i: number) => {
+                                          if (!details) return null;
                                           return (
-                                            <div key={idx} className="bg-slate-50 p-3 rounded-xl border border-slate-200">
+                                            <div key={i} className="bg-slate-50 p-4 rounded-xl border border-slate-200">
                                               <div className="flex items-start justify-between">
                                                 <h5 className="font-black text-rose-900 text-sm">{details.section || details.act || details.title}</h5>
                                                 {details.bailable !== undefined && (
@@ -878,18 +862,21 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
                                                 )}
                                               </div>
                                               {details.title && details.section && <p className="text-xs font-bold text-slate-700 mt-1">{details.title}</p>}
-                                              <p className="text-xs text-slate-600 mt-1.5 leading-relaxed">{details.description}</p>
-                                              <div className="mt-2 pt-2 border-t border-slate-200 flex items-center justify-between">
-                                                <span className="text-[10px] text-slate-500 font-mono">Max Punishment:</span>
-                                                <span className="text-[10px] font-bold text-rose-800 bg-rose-100/50 px-2 py-0.5 rounded">{details.max_punishment}</span>
-                                              </div>
+                                              <p className="text-xs text-slate-600 mt-2 leading-relaxed">{details.description}</p>
+                                              {details.max_punishment && (
+                                                <div className="mt-3 pt-3 border-t border-slate-200 flex items-center justify-between">
+                                                  <span className="text-[10px] text-slate-500 font-mono">Max Punishment:</span>
+                                                  <span className="text-[10px] font-bold text-rose-800 bg-rose-100/50 px-2 py-0.5 rounded">{details.max_punishment}</span>
+                                                </div>
+                                              )}
                                             </div>
                                           );
                                         }) : <span className="text-xs text-slate-500">Not Specified</span>}
                                       </div>
                                     </div>
-                                    <p className="text-[11px] text-slate-500 italic mt-3 bg-white p-2 rounded-lg border border-slate-100 text-center">
-                                      Raw Reference: {c.ipc_sections}
+                                    
+                                    <p className="text-[10px] text-slate-400 italic text-right mt-2">
+                                      Raw Reference: {Array.isArray(pc.ipc_sections) ? pc.ipc_sections.map((s: any) => s.section).join(', ') : pc.ipc_sections}
                                     </p>
                                   </div>
                                 ))}

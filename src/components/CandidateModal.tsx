@@ -6,6 +6,7 @@
 import React, { useState } from 'react';
 import { Candidate, FontSizeSetting } from '../types';
 import { TRANSLATIONS } from '../data/translations';
+import { getIpcDescription, getIpcDetails } from '../data/criminalCodes';
 import { X, ShieldCheck, ShieldAlert, FileText, Sparkles, Printer, ArrowRight, Share2, Check, AlertTriangle, Send, Info, User, Landmark, Scale, Briefcase, GraduationCap, Building, Map } from 'lucide-react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip as RechartsTooltip, Legend, ResponsiveContainer } from 'recharts';
 
@@ -188,7 +189,22 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
     return vehicles.length > 0 ? vehicles.join(' • ') : (lang === 'en' ? 'None Declared' : 'ஏதுமில்லை');
   };
 
-  const formatLandData = (rawText?: string) => {
+  const formatLandData = (rawInput?: string | import('../types').AssetOwnership) => {
+    if (!rawInput || rawInput === 'Nil') return lang === 'en' ? 'Nil' : 'ஏதுமில்லை';
+    
+    let rawText = '';
+    if (typeof rawInput === 'object') {
+       if (rawInput.self && rawInput.self !== 'Nil') rawText += rawInput.self + ' ';
+       if (rawInput.spouse && rawInput.spouse !== 'Nil') rawText += rawInput.spouse + ' ';
+       if (rawInput.huf && rawInput.huf !== 'Nil') rawText += rawInput.huf + ' ';
+       if (rawInput.dependents) {
+         rawInput.dependents.forEach(d => { if (d && d !== 'Nil') rawText += d + ' '});
+       }
+       rawText = rawText.trim();
+    } else {
+       rawText = rawInput;
+    }
+
     if (!rawText || rawText.toLowerCase() === 'nil') return lang === 'en' ? 'Nil' : 'ஏதுமில்லை';
     const entries = rawText.split(/(?:Thou\+|Lacs\+|Crore\+|Crores\+)/i);
     const parsed = entries.map(entry => {
@@ -718,45 +734,75 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                           </div>
 
                           {candidate.pendingCasesDetails && candidate.pendingCasesDetails.length > 0 && (
-                            <div className="space-y-3">
-                              <h5 className="text-sm font-bold text-rose-900">
-                                {lang === 'en' ? 'Detailed Case & FIR Records' : 'விரிவான வழக்கு பதிவுகள்'}
-                              </h5>
-                              <div className="space-y-3 max-h-96 overflow-y-auto pr-2 custom-scrollbar">
+                            <div className="bg-rose-50/50 border border-rose-200 rounded-3xl p-6 shadow-sm mt-6">
+                              <div className="flex items-center space-x-2 mb-4">
+                                <Scale className="w-5 h-5 text-rose-600" />
+                                <h4 className="text-lg font-bold text-rose-900">
+                                  {lang === 'en' ? 'Detailed Case & FIR Records' : 'விரிவான வழக்கு பதிவுகள்'}
+                                </h4>
+                              </div>
+                              <div className="space-y-4 max-h-[32rem] overflow-y-auto pr-2 custom-scrollbar">
                                 {candidate.pendingCasesDetails.map((pc, idx) => (
-                                  <div key={idx} className="bg-white p-4 rounded-xl border border-rose-200 shadow-sm text-sm">
-                                    <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                                      {pc.fir_no && pc.fir_no !== 'Nil' && (
-                                        <div className="md:col-span-2">
-                                          <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">FIR No</span>
-                                          <span className="font-semibold text-rose-900 leading-snug">{pc.fir_no}</span>
-                                        </div>
-                                      )}
-                                      {pc.case_no && pc.case_no !== 'Nil' && (
-                                        <div>
-                                          <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Case No</span>
-                                          <span className="font-semibold text-rose-900">{pc.case_no}</span>
-                                        </div>
-                                      )}
-                                      {pc.ipc_sections && pc.ipc_sections !== 'Nil' && (
-                                        <div className="md:col-span-2">
-                                          <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">IPC Sections</span>
-                                          <span className="font-medium text-rose-800">{pc.ipc_sections}</span>
-                                        </div>
-                                      )}
-                                      {pc.other_details && pc.other_details !== 'Nil' && (
-                                        <div className="md:col-span-2">
-                                          <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Additional Details</span>
-                                          <span className="font-medium text-rose-800">{pc.other_details}</span>
-                                        </div>
-                                      )}
+                                  <div key={idx} className="bg-white p-5 rounded-2xl border border-rose-200 shadow-sm text-sm flex flex-col space-y-4">
+                                    <div className="flex justify-between items-start border-b border-rose-100 pb-3">
+                                      <div>
+                                        <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">FIR No</span>
+                                        <span className="font-semibold text-rose-900 leading-snug">{pc.fir_no || 'N/A'}</span>
+                                      </div>
                                       {pc.court && pc.court !== 'Nil' && (
-                                        <div className="md:col-span-2 bg-rose-50/50 p-2 rounded-lg mt-1">
+                                        <div className="text-right">
                                           <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Court / Jurisdiction</span>
-                                          <span className="font-medium text-rose-800 text-xs">{pc.court}</span>
+                                          <span className="text-[10px] font-mono bg-rose-100 text-rose-800 px-2 py-0.5 rounded-full mt-1 inline-block">{pc.court}</span>
                                         </div>
                                       )}
                                     </div>
+                                    
+                                    {pc.case_no && pc.case_no !== 'Nil' && (
+                                      <div>
+                                        <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Case No</span>
+                                        <span className="font-semibold text-rose-900">{pc.case_no}</span>
+                                      </div>
+                                    )}
+
+                                    {pc.other_details && pc.other_details !== 'Nil' && (
+                                      <div>
+                                        <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block">Additional Details</span>
+                                        <span className="font-medium text-rose-800">{pc.other_details}</span>
+                                      </div>
+                                    )}
+
+                                    <div className="pt-2">
+                                      <span className="text-[10px] text-rose-400 font-bold uppercase tracking-widest block mb-2">Detailed Charges (IPC Sections)</span>
+                                      <div className="space-y-3">
+                                        {pc.ipc_sections ? (Array.isArray(pc.ipc_sections) ? pc.ipc_sections : pc.ipc_sections.split(',').map((code: string) => getIpcDetails(code.trim()) || { section: code.trim() })).map((details: any, i: number) => {
+                                          if (!details) return null;
+                                          return (
+                                            <div key={i} className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                                              <div className="flex items-start justify-between">
+                                                <h5 className="font-black text-rose-900 text-sm">{details.section || details.act || details.title}</h5>
+                                                {details.bailable !== undefined && (
+                                                  <span className={`text-[9px] font-bold uppercase px-2 py-0.5 rounded-full border ${details.bailable ? 'bg-emerald-50 text-emerald-700 border-emerald-200' : 'bg-rose-50 text-rose-700 border-rose-200'}`}>
+                                                    {details.bailable ? 'Bailable' : 'Non-Bailable'}
+                                                  </span>
+                                                )}
+                                              </div>
+                                              {details.title && details.section && <p className="text-xs font-bold text-slate-700 mt-1">{details.title}</p>}
+                                              <p className="text-xs text-slate-600 mt-2 leading-relaxed">{details.description}</p>
+                                              {details.max_punishment && (
+                                                <div className="mt-3 pt-3 border-t border-slate-200 flex items-center justify-between">
+                                                  <span className="text-[10px] text-slate-500 font-mono">Max Punishment:</span>
+                                                  <span className="text-[10px] font-bold text-rose-800 bg-rose-100/50 px-2 py-0.5 rounded">{details.max_punishment}</span>
+                                                </div>
+                                              )}
+                                            </div>
+                                          );
+                                        }) : <span className="text-xs text-slate-500">Not Specified</span>}
+                                      </div>
+                                    </div>
+                                    
+                                    <p className="text-[10px] text-slate-400 italic text-right mt-2">
+                                      Raw Reference: {Array.isArray(pc.ipc_sections) ? pc.ipc_sections.map((s: any) => s.section).join(', ') : pc.ipc_sections}
+                                    </p>
                                   </div>
                                 ))}
                               </div>
