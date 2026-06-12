@@ -284,38 +284,48 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
     });
     setHoveredAC(feature.acNo);
     // Update right panel on desktop hover
-    if (feature.candidates.length > 0) {
-      const totalAssets = feature.candidates.reduce((sum, c) => sum + c.netWorth, 0);
-      const totalCases = feature.candidates.reduce((sum, c) => sum + c.caseCount, 0);
-      const richest = [...feature.candidates].sort((a, b) => b.netWorth - a.netWorth)[0];
-      const sortedCandidates = [...feature.candidates].sort((a, b) => {
-        const aWinner = a.name.includes('Winner') || (a as any).isWinner;
-        const bWinner = b.name.includes('Winner') || (b as any).isWinner;
-        if (aWinner && !bWinner) return -1;
-        if (!aWinner && bWinner) return 1;
-        
-        const aRunner = (a as any).isRunnerUp;
-        const bRunner = (b as any).isRunnerUp;
-        if (aRunner && !bRunner) return -1;
-        if (!aRunner && bRunner) return 1;
-        
-        return 0;
-      });
-      const winner = sortedCandidates[0];
+    const totalAssets = feature.candidates.reduce((sum, c) => sum + c.netWorth, 0);
+    const totalCases = feature.candidates.reduce((sum, c) => sum + c.caseCount, 0);
+    const richest = feature.candidates.length > 0 ? [...feature.candidates].sort((a, b) => b.netWorth - a.netWorth)[0] : undefined;
+    
+    const acResult = resultsData.find(r => r.constituency_no === feature.acNo);
+    
+    const sortedCandidates = [...feature.candidates].sort((a, b) => {
+      let aWinner = a.name.includes('Winner') || (a as any).isWinner;
+      let bWinner = b.name.includes('Winner') || (b as any).isWinner;
+      let aRunner = (a as any).isRunnerUp;
+      let bRunner = (b as any).isRunnerUp;
       
-      setSelectedDetail({
-        acName: feature.acName,
-        distName: feature.distName,
-        pcName: feature.pcName,
-        acNo: feature.acNo,
-        candidates: sortedCandidates,
-        totalAssets,
-        totalCases,
-        richest,
-        winner,
-      });
-    }
-  }, [isMobile]);
+      if (acResult) {
+        aWinner = aWinner || getPartyShortName(a.party) === acResult.winner?.party;
+        bWinner = bWinner || getPartyShortName(b.party) === acResult.winner?.party;
+        aRunner = aRunner || getPartyShortName(a.party) === acResult.runner_up?.party;
+        bRunner = bRunner || getPartyShortName(b.party) === acResult.runner_up?.party;
+      }
+
+      if (aWinner && !bWinner) return -1;
+      if (!aWinner && bWinner) return 1;
+      
+      if (aRunner && !bRunner) return -1;
+      if (!aRunner && bRunner) return 1;
+      
+      return 0;
+    });
+    const winner = sortedCandidates.length > 0 ? sortedCandidates[0] : undefined;
+    
+    setSelectedDetail({
+      acName: feature.acName,
+      distName: feature.distName,
+      pcName: feature.pcName,
+      acNo: feature.acNo,
+      candidates: sortedCandidates,
+      totalAssets,
+      totalCases,
+      richest,
+      winner,
+      result: acResult, // Passing result data for votes
+    } as any);
+  }, [isMobile, resultsData]);
 
   const handleMouseLeave = useCallback(() => {
     setTooltip(null);
@@ -323,41 +333,51 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
   }, []);
 
   const handleClick = useCallback((feature: typeof paths[0]) => {
-    if (feature.candidates.length > 0) {
-      const totalAssets = feature.candidates.reduce((sum, c) => sum + c.netWorth, 0);
-      const totalCases = feature.candidates.reduce((sum, c) => sum + c.caseCount, 0);
-      const richest = [...feature.candidates].sort((a, b) => b.netWorth - a.netWorth)[0];
-      const sortedCandidates = [...feature.candidates].sort((a, b) => {
-        const aWinner = a.name.includes('Winner') || (a as any).isWinner;
-        const bWinner = b.name.includes('Winner') || (b as any).isWinner;
-        if (aWinner && !bWinner) return -1;
-        if (!aWinner && bWinner) return 1;
-        
-        const aRunner = (a as any).isRunnerUp;
-        const bRunner = (b as any).isRunnerUp;
-        if (aRunner && !bRunner) return -1;
-        if (!aRunner && bRunner) return 1;
-        
-        return 0;
-      });
-      const winner = sortedCandidates[0];
+    const totalAssets = feature.candidates.reduce((sum, c) => sum + c.netWorth, 0);
+    const totalCases = feature.candidates.reduce((sum, c) => sum + c.caseCount, 0);
+    const richest = feature.candidates.length > 0 ? [...feature.candidates].sort((a, b) => b.netWorth - a.netWorth)[0] : undefined;
+    
+    const acResult = resultsData.find(r => r.constituency_no === feature.acNo);
+    
+    const sortedCandidates = [...feature.candidates].sort((a, b) => {
+      let aWinner = a.name.includes('Winner') || (a as any).isWinner;
+      let bWinner = b.name.includes('Winner') || (b as any).isWinner;
+      let aRunner = (a as any).isRunnerUp;
+      let bRunner = (b as any).isRunnerUp;
       
-      setSelectedDetail({
-        acName: feature.acName,
-        distName: feature.distName,
-        pcName: feature.pcName,
-        acNo: feature.acNo,
-        candidates: sortedCandidates,
-        totalAssets,
-        totalCases,
-        richest,
-        winner,
-      });
-    }
+      if (acResult) {
+        aWinner = aWinner || getPartyShortName(a.party) === acResult.winner?.party;
+        bWinner = bWinner || getPartyShortName(b.party) === acResult.winner?.party;
+        aRunner = aRunner || getPartyShortName(a.party) === acResult.runner_up?.party;
+        bRunner = bRunner || getPartyShortName(b.party) === acResult.runner_up?.party;
+      }
+
+      if (aWinner && !bWinner) return -1;
+      if (!aWinner && bWinner) return 1;
+      
+      if (aRunner && !bRunner) return -1;
+      if (!aRunner && bRunner) return 1;
+      
+      return 0;
+    });
+    const winner = sortedCandidates.length > 0 ? sortedCandidates[0] : undefined;
+    
+    setSelectedDetail({
+      acName: feature.acName,
+      distName: feature.distName,
+      pcName: feature.pcName,
+      acNo: feature.acNo,
+      candidates: sortedCandidates,
+      totalAssets,
+      totalCases,
+      richest,
+      winner,
+      result: acResult, // Passing result data for votes
+    } as any);
     if (onConstituencyClick) {
       onConstituencyClick(feature.acName);
     }
-  }, [onConstituencyClick]);
+  }, [onConstituencyClick, resultsData]);
 
   // Party legend with seat counts (winners only)
   const legendEntries = useMemo(() => {
@@ -635,8 +655,8 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
                   </div>
                   <div className="bg-white p-4 text-center">
                     <Trophy className="w-4 h-4 text-amber-500 mx-auto mb-1.5" />
-                    <p className="text-xs font-bold text-neutral-900 leading-tight truncate" title={selectedDetail.winner ? `${selectedDetail.winner.name} (${selectedDetail.winner.party})` : '—'}>
-                      {selectedDetail.winner ? `${selectedDetail.winner.name} (${selectedDetail.winner.party})` : '—'}
+                    <p className="text-xs font-bold text-neutral-900 leading-tight truncate" title={(selectedDetail as any).result?.winner?.candidate ? `${(selectedDetail as any).result.winner.candidate} (${(selectedDetail as any).result.winner.party})` : (selectedDetail.winner ? `${selectedDetail.winner.name} (${selectedDetail.winner.party})` : '—')}>
+                      {(selectedDetail as any).result?.winner?.candidate ? `${(selectedDetail as any).result.winner.candidate} (${(selectedDetail as any).result.winner.party})` : (selectedDetail.winner ? `${selectedDetail.winner.name} (${selectedDetail.winner.party})` : '—')}
                     </p>
                     <p className="text-[9px] font-mono text-neutral-400 uppercase tracking-widest mt-0.5">
                       {lang === 'en' ? 'Winner' : 'வெற்றியாளர்'}
@@ -650,60 +670,84 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
                     {lang === 'en' ? 'Election Results' : 'தேர்தல் முடிவுகள்'}
                   </h4>
                   
-                  {selectedDetail.candidates.length > 0 ? (
+                  {((selectedDetail as any).result || selectedDetail.candidates.length > 0) ? (
                     <div className="flex flex-col space-y-3">
                       {/* Winner */}
-                      <div className="flex items-center justify-between bg-emerald-50/50 rounded-xl p-3 border border-emerald-100/80">
-                        <div className="flex items-center space-x-3">
-                           <div className="w-10 h-10 rounded-full flex items-center justify-center text-white text-xs font-bold shrink-0 border-2 border-white shadow-sm overflow-hidden" style={{ backgroundColor: getPartyFill(selectedDetail.candidates[0].party) }}>
-                             {selectedDetail.candidates[0].photo ? (
-                               <img src={selectedDetail.candidates[0].photo.replace('images/', '/candidates/')} alt={selectedDetail.candidates[0].name} className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
-                             ) : (
-                               selectedDetail.candidates[0].name.charAt(0)
-                             )}
-                           </div>
-                           <div>
-                             <p className="text-[9px] font-mono font-bold text-emerald-600 uppercase tracking-widest mb-0.5">{lang === 'en' ? 'Winner' : 'வெற்றியாளர்'}</p>
-                             <p className="text-xs font-bold text-neutral-900 leading-tight">{selectedDetail.candidates[0].name}</p>
-                             <p className="text-[9px] text-neutral-500 font-mono mt-0.5">{selectedDetail.candidates[0].party}</p>
-                           </div>
-                        </div>
-                        <div className="text-right">
-                           <p className="text-xs font-bold font-mono text-neutral-800">{selectedDetail.candidates[0].votes?.toLocaleString('en-IN') || 'TBA'}</p>
-                           <p className="text-[8px] text-neutral-400 uppercase tracking-widest">{lang === 'en' ? 'Votes' : 'வாக்குகள்'}</p>
-                        </div>
-                      </div>
+                      {(() => {
+                        const resWinner = (selectedDetail as any).result?.winner;
+                        const candWinner = selectedDetail.candidates[0];
+                        const winnerName = resWinner?.candidate || candWinner?.name || 'TBA';
+                        const winnerParty = resWinner?.party || candWinner?.party || 'TBA';
+                        const winnerVotes = resWinner?.votes || candWinner?.votes || 0;
+                        const winnerPhoto = candWinner?.photo;
+                        
+                        return (
+                          <div className="flex items-center justify-between bg-emerald-50/50 rounded-xl p-3 border border-emerald-100/80">
+                            <div className="flex items-center space-x-3">
+                               <div className="w-10 h-10 rounded-full flex items-center justify-center text-white text-xs font-bold shrink-0 border-2 border-white shadow-sm overflow-hidden" style={{ backgroundColor: getPartyFill(winnerParty) }}>
+                                 {winnerPhoto ? (
+                                   <img src={winnerPhoto.replace('images/', '/candidates/')} alt={winnerName} className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
+                                 ) : (
+                                   winnerName.charAt(0)
+                                 )}
+                               </div>
+                               <div>
+                                 <p className="text-[9px] font-mono font-bold text-emerald-600 uppercase tracking-widest mb-0.5">{lang === 'en' ? 'Winner' : 'வெற்றியாளர்'}</p>
+                                 <p className="text-xs font-bold text-neutral-900 leading-tight">{winnerName}</p>
+                                 <p className="text-[9px] text-neutral-500 font-mono mt-0.5">{winnerParty}</p>
+                               </div>
+                            </div>
+                            <div className="text-right">
+                               <p className="text-xs font-bold font-mono text-neutral-800">
+                                 {winnerVotes > 0 ? winnerVotes.toLocaleString('en-IN') : 'TBA'}
+                               </p>
+                               <p className="text-[8px] text-neutral-400 uppercase tracking-widest">{lang === 'en' ? 'Votes' : 'வாக்குகள்'}</p>
+                            </div>
+                          </div>
+                        );
+                      })()}
 
                       {/* Runner Up */}
-                      {selectedDetail.candidates.length > 1 && (
-                        <div className="flex items-center justify-between bg-neutral-50 rounded-xl p-3 border border-neutral-200/80">
-                          <div className="flex items-center space-x-3">
-                             <div className="w-10 h-10 rounded-full flex items-center justify-center text-white text-xs font-bold shrink-0 border-2 border-white shadow-sm overflow-hidden" style={{ backgroundColor: getPartyFill(selectedDetail.candidates[1].party) }}>
-                               {selectedDetail.candidates[1].photo ? (
-                                 <img src={selectedDetail.candidates[1].photo.replace('images/', '/candidates/')} alt={selectedDetail.candidates[1].name} className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
-                               ) : (
-                                 selectedDetail.candidates[1].name.charAt(0)
-                               )}
-                             </div>
-                             <div>
-                               <p className="text-[9px] font-mono font-bold text-neutral-500 uppercase tracking-widest mb-0.5">{lang === 'en' ? 'Runner Up' : 'இரண்டாம் இடம்'}</p>
-                               <p className="text-xs font-bold text-neutral-900 leading-tight">{selectedDetail.candidates[1].name}</p>
-                               <p className="text-[9px] text-neutral-500 font-mono mt-0.5">{selectedDetail.candidates[1].party}</p>
-                             </div>
+                      {(((selectedDetail as any).result?.runner_up) || selectedDetail.candidates.length > 1) && (() => {
+                        const resRunner = (selectedDetail as any).result?.runner_up;
+                        const candRunner = selectedDetail.candidates.length > 1 ? selectedDetail.candidates[1] : null;
+                        const runnerName = resRunner?.candidate || candRunner?.name || 'TBA';
+                        const runnerParty = resRunner?.party || candRunner?.party || 'TBA';
+                        const runnerVotes = resRunner?.votes || candRunner?.votes || 0;
+                        const runnerPhoto = candRunner?.photo;
+
+                        return (
+                          <div className="flex items-center justify-between bg-neutral-50 rounded-xl p-3 border border-neutral-200/80">
+                            <div className="flex items-center space-x-3">
+                               <div className="w-10 h-10 rounded-full flex items-center justify-center text-white text-xs font-bold shrink-0 border-2 border-white shadow-sm overflow-hidden" style={{ backgroundColor: getPartyFill(runnerParty) }}>
+                                 {runnerPhoto ? (
+                                   <img src={runnerPhoto.replace('images/', '/candidates/')} alt={runnerName} className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
+                                 ) : (
+                                   runnerName.charAt(0)
+                                 )}
+                               </div>
+                               <div>
+                                 <p className="text-[9px] font-mono font-bold text-neutral-500 uppercase tracking-widest mb-0.5">{lang === 'en' ? 'Runner Up' : 'இரண்டாம் இடம்'}</p>
+                                 <p className="text-xs font-bold text-neutral-900 leading-tight">{runnerName}</p>
+                                 <p className="text-[9px] text-neutral-500 font-mono mt-0.5">{runnerParty}</p>
+                               </div>
+                            </div>
+                            <div className="text-right">
+                               <p className="text-xs font-bold font-mono text-neutral-800">
+                                 {runnerVotes > 0 ? runnerVotes.toLocaleString('en-IN') : 'TBA'}
+                               </p>
+                               <p className="text-[8px] text-neutral-400 uppercase tracking-widest">{lang === 'en' ? 'Votes' : 'வாக்குகள்'}</p>
+                            </div>
                           </div>
-                          <div className="text-right">
-                             <p className="text-xs font-bold font-mono text-neutral-800">{selectedDetail.candidates[1].votes?.toLocaleString('en-IN') || 'TBA'}</p>
-                             <p className="text-[8px] text-neutral-400 uppercase tracking-widest">{lang === 'en' ? 'Votes' : 'வாக்குகள்'}</p>
-                          </div>
-                        </div>
-                      )}
+                        );
+                      })()}
 
                       {/* Vote Margin */}
-                      {selectedDetail.candidates.length > 1 && (
+                      {(((selectedDetail as any).result?.margin) || (selectedDetail.candidates.length > 0 && selectedDetail.candidates[0].voteMargin > 0)) && (
                         <div className="flex items-center justify-between bg-indigo-50/50 rounded-xl p-3 border border-indigo-100">
                           <span className="text-[10px] font-bold uppercase tracking-widest text-indigo-700">{lang === 'en' ? 'Vote Margin' : 'வாக்கு வித்தியாசம்'}</span>
                           <span className="text-xs font-black font-mono text-indigo-900">
-                            {selectedDetail.candidates[0].voteMargin ? Math.abs(selectedDetail.candidates[0].voteMargin).toLocaleString('en-IN') : 'TBA'}
+                            {((selectedDetail as any).result?.margin || selectedDetail.candidates[0]?.voteMargin) ? Math.abs((selectedDetail as any).result?.margin || selectedDetail.candidates[0]?.voteMargin).toLocaleString('en-IN') : 'TBA'}
                           </span>
                         </div>
                       )}

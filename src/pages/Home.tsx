@@ -62,6 +62,13 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
     }
   }, { scope: containerRef });
 
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 640);
+  useEffect(() => {
+    const handleResize = () => setIsMobile(window.innerWidth < 640);
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
   // Filters
   const [searchQuery, setSearchQuery] = useState('');
   const [filterParty, setFilterParty] = useState<string>('ALL');
@@ -247,14 +254,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
           {heroFigures.map((fig, idx) => (
             <div
               key={fig.key}
-              onClick={() => {
-                // Mobile: toggle color reveal; Desktop: navigate to party page
-                if (window.innerWidth < 640) {
-                  setActiveHero(activeHero === fig.key ? null : fig.key);
-                } else {
-                  navigate(`/party/${fig.party}`);
-                }
-              }}
+              onClick={() => navigate(`/party/${fig.party}`)}
               className={`hero-figure-item relative group transition-transform duration-500 hover:scale-110 hover:z-50 origin-bottom ${fig.offset} ${
                 activeHero === fig.key ? 'scale-110 z-50' : `z-${fig.zBase}`
               }`}
@@ -265,21 +265,23 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
                 src={fig.src} 
                 alt={fig.alt} 
                 className={`h-[180px] sm:h-[280px] md:h-[380px] w-auto max-w-none object-bottom object-contain drop-shadow-lg cursor-pointer transition-all duration-500 ${
-                  activeHero === fig.key 
+                  (isMobile || activeHero === fig.key)
                     ? 'grayscale-0 opacity-100' 
                     : `grayscale opacity-[${fig.opacityBase}] group-hover:grayscale-0 group-hover:opacity-100`
                 }`}
                 style={{
-                  filter: activeHero === fig.key ? 'grayscale(0)' : `grayscale(1) opacity(${fig.opacityBase})`,
-                  opacity: activeHero === fig.key ? 1 : fig.opacityBase,
+                  filter: (isMobile || activeHero === fig.key) ? 'grayscale(0)' : `grayscale(1) opacity(${fig.opacityBase})`,
+                  opacity: (isMobile || activeHero === fig.key) ? 1 : fig.opacityBase,
                   transition: 'filter 0.5s, opacity 0.5s, transform 0.5s',
                 }}
                 onMouseEnter={(e) => {
-                  e.currentTarget.style.filter = 'grayscale(0)';
-                  e.currentTarget.style.opacity = '1';
+                  if (!isMobile) {
+                    e.currentTarget.style.filter = 'grayscale(0)';
+                    e.currentTarget.style.opacity = '1';
+                  }
                 }}
                 onMouseLeave={(e) => {
-                  if (activeHero !== fig.key) {
+                  if (!isMobile && activeHero !== fig.key) {
                     e.currentTarget.style.filter = `grayscale(1)`;
                     e.currentTarget.style.opacity = String(fig.opacityBase);
                   }

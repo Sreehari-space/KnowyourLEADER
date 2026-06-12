@@ -69,8 +69,8 @@ const ExpandableText = ({ text, clamp = 2, className = '', lang = 'en' }: { text
   );
 };
 
-const ImmovableSubCategory = ({ title, icon, data, lang, formatter }: { title: string, icon: string, data?: AssetOwnership, lang: 'en'|'ta', formatter: (val: string) => React.ReactNode }) => {
-  if (!data || (!data.self && !data.spouse && !data.huf && (!data.dependents || data.dependents.every(d => !d || d === 'Nil')))) return null;
+const ImmovableSubCategory = ({ title, icon, data, lang, formatter }: { title: string, icon: string, data?: AssetOwnership | string, lang: 'en'|'ta', formatter: (val: string) => React.ReactNode }) => {
+  if (!data || typeof data === 'string' || (!data.self && !data.spouse && !data.huf && (!data.dependents || data.dependents.every(d => !d || d === 'Nil')))) return null;
   
   const hasSelf = data.self && data.self !== 'Nil';
   const hasSpouse = data.spouse && data.spouse !== 'Nil';
@@ -694,10 +694,10 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
                     data={candidate.vehiclesData} 
                     lang={lang} 
                     formatter={formatVehicleData} 
-                    className="max-h-[320px] md:max-h-none md:h-[350px]"
+                    className="h-[300px] md:h-[350px]"
                   />
                   {/* Immovable Assets (Land & Properties) */}
-                  <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs flex flex-col max-h-[320px] md:max-h-none md:h-[350px]">
+                  <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs flex flex-col h-[300px] md:h-[350px]">
                     <div className="flex items-start justify-between shrink-0">
                       <div className="w-full">
                         <h4 className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4 flex items-center space-x-2">
@@ -732,7 +732,7 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
                       icon={<span>💎</span>} 
                       data={candidate.jewelryData} 
                       lang={lang} 
-                      className="max-h-[320px] md:max-h-none"
+                      className="h-[250px] md:h-[300px]"
                     />
                   </div>
                 </div>

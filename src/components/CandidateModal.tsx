@@ -556,11 +556,11 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                 {/* Mobile-only toggle */}
                 <div className="md:hidden flex justify-center mb-6">
                    <div className="bg-white p-1 rounded-full border border-slate-200 shadow-sm flex items-center w-full">
-                    <button onClick={() => setViewMode('standard')} className={`flex-1 py-2 rounded-full text-xs font-bold transition-all flex items-center justify-center space-x-1.5 ${viewMode === 'standard' ? 'bg-slate-900 text-white' : 'text-slate-500'}`}>
+                    <button onClick={() => setViewMode('standard')} className={`flex-1 py-2 rounded-full text-xs font-bold transition-all flex items-center justify-center space-x-1.5 ${(viewMode as string) === 'standard' ? 'bg-slate-900 text-white' : 'text-slate-500'}`}>
                       <FileText className="w-3.5 h-3.5" />
                       <span>Standard</span>
                     </button>
-                    <button onClick={() => setViewMode('easy')} className={`flex-1 py-2 rounded-full text-xs font-bold transition-all flex items-center justify-center space-x-1.5 ${viewMode === 'easy' ? 'bg-indigo-600 text-white' : 'text-slate-500'}`}>
+                    <button onClick={() => setViewMode('easy')} className={`flex-1 py-2 rounded-full text-xs font-bold transition-all flex items-center justify-center space-x-1.5 ${(viewMode as string) === 'easy' ? 'bg-indigo-600 text-white' : 'text-slate-500'}`}>
                       <Sparkles className="w-3.5 h-3.5" />
                       <span>Easy Read</span>
                     </button>
