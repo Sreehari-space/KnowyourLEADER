@@ -131,7 +131,7 @@ const MovableAssetCard = ({ title, icon, data, lang, formatter, className }: { t
           {icon} <span>{title}</span>
         </p>
         <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar min-h-0">
-          <p className="text-sm font-semibold text-slate-800 leading-snug pb-2">{format(data)}</p>
+          <p className="text-base sm:text-sm font-semibold text-slate-800 leading-snug pb-2">{format(data)}</p>
         </div>
       </div>
     );
@@ -144,7 +144,7 @@ const MovableAssetCard = ({ title, icon, data, lang, formatter, className }: { t
           {icon} <span>{title}</span>
         </p>
         <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar min-h-0">
-          <p className="text-sm font-semibold text-slate-800 leading-snug pb-2">{lang === 'en' ? 'Nil' : 'ஏதுமில்லை'}</p>
+          <p className="text-base sm:text-sm font-semibold text-slate-800 leading-snug pb-2">{lang === 'en' ? 'Nil' : 'ஏதுமில்லை'}</p>
         </div>
       </div>
     );
@@ -162,7 +162,7 @@ const MovableAssetCard = ({ title, icon, data, lang, formatter, className }: { t
           {icon} <span>{title}</span>
         </p>
         <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar min-h-0">
-          <p className="text-sm font-semibold text-slate-800 leading-snug pb-2">{lang === 'en' ? 'Nil' : 'ஏதுமில்லை'}</p>
+          <p className="text-base sm:text-sm font-semibold text-slate-800 leading-snug pb-2">{lang === 'en' ? 'Nil' : 'ஏதுமில்லை'}</p>
         </div>
       </div>
     );
@@ -177,19 +177,19 @@ const MovableAssetCard = ({ title, icon, data, lang, formatter, className }: { t
         {hasSelf && (
           <div>
             <span className="text-[9px] font-bold bg-indigo-50 text-indigo-600 px-1.5 py-0.5 rounded uppercase tracking-wider mb-1.5 inline-block">{lang === 'en' ? 'Self' : 'சுய'}</span>
-            <div className="text-sm font-semibold text-slate-800 leading-snug">{format(data.self)}</div>
+            <div className="text-base sm:text-sm font-semibold text-slate-800 leading-snug">{format(data.self)}</div>
           </div>
         )}
         {hasSpouse && (
           <div className={hasSelf ? "pt-3 border-t border-slate-100" : ""}>
             <span className="text-[9px] font-bold bg-pink-50 text-pink-600 px-1.5 py-0.5 rounded uppercase tracking-wider mb-1.5 inline-block">{lang === 'en' ? 'Spouse' : 'வாழ்க்கை துணை'}</span>
-            <div className="text-sm font-semibold text-slate-800 leading-snug">{format(data.spouse)}</div>
+            <div className="text-base sm:text-sm font-semibold text-slate-800 leading-snug">{format(data.spouse)}</div>
           </div>
         )}
         {hasHuf && (
           <div className={(hasSelf || hasSpouse) ? "pt-3 border-t border-slate-100" : ""}>
             <span className="text-[9px] font-bold bg-amber-50 text-amber-600 px-1.5 py-0.5 rounded uppercase tracking-wider mb-1.5 inline-block">{lang === 'en' ? 'HUF' : 'இந்து கூட்டுக் குடும்பம்'}</span>
-            <div className="text-sm font-semibold text-slate-800 leading-snug">{format(data.huf)}</div>
+            <div className="text-base sm:text-sm font-semibold text-slate-800 leading-snug">{format(data.huf)}</div>
           </div>
         )}
         {dependents.length > 0 && (
@@ -199,7 +199,7 @@ const MovableAssetCard = ({ title, icon, data, lang, formatter, className }: { t
               {dependents.map((dep, idx) => (
                 <div key={idx} className="flex space-x-2">
                   <span className="text-xs text-slate-400 font-bold">{idx + 1}.</span>
-                  <div className="text-sm font-semibold text-slate-800 leading-snug">{format(dep)}</div>
+                  <div className="text-base sm:text-sm font-semibold text-slate-800 leading-snug">{format(dep)}</div>
                 </div>
               ))}
             </div>
@@ -452,7 +452,7 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
   return (
     <div ref={containerRef} className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm flex items-center justify-center z-50 md:p-6 overflow-hidden print:p-0 print:bg-white" id="cand-modal-container" style={{ opacity: 0 }}>
       <div 
-        className="gsap-modal-card w-full h-full md:max-h-[90vh] max-w-6xl mx-auto bg-white flex flex-col md:flex-row md:rounded-3xl shadow-2xl overflow-y-auto md:overflow-hidden relative print:h-auto print:shadow-none"
+        className="gsap-modal-card w-full h-full md:max-h-[] max-w-6xl mx-auto bg-white flex flex-col md:flex-row md:rounded-3xl shadow-2xl overflow-y-auto md:overflow-hidden relative print:h-auto print:shadow-none"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Mobile Sticky Header (Hidden on Desktop) */}
@@ -592,7 +592,7 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
 
                     <div className="space-y-2">
                       <label className="text-xs font-bold text-slate-500 uppercase tracking-wider">{formTranslations[lang].categoryLabel}</label>
-                      <select value={category} onChange={(e) => setCategory(e.target.value)} className="w-full bg-slate-50 border border-slate-200 p-3 rounded-xl text-sm font-semibold text-slate-800 focus:outline-none focus:border-indigo-500">
+                      <select value={category} onChange={(e) => setCategory(e.target.value)} className="w-full bg-slate-50 border border-slate-200 p-3 rounded-xl text-base sm:text-sm font-semibold text-slate-800 focus:outline-none focus:border-indigo-500">
                         <option value="asset">{formTranslations[lang].catAsset}</option>
                         <option value="criminal">{formTranslations[lang].catCriminal}</option>
                         <option value="education_occupation">{formTranslations[lang].catEduOcc}</option>

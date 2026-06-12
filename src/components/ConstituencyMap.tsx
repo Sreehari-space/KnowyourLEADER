@@ -457,7 +457,7 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
           {/* Map */}
           <div
             ref={containerRef}
-            className="lg:col-span-8 relative bg-gradient-to-br from-neutral-50 to-neutral-100/50 border border-neutral-200/60 rounded-3xl p-4 sm:p-6 overflow-hidden"
+            className="lg:col-span-8 relative bg-gradient-to-br from-neutral-50 to-neutral-100/50 border border-neutral-200/60 rounded-3xl p-4 sm:p-6 overflow-hidden touch-pan-y"
           >
             <svg
               ref={svgRef}

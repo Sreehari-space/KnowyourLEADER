@@ -243,7 +243,7 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
   return (
     <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm flex items-center justify-center z-50 md:p-6 overflow-hidden animate-fade-in print:p-0 print:bg-white" id="cand-modal-container">
       <div 
-        className="w-full h-full md:max-h-[90vh] max-w-6xl mx-auto bg-white flex flex-col md:flex-row md:rounded-3xl shadow-2xl overflow-y-auto md:overflow-hidden relative print:h-auto print:shadow-none"
+        className="w-full h-full md:max-h-[] max-w-6xl mx-auto bg-white flex flex-col md:flex-row md:rounded-3xl shadow-2xl overflow-y-auto md:overflow-hidden relative print:h-auto print:shadow-none"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Mobile Sticky Header (Hidden on Desktop) */}
@@ -417,7 +417,7 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
 
                     <div className="space-y-2">
                       <label className="text-xs font-bold text-slate-500 uppercase tracking-wider">{formTranslations[lang].categoryLabel}</label>
-                      <select value={category} onChange={(e) => setCategory(e.target.value)} className="w-full bg-slate-50 border border-slate-200 p-3 rounded-xl text-sm font-semibold text-slate-800 focus:outline-none focus:border-indigo-500">
+                      <select value={category} onChange={(e) => setCategory(e.target.value)} className="w-full bg-slate-50 border border-slate-200 p-3 rounded-xl text-base sm:text-sm font-semibold text-slate-800 focus:outline-none focus:border-indigo-500">
                         <option value="asset">{formTranslations[lang].catAsset}</option>
                         <option value="criminal">{formTranslations[lang].catCriminal}</option>
                         <option value="education_occupation">{formTranslations[lang].catEduOcc}</option>
@@ -616,7 +616,7 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                     <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
                       <span>🚗</span> <span>{lang === 'en' ? 'Motor Vehicles' : 'மோட்டார் வாகனங்கள்'}</span>
                     </p>
-                    <p className="text-sm font-semibold text-slate-800 leading-snug">{formatVehicleData(candidate.vehicles)}</p>
+                    <p className="text-base sm:text-sm font-semibold text-slate-800 leading-snug">{formatVehicleData(candidate.vehicles)}</p>
                   </div>
                   {/* Immovable Assets (Land & Properties) */}
                   <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
@@ -691,7 +691,7 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                     <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
                       <span>💎</span> <span>{lang === 'en' ? 'Jewelry & Gold' : '\u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bcd'}</span>
                     </p>
-                    <p className="text-sm font-semibold text-slate-800 leading-snug">
+                    <p className="text-base sm:text-sm font-semibold text-slate-800 leading-snug">
                       {candidate.jewelry && candidate.jewelry !== 'Nil' ? candidate.jewelry : (lang === 'en' ? 'Nil' : 'ஏதுமில்லை')}
                     </p>
                   </div>

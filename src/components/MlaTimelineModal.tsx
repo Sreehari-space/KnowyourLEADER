@@ -101,7 +101,7 @@ export default function MlaTimelineModal({ candidate, lang, onClose }: MlaTimeli
     >
       <div 
         ref={modalRef}
-        className="w-full max-w-4xl h-[90vh] sm:h-[85vh] bg-white sm:rounded-[2rem] rounded-t-[2rem] shadow-2xl flex flex-col overflow-hidden relative"
+        className="w-full max-w-4xl h-[] sm:h-[] bg-white sm:rounded-[2rem] rounded-t-[2rem] shadow-2xl flex flex-col overflow-hidden relative"
       >
         {/* Header */}
         <div className="flex-shrink-0 px-6 sm:px-8 py-5 border-b border-neutral-100 flex items-center justify-between bg-white/80 backdrop-blur-md z-10 sticky top-0">

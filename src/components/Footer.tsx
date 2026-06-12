@@ -41,11 +41,11 @@ export default function Footer({ lang }: FooterProps) {
           <div className="md:col-span-5 space-y-6">
             <div className="flex items-center space-x-3">
               <div className="p-1.5 bg-white/5 rounded-xl border border-white/10 shadow-lg backdrop-blur-sm group-hover:border-white/20 transition-all">
-                <img src="/logo.png" alt="KnowyourLeader Logo" className="w-8 h-8 object-contain bg-black rounded-lg" />
+                <img src="/logo.png" alt="TN Leaders Logo" className="w-8 h-8 object-contain bg-black rounded-lg" />
               </div>
               <div>
                 <span className="font-display font-black text-white text-lg tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-white to-white/70">
-                  KnowyourLeader
+                  TN Leaders
                 </span>
                 <span className="block text-[9px] font-mono text-indigo-400/90 tracking-widest uppercase font-bold mt-0.5">
                   {lang === 'en' ? 'Tamil Nadu · Transparency Portal' : 'தமிழ்நாடு · வெளிப்படைத்தன்மை தளம்'}
@@ -136,7 +136,7 @@ export default function Footer({ lang }: FooterProps) {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-neutral-500 font-medium">
-            © {currentYear} KnowyourLeader. {lang === 'en' ? 'All rights reserved.' : 'அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.'}
+            © {currentYear} TN Leaders. {lang === 'en' ? 'All rights reserved.' : 'அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.'}
           </p>
           
           <div className="flex items-center space-x-6 text-xs font-medium text-neutral-500">

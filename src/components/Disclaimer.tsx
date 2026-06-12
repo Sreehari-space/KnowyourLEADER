@@ -35,7 +35,7 @@ export default function Disclaimer({ lang, onAccept }: DisclaimerProps) {
 
   return (
     <div className={`fixed inset-0 z-50 flex items-center justify-center p-4 bg-neutral-900/90 backdrop-blur-md transition-opacity duration-400 ${isFadingOut ? 'opacity-0 pointer-events-none' : 'opacity-100'}`}>
-      <div className="bg-white rounded-3xl w-full max-w-xl overflow-hidden shadow-2xl border border-neutral-200 animate-fade-in relative max-h-[90vh] flex flex-col">
+      <div className="bg-white rounded-3xl w-full max-w-xl overflow-hidden shadow-2xl border border-neutral-200 animate-fade-in relative max-h-[] flex flex-col">
         <div className="bg-indigo-600 h-2 w-full shrink-0"></div>
         
         <div className="p-5 sm:p-6 space-y-5 overflow-y-auto custom-scrollbar">
@@ -45,7 +45,7 @@ export default function Disclaimer({ lang, onAccept }: DisclaimerProps) {
             </div>
             <div>
               <h2 className="text-lg sm:text-xl font-bold font-display text-neutral-900 tracking-tight">
-                {lang === 'en' ? 'Welcome to KnowyourLeader' : 'KnowyourLeader-க்கு வரவேற்கிறோம்'}
+                {lang === 'en' ? 'Welcome to TN Leaders' : 'TN Leaders-க்கு வரவேற்கிறோம்'}
               </h2>
               <p className="text-[10px] font-mono font-bold text-neutral-400 uppercase tracking-widest mt-0.5">
                 {lang === 'en' ? 'Civic Transparency Portal' : 'குடிமை வெளிப்படைத்தன்மை தளம்'}

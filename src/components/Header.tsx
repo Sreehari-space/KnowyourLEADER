@@ -124,10 +124,10 @@ export default function Header({
           {/* Left: Logo / Brand */}
           <Link to="/" className="flex items-center space-x-3 shrink-0 group cursor-pointer">
             {/* Brand Mark */}
-            <img src="/logo.png" alt="KnowyourLeader Logo" className="w-8 h-8 object-contain rounded-xl shadow-sm bg-black p-1 transition-transform group-hover:scale-105" />
+            <img src="/logo.png" alt="TN Leaders Logo" className="w-8 h-8 object-contain rounded-xl shadow-sm bg-black p-1 transition-transform group-hover:scale-105" />
             <div className="hidden sm:flex sm:flex-col justify-center">
               <span className="font-display font-bold text-neutral-900 text-[15px] tracking-tight leading-none mb-[1px]">
-                KnowyourLeader
+                TN Leaders
               </span>
               <span className="block text-[9px] font-mono text-neutral-400 tracking-wider uppercase font-bold leading-none">
                 {lang === 'en' ? 'Transparency Portal' : 'வெளிப்படைத்தன்மை தளம்'}

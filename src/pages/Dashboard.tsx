@@ -24,8 +24,8 @@ export default function Dashboard({ candidates, lang, fontSize }: DashboardProps
   }, { scope: containerRef });
 
   const pageTitle = lang === 'en'
-    ? 'Electoral Analytics Dashboard | KnowyourLeader'
-    : 'புள்ளிவிவரத் தரவு | KnowyourLeader';
+    ? 'Electoral Analytics Dashboard | TN Leaders'
+    : 'புள்ளிவிவரத் தரவு | TN Leaders';
   const pageDesc = lang === 'en' 
     ? 'Data-driven visual insights on candidate net worth, education profiles, and criminal record distributions.'
     : 'வேட்பாளர்களின் சொத்துக்கள் மற்றும் கிரிமினல் வழக்குகளின் புள்ளிவிவர தரவு.';
@@ -35,12 +35,12 @@ export default function Dashboard({ candidates, lang, fontSize }: DashboardProps
       <Helmet>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDesc} />
-        <link rel="canonical" href="https://know-your-leader.pages.dev/dashboard" />
+        <link rel="canonical" href="https://tn-leaders.pages.dev/dashboard" />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={pageDesc} />
-        <meta property="og:url" content="https://know-your-leader.pages.dev/dashboard" />
+        <meta property="og:url" content="https://tn-leaders.pages.dev/dashboard" />
       </Helmet>
-      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
+      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[]">
         <MetricsDashboard candidates={candidates} lang={lang} fontSize={fontSize} />
       </main>
     </>

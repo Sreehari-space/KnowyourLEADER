@@ -140,7 +140,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
   const allPartiesList = Array.from(new Set(candidates.map(c => c.party)));
   const activeFilterCount = [filterParty !== 'ALL', filterEducation !== 'ALL', filterCriminal !== 'ALL'].filter(Boolean).length;
 
-  const pageTitle = lang === 'en' ? 'Affidavit Directory - KnowyourLeader' : 'பிரமாணப் பத்திரப் பட்டியல் - KnowyourLeader';
+  const pageTitle = lang === 'en' ? 'Affidavit Directory - TN Leaders' : 'பிரமாணப் பத்திரப் பட்டியல் - TN Leaders';
   const pageDescription = lang === 'en' ? 'Explore and filter the complete database of candidate declarations, net worth, and criminal cases.' : 'வேட்பாளர்களின் சொத்துக்கள் மற்றும் கிரிமினல் வழக்குகளின் முழுமையான தரவுத்தளத்தை ஆராயுங்கள்.';
 
   return (
@@ -148,12 +148,12 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
       <Helmet>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDescription} />
-        <link rel="canonical" href="https://know-your-leader.pages.dev/affidavits" />
+        <link rel="canonical" href="https://tn-leaders.pages.dev/affidavits" />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={pageDescription} />
-        <meta property="og:url" content="https://know-your-leader.pages.dev/affidavits" />
+        <meta property="og:url" content="https://tn-leaders.pages.dev/affidavits" />
       </Helmet>
-      <main className="max-w-7xl mx-auto px-4 md:px-8 pt-10 pb-16 min-h-[80vh] space-y-10">
+      <main className="max-w-7xl mx-auto px-4 md:px-8 pt-10 pb-16 min-h-[] space-y-10">
         <div className="space-y-8">
           {/* Header & Search */}
           <div ref={headerRef} className="w-full max-w-4xl mx-auto space-y-8 select-none">
@@ -173,7 +173,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
             <div className="relative max-w-2xl sm:max-w-3xl mx-auto shadow-xs">
               <input
                 type="text"
-                className="w-full bg-[#dbe0e3] sm:bg-[#e0e4e6] border border-neutral-800 rounded-full pl-8 pr-16 py-4 sm:py-5 font-semibold text-neutral-800 placeholder:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-neutral-900/10 text-sm sm:text-base md:text-lg transition-all"
+                className="w-full bg-[#dbe0e3] sm:bg-[#e0e4e6] border border-neutral-800 rounded-full pl-8 pr-16 py-4 sm:py-5 font-semibold text-neutral-800 placeholder:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-neutral-900/10 text-base md:text-lg transition-all"
                 placeholder={lang === 'en' ? 'Search candidate, constituency or party...' : 'வேட்பாளர் பெயர், தொகுதி, அல்லது கட்சி தேடவும்...'}
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}

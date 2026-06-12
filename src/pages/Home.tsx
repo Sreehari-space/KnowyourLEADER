@@ -106,7 +106,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
   let pageTitle = '';
   let pageDescription = '';
   let pageKeywords = '';
-  let canonicalUrl = 'https://know-your-leader.pages.dev';
+  let canonicalUrl = 'https://tn-leaders.pages.dev';
   let schemaJson: any = null;
 
   if (activeDetailedCandidate) {
@@ -117,14 +117,14 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
     let cWorthStr = activeDetailedCandidate.netWorthFormatted;
     const cCases = activeDetailedCandidate.caseCount;
 
-    canonicalUrl = `https://know-your-leader.pages.dev/?candidate=${activeDetailedCandidate.id}`;
+    canonicalUrl = `https://tn-leaders.pages.dev/?candidate=${activeDetailedCandidate.id}`;
 
     if (lang === 'en') {
-      pageTitle = `${cName} (${cParty}) - Net Worth, Assets & Criminal Cases | KnowyourLeader`;
+      pageTitle = `${cName} (${cParty}) - Net Worth, Assets & Criminal Cases | TN Leaders`;
       pageDescription = `View verified ECI Form 26 self-declarations for ${cName} (${cParty}), candidate in ${cConst}, Tamil Nadu. Net Worth: ${cWorthStr}, Pending Cases: ${cCases}.`;
       pageKeywords = `${cName} net worth, ${cName} assets, ${cName} criminal cases, ${cName} affidavit`;
     } else {
-      pageTitle = `${cName} (${cParty}) - சொத்து மதிப்பு & நிலுவை வழக்குகள் | KnowyourLeader`;
+      pageTitle = `${cName} (${cParty}) - சொத்து மதிப்பு & நிலுவை வழக்குகள் | TN Leaders`;
       pageDescription = `${cConst} தொகுதி வேட்பாளர் ${cName} (${cParty}) அவர்களின் சொத்து விவரங்கள் மற்றும் ${cCases} நிலுவையில் கிரிமினல் வழக்குகள்.`;
       pageKeywords = `${cName} சொத்துக்கள் 2026, ${cName} கிரிமினல் வழக்கு`;
     }
@@ -139,16 +139,16 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
       "mainEntityOfPage": canonicalUrl,
     };
   } else {
-    canonicalUrl = 'https://know-your-leader.pages.dev';
+    canonicalUrl = 'https://tn-leaders.pages.dev';
     pageTitle = lang === 'en'
-      ? 'KnowyourLeader — Tamil Nadu Candidate Transparency Portal 2026'
-      : 'KnowyourLeader — தமிழ்நாடு வேட்பாளர் வெளிப்படைத்தன்மை தளம் 2026';
+      ? 'TN Leaders — Tamil Nadu Candidate Transparency Portal 2026'
+      : 'TN Leaders — தமிழ்நாடு வேட்பாளர் வெளிப்படைத்தன்மை தளம் 2026';
     pageDescription = t.appSubtitle;
     pageKeywords = 'Tamil Nadu election 2026, candidate affidavits, political assets database';
     schemaJson = {
       "@context": "https://schema.org",
       "@type": "WebApplication",
-      "name": "KnowyourLeader",
+      "name": "TN Leaders",
       "description": "Public transparency portal for Tamil Nadu candidate data.",
       "areaServed": "Tamil Nadu, India"
     };
@@ -298,7 +298,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
               <Search className="w-4 h-4 text-neutral-400 shrink-0" />
               <input
                 type="text"
-                className="flex-1 bg-transparent border-none outline-none ml-3 text-sm font-medium text-neutral-800 placeholder:text-neutral-400"
+                className="flex-1 bg-transparent border-none outline-none ml-3 text-base sm:text-sm placeholder:text-neutral-400"
                 placeholder={lang === 'en' ? 'Search candidates...' : 'வேட்பாளர் தேடு...'}
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
@@ -363,7 +363,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
       />
 
       {/* ===== MAIN CONTENT ===== */}
-      <main ref={mainContentRef} className="max-w-7xl mx-auto px-4 md:px-8 pt-4 pb-10 sm:py-10 min-h-[60vh] space-y-10" id="main-content">
+      <main ref={mainContentRef} className="max-w-7xl mx-auto px-4 md:px-8 pt-4 pb-10 sm:py-10 min-h-[] space-y-10" id="main-content">
           <div className="space-y-8" id="affidavit-list-module">
             {/* Editorial Header + Search (Desktop only — mobile version is in hero) */}
             <div className="main-header-text w-full max-w-4xl mx-auto py-6 sm:py-10 space-y-8 select-none hidden sm:block">
@@ -384,7 +384,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
               <form onSubmit={handleSearchSubmit} className="relative max-w-2xl sm:max-w-3xl mx-auto shadow-xs">
                 <input
                   type="text"
-                  className="w-full bg-[#dbe0e3] sm:bg-[#e0e4e6] border border-neutral-800 rounded-full pl-8 pr-16 py-4 sm:py-5 font-semibold text-neutral-800 placeholder:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-neutral-900/10 text-sm sm:text-base md:text-lg transition-all"
+                  className="w-full bg-[#dbe0e3] sm:bg-[#e0e4e6] border border-neutral-800 rounded-full pl-8 pr-16 py-4 sm:py-5 font-semibold text-neutral-800 placeholder:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-neutral-900/10 text-base md:text-lg transition-all"
                   placeholder={lang === 'en' ? 'Search candidate, constituency or party...' : 'வேட்பாளர் பெயர், தொகுதி, அல்லது கட்சி தேடவும்...'}
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}

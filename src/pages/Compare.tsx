@@ -31,8 +31,8 @@ export default function Compare({ candidates, lang, fontSize }: CompareProps) {
   const [compareRightId, setCompareRightId] = useState<string>('');
 
   const pageTitle = lang === 'en'
-    ? 'Candidate Comparison | KnowyourLeader'
-    : 'வேட்பாளர் ஒப்பீடு | KnowyourLeader';
+    ? 'Candidate Comparison | TN Leaders'
+    : 'வேட்பாளர் ஒப்பீடு | TN Leaders';
   const pageDesc = lang === 'en'
     ? 'Side-by-side comparison of candidate profiles, assets, and liabilities.'
     : 'வேட்பாளர்களின் சொத்துக்கள் மற்றும் கடன்களின் நேரடி ஒப்பீடு.';
@@ -69,12 +69,12 @@ export default function Compare({ candidates, lang, fontSize }: CompareProps) {
       <Helmet>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDesc} />
-        <link rel="canonical" href="https://know-your-leader.pages.dev/compare" />
+        <link rel="canonical" href="https://tn-leaders.pages.dev/compare" />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={pageDesc} />
-        <meta property="og:url" content="https://know-your-leader.pages.dev/compare" />
+        <meta property="og:url" content="https://tn-leaders.pages.dev/compare" />
       </Helmet>
-      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[70vh]">
+      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[]">
         <ComparisonView
           candidates={candidates}
           lang={lang}

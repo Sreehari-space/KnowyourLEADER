@@ -59,7 +59,7 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
     }
   };
 
-  const pageTitle = `${partyKey} Candidates & Assets 2026 | KnowyourLeader`;
+  const pageTitle = `${partyKey} Candidates & Assets 2026 | TN Leaders`;
   const pageDescription = lang === 'en' 
     ? `View ${partyCandidates.length} candidate declarations for ${partyKey}. Total declared assets: ${FORMAT_CURRENCY(totalAssets, lang)}.` 
     : `${partyKey} கட்சியின் வேட்பாளர்கள் மற்றும் சொத்து விவரங்கள்.`;
@@ -69,12 +69,12 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
       <Helmet>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDescription} />
-        <link rel="canonical" href={`https://know-your-leader.pages.dev/party/${partyKey}`} />
+        <link rel="canonical" href={`https://tn-leaders.pages.dev/party/${partyKey}`} />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={pageDescription} />
-        <meta property="og:url" content={`https://know-your-leader.pages.dev/party/${partyKey}`} />
+        <meta property="og:url" content={`https://tn-leaders.pages.dev/party/${partyKey}`} />
       </Helmet>
-      <main ref={containerRef} className={`max-w-7xl mx-auto px-4 md:px-8 py-8 sm:py-12 min-h-[70vh] ${getGlobalFontSizeClass()}`}>
+      <main ref={containerRef} className={`max-w-7xl mx-auto px-4 md:px-8 py-8 sm:py-12 min-h-[] ${getGlobalFontSizeClass()}`}>
         {/* Back Button */}
       <button 
         onClick={() => navigate(-1)}

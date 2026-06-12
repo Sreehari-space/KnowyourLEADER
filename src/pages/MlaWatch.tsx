@@ -113,7 +113,7 @@ export default function MlaWatch({ candidates, lang, fontSize }: MlaWatchProps) 
   return (
     <div className="w-full min-h-screen bg-[#FCFBF9]">
       <Helmet>
-        <title>{lang === 'en' ? 'MLA Watch - KnowyourLeader' : 'எம்எல்ஏ கண்காணிப்பு - KnowyourLeader'}</title>
+        <title>{lang === 'en' ? 'MLA Watch - TN Leaders' : 'எம்எல்ஏ கண்காணிப்பு - TN Leaders'}</title>
       </Helmet>
 
       {/* Header Section */}
@@ -131,10 +131,10 @@ export default function MlaWatch({ candidates, lang, fontSize }: MlaWatchProps) 
           <div className="w-full max-w-2xl mt-8 relative">
             <input
               type="text"
-              placeholder={lang === 'en' ? 'Search MLA name, constituency, or party...' : 'எம்எல்ஏ பெயர், தொகுதி அல்லது கட்சியைத் தேடுங்கள்...'}
+              placeholder={lang === 'en' ? 'Search MLA name, constituency, or party...' : 'எம்.எல்.ஏ பெயர், தொகுதி அல்லது கட்சியைத் தேடுங்கள்...'}
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full bg-neutral-800 border-none rounded-full py-4 pl-12 pr-6 text-white placeholder:text-neutral-500 focus:ring-2 focus:ring-indigo-500 transition-all"
+              className="w-full bg-neutral-800 border-none rounded-full py-4 pl-12 pr-6 text-base sm:text-sm text-white placeholder:text-neutral-500 focus:ring-2 focus:ring-indigo-500 transition-all"
             />
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-neutral-500" />
           </div>
