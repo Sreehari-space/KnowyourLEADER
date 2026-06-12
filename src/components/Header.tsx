@@ -179,14 +179,6 @@ export default function Header({
               </div>
             </div>
 
-            {/* Language Toggle */}
-            <button
-              onClick={onToggleLanguage}
-              className="flex items-center space-x-1.5 bg-neutral-100 hover:bg-neutral-200/70 text-neutral-700 font-bold px-3 py-2 rounded-xl border border-neutral-200/60 transition-all text-[11px] cursor-pointer"
-            >
-              <Globe className="w-3.5 h-3.5 text-neutral-500" />
-              <span>{lang === 'en' ? 'தமிழ்' : 'English'}</span>
-            </button>
 
             {/* Mobile Menu Toggle */}
             <button

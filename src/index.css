@@ -224,6 +224,8 @@ html {
   }
   .hero-figure-item img {
     height: 160px !important;
+    filter: grayscale(0) !important;
+    opacity: 1 !important;
   }
 }
 

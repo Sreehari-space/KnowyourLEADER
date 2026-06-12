@@ -121,27 +121,31 @@ const ImmovableSubCategory = ({ title, icon, data, lang, formatter }: { title: s
   );
 };
 
-const MovableAssetCard = ({ title, icon, data, lang, formatter }: { title: string, icon: React.ReactNode, data?: AssetOwnership | string, lang: 'en'|'ta', formatter?: (val: string) => React.ReactNode }) => {
+const MovableAssetCard = ({ title, icon, data, lang, formatter, className }: { title: string, icon: React.ReactNode, data?: AssetOwnership | string, lang: 'en'|'ta', formatter?: (val: string) => React.ReactNode, className?: string }) => {
   const format = (v: string) => formatter ? formatter(v) : v;
   
   if (typeof data === 'string') {
     return (
-      <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
-        <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
+      <div className={`bg-white border border-slate-200 rounded-2xl p-5 shadow-xs flex flex-col ${className || ''}`}>
+        <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5 shrink-0">
           {icon} <span>{title}</span>
         </p>
-        <p className="text-sm font-semibold text-slate-800 leading-snug">{format(data)}</p>
+        <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar min-h-0">
+          <p className="text-sm font-semibold text-slate-800 leading-snug pb-2">{format(data)}</p>
+        </div>
       </div>
     );
   }
   
   if (!data || (!data.self && !data.spouse && !data.huf && (!data.dependents || data.dependents.every(d => !d || d === 'Nil')))) {
     return (
-      <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
-        <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
+      <div className={`bg-white border border-slate-200 rounded-2xl p-5 shadow-xs flex flex-col ${className || ''}`}>
+        <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5 shrink-0">
           {icon} <span>{title}</span>
         </p>
-        <p className="text-sm font-semibold text-slate-800 leading-snug">{lang === 'en' ? 'Nil' : 'ஏதுமில்லை'}</p>
+        <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar min-h-0">
+          <p className="text-sm font-semibold text-slate-800 leading-snug pb-2">{lang === 'en' ? 'Nil' : 'ஏதுமில்லை'}</p>
+        </div>
       </div>
     );
   }
@@ -153,21 +157,23 @@ const MovableAssetCard = ({ title, icon, data, lang, formatter }: { title: strin
 
   if (!hasSelf && !hasSpouse && !hasHuf && dependents.length === 0) {
     return (
-      <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
-        <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">
+      <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs flex flex-col">
+        <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5 shrink-0">
           {icon} <span>{title}</span>
         </p>
-        <p className="text-sm font-semibold text-slate-800 leading-snug">{lang === 'en' ? 'Nil' : 'ஏதுமில்லை'}</p>
+        <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar min-h-0">
+          <p className="text-sm font-semibold text-slate-800 leading-snug pb-2">{lang === 'en' ? 'Nil' : 'ஏதுமில்லை'}</p>
+        </div>
       </div>
     );
   }
 
   return (
-    <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
-      <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4 flex items-center space-x-1.5">
+    <div className={`bg-white border border-slate-200 rounded-2xl p-5 shadow-xs flex flex-col ${className || ''}`}>
+      <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4 flex items-center space-x-1.5 shrink-0">
         {icon} <span>{title}</span>
       </p>
-      <div className="space-y-4">
+      <div className="space-y-4 flex-1 overflow-y-auto pr-2 custom-scrollbar min-h-0 pb-2">
         {hasSelf && (
           <div>
             <span className="text-[9px] font-bold bg-indigo-50 text-indigo-600 px-1.5 py-0.5 rounded uppercase tracking-wider mb-1.5 inline-block">{lang === 'en' ? 'Self' : 'சுய'}</span>
@@ -532,29 +538,15 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
           </div>
 
           {/* Action Buttons Sticky Bottom */}
-          <div className="p-6 pt-4 bg-neutral-900 border-t border-white/5 grid grid-cols-2 gap-3">
+          <div className="p-6 pt-4 bg-neutral-900 border-t border-white/5 flex">
             <button 
               onClick={handleShare}
-              className={`py-3 rounded-xl transition-all flex justify-center items-center space-x-2 text-xs font-bold border ${
+              className={`w-full py-3 rounded-xl transition-all flex justify-center items-center space-x-2 text-xs font-bold border ${
                 copied ? 'bg-emerald-600/20 border-emerald-500/30 text-emerald-400' : 'bg-white/5 hover:bg-white/10 border-transparent text-white'
               }`}
             >
               {copied ? <Check className="w-4 h-4 text-emerald-400" /> : <Share2 className="w-4 h-4" />}
               <span>{copied ? (lang === 'en' ? 'Copied' : 'நகலெடுக்கப்பட்டது') : (lang === 'en' ? 'Share' : 'பகிர்')}</span>
-            </button>
-            <button 
-              onClick={handlePrint}
-              className="py-3 bg-white/5 hover:bg-white/10 rounded-xl transition-all flex justify-center items-center space-x-2 text-xs font-bold text-white"
-            >
-              <Printer className="w-4 h-4" />
-              <span>Print</span>
-            </button>
-            <button
-              onClick={() => { setShowReportForm(true); setIsSubmitted(false); }}
-              className="col-span-2 py-3 bg-orange-500/10 hover:bg-orange-500/20 text-orange-400 border border-orange-500/20 rounded-xl text-xs font-bold transition-all flex justify-center items-center space-x-2"
-            >
-              <AlertTriangle className="w-4 h-4" />
-              <span>{formTranslations[lang].reportButton}</span>
             </button>
           </div>
         </div>
@@ -695,38 +687,42 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
                 </div>
 
                 {/* Additional Asset Details */}
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 items-stretch">
                   <MovableAssetCard 
                     title={lang === 'en' ? 'Motor Vehicles' : 'மோட்டார் வாகனங்கள்'} 
                     icon={<span>🚗</span>} 
                     data={candidate.vehiclesData} 
                     lang={lang} 
                     formatter={formatVehicleData} 
+                    className="max-h-[320px] md:max-h-none md:h-[350px]"
                   />
                   {/* Immovable Assets (Land & Properties) */}
-                  <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
-                    <div className="flex items-start justify-between">
+                  <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs flex flex-col max-h-[320px] md:max-h-none md:h-[350px]">
+                    <div className="flex items-start justify-between shrink-0">
                       <div className="w-full">
                         <h4 className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4 flex items-center space-x-2">
                           <Map className="w-4 h-4 text-teal-600" />
-                          <span>{lang === 'en' ? 'Real Estate Portfolio' : '\u0bb0\u0bbf\u0baf\u0bb2\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0bb2\u0bbf\u0baf\u0bcb'}</span>
+                          <span>{lang === 'en' ? 'Real Estate Portfolio' : 'ரியல் எஸ்டேட் போர்ட்ஃபோலியோ'}</span>
                         </h4>
-                        
-                        {candidate.immovableAssetsDetails ? (
-                          <div className="max-h-96 overflow-y-auto pr-2 custom-scrollbar">
-                            <ImmovableSubCategory title={lang === 'en' ? 'Agricultural Land' : '\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0ba8\u0bbf\u0bb2\u0bae\u0bcd'} icon="🌾" data={candidate.immovableAssetsDetails.agricultural} lang={lang} formatter={formatLandData} />
-                            <ImmovableSubCategory title={lang === 'en' ? 'Non-Agricultural Land' : '\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bae\u0bcd'} icon="🏗️" data={candidate.immovableAssetsDetails.nonAgricultural} lang={lang} formatter={formatLandData} />
-                            <ImmovableSubCategory title={lang === 'en' ? 'Commercial Buildings' : '\u0bb5\u0ba3\u0bbf\u0b95 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd'} icon="🏢" data={candidate.immovableAssetsDetails.commercial} lang={lang} formatter={formatLandData} />
-                            <ImmovableSubCategory title={lang === 'en' ? 'Residential Buildings' : '\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd'} icon="🏠" data={candidate.immovableAssetsDetails.residential} lang={lang} formatter={formatLandData} />
-                            <ImmovableSubCategory title={lang === 'en' ? 'Other Assets' : '\u0baa\u0bbf\u0bb1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd'} icon="📦" data={candidate.immovableAssetsDetails.others} lang={lang} formatter={formatLandData} />
-                          </div>
-                        ) : (
-                          <p className="text-sm text-teal-700 mt-2 leading-relaxed">
-                            {formatLandData(candidate.land)}
-                          </p>
-                        )}
                       </div>
                     </div>
+                    {candidate.immovableAssetsDetails ? (
+                      <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar min-h-0">
+                        <div className="flex flex-col gap-3 pb-4">
+                          <ImmovableSubCategory title={lang === 'en' ? 'Agricultural Land' : '\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0ba8\u0bbf\u0bb2\u0bae\u0bcd'} icon="🌾" data={candidate.immovableAssetsDetails.agricultural} lang={lang} formatter={formatLandData} />
+                          <ImmovableSubCategory title={lang === 'en' ? 'Non-Agricultural Land' : '\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bae\u0bcd'} icon="🏗️" data={candidate.immovableAssetsDetails.nonAgricultural} lang={lang} formatter={formatLandData} />
+                          <ImmovableSubCategory title={lang === 'en' ? 'Commercial Buildings' : '\u0bb5\u0ba3\u0bbf\u0b95 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd'} icon="🏢" data={candidate.immovableAssetsDetails.commercial} lang={lang} formatter={formatLandData} />
+                          <ImmovableSubCategory title={lang === 'en' ? 'Residential Buildings' : '\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd'} icon="🏠" data={candidate.immovableAssetsDetails.residential} lang={lang} formatter={formatLandData} />
+                          <ImmovableSubCategory title={lang === 'en' ? 'Other Assets' : '\u0baa\u0bbf\u0bb1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd'} icon="📦" data={candidate.immovableAssetsDetails.others} lang={lang} formatter={formatLandData} />
+                        </div>
+                      </div>
+                    ) : (
+                      <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar min-h-0">
+                        <p className="text-sm text-teal-700 mt-2 leading-relaxed pb-4">
+                          {formatLandData(candidate.land)}
+                        </p>
+                      </div>
+                    )}
                   </div>
                   
                   {/* Jewelry */}
@@ -736,6 +732,7 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
                       icon={<span>💎</span>} 
                       data={candidate.jewelryData} 
                       lang={lang} 
+                      className="max-h-[320px] md:max-h-none"
                     />
                   </div>
                 </div>

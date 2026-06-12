@@ -628,7 +628,7 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                         </h4>
                         
                         {candidate.immovableAssetsDetails ? (
-                          <div className="space-y-3 max-h-80 overflow-y-auto pr-2 custom-scrollbar">
+                          <div className="flex flex-col gap-3">
                             {candidate.immovableAssetsDetails.agricultural && candidate.immovableAssetsDetails.agricultural !== 'Nil' && (
                               <div className="bg-white p-3 rounded-xl border border-teal-100 shadow-sm">
                                 <span className="text-[10px] font-bold text-teal-500 uppercase tracking-widest flex items-center mb-1">
