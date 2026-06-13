@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef } from 'react';
 import { gsap } from 'gsap';
 import { useGSAP } from '@gsap/react';
 
@@ -50,7 +50,7 @@ const ExpandableText = ({ text, clamp = 2, className = '', lang = 'en' }: { text
     <div className="w-full">
       <p 
         ref={textRef} 
-        className={`${className} ${!expanded ? (clamp === 1 ? 'line-clamp-1' : clamp === 3 ? 'line-clamp-3' : 'line-clamp-2') : ''}`}
+        className={`${className} ${!expanded ? `line-clamp-${clamp}` : ''}`}
       >
         {text}
       </p>
@@ -270,27 +270,6 @@ const formTranslations = {
 export default function AnimatedCandidateModal({ candidate, lang, fontSize, onClose }: CandidateModalProps) {
   const containerRef = useRef<HTMLDivElement>(null);
 
-  // Lock body scroll when modal is open
-  useEffect(() => {
-    const originalOverflow = document.body.style.overflow;
-    const originalPosition = document.body.style.position;
-    const originalWidth = document.body.style.width;
-    const scrollY = window.scrollY;
-    
-    document.body.style.overflow = 'hidden';
-    document.body.style.position = 'fixed';
-    document.body.style.width = '100%';
-    document.body.style.top = `-${scrollY}px`;
-    
-    return () => {
-      document.body.style.overflow = originalOverflow;
-      document.body.style.position = originalPosition;
-      document.body.style.width = originalWidth;
-      document.body.style.top = '';
-      window.scrollTo(0, scrollY);
-    };
-  }, []);
-
   useGSAP(() => {
     const tl = gsap.timeline();
     // Backdrop fade-in
@@ -471,9 +450,9 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
 
 
   return (
-    <div ref={containerRef} className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm flex items-center justify-center z-50 md:p-6 overflow-hidden print:p-0 print:bg-white animate-modal-backdrop-in" id="cand-modal-container" style={{ opacity: 0 }}>
+    <div ref={containerRef} className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm flex items-center justify-center z-50 md:p-6 overflow-hidden print:p-0 print:bg-white" id="cand-modal-container" style={{ opacity: 0 }}>
       <div 
-        className="gsap-modal-card w-full h-full md:max-h-[90vh] max-w-6xl mx-auto bg-white flex flex-col md:flex-row md:rounded-3xl shadow-2xl overflow-y-auto md:overflow-hidden relative print:h-auto print:shadow-none"
+        className="gsap-modal-card w-full h-full md:max-h-[] max-w-6xl mx-auto bg-white flex flex-col md:flex-row md:rounded-3xl shadow-2xl overflow-y-auto md:overflow-hidden relative print:h-auto print:shadow-none"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Mobile Sticky Header (Hidden on Desktop) */}
@@ -497,9 +476,9 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
         </div>
 
         {/* ================= LEFT SIDEBAR ================= */}
-        <div className="gsap-stagger-item w-full md:w-[35%] bg-neutral-950 text-white flex flex-col shrink-0 overflow-hidden md:overflow-y-auto print:hidden max-h-[50vh] md:max-h-none">
+        <div className="gsap-stagger-item w-full md:w-[35%] bg-neutral-950 text-white flex flex-col shrink-0 overflow-visible md:overflow-y-auto print:hidden">
           {/* Cover Photo / Header */}
-          <div className="p-8 pb-6 flex-1 flex flex-col items-center text-center overflow-y-auto">
+          <div className="p-8 pb-6 flex-1 flex flex-col items-center text-center">
             
             {/* Removed Desktop Close Button from Sidebar */}
 
@@ -573,14 +552,14 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
         </div>
 
         {/* ================= RIGHT MAIN CONTENT ================= */}
-        <div className="gsap-stagger-item w-full md:w-[65%] flex flex-col bg-slate-50 relative min-h-[50vh] md:min-h-0 md:h-full overflow-hidden">
+        <div className="gsap-stagger-item w-full md:w-[65%] flex flex-col bg-slate-50 relative h-auto md:h-full overflow-visible md:overflow-hidden">
           
           {/* Sticky Close Button (Desktop) */}
           <button onClick={onClose} className="absolute top-6 right-6 z-50 p-2.5 bg-white border border-slate-200 hover:bg-slate-100 rounded-full shadow-sm transition-colors hidden md:flex items-center justify-center pointer-events-auto">
             <X className="w-5 h-5 text-slate-700" />
           </button>
 
-          <div className="flex-1 overflow-y-auto p-4 md:p-8 pt-6 md:pt-20">
+          <div className="flex-1 overflow-visible md:overflow-y-auto p-4 md:p-8 pt-6 md:pt-20">
             {showReportForm ? (
               /* --- DISCREPANCY FORM --- */
               <div className="max-w-2xl mx-auto space-y-6">

@@ -74,7 +74,7 @@ export default function Compare({ candidates, lang, fontSize }: CompareProps) {
         <meta property="og:description" content={pageDesc} />
         <meta property="og:url" content="https://tn-leaders.pages.dev/compare" />
       </Helmet>
-      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[60vh]">
+      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[]">
         <ComparisonView
           candidates={candidates}
           lang={lang}
