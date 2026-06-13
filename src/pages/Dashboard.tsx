@@ -40,7 +40,7 @@ export default function Dashboard({ candidates, lang, fontSize }: DashboardProps
         <meta property="og:description" content={pageDesc} />
         <meta property="og:url" content="https://tn-leaders.pages.dev/dashboard" />
       </Helmet>
-      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[]">
+      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[60vh]">
         <MetricsDashboard candidates={candidates} lang={lang} fontSize={fontSize} />
       </main>
     </>

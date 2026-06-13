@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Candidate, FontSizeSetting } from '../types';
 import { TRANSLATIONS } from '../data/translations';
 import { getIpcDescription, getIpcDetails } from '../data/criminalCodes';
@@ -70,6 +70,27 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
   const t = TRANSLATIONS[lang];
   const [viewMode, setViewMode] = useState<'standard' | 'easy'>('standard');
   const [copied, setCopied] = useState(false);
+
+  // Lock body scroll when modal is open
+  useEffect(() => {
+    const originalOverflow = document.body.style.overflow;
+    const originalPosition = document.body.style.position;
+    const originalWidth = document.body.style.width;
+    const scrollY = window.scrollY;
+    
+    document.body.style.overflow = 'hidden';
+    document.body.style.position = 'fixed';
+    document.body.style.width = '100%';
+    document.body.style.top = `-${scrollY}px`;
+    
+    return () => {
+      document.body.style.overflow = originalOverflow;
+      document.body.style.position = originalPosition;
+      document.body.style.width = originalWidth;
+      document.body.style.top = '';
+      window.scrollTo(0, scrollY);
+    };
+  }, []);
 
   const [showReportForm, setShowReportForm] = useState(false);
   const [category, setCategory] = useState('asset');
@@ -243,7 +264,7 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
   return (
     <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm flex items-center justify-center z-50 md:p-6 overflow-hidden animate-fade-in print:p-0 print:bg-white" id="cand-modal-container">
       <div 
-        className="w-full h-full md:max-h-[] max-w-6xl mx-auto bg-white flex flex-col md:flex-row md:rounded-3xl shadow-2xl overflow-y-auto md:overflow-hidden relative print:h-auto print:shadow-none"
+        className="w-full h-full md:max-h-[90vh] max-w-6xl mx-auto bg-white flex flex-col md:flex-row md:rounded-3xl shadow-2xl overflow-y-auto md:overflow-hidden relative print:h-auto print:shadow-none"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Mobile Sticky Header (Hidden on Desktop) */}
@@ -267,9 +288,9 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
         </div>
 
         {/* ================= LEFT SIDEBAR ================= */}
-        <div className="w-full md:w-[35%] bg-neutral-950 text-white flex flex-col shrink-0 overflow-visible md:overflow-y-auto print:hidden">
+        <div className="w-full md:w-[35%] bg-neutral-950 text-white flex flex-col shrink-0 overflow-hidden md:overflow-y-auto print:hidden max-h-[50vh] md:max-h-none">
           {/* Cover Photo / Header */}
-          <div className="p-8 pb-6 flex-1 flex flex-col items-center text-center">
+          <div className="p-8 pb-6 flex-1 flex flex-col items-center text-center overflow-y-auto">
             
             {/* Desktop Close Button */}
             <div className="w-full hidden md:flex justify-end mb-4">
@@ -362,7 +383,7 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
         </div>
 
         {/* ================= RIGHT MAIN CONTENT ================= */}
-        <div className="w-full md:w-[65%] flex flex-col bg-slate-50 relative h-auto md:h-full overflow-visible md:overflow-hidden">
+        <div className="w-full md:w-[65%] flex flex-col bg-slate-50 relative min-h-[50vh] md:min-h-0 md:h-full overflow-hidden">
           
           {/* Top Actions & Toggle */}
           <div className="absolute top-0 right-0 left-0 p-4 md:p-6 flex justify-between md:justify-end items-center z-10 bg-gradient-to-b from-slate-50 to-transparent pointer-events-none">
@@ -384,7 +405,7 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
             </div>
           </div>
 
-          <div className="flex-1 overflow-visible md:overflow-y-auto p-4 md:p-8 pt-6 md:pt-20">
+          <div className="flex-1 overflow-y-auto p-4 md:p-8 pt-6 md:pt-20">
             {showReportForm ? (
               /* --- DISCREPANCY FORM --- */
               <div className="max-w-2xl mx-auto space-y-6">

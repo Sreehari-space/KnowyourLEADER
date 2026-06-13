@@ -74,7 +74,7 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
         <meta property="og:description" content={pageDescription} />
         <meta property="og:url" content={`https://tn-leaders.pages.dev/party/${partyKey}`} />
       </Helmet>
-      <main ref={containerRef} className={`max-w-7xl mx-auto px-4 md:px-8 py-8 sm:py-12 min-h-[] ${getGlobalFontSizeClass()}`}>
+      <main ref={containerRef} className={`max-w-7xl mx-auto px-4 md:px-8 py-8 sm:py-12 min-h-[60vh] ${getGlobalFontSizeClass()}`}>
         {/* Back Button */}
       <button 
         onClick={() => navigate(-1)}

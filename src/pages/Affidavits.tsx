@@ -153,7 +153,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
         <meta property="og:description" content={pageDescription} />
         <meta property="og:url" content="https://tn-leaders.pages.dev/affidavits" />
       </Helmet>
-      <main className="max-w-7xl mx-auto px-4 md:px-8 pt-10 pb-16 min-h-[] space-y-10">
+      <main className="max-w-7xl mx-auto px-4 md:px-8 pt-10 pb-16 min-h-[60vh] space-y-10">
         <div className="space-y-8">
           {/* Header & Search */}
           <div ref={headerRef} className="w-full max-w-4xl mx-auto space-y-8 select-none">

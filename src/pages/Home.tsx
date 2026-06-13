@@ -363,7 +363,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
       />
 
       {/* ===== MAIN CONTENT ===== */}
-      <main ref={mainContentRef} className="max-w-7xl mx-auto px-4 md:px-8 pt-4 pb-10 sm:py-10 min-h-[] space-y-10" id="main-content">
+      <main ref={mainContentRef} className="max-w-7xl mx-auto px-4 md:px-8 pt-4 pb-10 sm:py-10 min-h-[60vh] space-y-10" id="main-content">
           <div className="space-y-8" id="affidavit-list-module">
             {/* Editorial Header + Search (Desktop only — mobile version is in hero) */}
             <div className="main-header-text w-full max-w-4xl mx-auto py-6 sm:py-10 space-y-8 select-none hidden sm:block">
