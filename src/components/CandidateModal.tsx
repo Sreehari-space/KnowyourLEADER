@@ -3,11 +3,12 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Candidate, FontSizeSetting } from '../types';
 import { TRANSLATIONS } from '../data/translations';
 import { getIpcDescription, getIpcDetails } from '../data/criminalCodes';
-import { X, ShieldCheck, ShieldAlert, FileText, Sparkles, Printer, ArrowRight, Share2, Check, AlertTriangle, Send, Info, User, Landmark, Scale, Briefcase, GraduationCap, Building, Map } from 'lucide-react';
+import { loadCandidateDetails, mergeDetails } from '../utils/detailLoader';
+import { X, ShieldCheck, ShieldAlert, FileText, Sparkles, Printer, ArrowRight, Share2, Check, AlertTriangle, Send, Info, User, Landmark, Scale, Briefcase, GraduationCap, Building, Map, Loader2 } from 'lucide-react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip as RechartsTooltip, Legend, ResponsiveContainer } from 'recharts';
 
 interface CandidateModalProps {
@@ -66,8 +67,39 @@ const formTranslations = {
   }
 };
 
-export default function CandidateModal({ candidate, lang, fontSize, onClose }: CandidateModalProps) {
+export default function CandidateModal({ candidate: rawCandidate, lang, fontSize, onClose }: CandidateModalProps) {
   const t = TRANSLATIONS[lang];
+
+  // --- On-demand detail loading ---
+  const [candidate, setCandidate] = useState(rawCandidate);
+  const [detailsLoading, setDetailsLoading] = useState(false);
+
+  useEffect(() => {
+    const hasDetails = rawCandidate.vehiclesData !== undefined || 
+                       rawCandidate.immovableAssetsDetails !== undefined || 
+                       rawCandidate.pendingCasesDetails !== undefined ||
+                       rawCandidate.vehicles !== undefined;
+    
+    if (hasDetails) {
+      setCandidate(rawCandidate);
+      return;
+    }
+
+    let cancelled = false;
+    setDetailsLoading(true);
+    
+    loadCandidateDetails(rawCandidate.id).then(details => {
+      if (!cancelled) {
+        setCandidate(mergeDetails(rawCandidate, details));
+        setDetailsLoading(false);
+      }
+    }).catch(() => {
+      if (!cancelled) setDetailsLoading(false);
+    });
+
+    return () => { cancelled = true; };
+  }, [rawCandidate]);
+
   const [viewMode, setViewMode] = useState<'standard' | 'easy'>('standard');
   const [copied, setCopied] = useState(false);
 
@@ -611,6 +643,14 @@ export default function CandidateModal({ candidate, lang, fontSize, onClose }: C
                 </div>
 
                 {/* Additional Asset Details */}
+                {detailsLoading && (
+                  <div className="flex items-center justify-center py-8 space-x-3 bg-white border border-slate-200 rounded-3xl shadow-sm">
+                    <Loader2 className="w-5 h-5 text-indigo-500 animate-spin" />
+                    <span className="text-sm font-semibold text-slate-500">
+                      {lang === 'en' ? 'Loading detailed asset data...' : 'விரிவான சொத்து தரவு ஏற்றப்படுகிறது...'}
+                    </span>
+                  </div>
+                )}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-xs">
                     <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center space-x-1.5">

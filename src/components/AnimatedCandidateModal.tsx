@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { gsap } from 'gsap';
 import { useGSAP } from '@gsap/react';
 
@@ -11,7 +11,8 @@ gsap.registerPlugin(useGSAP);
 import { Candidate, FontSizeSetting, AssetOwnership } from '../types';
 import { TRANSLATIONS } from '../data/translations';
 import { getIpcDescription, getIpcDetails } from '../data/criminalCodes';
-import { X, ShieldCheck, ShieldAlert, FileText, Sparkles, Printer, ArrowRight, Share2, Check, AlertTriangle, Send, Info, User, Landmark, Scale, Briefcase, GraduationCap, Building, Map } from 'lucide-react';
+import { loadCandidateDetails, mergeDetails, isDetailCached } from '../utils/detailLoader';
+import { X, ShieldCheck, ShieldAlert, FileText, Sparkles, Printer, ArrowRight, Share2, Check, AlertTriangle, Send, Info, User, Landmark, Scale, Briefcase, GraduationCap, Building, Map, Loader2 } from 'lucide-react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip as RechartsTooltip, Legend, ResponsiveContainer } from 'recharts';
 
 const ExpandableText = ({ text, clamp = 2, className = '', lang = 'en' }: { text: string, clamp?: number, className?: string, lang?: 'en' | 'ta' | string }) => {
@@ -267,8 +268,40 @@ const formTranslations = {
   }
 };
 
-export default function AnimatedCandidateModal({ candidate, lang, fontSize, onClose }: CandidateModalProps) {
+export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, fontSize, onClose }: CandidateModalProps) {
   const containerRef = useRef<HTMLDivElement>(null);
+
+  // --- On-demand detail loading ---
+  const [candidate, setCandidate] = useState(rawCandidate);
+  const [detailsLoading, setDetailsLoading] = useState(false);
+
+  useEffect(() => {
+    // If candidate already has detail fields (loaded from monolithic file), skip
+    const hasDetails = rawCandidate.vehiclesData !== undefined || 
+                       rawCandidate.immovableAssetsDetails !== undefined || 
+                       rawCandidate.pendingCasesDetails !== undefined ||
+                       rawCandidate.vehicles !== undefined;
+    
+    if (hasDetails) {
+      setCandidate(rawCandidate);
+      return;
+    }
+
+    // Load detail data from chunked files
+    let cancelled = false;
+    setDetailsLoading(true);
+    
+    loadCandidateDetails(rawCandidate.id).then(details => {
+      if (!cancelled) {
+        setCandidate(mergeDetails(rawCandidate, details));
+        setDetailsLoading(false);
+      }
+    }).catch(() => {
+      if (!cancelled) setDetailsLoading(false);
+    });
+
+    return () => { cancelled = true; };
+  }, [rawCandidate]);
 
   useGSAP(() => {
     const tl = gsap.timeline();
@@ -687,6 +720,14 @@ export default function AnimatedCandidateModal({ candidate, lang, fontSize, onCl
                 </div>
 
                 {/* Additional Asset Details */}
+                {detailsLoading && (
+                  <div className="flex items-center justify-center py-8 space-x-3 bg-white border border-slate-200 rounded-3xl shadow-sm">
+                    <Loader2 className="w-5 h-5 text-indigo-500 animate-spin" />
+                    <span className="text-sm font-semibold text-slate-500">
+                      {lang === 'en' ? 'Loading detailed asset data...' : 'விரிவான சொத்து தரவு ஏற்றப்படுகிறது...'}
+                    </span>
+                  </div>
+                )}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 items-stretch">
                   <MovableAssetCard 
                     title={lang === 'en' ? 'Motor Vehicles' : 'மோட்டார் வாகனங்கள்'} 

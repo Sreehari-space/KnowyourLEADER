@@ -3,3 +3,9 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+/data/*
+  Cache-Control: public, max-age=86400, immutable
+
+/merged_candidates.json
+  Cache-Control: public, max-age=86400

@@ -11,6 +11,7 @@ import Footer from './components/Footer';
 import Disclaimer from './components/Disclaimer';
 import ScrollToTop from './components/ScrollToTop';
 import { Loader2 } from 'lucide-react';
+import { preloadAllChunks } from './utils/detailLoader';
 
 const Home = React.lazy(() => import('./pages/Home'));
 const Affidavits = React.lazy(() => import('./pages/Affidavits'));
@@ -27,29 +28,53 @@ export default function App() {
   const [loading, setLoading] = useState<boolean>(true);
   const [disclaimerAccepted, setDisclaimerAccepted] = useState<boolean>(false);
 
-  // Load custom candidates and fetch merged JSON
+  // Load candidate data: try chunked index first, fall back to monolithic file
   useEffect(() => {
     async function loadData() {
+      let initialCandidates: Candidate[] = [];
+
       try {
-        const response = await fetch('/merged_candidates.json');
-        let initialCandidates = await response.json();
-        
-        const cached = localStorage.getItem('tn_election_custom_candidates_2026');
-        if (cached) {
-          try {
-            const parsed = JSON.parse(cached) as Candidate[];
-            const uniqueInitial = initialCandidates.filter((ic: Candidate) => !parsed.some(pc => pc.id === ic.id));
-            initialCandidates = [...uniqueInitial, ...parsed];
-          } catch (err) {
-            console.error('Failed reading candidate local cache databases', err);
-          }
+        // Strategy 1: Load lightweight index (~4MB vs 17MB)
+        const indexResponse = await fetch('/data/candidates_index.json');
+        if (indexResponse.ok) {
+          initialCandidates = await indexResponse.json();
+          console.log(`[DataLoader] Loaded ${initialCandidates.length} candidates from chunked index`);
+          
+          // Start background preload of detail chunks after a short delay
+          setTimeout(() => {
+            preloadAllChunks().catch(err => 
+              console.warn('[DataLoader] Background preload partial failure:', err)
+            );
+          }, 2000);
+        } else {
+          throw new Error(`Index fetch failed: ${indexResponse.status}`);
         }
-        setCandidates(initialCandidates);
-      } catch (e) {
-        console.error("Failed to load candidates data:", e);
-      } finally {
-        setLoading(false);
+      } catch (indexErr) {
+        // Strategy 2: Fallback to monolithic file (for dev or if chunks don't exist)
+        console.warn('[DataLoader] Chunked index unavailable, falling back to merged_candidates.json:', indexErr);
+        try {
+          const response = await fetch('/merged_candidates.json');
+          initialCandidates = await response.json();
+          console.log(`[DataLoader] Loaded ${initialCandidates.length} candidates from monolithic file`);
+        } catch (e) {
+          console.error('[DataLoader] Failed to load candidates data:', e);
+        }
       }
+
+      // Merge with locally-cached custom candidates
+      const cached = localStorage.getItem('tn_election_custom_candidates_2026');
+      if (cached) {
+        try {
+          const parsed = JSON.parse(cached) as Candidate[];
+          const uniqueInitial = initialCandidates.filter((ic: Candidate) => !parsed.some(pc => pc.id === ic.id));
+          initialCandidates = [...uniqueInitial, ...parsed];
+        } catch (err) {
+          console.error('Failed reading candidate local cache databases', err);
+        }
+      }
+
+      setCandidates(initialCandidates);
+      setLoading(false);
     }
     loadData();
   }, []);
