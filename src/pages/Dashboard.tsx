@@ -4,7 +4,7 @@
  */
 
 import React, { useEffect, useRef } from 'react';
-import { Helmet } from 'react-helmet-async';
+import { useDocumentMeta } from '../utils/documentMeta';
 import { gsap } from 'gsap';
 import { useGSAP } from '@gsap/react';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
@@ -29,18 +29,12 @@ export default function Dashboard({ candidates, lang, fontSize }: DashboardProps
   const pageDesc = lang === 'en' 
     ? 'Data-driven visual insights on candidate net worth, education profiles, and criminal record distributions.'
     : 'வேட்பாளர்களின் சொத்துக்கள் மற்றும் கிரிமினல் வழக்குகளின் புள்ளிவிவர தரவு.';
+
+  useDocumentMeta({ title: pageTitle, description: pageDesc, canonical: 'https://tn-leaders.pages.dev/dashboard' });
 
   return (
     <>
-      <Helmet>
-        <title>{pageTitle}</title>
-        <meta name="description" content={pageDesc} />
-        <link rel="canonical" href="https://tn-leaders.pages.dev/dashboard" />
-        <meta property="og:title" content={pageTitle} />
-        <meta property="og:description" content={pageDesc} />
-        <meta property="og:url" content="https://tn-leaders.pages.dev/dashboard" />
-      </Helmet>
-      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[]">
+      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-6 sm:py-12 min-h-[]">
         <MetricsDashboard candidates={candidates} lang={lang} fontSize={fontSize} />
       </main>
     </>

@@ -53,9 +53,13 @@ async function main() {
   let totalInserted = 0;
 
   const mlaList = getMlaList();
-  console.log(`Starting pipeline for ${mlaList.length} MLAs...`);
+  // Timeline files are keyed by affidavit id. Seats whose winner could not be
+  // matched to a record are skipped rather than written under a guessed id.
+  const trackable = mlaList.filter((m): m is typeof m & { id: string } => Boolean(m.id));
+  const skipped = mlaList.length - trackable.length;
+  console.log(`Starting pipeline for ${trackable.length} MLAs${skipped ? ` (${skipped} unmatched, skipped)` : ''}...`);
 
-  for (const mla of mlaList) {
+  for (const mla of trackable) {
     console.log(`Processing: ${mla.name} (${mla.constituency})`);
 
     // Load existing data

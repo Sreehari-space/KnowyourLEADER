@@ -21,8 +21,14 @@ export async function callGemini(prompt: string): Promise<string> {
     throw new Error("No Gemini keys found! Please add GEMINI_KEY_1 to your .env file.");
   }
 
+  // Non-429 failures previously hit `continue` inside an unbounded `while
+  // (true)`, so an invalid key retried forever and the pipeline hung instead of
+  // failing. Rate limits still get generous retries; hard errors do not.
+  const MAX_ERROR_ATTEMPTS = Math.max(3, KEYS.length * 2);
   let attempt = 0;
-  
+  let errorAttempts = 0;
+  let lastError: Error | null = null;
+
   while (true) {
     const key = KEYS[idx];
     idx = (idx + 1) % KEYS.length;
@@ -62,8 +68,18 @@ export async function callGemini(prompt: string): Promise<string> {
       const data = await res.json();
       return data.candidates?.[0]?.content?.parts?.[0]?.text || "";
     } catch (e: any) {
-      console.error(`[WARN] Gemini API error: ${e.message}`);
-      await new Promise(r => setTimeout(r, 1000)); // exponential backoff could be added here
+      lastError = e;
+      errorAttempts++;
+      console.error(`[WARN] Gemini API error (${errorAttempts}/${MAX_ERROR_ATTEMPTS}): ${e.message}`);
+
+      if (errorAttempts >= MAX_ERROR_ATTEMPTS) {
+        throw new Error(
+          `Gemini call failed after ${errorAttempts} attempts across ${KEYS.length} key(s). ` +
+          `Last error: ${lastError?.message}`
+        );
+      }
+
+      await new Promise(r => setTimeout(r, 1000 * errorAttempts)); // linear backoff
       continue;
     }
   }

@@ -6,6 +6,7 @@
 import React, { useRef } from 'react';
 import { gsap } from 'gsap';
 import { Candidate, FontSizeSetting } from '../types';
+import { FORMAT_NET_WORTH } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
 import { ShieldCheck, GraduationCap, Landmark, ArrowRight, AlertCircle, Briefcase, MapPin, Scale, Eye, Plus, Trophy } from 'lucide-react';
 
@@ -30,11 +31,16 @@ export default function CandidateCard({
   const t = TRANSLATIONS[lang];
   const desktopCardRef = useRef<HTMLDivElement>(null);
 
+  // Touch browsers synthesise mouseenter on tap, which left the card lifted and
+  // scaled with no matching mouseleave. Only run the lift on real pointers.
+  const canHover = () =>
+    typeof window !== 'undefined' && window.matchMedia('(hover: hover)').matches;
+
   const handleMouseEnter = (ref: React.RefObject<HTMLDivElement>) => {
-    if (ref.current) gsap.to(ref.current, { y: -8, scale: 1.02, duration: 0.4, ease: 'back.out(2)' });
+    if (ref.current && canHover()) gsap.to(ref.current, { y: -8, scale: 1.02, duration: 0.4, ease: 'back.out(2)' });
   };
   const handleMouseLeave = (ref: React.RefObject<HTMLDivElement>) => {
-    if (ref.current) gsap.to(ref.current, { y: 0, scale: 1, duration: 0.4, ease: 'power2.out' });
+    if (ref.current && canHover()) gsap.to(ref.current, { y: 0, scale: 1, duration: 0.4, ease: 'power2.out' });
   };
 
   // Upgraded Party Styles with richer gradients and softer shadows
@@ -171,6 +177,32 @@ export default function CandidateCard({
     return '#94A3B8';
   };
 
+  // The badge is a badge: full party names like "TAMILAGA VETTRI KAZHAGAM"
+  // wrap to three lines on a narrow card and shout louder than the candidate's
+  // name. Abbreviate, and keep the full name in the tooltip.
+  const getPartyShortName = (partyName: string): string => {
+    const p = partyName?.toUpperCase() || '';
+    if (p.includes('TAMILAGA VETTRI') || p.includes('VETTRI KAZHAGAM')) return 'TVK';
+    if (p.includes('ALL INDIA ANNA DRAVIDA')) return 'AIADMK';
+    if (p.includes('DESIYA MURPOKKU')) return 'DMDK';
+    if (p.includes('MARUMALARCHI DRAVIDA')) return 'MDMK';
+    if (p.includes('DRAVIDA MUNNETRA KAZHAGAM')) return 'DMK';
+    if (p.includes('BHARATIYA JANATA')) return 'BJP';
+    if (p.includes('INDIAN NATIONAL CONGRESS')) return 'INC';
+    if (p.includes('NAAM TAMILAR')) return 'NTK';
+    if (p.includes('VIDUTHALAI CHIRUTHAIGAL')) return 'VCK';
+    if (p.includes('PATTALI MAKKAL')) return 'PMK';
+    if (p.includes('COMMUNIST PARTY') && p.includes('MARXIST')) return 'CPI(M)';
+    if (p.includes('COMMUNIST PARTY')) return 'CPI';
+    if (p.includes('AMMA MAKKAL')) return 'AMMK';
+    if (p.includes('BAHUJAN SAMAJ')) return 'BSP';
+    if (p.includes('MUSLIM LEAGUE')) return 'IUML';
+    if (p.includes('SOCIAL DEMOCRATIC')) return 'SDPI';
+    if (p === 'INDEPENDENT') return 'IND';
+    if (p.length > 10) return `${p.slice(0, 9)}…`;
+    return partyName;
+  };
+
   const getPartyFlagUrl = (partyName: string) => {
     const p = partyName?.toUpperCase() || '';
     if (p === 'IND' || p === 'INDEPENDENT') return null;
@@ -219,7 +251,7 @@ export default function CandidateCard({
       >
         
         {/* Premium Top Banner with Glass & Gradients */}
-        <div className={`h-28 w-full relative overflow-hidden ${partyStyle.bg}`}>
+        <div className={`h-24 sm:h-28 w-full relative overflow-hidden ${partyStyle.bg}`}>
           {getPartyFlagUrl(candidate.party) ? (
             <div 
               className="absolute inset-0 z-0 bg-no-repeat bg-center bg-cover transition-transform duration-700 group-hover:scale-110" 
@@ -244,8 +276,8 @@ export default function CandidateCard({
         </div>
 
         {/* Avatar & Floating Badges */}
-        <div className="px-6 flex justify-between items-end -mt-12 relative z-10">
-          <div className={`w-24 h-24 rounded-2xl overflow-hidden border-[4px] border-white bg-white shadow-xl flex items-center justify-center text-3xl font-bold ${partyStyle.text} transform transition-transform duration-500 group-hover:scale-105 group-hover:-rotate-2 ring-1 ring-black/5`}>
+        <div className="px-4 sm:px-6 flex justify-between items-end gap-3 -mt-10 sm:-mt-12 relative z-10">
+          <div className={`w-20 h-20 sm:w-24 sm:h-24 shrink-0 rounded-2xl overflow-hidden border-[4px] border-white bg-white shadow-xl flex items-center justify-center text-2xl sm:text-3xl font-bold ${partyStyle.text} transform transition-transform duration-500 group-hover:scale-105 group-hover:-rotate-2 ring-1 ring-black/5`}>
             {candidate.photo ? (
               <img src={candidate.photo.replace('images/', '/candidates/')} alt={candidate.name.replace(/\s*\(Winner\)/i, '').trim()} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
             ) : (
@@ -253,12 +285,15 @@ export default function CandidateCard({
             )}
           </div>
           
-          <div className="flex flex-col items-end space-y-2 mb-2">
-            <div className={`px-4 py-1.5 rounded-xl text-xs font-black tracking-widest uppercase backdrop-blur-md ${partyStyle.badge}`}>
-              {candidate.party}
+          <div className="flex flex-col items-end space-y-1.5 mb-1.5 min-w-0">
+            <div
+              title={candidate.party}
+              className={`px-3 py-1 rounded-lg text-[11px] font-black tracking-wider uppercase whitespace-nowrap backdrop-blur-md ${partyStyle.badge}`}
+            >
+              {getPartyShortName(candidate.party)}
             </div>
             {isActualWinner && (
-              <div className="px-3 py-1 bg-gradient-to-r from-amber-400 to-yellow-500 text-yellow-950 font-black text-[10px] tracking-widest uppercase rounded-xl shadow-md flex items-center space-x-1 border border-yellow-300">
+              <div className="px-2.5 py-1 bg-gradient-to-r from-amber-400 to-yellow-500 text-yellow-950 font-black text-[9px] tracking-widest uppercase rounded-lg shadow-md flex items-center space-x-1 border border-yellow-300 whitespace-nowrap">
                 <Trophy className="w-3 h-3" />
                 <span>{lang === 'en' ? 'Winner' : 'வெற்றியாளர்'}</span>
               </div>
@@ -266,10 +301,10 @@ export default function CandidateCard({
           </div>
         </div>
 
-        <div className="px-6 pt-5 pb-6 flex-1 flex flex-col relative z-20 bg-gradient-to-b from-white to-neutral-50/50">
+        <div className="px-4 sm:px-6 pt-4 sm:pt-5 pb-5 sm:pb-6 flex-1 flex flex-col relative z-20 bg-gradient-to-b from-white to-neutral-50/50">
           {/* Candidate Identity */}
-          <div className="mb-6">
-            <div className="flex items-center space-x-1.5 mb-2 text-neutral-400">
+          <div className="mb-4 sm:mb-5">
+            <div className="flex items-center space-x-1.5 mb-1.5 text-neutral-400">
               <MapPin className="w-3.5 h-3.5" />
               <span className="text-[11px] font-mono font-bold tracking-widest uppercase truncate max-w-full block">
                 {constituencyClean}
@@ -278,12 +313,14 @@ export default function CandidateCard({
             <h3 className={`${nameSize()} font-display font-black text-neutral-900 tracking-tight group-hover:text-neutral-800 transition-colors line-clamp-2`}>
               {candidate.name.replace(/\s*\(Winner\)/i, '').trim()}
             </h3>
-            <div className="flex items-center space-x-3 mt-2">
-              <span className="text-xs font-bold text-neutral-400 bg-neutral-100 px-2 py-0.5 rounded-md">
+            {/* min-w-0 + shrink-0 keep the age pill on one line; without them
+                the truncating profession squeezes it into three lines. */}
+            <div className="flex items-center gap-2 sm:gap-3 mt-2 min-w-0">
+              <span className="shrink-0 whitespace-nowrap text-[11px] sm:text-xs font-bold text-neutral-500 bg-neutral-100 px-2 py-0.5 rounded-md">
                 {candidate.age} {t.years}
               </span>
               {candidate.selfProfession && (
-                <div className="flex items-center space-x-1 text-xs font-medium text-neutral-500 truncate">
+                <div className="flex items-center space-x-1 text-[11px] sm:text-xs font-medium text-neutral-500 min-w-0">
                   <Briefcase className="w-3 h-3 shrink-0" />
                   <span className="truncate">{candidate.selfProfession}</span>
                 </div>
@@ -292,57 +329,67 @@ export default function CandidateCard({
           </div>
 
           {/* Wealth & Legal Metrics */}
-          <div className="grid grid-cols-2 gap-3 mt-auto">
+          {/* flex-col + mt-auto on the value keeps both readouts on the same
+              baseline even when one label wraps to two lines. */}
+          <div className="grid grid-cols-2 gap-2.5 sm:gap-3 mt-auto">
             {/* Net Worth Glass Card */}
-            <div className="bg-white/60 backdrop-blur-sm rounded-2xl p-4 border border-neutral-100 shadow-[0_2px_10px_rgba(0,0,0,0.01)] group-hover:bg-white group-hover:border-emerald-100 group-hover:shadow-[0_8px_20px_rgba(16,185,129,0.06)] transition-all duration-300 relative overflow-hidden">
+            <div className="flex flex-col bg-white/60 backdrop-blur-sm rounded-2xl p-3 sm:p-4 border border-neutral-100 shadow-[0_2px_10px_rgba(0,0,0,0.01)] group-hover:bg-white group-hover:border-emerald-100 group-hover:shadow-[0_8px_20px_rgba(16,185,129,0.06)] transition-all duration-300 relative overflow-hidden">
               <div className="absolute top-0 right-0 w-16 h-16 bg-gradient-to-bl from-emerald-100/50 to-transparent rounded-bl-full transform translate-x-4 -translate-y-4"></div>
-              <div className="flex items-center space-x-2 mb-2 relative z-10">
-                <div className="bg-emerald-50 p-1.5 rounded-lg text-emerald-600">
+              <div className="flex items-center gap-1.5 sm:gap-2 mb-2 relative z-10">
+                <div className="bg-emerald-50 p-1.5 rounded-lg text-emerald-600 shrink-0">
                   <Landmark className="w-3.5 h-3.5" />
                 </div>
-                <span className="text-[10px] font-bold text-neutral-400 uppercase tracking-widest">{t.netWorth}</span>
+                <span className="text-[9px] sm:text-[10px] font-bold text-neutral-400 uppercase tracking-wider leading-tight">{t.netWorth}</span>
               </div>
-              <p className="text-[15px] sm:text-base font-black font-mono text-neutral-800 truncate relative z-10" title={candidate.netWorthFormatted}>
-                {candidate.netWorthFormatted}
+              <p
+                className={`mt-auto text-sm sm:text-base font-black font-mono truncate relative z-10 ${
+                  candidate.netWorthPositive === false ? 'text-rose-700' : 'text-neutral-800'
+                }`}
+                title={FORMAT_NET_WORTH(candidate)}
+              >
+                {FORMAT_NET_WORTH(candidate)}
               </p>
             </div>
 
             {/* Cases Glass Card */}
-            <div className={`${candidate.caseCount > 0 ? 'bg-white/60 border-rose-100 group-hover:border-rose-200 group-hover:shadow-[0_8px_20px_rgba(225,29,72,0.06)]' : 'bg-white/60 border-teal-100 group-hover:border-teal-200 group-hover:shadow-[0_8px_20px_rgba(13,148,136,0.06)]'} backdrop-blur-sm rounded-2xl p-4 border shadow-[0_2px_10px_rgba(0,0,0,0.01)] group-hover:bg-white transition-all duration-300 relative overflow-hidden`}>
+            <div className={`flex flex-col ${candidate.caseCount > 0 ? 'bg-white/60 border-rose-100 group-hover:border-rose-200 group-hover:shadow-[0_8px_20px_rgba(225,29,72,0.06)]' : 'bg-white/60 border-teal-100 group-hover:border-teal-200 group-hover:shadow-[0_8px_20px_rgba(13,148,136,0.06)]'} backdrop-blur-sm rounded-2xl p-3 sm:p-4 border shadow-[0_2px_10px_rgba(0,0,0,0.01)] group-hover:bg-white transition-all duration-300 relative overflow-hidden`}>
               <div className={`absolute top-0 right-0 w-16 h-16 bg-gradient-to-bl ${candidate.caseCount > 0 ? 'from-rose-100/50' : 'from-teal-100/50'} to-transparent rounded-bl-full transform translate-x-4 -translate-y-4`}></div>
-              <div className="flex items-center space-x-2 mb-2 relative z-10">
-                <div className={`${candidate.caseCount > 0 ? 'bg-rose-50 text-rose-600' : 'bg-teal-50 text-teal-600'} p-1.5 rounded-lg`}>
+              <div className="flex items-center gap-1.5 sm:gap-2 mb-2 relative z-10">
+                <div className={`${candidate.caseCount > 0 ? 'bg-rose-50 text-rose-600' : 'bg-teal-50 text-teal-600'} p-1.5 rounded-lg shrink-0`}>
                   {candidate.caseCount > 0 ? (
                     <AlertCircle className="w-3.5 h-3.5" />
                   ) : (
                     <ShieldCheck className="w-3.5 h-3.5" />
                   )}
                 </div>
-                <span className="text-[10px] font-bold text-neutral-400 uppercase tracking-widest">{t.criminalCases}</span>
+                <span className="text-[9px] sm:text-[10px] font-bold text-neutral-400 uppercase tracking-wider leading-tight">{t.criminalCases}</span>
               </div>
-              <p className={`text-[15px] sm:text-base font-black font-mono relative z-10 ${candidate.caseCount > 0 ? 'text-rose-700' : 'text-teal-700'}`}>
-                {candidate.caseCount > 0 ? `${candidate.caseCount} ${lang === 'en' ? 'Pending' : 'நிலுவையில்'}` : (lang === 'en' ? 'Clean Record' : 'சுத்தம்')}
+              <p className={`mt-auto text-sm sm:text-base font-black font-mono relative z-10 ${candidate.caseCount > 0 ? 'text-rose-700' : 'text-teal-700'}`}>
+                {/* caseCount is the total declared in the affidavit; the
+                    pending/convicted split is only known for a small subset,
+                    so this must not be labelled "Pending". */}
+                {candidate.caseCount > 0 ? `${candidate.caseCount} ${lang === 'en' ? 'Declared' : 'அறிவிக்கப்பட்டது'}` : (lang === 'en' ? 'Clean Record' : 'சுத்தம்')}
               </p>
             </div>
           </div>
 
           {/* Education Row */}
-          <div className="mt-3 bg-white/60 backdrop-blur-sm rounded-xl p-3.5 border border-neutral-100 flex items-center group-hover:bg-white group-hover:border-indigo-100 transition-all duration-300 shadow-[0_2px_10px_rgba(0,0,0,0.01)]">
-            <div className="flex items-center space-x-3 w-full">
+          <div className="mt-2.5 sm:mt-3 bg-white/60 backdrop-blur-sm rounded-xl p-3 border border-neutral-100 flex items-center group-hover:bg-white group-hover:border-indigo-100 transition-all duration-300 shadow-[0_2px_10px_rgba(0,0,0,0.01)]">
+            <div className="flex items-center gap-2.5 sm:gap-3 w-full min-w-0">
               <div className="bg-indigo-50 p-1.5 rounded-lg text-indigo-600 shrink-0">
                 <GraduationCap className="w-3.5 h-3.5" />
               </div>
-              <span className="text-xs font-bold text-neutral-700 truncate flex-1" title={candidate.education.split('Category: ')[1] || candidate.education}>
+              <span className="text-[11px] sm:text-xs font-bold text-neutral-700 truncate flex-1" title={candidate.education.split('Category: ')[1] || candidate.education}>
                 {candidate.education.split('Category: ')[1] || candidate.education}
               </span>
             </div>
           </div>
 
           {/* Interactive Actions */}
-          <div className="mt-6 grid grid-cols-2 gap-3">
-            <button 
+          <div className="mt-4 sm:mt-5 grid grid-cols-2 gap-2.5 sm:gap-3">
+            <button
               onClick={(e) => { e.stopPropagation(); onAddToCompare(candidate); }}
-              className={`py-3.5 rounded-xl text-xs font-bold transition-all duration-300 shadow-sm ${
+              className={`py-3 rounded-xl text-xs font-bold transition-all duration-300 shadow-sm ${
                 isComparing 
                   ? 'bg-neutral-900 text-white ring-2 ring-neutral-900 ring-offset-2' 
                   : 'bg-white border border-neutral-200 text-neutral-600 hover:bg-neutral-50 hover:text-neutral-900 hover:border-neutral-300 active:scale-95'
@@ -353,7 +400,7 @@ export default function CandidateCard({
             
             <button 
               onClick={(e) => { e.stopPropagation(); onOpenDetails(candidate); }}
-              className="py-3.5 rounded-xl text-xs font-black transition-all duration-300 bg-neutral-900 text-white hover:bg-neutral-800 hover:shadow-lg hover:shadow-neutral-900/20 flex items-center justify-center space-x-2 group/btn active:scale-95"
+              className="py-3 rounded-xl text-xs font-black transition-all duration-300 bg-neutral-900 text-white hover:bg-neutral-800 hover:shadow-lg hover:shadow-neutral-900/20 flex items-center justify-center gap-1.5 group/btn active:scale-95"
             >
               <span>{lang === 'en' ? 'View Profile' : 'விவரங்கள்'}</span>
               <ArrowRight className="w-4 h-4 transition-transform duration-300 group-hover/btn:translate-x-1.5" />

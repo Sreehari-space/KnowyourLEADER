@@ -5,11 +5,11 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Helmet } from 'react-helmet-async';
+import { useDocumentMeta } from '../utils/documentMeta';
 import { gsap } from 'gsap';
 import { useGSAP } from '@gsap/react';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
-import { FORMAT_CURRENCY } from '../data/candidates';
+import { FORMAT_CURRENCY, FORMAT_NET_WORTH } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
 import CandidateCard from '../components/CandidateCard';
 import AnimatedCandidateModal from '../components/AnimatedCandidateModal';
@@ -114,18 +114,18 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
     const cParty = activeDetailedCandidate.party;
     const cConst = activeDetailedCandidate.constituency.split('(')[0]?.trim() || activeDetailedCandidate.constituency;
     const cWorth = activeDetailedCandidate.netWorth;
-    let cWorthStr = activeDetailedCandidate.netWorthFormatted;
+    let cWorthStr = FORMAT_NET_WORTH(activeDetailedCandidate);
     const cCases = activeDetailedCandidate.caseCount;
 
     canonicalUrl = `https://tn-leaders.pages.dev/?candidate=${activeDetailedCandidate.id}`;
 
     if (lang === 'en') {
       pageTitle = `${cName} (${cParty}) - Net Worth, Assets & Criminal Cases | TN Leaders`;
-      pageDescription = `View verified ECI Form 26 self-declarations for ${cName} (${cParty}), candidate in ${cConst}, Tamil Nadu. Net Worth: ${cWorthStr}, Pending Cases: ${cCases}.`;
+      pageDescription = `View verified ECI Form 26 self-declarations for ${cName} (${cParty}), candidate in ${cConst}, Tamil Nadu. Net Worth: ${cWorthStr}, Declared Cases: ${cCases}.`;
       pageKeywords = `${cName} net worth, ${cName} assets, ${cName} criminal cases, ${cName} affidavit`;
     } else {
-      pageTitle = `${cName} (${cParty}) - சொத்து மதிப்பு & நிலுவை வழக்குகள் | TN Leaders`;
-      pageDescription = `${cConst} தொகுதி வேட்பாளர் ${cName} (${cParty}) அவர்களின் சொத்து விவரங்கள் மற்றும் ${cCases} நிலுவையில் கிரிமினல் வழக்குகள்.`;
+      pageTitle = `${cName} (${cParty}) - சொத்து மதிப்பு & அறிவிக்கப்பட்ட வழக்குகள் | TN Leaders`;
+      pageDescription = `${cConst} தொகுதி வேட்பாளர் ${cName} (${cParty}) அவர்களின் சொத்து விவரங்கள் மற்றும் ${cCases} அறிவிக்கப்பட்ட கிரிமினல் வழக்குகள்.`;
       pageKeywords = `${cName} சொத்துக்கள் 2026, ${cName} கிரிமினல் வழக்கு`;
     }
 
@@ -201,25 +201,19 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
     }
   };
 
+  useDocumentMeta({
+    title: pageTitle,
+    description: pageDescription,
+    keywords: pageKeywords,
+    canonical: canonicalUrl,
+    jsonLd: schemaJson,
+  });
+
   return (
     <div ref={containerRef} className="w-full">
-      <Helmet>
-        <title>{pageTitle}</title>
-        <meta name="description" content={pageDescription} />
-        <meta name="keywords" content={pageKeywords} />
-        <link rel="canonical" href={canonicalUrl} />
-        <meta property="og:title" content={pageTitle} />
-        <meta property="og:description" content={pageDescription} />
-        <meta property="og:url" content={canonicalUrl} />
-        <meta property="twitter:title" content={pageTitle} />
-        <meta property="twitter:description" content={pageDescription} />
-        <script type="application/ld+json">
-          {JSON.stringify(schemaJson)}
-        </script>
-      </Helmet>
 
       {/* ===== HERO SECTION ===== */}
-      <header className="hero-section-wrapper px-4 md:px-8 max-w-7xl mx-auto select-none pt-8 sm:pt-16 pb-4 sm:pb-10">
+      <header className="hero-section-wrapper px-4 md:px-8 max-w-7xl mx-auto select-none pt-6 sm:pt-12 pb-2 sm:pb-6">
         {/* Hero Title */}
         <div className="text-center px-2">
           <h1 className="hero-title text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-[4rem] leading-[1.1] m-0 p-0 select-none">
@@ -250,7 +244,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
         </div>
 
         {/* Hero Figures */}
-        <div className="hero-figures-container w-full max-w-6xl mx-auto h-[200px] sm:h-[320px] md:h-[420px] mt-8 sm:mt-12">
+        <div className="hero-figures-container w-full max-w-6xl mx-auto h-[200px] sm:h-[320px] md:h-[420px] mt-5 sm:mt-8">
           {heroFigures.map((fig, idx) => (
             <div
               key={fig.key}
@@ -292,7 +286,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
         </div>
 
         {/* Mobile: Minimal search bar below figures */}
-        <div className="sm:hidden mt-4 px-4">
+        <div className="sm:hidden mt-3 px-4">
           <form onSubmit={handleSearchSubmit} className="relative max-w-sm mx-auto">
             <div className="flex items-center bg-white/90 backdrop-blur-md border border-neutral-200 rounded-2xl px-4 py-2.5 shadow-[0_2px_12px_rgba(0,0,0,0.06)]">
               <Search className="w-4 h-4 text-neutral-400 shrink-0" />
@@ -323,11 +317,13 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
         </div>
 
         {/* Stats Ticker */}
-        <div className="stats-ticker max-w-3xl mx-auto mt-6 sm:mt-10">
+        <div className="stats-ticker max-w-3xl mx-auto mt-4 sm:mt-7">
           <div className="flex items-center justify-center flex-nowrap overflow-x-auto pb-2 sm:pb-0 gap-2 sm:gap-4 text-[10px] sm:text-xs font-mono font-bold text-neutral-400 tracking-tight scrollbar-hide px-4 whitespace-nowrap">
             <div className="flex items-center space-x-1 shrink-0">
               <Users className="w-3.5 h-3.5 text-neutral-400" />
-              <span>4023 {lang === 'en' ? 'candidates' : 'வேட்பாளர்கள்'}</span>
+              {/* Derived, not hardcoded: the literal 4023 here disagreed with the
+                  3,990 records actually shipped in the dataset. */}
+              <span>{candidates.length.toLocaleString('en-IN')} {lang === 'en' ? 'candidates' : 'வேட்பாளர்கள்'}</span>
             </div>
             <span className="w-1 h-1 rounded-full bg-neutral-300 shrink-0" />
             <div className="flex items-center space-x-1 shrink-0">
@@ -343,7 +339,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
         </div>
 
         {/* Scroll CTA */}
-        <div className="text-center mt-6 sm:mt-8">
+        <div className="text-center mt-4 sm:mt-6">
           <button
             onClick={() => document.getElementById('main-content')?.scrollIntoView({ behavior: 'smooth' })}
             className="text-neutral-400 hover:text-neutral-600 transition-colors cursor-pointer animate-gentle-bounce inline-flex flex-col items-center space-y-1"
@@ -363,13 +359,13 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
       />
 
       {/* ===== MAIN CONTENT ===== */}
-      <main ref={mainContentRef} className="max-w-7xl mx-auto px-4 md:px-8 pt-4 pb-10 sm:py-10 min-h-[] space-y-10" id="main-content">
-          <div className="space-y-8" id="affidavit-list-module">
+      <main ref={mainContentRef} className="max-w-7xl mx-auto px-4 md:px-8 pt-2 pb-10 sm:py-8 min-h-[] space-y-8" id="main-content">
+          <div className="space-y-6" id="affidavit-list-module">
             {/* Editorial Header + Search (Desktop only — mobile version is in hero) */}
-            <div className="main-header-text w-full max-w-4xl mx-auto py-6 sm:py-10 space-y-8 select-none hidden sm:block">
-              
+            <div className="main-header-text w-full max-w-4xl mx-auto py-4 sm:py-8 space-y-6 select-none hidden sm:block">
+
               {/* Title & Subtitle */}
-              <div className="text-center space-y-4 px-2">
+              <div className="text-center space-y-3 px-2">
                 <h2 className="font-serif italic font-normal text-slate-800 text-2xl sm:text-4xl md:text-[3rem] leading-tight tracking-tight whitespace-nowrap overflow-hidden text-ellipsis">
                   {lang === 'en' ? 'You have the right to know' : 'உங்களுக்குத் தெரிந்துகொள்ள உரிமை உண்டு'}
                 </h2>
@@ -400,20 +396,20 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
             </div>
 
             {/* Results count */}
-            <div className="flex items-center justify-between max-w-4xl mx-auto px-1 mb-6">
-              <h3 className="text-xl sm:text-2xl font-display font-black text-neutral-900 tracking-tight">
+            <div className="flex items-center justify-between gap-3 max-w-4xl mx-auto px-1 mb-4">
+              <h3 className="text-lg sm:text-2xl font-display font-black text-neutral-900 tracking-tight">
                 {lang === 'en' ? 'Top 20 Declared Candidates' : 'முதல் 20 அறிவிக்கப்பட்ட வேட்பாளர்கள்'}
               </h3>
               <button 
                 onClick={() => navigate('/affidavits')}
-                className="text-xs font-bold text-indigo-600 hover:text-indigo-800 underline underline-offset-2"
+                className="text-xs font-bold text-indigo-600 hover:text-indigo-800 underline underline-offset-2 shrink-0 whitespace-nowrap"
               >
                 {lang === 'en' ? 'View All Affidavits' : 'அனைத்தையும் பார்க்கவும்'}
               </button>
             </div>
 
             {/* Candidate Grid */}
-            <div ref={candidateGridRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div ref={candidateGridRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
               {topCandidates.map((cand) => (
                 <CandidateCard
                   key={cand.id}
@@ -427,7 +423,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
               ))}
             </div>
             
-            <div className="text-center pt-8">
+            <div className="text-center pt-4 sm:pt-6">
               <button
                 onClick={() => navigate('/affidavits')}
                 className="px-8 py-4 bg-white border border-neutral-200 hover:border-indigo-200 text-neutral-800 hover:text-indigo-600 font-extrabold text-sm rounded-2xl shadow-sm hover:shadow-md transition-all cursor-pointer inline-flex items-center space-x-2"

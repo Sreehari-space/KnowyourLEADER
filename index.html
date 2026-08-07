@@ -7,6 +7,12 @@
     <title>TN Leaders — Tamil Nadu Candidate Transparency Portal 2026</title>
     <link rel="icon" type="image/png" href="/logo.png" />
     
+    <!--
+      These tags are the baseline the app then rewrites in place at runtime
+      (src/utils/documentMeta.ts). They must stay: crawlers that do not execute
+      JavaScript — Twitterbot among them — only ever see these.
+    -->
+
     <!-- Primary SEO Meta Tags -->
     <meta name="description" content="TN Leaders — transparent, non-partisan data portal for Tamil Nadu 2026 candidates. Explore detailed asset declarations, net worth, education, and pending criminal cases from official ECI affidavits." />
     <meta name="keywords" content="M K Stalin assets 2026, Edappadi Palaniswami net worth, K Annamalai election affidavit, Seeman criminal cases, Tamil Nadu election 2026 candidates, ECI Form 26 election portal, candidate affidavits TN 2026, political assets database Tamil Nadu" />
@@ -32,8 +38,7 @@
     <!-- Geo-tagging for regional search priority in Google India/Tamil Nadu -->
     <meta name="geo.region" content="IN-TN" />
     <meta name="geo.placename" content="Chennai, Tamil Nadu" />
-    
-    <!-- Dynamic Schema script will be injected here in React, but placeholder ensures compatibility -->
+
     <script id="seo-schema" type="application/ld+json">
       {
         "@context": "https://schema.org",

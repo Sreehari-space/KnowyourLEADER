@@ -6,7 +6,7 @@
 import React, { useState } from 'react';
 import { Candidate, FontSizeSetting } from '../types';
 import { TRANSLATIONS } from '../data/translations';
-import { FORMAT_CURRENCY } from '../data/candidates';
+import { FORMAT_CURRENCY, FORMAT_NET_WORTH } from '../data/candidates';
 import { ShieldAlert, ShieldCheck, Landmark, GraduationCap, Briefcase, Plus, TrendingDown, TrendingUp, Users } from 'lucide-react';
 
 interface ComparisonViewProps {
@@ -252,11 +252,15 @@ export default function ComparisonView({
               {/* Clean Net Worth comparison */}
               <div className="grid grid-cols-3 p-4 items-center bg-emerald-50/10">
                 <span className="font-extrabold text-slate-900">{t.netWorth}</span>
-                <div className="text-center font-black text-emerald-600 font-mono text-[15px]">
-                  {candA.netWorthFormatted}
+                <div className={`text-center font-black font-mono text-[15px] ${
+                  candA.netWorthPositive === false ? 'text-rose-600' : 'text-emerald-600'
+                }`}>
+                  {FORMAT_NET_WORTH(candA)}
                 </div>
-                <div className="text-center font-black text-emerald-600 font-mono text-[15px]">
-                  {candB.netWorthFormatted}
+                <div className={`text-center font-black font-mono text-[15px] ${
+                  candB.netWorthPositive === false ? 'text-rose-600' : 'text-emerald-600'
+                }`}>
+                  {FORMAT_NET_WORTH(candB)}
                 </div>
               </div>
 
@@ -267,7 +271,7 @@ export default function ComparisonView({
 
               {/* Cases listed comparison */}
               <div className="grid grid-cols-3 p-4 items-center">
-                <span className="font-bold text-slate-500">{lang === 'en' ? 'Pending Court Cases' : 'நிலுவையில் உள்ள வழக்கு எண்'}</span>
+                <span className="font-bold text-slate-500">{lang === 'en' ? 'Declared Court Cases' : 'அறிவிக்கப்பட்ட வழக்குகள்'}</span>
                 <div className="text-center">
                   {candA.caseCount > 0 ? (
                     <span className="text-xs bg-rose-50 border border-rose-200 text-rose-800 px-3 py-1 font-black rounded-full font-sans">

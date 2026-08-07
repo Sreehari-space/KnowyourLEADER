@@ -106,7 +106,7 @@ export default function App() {
         )}
 
         {loading ? (
-          <div className="flex flex-col items-center justify-center min-h-[] space-y-4">
+          <div className="flex flex-col items-center justify-center min-h-[60vh] space-y-4">
             <Loader2 className="w-12 h-12 text-indigo-600 animate-spin" />
             <p className="text-neutral-500 font-mono text-sm tracking-wide">
               {lang === 'en' ? 'Loading candidate database...' : 'வேட்பாளர் தரவுத்தளம் ஏற்றப்படுகிறது...'}
@@ -114,7 +114,7 @@ export default function App() {
           </div>
         ) : (
           <Suspense fallback={
-            <div className="flex flex-col items-center justify-center min-h-[]">
+            <div className="flex flex-col items-center justify-center min-h-[60vh]">
               <Loader2 className="w-8 h-8 text-indigo-400 animate-spin" />
             </div>
           }>
@@ -181,7 +181,7 @@ export default function App() {
           </Suspense>
         )}
 
-        <Footer lang={lang} />
+        <Footer lang={lang} candidates={candidates} />
       </div>
     </BrowserRouter>
   );

@@ -406,20 +406,6 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
       .map(([name, seats]) => ({ name, seats, color: getPartyFill(name) }));
   }, [paths, resultsData]);
 
-  // Mobile floating badges: only constituencies with candidates
-  const mobileBadges = useMemo(() => {
-    if (!isMobile) return [];
-    return paths.filter(p => p.candidates.length > 0).map(p => ({
-      x: p.centroid[0],
-      y: p.centroid[1],
-      name: p.candidates[0].name,
-      party: p.candidates[0].party,
-      acName: p.acName,
-      acNo: p.acNo,
-      candidates: p.candidates,
-    }));
-  }, [paths, isMobile, lang]);
-
   if (loading) {
     return (
       <section className="py-16 text-center space-y-4 map-section">
@@ -434,15 +420,15 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
   if (!geoData) return null;
 
   return (
-    <section ref={sectionRef} className="py-12 sm:py-16 map-section" id="constituency-map">
+    <section ref={sectionRef} className="py-8 sm:py-12 map-section" id="constituency-map">
       <div className="max-w-7xl mx-auto px-4 md:px-8">
         {/* Section Header */}
-        <div className="text-center space-y-3 mb-10">
+        <div className="text-center space-y-2 sm:space-y-3 mb-6 sm:mb-8">
           <div className="inline-flex items-center space-x-2 bg-neutral-100 border border-neutral-200/60 text-neutral-600 px-3 py-1.5 rounded-full text-[10px] font-mono font-bold uppercase tracking-widest">
             <MapPin className="w-3 h-3" />
             <span>{lang === 'en' ? '234 Constituencies' : '234 தொகுதிகள்'}</span>
           </div>
-          <h2 className="font-serif italic font-normal text-neutral-800 text-3xl sm:text-4xl md:text-5xl tracking-tight">
+          <h2 className="font-serif italic font-normal text-neutral-800 text-2xl sm:text-4xl md:text-5xl tracking-tight">
             {lang === 'en' ? 'Explore by Constituency' : 'தொகுதி வாரியாக ஆராயுங்கள்'}
           </h2>
           <p className="text-neutral-500 text-sm sm:text-base max-w-xl mx-auto">
@@ -453,11 +439,11 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
         </div>
 
         {/* Map + Detail Panel Grid */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-4 sm:gap-6 items-start">
           {/* Map */}
           <div
             ref={containerRef}
-            className="lg:col-span-8 relative bg-gradient-to-br from-neutral-50 to-neutral-100/50 border border-neutral-200/60 rounded-3xl p-4 sm:p-6 overflow-hidden touch-pan-y"
+            className="lg:col-span-8 relative bg-gradient-to-br from-neutral-50 to-neutral-100/50 border border-neutral-200/60 rounded-3xl p-3 sm:p-6 overflow-hidden touch-pan-y"
           >
             <svg
               ref={svgRef}
@@ -515,26 +501,28 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
               </div>
             )}
 
-            {/* Mobile Top-Left Floating Elements */}
+            {/* Mobile: legend + hint sit BELOW the map in normal flow.
+                They used to be absolutely positioned over the top-left of the
+                SVG, which covered the northern districts. */}
             {isMobile && (
-              <div className="absolute top-3 left-3 flex flex-col items-start space-y-2 z-20 pointer-events-none max-w-[85%]">
-                {/* Mobile: Compact Party Legend */}
+              <div className="mt-3 space-y-2">
                 {legendEntries.length > 0 && (
-                  <div className="bg-white/95 backdrop-blur-md border border-neutral-200/80 rounded-full px-3 py-1.5 shadow-sm inline-block">
-                    <div className="flex flex-wrap gap-x-2.5 gap-y-0.5">
-                      {legendEntries.slice(0, 5).map((entry) => (
-                        <span key={entry.name} className="inline-flex items-center space-x-1">
-                          <span className="w-1.5 h-1.5 rounded-full shrink-0" style={{ backgroundColor: entry.color }} />
-                          <span className="text-[8px] font-bold text-neutral-600 tracking-tight">{entry.name} {entry.seats}</span>
-                        </span>
-                      ))}
-                    </div>
+                  <div className="flex gap-1.5 overflow-x-auto scrollbar-hide -mx-1 px-1 pb-0.5">
+                    {legendEntries.map((entry) => (
+                      <span
+                        key={entry.name}
+                        className="inline-flex items-center space-x-1.5 shrink-0 bg-white border border-neutral-200/80 rounded-full px-2.5 py-1 shadow-[0_1px_3px_rgba(0,0,0,0.03)]"
+                      >
+                        <span className="w-2 h-2 rounded-full shrink-0" style={{ backgroundColor: entry.color }} />
+                        <span className="text-[10px] font-bold text-neutral-700 tracking-tight">{entry.name}</span>
+                        <span className="text-[10px] font-mono font-bold text-neutral-400">{entry.seats}</span>
+                      </span>
+                    ))}
                   </div>
                 )}
-                {/* Mobile Interaction hint */}
-                <div className="flex items-center space-x-1.5 text-[9px] font-mono font-medium text-neutral-400 bg-white/95 backdrop-blur-md px-3 py-1.5 rounded-full border border-neutral-200/80 shadow-sm inline-block">
-                  <MousePointerClick className="w-2.5 h-2.5 inline-block mr-1 -mt-0.5" />
-                  <span>{lang === 'en' ? 'Tap a badge to see details' : '\u0bb5\u0bbf\u0bb5\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bbe\u0ba3 \u0baa\u0bc7\u0b9f\u0bcd\u0b9c\u0bc8 \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0b95'}</span>
+                <div className="flex items-center justify-center space-x-1.5 text-[10px] font-mono font-medium text-neutral-400">
+                  <MousePointerClick className="w-3 h-3 shrink-0" />
+                  <span>{lang === 'en' ? 'Tap a constituency to see details' : '\u0bb5\u0bbf\u0bb5\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bbe\u0ba3 \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bc8 \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0b95'}</span>
                 </div>
               </div>
             )}
@@ -547,9 +535,10 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
               </div>
             )}
 
-            {/* Mobile Floating Candidate Card */}
+            {/* Mobile selected-constituency card — in flow beneath the map so
+                it never sits on top of the southern districts. */}
             {isMobile && selectedDetail && selectedDetail.candidates.length > 0 && (
-              <div className="absolute bottom-3 left-3 right-3 bg-white/95 backdrop-blur-md border border-neutral-200/80 rounded-2xl p-3.5 shadow-xl flex items-center justify-between animate-fade-in z-30">
+              <div className="mt-3 bg-white border border-neutral-200/80 rounded-2xl p-3 shadow-[0_2px_10px_rgba(0,0,0,0.05)] flex items-center justify-between animate-fade-in">
                 <div className="flex items-center space-x-3 max-w-[65%]">
                   {/* Floating Icon: Candidate Image / Party Circle */}
                   <div 
@@ -650,7 +639,7 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
                       {selectedDetail.totalCases}
                     </p>
                     <p className="text-[9px] font-mono text-neutral-400 uppercase tracking-widest mt-0.5">
-                      {lang === 'en' ? 'Pending Cases' : 'நிலுவை வழக்கு'}
+                      {lang === 'en' ? 'Declared Cases' : 'அறிவிக்கப்பட்ட வழக்கு'}
                     </p>
                   </div>
                   <div className="bg-white p-4 text-center">

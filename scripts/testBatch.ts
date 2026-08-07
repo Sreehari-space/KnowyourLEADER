@@ -30,10 +30,12 @@ function saveFile(data: MlaFile) {
 async function main() {
   const allMlas = getMlaList();
   
-  // Pick specific MLAs for the sample batch
-  const testMlas = allMlas.filter(m => 
-    m.name.includes("JOSEPH VIJAY")
-  ).slice(0, 1);
+  // Pick specific MLAs for the sample batch (name match is case-insensitive
+  // because the results file and the affidavit index differ in casing).
+  const testMlas = allMlas
+    .filter((m): m is typeof m & { id: string } => Boolean(m.id))
+    .filter(m => /joseph\s*vijay/i.test(m.name))
+    .slice(0, 1);
 
   console.log(`Running sample batch for: ${testMlas.map(m => m.name).join(', ')}`);
 

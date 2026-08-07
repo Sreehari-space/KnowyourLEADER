@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { gsap } from 'gsap';
 import { useGSAP } from '@gsap/react';
-import { Helmet } from 'react-helmet-async';
+import { useDocumentMeta } from '../utils/documentMeta';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import CandidateCard from '../components/CandidateCard';
 import { FORMAT_CURRENCY } from '../data/candidates';
@@ -63,32 +63,26 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
   const pageDescription = lang === 'en' 
     ? `View ${partyCandidates.length} candidate declarations for ${partyKey}. Total declared assets: ${FORMAT_CURRENCY(totalAssets, lang)}.` 
     : `${partyKey} கட்சியின் வேட்பாளர்கள் மற்றும் சொத்து விவரங்கள்.`;
+
+  useDocumentMeta({ title: pageTitle, description: pageDescription, canonical: `https://tn-leaders.pages.dev/party/${partyKey}` });
 
   return (
     <>
-      <Helmet>
-        <title>{pageTitle}</title>
-        <meta name="description" content={pageDescription} />
-        <link rel="canonical" href={`https://tn-leaders.pages.dev/party/${partyKey}`} />
-        <meta property="og:title" content={pageTitle} />
-        <meta property="og:description" content={pageDescription} />
-        <meta property="og:url" content={`https://tn-leaders.pages.dev/party/${partyKey}`} />
-      </Helmet>
-      <main ref={containerRef} className={`max-w-7xl mx-auto px-4 md:px-8 py-8 sm:py-12 min-h-[] ${getGlobalFontSizeClass()}`}>
+      <main ref={containerRef} className={`max-w-7xl mx-auto px-4 md:px-8 py-6 sm:py-10 min-h-[] ${getGlobalFontSizeClass()}`}>
         {/* Back Button */}
       <button 
         onClick={() => navigate(-1)}
-        className="mb-8 flex items-center space-x-2 text-neutral-500 hover:text-neutral-900 transition-colors font-bold text-sm"
+        className="mb-5 sm:mb-8 flex items-center space-x-2 text-neutral-500 hover:text-neutral-900 transition-colors font-bold text-sm"
       >
         <ArrowLeft className="w-4 h-4" />
         <span>{lang === 'en' ? 'Back' : 'திரும்பிச் செல்'}</span>
       </button>
 
       {/* Header Section */}
-      <div ref={headerRef} className="bg-white rounded-3xl p-6 sm:p-10 border border-neutral-200/60 shadow-sm mb-10" style={{ opacity: 0 }}>
-        <div className="flex flex-col md:flex-row md:items-end justify-between gap-6">
+      <div ref={headerRef} className="bg-white rounded-3xl p-5 sm:p-10 border border-neutral-200/60 shadow-sm mb-6 sm:mb-10" style={{ opacity: 0 }}>
+        <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 sm:gap-6">
           <div>
-            <h1 className="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight text-neutral-900 mb-2 uppercase">
+            <h1 className="text-3xl sm:text-5xl md:text-6xl font-black tracking-tight text-neutral-900 mb-2 uppercase">
               {partyKey}
             </h1>
             <p className="text-neutral-500 font-medium text-lg">
@@ -116,7 +110,7 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
             <div className="space-y-1">
               <div className="flex items-center space-x-1.5 text-neutral-400">
                 <ShieldAlert className="w-4 h-4" />
-                <span className="text-xs font-bold uppercase tracking-widest">{lang === 'en' ? 'Pending Cases' : 'நிலுவை வழக்குகள்'}</span>
+                <span className="text-xs font-bold uppercase tracking-widest">{lang === 'en' ? 'Declared Cases' : 'அறிவிக்கப்பட்ட வழக்குகள்'}</span>
               </div>
               <p className="text-2xl font-black text-neutral-900">{totalCases}</p>
             </div>

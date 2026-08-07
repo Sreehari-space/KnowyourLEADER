@@ -120,12 +120,12 @@ export default function Header({
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 md:px-8">
-        <div className="flex items-center justify-between h-14 sm:h-16">
+        <div className="relative flex items-center justify-between h-14 sm:h-16">
           {/* Left: Logo / Brand */}
           <Link to="/" className="flex items-center space-x-3 shrink-0 group cursor-pointer">
             {/* Brand Mark */}
             <img src="/logo.png" alt="TN Leaders Logo" className="w-8 h-8 object-contain rounded-xl shadow-sm bg-black p-1 transition-transform group-hover:scale-105" />
-            <div className="hidden sm:flex sm:flex-col justify-center">
+            <div className="hidden lg:flex lg:flex-col justify-center">
               <span className="font-display font-bold text-neutral-900 text-[15px] tracking-tight leading-none mb-[1px]">
                 TN Leaders
               </span>
@@ -135,8 +135,23 @@ export default function Header({
             </div>
           </Link>
 
+          {/* Center: Brand wordmark — mobile & tablet only.
+              Absolutely centred so it stays optically centred in the header
+              regardless of how wide the logo and menu button are. */}
+          <Link
+            to="/"
+            className="lg:hidden absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center text-center cursor-pointer"
+          >
+            <span className="font-display font-bold text-neutral-900 text-[15px] tracking-tight leading-none mb-[1px]">
+              TN Leaders
+            </span>
+            <span className="block text-[9px] font-mono text-neutral-400 tracking-wider uppercase font-bold leading-none">
+              {lang === 'en' ? 'Transparency Portal' : 'வெளிப்படைத்தன்மை தளம்'}
+            </span>
+          </Link>
+
           {/* Center: Desktop Navigation Tabs */}
-          <nav className="hidden md:flex items-center space-x-1" id="navigation-anchor">
+          <nav className="hidden lg:flex items-center space-x-1" id="navigation-anchor">
             {navTabs.map((tab) => {
               const Icon = tab.icon;
               const isActive = location.pathname === tab.path;
@@ -183,7 +198,9 @@ export default function Header({
             {/* Mobile Menu Toggle */}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="md:hidden p-2 text-neutral-600 hover:bg-neutral-100 rounded-xl transition-all cursor-pointer"
+              className="lg:hidden p-2 text-neutral-600 hover:bg-neutral-100 rounded-xl transition-all cursor-pointer"
+              aria-label={mobileMenuOpen ? 'Close menu' : 'Open menu'}
+              aria-expanded={mobileMenuOpen}
             >
               {mobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
             </button>
@@ -192,7 +209,7 @@ export default function Header({
 
         {/* Mobile Navigation Drawer */}
         {mobileMenuOpen && (
-          <div className="md:hidden border-t border-neutral-200/60 py-3 space-y-1 animate-fade-in">
+          <div className="lg:hidden border-t border-neutral-200/60 py-3 space-y-1 animate-fade-in">
             {navTabs.map((tab) => {
               const Icon = tab.icon;
               const isActive = location.pathname === tab.path;

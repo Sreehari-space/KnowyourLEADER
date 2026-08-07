@@ -5,7 +5,7 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { Helmet } from 'react-helmet-async';
+import { useDocumentMeta } from '../utils/documentMeta';
 import { gsap } from 'gsap';
 import { useGSAP } from '@gsap/react';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
@@ -142,24 +142,18 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
 
   const pageTitle = lang === 'en' ? 'Affidavit Directory - TN Leaders' : 'பிரமாணப் பத்திரப் பட்டியல் - TN Leaders';
   const pageDescription = lang === 'en' ? 'Explore and filter the complete database of candidate declarations, net worth, and criminal cases.' : 'வேட்பாளர்களின் சொத்துக்கள் மற்றும் கிரிமினல் வழக்குகளின் முழுமையான தரவுத்தளத்தை ஆராயுங்கள்.';
+
+  useDocumentMeta({ title: pageTitle, description: pageDescription, canonical: 'https://tn-leaders.pages.dev/affidavits' });
 
   return (
     <div ref={containerRef} className="w-full">
-      <Helmet>
-        <title>{pageTitle}</title>
-        <meta name="description" content={pageDescription} />
-        <link rel="canonical" href="https://tn-leaders.pages.dev/affidavits" />
-        <meta property="og:title" content={pageTitle} />
-        <meta property="og:description" content={pageDescription} />
-        <meta property="og:url" content="https://tn-leaders.pages.dev/affidavits" />
-      </Helmet>
-      <main className="max-w-7xl mx-auto px-4 md:px-8 pt-10 pb-16 min-h-[] space-y-10">
-        <div className="space-y-8">
+      <main className="max-w-7xl mx-auto px-4 md:px-8 pt-6 pb-10 sm:pt-10 sm:pb-16 min-h-[] space-y-6 sm:space-y-10">
+        <div className="space-y-5 sm:space-y-8">
           {/* Header & Search */}
-          <div ref={headerRef} className="w-full max-w-4xl mx-auto space-y-8 select-none">
-            
-            <div className="text-center space-y-4">
-              <h1 className="font-serif italic font-normal text-slate-800 text-3xl sm:text-5xl leading-tight tracking-tight">
+          <div ref={headerRef} className="w-full max-w-4xl mx-auto space-y-5 sm:space-y-8 select-none">
+
+            <div className="text-center space-y-2.5 sm:space-y-4">
+              <h1 className="font-serif italic font-normal text-slate-800 text-2xl sm:text-5xl leading-tight tracking-tight">
                 {lang === 'en' ? 'Affidavit Directory' : 'பிரமாணப் பத்திரப் பட்டியல்'}
               </h1>
               <p className="font-sans text-neutral-600 text-sm sm:text-base">
@@ -305,7 +299,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
               </button>
             </div>
           ) : (
-            <div className="space-y-10">
+            <div className="space-y-6 sm:space-y-10">
               <div ref={gridRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {paginatedCandidates.map((cand) => (
                   <CandidateCard

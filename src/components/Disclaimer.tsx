@@ -1,11 +1,17 @@
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
+ *
+ * The tone here is deliberately casual, but every substantive point from the
+ * original legal notice is still made: the data is unverified and reproduced as
+ * filed, the MLA Watch summaries are AI-generated and may be wrong, declared
+ * cases are not convictions, and the project accepts no liability. Rewrite the
+ * voice freely; do not drop any of those four claims.
  */
 
 import React, { useState, useEffect } from 'react';
 import { LanguageSetting } from '../types';
-import { ShieldCheck, ArrowRight, Scale, Bot, FileText } from 'lucide-react';
+import { ArrowRight, Scale, Bot, FileText } from 'lucide-react';
 
 interface DisclaimerProps {
   lang: LanguageSetting;
@@ -13,11 +19,9 @@ interface DisclaimerProps {
 }
 
 export default function Disclaimer({ lang, onAccept }: DisclaimerProps) {
-  const [isAccepted, setIsAccepted] = useState(false);
   const [isFadingOut, setIsFadingOut] = useState(false);
 
   useEffect(() => {
-    // Check if user has already accepted the disclaimer
     const hasAccepted = localStorage.getItem('tn_election_disclaimer_accepted');
     if (hasAccepted === 'true') {
       onAccept();
@@ -27,101 +31,97 @@ export default function Disclaimer({ lang, onAccept }: DisclaimerProps) {
   const handleAccept = () => {
     setIsFadingOut(true);
     localStorage.setItem('tn_election_disclaimer_accepted', 'true');
-    // Allow animation to play out before notifying parent
     setTimeout(() => {
       onAccept();
     }, 400);
   };
 
+  const points = [
+    {
+      icon: <FileText className="w-4 h-4" />,
+      tint: 'bg-indigo-100 text-indigo-700',
+      titleEn: 'straight from the affidavits 🧾',
+      titleTa: 'நேரடியா அஃபிடவிட்-ல இருந்து 🧾',
+      bodyEn:
+        'Every number here is what the candidate themselves filed with the Election Commission. We did not verify it — we just made it readable. If it is wrong, it is wrong on the original too.',
+      bodyTa:
+        'இங்க இருக்குற எல்லா தகவலும் வேட்பாளர் தேர்தல் ஆணையத்துல தானே கொடுத்தது. நாங்க செக் பண்ணல — படிக்க easy-ஆ மட்டும் மாத்திருக்கோம்.',
+    },
+    {
+      icon: <Bot className="w-4 h-4" />,
+      tint: 'bg-amber-100 text-amber-700',
+      titleEn: 'AI wrote the MLA Watch recaps 🤖',
+      titleTa: 'MLA Watch summary-ஆ AI தான் எழுதுது 🤖',
+      bodyEn:
+        'Good, not perfect. It can miss context or read a headline wrong. Tap through to the original source before you quote it anywhere.',
+      bodyTa:
+        'நல்லா இருக்கும், ஆனா 100% சரி-ன்னு சொல்ல முடியாது. எங்கயாவது quote பண்ணுறதுக்கு முன்ன அசல் செய்தியை ஒரு தடவ பாருங்க.',
+    },
+    {
+      icon: <Scale className="w-4 h-4" />,
+      tint: 'bg-emerald-100 text-emerald-700',
+      titleEn: 'no sides, no sponsors ⚖️',
+      titleTa: 'யாரு பக்கமும் இல்ல ⚖️',
+      bodyEn:
+        'No party funds this and nobody paid for placement. Also important: a declared case is not a conviction. Read it as filed, make up your own mind — we are not liable for what you do with it.',
+      bodyTa:
+        'எந்த கட்சியும் இதுக்கு பணம் கொடுக்கல. முக்கியமா: வழக்கு அறிவிச்சிருக்காங்க-ங்கறது தண்டனை கிடையாது. நீங்களே முடிவு பண்ணுங்க — அதுக்கு நாங்க பொறுப்பு இல்ல.',
+    },
+  ];
+
   return (
-    <div className={`fixed inset-0 z-50 flex items-center justify-center p-4 bg-neutral-900/90 backdrop-blur-md transition-opacity duration-400 ${isFadingOut ? 'opacity-0 pointer-events-none' : 'opacity-100'}`}>
-      <div className="bg-white rounded-3xl w-full max-w-xl overflow-hidden shadow-2xl border border-neutral-200 animate-fade-in relative max-h-[] flex flex-col">
-        <div className="bg-indigo-600 h-2 w-full shrink-0"></div>
-        
-        <div className="p-5 sm:p-6 space-y-5 overflow-y-auto custom-scrollbar">
-          <div className="flex items-center space-x-4 shrink-0">
-            <div className="w-10 h-10 bg-indigo-50 rounded-xl flex items-center justify-center shrink-0">
-              <ShieldCheck className="w-5 h-5 text-indigo-600" />
-            </div>
-            <div>
-              <h2 className="text-lg sm:text-xl font-bold font-display text-neutral-900 tracking-tight">
-                {lang === 'en' ? 'Welcome to TN Leaders' : 'TN Leaders-க்கு வரவேற்கிறோம்'}
-              </h2>
-              <p className="text-[10px] font-mono font-bold text-neutral-400 uppercase tracking-widest mt-0.5">
-                {lang === 'en' ? 'Civic Transparency Portal' : 'குடிமை வெளிப்படைத்தன்மை தளம்'}
-              </p>
-            </div>
-          </div>
-          
-          <div className="space-y-3 text-neutral-600 text-sm leading-relaxed">
-            <p className="pb-1 text-xs sm:text-sm">
-              {lang === 'en' 
-                ? 'Please review the scope of data provided on this platform:' 
-                : 'இந்த தளத்தில் வழங்கப்படும் தரவுகளின் வரம்புகளை மதிப்பாய்வு செய்யவும்:'}
+    <div
+      className={`fixed inset-0 z-50 flex items-center justify-center p-4 bg-neutral-950/80 backdrop-blur-md transition-opacity duration-400 ${
+        isFadingOut ? 'opacity-0 pointer-events-none' : 'opacity-100'
+      }`}
+    >
+      <div className="bg-white rounded-[28px] w-full max-w-lg overflow-hidden shadow-2xl border border-white/10 animate-fade-in relative max-h-[90vh] flex flex-col">
+        <div className="h-1.5 w-full shrink-0 bg-gradient-to-r from-indigo-500 via-fuchsia-500 to-amber-400" />
+
+        <div className="p-5 sm:p-7 space-y-5 overflow-y-auto custom-scrollbar">
+          <div className="space-y-1.5">
+            <span className="inline-flex items-center gap-1.5 text-[10px] font-mono font-bold uppercase tracking-widest text-indigo-600 bg-indigo-50 border border-indigo-100 rounded-full px-2.5 py-1">
+              {lang === 'en' ? 'no cap · receipts only' : 'ஃபுல் ட்ரான்ஸ்பரன்சி'}
+            </span>
+            <h2 className="text-2xl sm:text-3xl font-display font-black text-neutral-900 tracking-tight leading-tight">
+              {lang === 'en' ? 'ok real quick 👀' : 'ஒரு நிமிஷம் 👀'}
+            </h2>
+            <p className="text-sm text-neutral-500 leading-relaxed">
+              {lang === 'en'
+                ? 'Three things before you scroll. Takes 10 seconds, then we are out of your way.'
+                : 'ஸ்க்ரோல் பண்றதுக்கு முன்ன மூணு விஷயம். 10 விநாடி, அவ்ளோதான்.'}
             </p>
-            
-            <div className="space-y-2">
-              {/* Point 1 */}
-              <div className="bg-slate-50 border border-slate-200/60 rounded-xl p-3 flex items-start space-x-3">
-                <div className="bg-white p-1.5 rounded-lg border border-slate-100 shadow-sm shrink-0">
-                  <FileText className="w-4 h-4 text-indigo-600" />
-                </div>
-                <div>
-                  <h4 className="font-bold text-slate-800 text-xs sm:text-sm mb-0.5">
-                    {lang === 'en' ? '1. Unverified Data' : '1. சரிபார்க்கப்படாத தரவு'}
-                  </h4>
-                  <p className="text-slate-600 text-[11px] sm:text-xs leading-snug">
-                    {lang === 'en'
-                      ? 'Financial & criminal records are aggregated from ECI Form 26 and not independently verified.'
-                      : 'தேர்தல் ஆணையத்தின் படிவம் 26 இலிருந்து நேரடியாகத் தொகுக்கப்பட்டவை. நாங்கள் இவற்றை சரிபார்க்கவில்லை.'}
-                  </p>
-                </div>
-              </div>
+          </div>
 
-              {/* Point 2 */}
-              <div className="bg-slate-50 border border-slate-200/60 rounded-xl p-3 flex items-start space-x-3">
-                <div className="bg-white p-1.5 rounded-lg border border-slate-100 shadow-sm shrink-0">
-                  <Bot className="w-4 h-4 text-amber-500" />
-                </div>
-                <div>
-                  <h4 className="font-bold text-slate-800 text-xs sm:text-sm mb-0.5">
-                    {lang === 'en' ? '2. AI News Summaries' : '2. AI செய்திகள்'}
+          <div className="space-y-2.5">
+            {points.map((p, i) => (
+              <div
+                key={i}
+                className="bg-neutral-50 border border-neutral-200/70 rounded-2xl p-3.5 flex items-start gap-3"
+              >
+                <div className={`${p.tint} p-2 rounded-xl shrink-0`}>{p.icon}</div>
+                <div className="min-w-0">
+                  <h4 className="font-black text-neutral-900 text-sm mb-1 tracking-tight">
+                    {lang === 'en' ? p.titleEn : p.titleTa}
                   </h4>
-                  <p className="text-slate-600 text-[11px] sm:text-xs leading-snug">
-                    {lang === 'en'
-                      ? '"MLA Watch" uses AI which may occasionally misinterpret context. Verify with original sources.'
-                      : '"எம்எல்ஏ கண்காணிப்பு" பகுதி AI-ஐ பயன்படுத்துகிறது. தவறுகள் நேரிடலாம், அசல் செய்திகளை சரிபார்க்கவும்.'}
+                  <p className="text-neutral-600 text-[12.5px] leading-relaxed">
+                    {lang === 'en' ? p.bodyEn : p.bodyTa}
                   </p>
                 </div>
               </div>
-
-              {/* Point 3 */}
-              <div className="bg-slate-50 border border-slate-200/60 rounded-xl p-3 flex items-start space-x-3">
-                <div className="bg-white p-1.5 rounded-lg border border-slate-100 shadow-sm shrink-0">
-                  <Scale className="w-4 h-4 text-emerald-600" />
-                </div>
-                <div>
-                  <h4 className="font-bold text-slate-800 text-xs sm:text-sm mb-0.5">
-                    {lang === 'en' ? '3. No Liability' : '3. பொறுப்பு துறப்பு'}
-                  </h4>
-                  <p className="text-slate-600 text-[11px] sm:text-xs leading-snug">
-                    {lang === 'en'
-                      ? 'This is a non-partisan civic tool. We hold no liability for errors or actions taken based on this data.'
-                      : 'இது ஒரு சார்பற்ற தளம். இதில் உள்ள பிழைகளுக்கோ அல்லது இதன் அடிப்படையில் எடுக்கப்படும் முடிவுகளுக்கோ நாங்கள் பொறுப்பேற்க மாட்டோம்.'}
-                  </p>
-                </div>
-              </div>
-            </div>
+            ))}
           </div>
         </div>
-        
-        {/* Sticky Footer */}
-        <div className="p-4 sm:p-5 border-t border-slate-100 bg-slate-50 flex justify-end shrink-0">
+
+        <div className="p-4 sm:p-5 border-t border-neutral-100 bg-neutral-50/80 flex items-center justify-between gap-3 shrink-0">
+          <span className="text-[11px] text-neutral-400 font-medium hidden sm:block">
+            {lang === 'en' ? 'source: ECI Form 26' : 'ஆதாரம்: ECI படிவம் 26'}
+          </span>
           <button
             onClick={handleAccept}
-            className="bg-neutral-900 text-white hover:bg-neutral-800 transition-colors px-6 py-2.5 rounded-xl font-bold flex items-center space-x-2 text-sm active:scale-95 shadow-sm"
+            className="bg-neutral-900 text-white hover:bg-neutral-800 transition-all px-6 py-3 rounded-2xl font-black flex items-center gap-2 text-sm active:scale-95 shadow-lg shadow-neutral-900/20 w-full sm:w-auto justify-center"
           >
-            <span>{lang === 'en' ? 'I Understand & Accept' : 'நான் புரிந்துகொண்டு ஏற்கிறேன்'}</span>
+            <span>{lang === 'en' ? 'bet, let me in' : 'சரி, உள்ள விடுங்க'}</span>
             <ArrowRight className="w-4 h-4" />
           </button>
         </div>

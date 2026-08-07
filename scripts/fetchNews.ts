@@ -45,52 +45,95 @@ async function resolveUrl(url: string): Promise<string> {
   return url;
 }
 
+const HONORIFICS = new Set(['dr', 'mr', 'mrs', 'ms', 'thiru', 'tmt', 'selvi', 'prof', 'adv', 'er']);
+
+/**
+ * Build a searchable name.
+ *
+ * The previous implementation used /^[A-Z\.]+\s*/i, and because of the `i`
+ * flag that character class matches *any* letters — so it ate the whole first
+ * word of an upper-case name: "LEEMAROSE MARTIN" became "MARTIN" and
+ * "AADHAV ARJUNA" became "ARJUNA". Searches were then run for the wrong person.
+ *
+ * Drop honorifics and standalone initials, keep every substantive word.
+ */
+export function toSearchableName(mlaName: string): string {
+  const words = String(mlaName || '')
+    .replace(/\(\s*winner\s*\)/gi, ' ')
+    .split(/[^A-Za-z]+/)
+    .filter(Boolean)
+    .filter(w => w.length > 1 && !HONORIFICS.has(w.toLowerCase()));
+
+  const titled = words.map(w => w[0].toUpperCase() + w.slice(1).toLowerCase());
+  return titled.join(' ').trim() || String(mlaName || '').trim();
+}
+
+const CUTOFF_DATE = new Date(process.env.MLA_WATCH_SINCE || '2026-05-06T00:00:00Z');
+
+/** Google News carries far more Indian regional coverage than Bing. */
+function feedUrls(query: string): Array<{ label: string; url: string }> {
+  const q = encodeURIComponent(query);
+  return [
+    { label: 'google', url: `https://news.google.com/rss/search?q=${q}&hl=en-IN&gl=IN&ceid=IN:en` },
+    { label: 'bing', url: `https://www.bing.com/news/search?q=${q}&format=RSS` },
+  ];
+}
+
 export async function fetchMlaArticles(
   mlaName: string,
   constituency: string
 ): Promise<Article[]> {
-  const cleanName = mlaName.replace(/^[A-Z\.]+\s*/i, '').replace(/\(Winner\)/ig, '').trim();
+  const cleanName = toSearchableName(mlaName);
   const cleanConst = constituency.replace(/\(.*?\)/g, '').trim();
+  const query = `${cleanName} ${cleanConst} MLA Tamil Nadu`;
 
-  const query = encodeURIComponent(`${cleanName} ${cleanConst} MLA Tamil Nadu`);
-  const rssUrl = `https://www.bing.com/news/search?q=${query}&format=RSS`;
+  const seen = new Set<string>();
+  const resolvedArticles: Article[] = [];
+  let fetched = 0;
+  let staleDropped = 0;
 
-  try {
-    const feed = await parser.parseURL(rssUrl);
-    
-    // Filter by date first
-    const CUTOFF_DATE = new Date("2026-05-06T00:00:00Z");
-    
-    const recentItems = feed.items.filter(item => {
-      if (!item.pubDate) return false;
-      const pubDate = new Date(item.pubDate);
-      return pubDate >= CUTOFF_DATE;
-    });
+  for (const feed of feedUrls(query)) {
+    let items;
+    try {
+      items = (await parser.parseURL(feed.url)).items;
+    } catch (err: any) {
+      console.warn(`[WARN] ${feed.label} feed failed for ${cleanName}: ${err.message}`);
+      continue;
+    }
 
-    // Process URLs sequentially to avoid spamming HEAD requests
-    const resolvedArticles: Article[] = [];
-    
-    for (const item of recentItems) {
-      const rawUrl = item.link || "";
-      const realUrl = await resolveUrl(rawUrl);
-      
+    fetched += items.length;
+
+    for (const item of items) {
+      if (!item.pubDate || new Date(item.pubDate) < CUTOFF_DATE) {
+        staleDropped++;
+        continue;
+      }
+
+      const realUrl = await resolveUrl(item.link || '');
+      let domain: string;
       try {
-        const domain = new URL(realUrl).hostname.replace("www.", "");
-        resolvedArticles.push({
-          title: item.title || "",
-          url: realUrl,
-          publishedAt: item.pubDate || new Date().toISOString(),
-          snippet: item.contentSnippet || item.content || "",
-          source: domain,
-        });
+        domain = new URL(realUrl).hostname.replace('www.', '');
       } catch {
         continue;
       }
-    }
 
-    return resolvedArticles;
-  } catch (err: any) {
-    console.error(`[ERROR] fetchNews failed for ${mlaName}:`, err.message);
-    return [];
+      // The same story is often syndicated across both feeds.
+      const key = (item.title || '').toLowerCase().replace(/\W+/g, '').slice(0, 80) || realUrl;
+      if (seen.has(key)) continue;
+      seen.add(key);
+
+      resolvedArticles.push({
+        title: item.title || '',
+        url: realUrl,
+        publishedAt: item.pubDate || new Date().toISOString(),
+        snippet: item.contentSnippet || item.content || '',
+        source: domain,
+      });
+    }
   }
+
+  console.log(
+    `  news: ${resolvedArticles.length} usable (${fetched} fetched, ${staleDropped} before cutoff) — "${query}"`
+  );
+  return resolvedArticles;
 }

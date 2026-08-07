@@ -7,7 +7,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { gsap } from 'gsap';
 import { useGSAP } from '@gsap/react';
-import { Helmet } from 'react-helmet-async';
+import { useDocumentMeta } from '../utils/documentMeta';
 import { Candidate, FontSizeSetting, LanguageSetting } from '../types';
 import ComparisonView from '../components/ComparisonView';
 
@@ -63,18 +63,12 @@ export default function Compare({ candidates, lang, fontSize }: CompareProps) {
     setCompareRightId(id);
     setSearchParams(prev => { prev.set('right', id); return prev; });
   };
+
+  useDocumentMeta({ title: pageTitle, description: pageDesc, canonical: 'https://tn-leaders.pages.dev/compare' });
 
   return (
     <>
-      <Helmet>
-        <title>{pageTitle}</title>
-        <meta name="description" content={pageDesc} />
-        <link rel="canonical" href="https://tn-leaders.pages.dev/compare" />
-        <meta property="og:title" content={pageTitle} />
-        <meta property="og:description" content={pageDesc} />
-        <meta property="og:url" content="https://tn-leaders.pages.dev/compare" />
-      </Helmet>
-      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-10 sm:py-16 min-h-[]">
+      <main ref={containerRef} className="max-w-7xl mx-auto px-4 md:px-8 py-6 sm:py-12 min-h-[]">
         <ComparisonView
           candidates={candidates}
           lang={lang}
