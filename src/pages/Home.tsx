@@ -181,7 +181,7 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
     { key: 'Rahul', src: '/rahul.png', alt: 'Rahul', party: 'INC', zBase: 10, offset: 'left-0 sm:left-[30px] md:left-[40px]', opacityBase: 0.55 },
     { key: 'Edappadi', src: '/edappadi.png', alt: 'Edappadi', party: 'AIADMK', zBase: 20, offset: 'left-0 sm:left-[15px] md:left-[20px]', opacityBase: 0.7 },
     { key: 'Vijay', src: '/vijay.png', alt: 'Vijay', party: 'TVK', zBase: 30, offset: '', opacityBase: 0.85 },
-    { key: 'Stalin', src: '/stalin.png', alt: 'Stalin', party: 'DMK', zBase: 20, offset: 'right-0 sm:right-[15px] md:right-[20px]', opacityBase: 0.7 },
+    { key: 'Udhayanithi', src: '/udhayanithi.png', alt: 'Udhayanithi', party: 'DMK', zBase: 20, offset: 'right-0 sm:right-[15px] md:right-[20px]', opacityBase: 0.7 },
     { key: 'Thiruma', src: '/thiruma.png', alt: 'Thiruma', party: 'VCK', zBase: 10, offset: 'right-0 sm:right-[30px] md:right-[40px]', opacityBase: 0.55 },
     { key: 'Anbumani', src: '/ANBUMANI-Photoroom.png', alt: 'Anbumani', party: 'PMK', zBase: 10, offset: 'right-0 sm:right-[45px] md:right-[60px]', opacityBase: 0.55 },
   ];
