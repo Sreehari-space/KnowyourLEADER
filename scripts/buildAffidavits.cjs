@@ -160,8 +160,22 @@ function discoverSchema(files) {
 
 function main() {
   if (!fs.existsSync(AFFIDAVIT_DIR)) {
+    // The source lives outside the repo, so it is absent on CI and on any
+    // clone. The generated chunks are committed precisely so the site can be
+    // built without it — skip the regeneration rather than killing the build.
+    const manifestPath = path.join(OUT_DIR, 'affidavit_manifest.json');
+    if (fs.existsSync(manifestPath)) {
+      const chunks = fs.readdirSync(OUT_DIR).filter(f => /^affidavit_chunk_\d+\.json$/.test(f));
+      console.log(`ℹ Affidavit source not present (${AFFIDAVIT_DIR}).`);
+      console.log(`  Using the ${chunks.length} committed chunks as-is. Nothing to rebuild.`);
+      return;
+    }
+
+    // No source and no prebuilt output means the site would ship without any
+    // Form 26 data. That is a real failure, so it still stops the build.
     console.error(`✖ Affidavit source directory not found: ${AFFIDAVIT_DIR}`);
-    console.error('  Pass it explicitly: node scripts/buildAffidavits.cjs <dir>');
+    console.error('  and no prebuilt affidavit_manifest.json exists in public/data.');
+    console.error('  Pass the source explicitly: node scripts/buildAffidavits.cjs <dir>');
     process.exit(1);
   }
 
