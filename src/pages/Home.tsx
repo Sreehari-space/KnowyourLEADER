@@ -370,9 +370,9 @@ export default function Home({ candidates, lang, fontSize }: HomeProps) {
                   {lang === 'en' ? 'You have the right to know' : 'உங்களுக்குத் தெரிந்துகொள்ள உரிமை உண்டு'}
                 </h2>
                 <p className="font-sans font-normal text-neutral-700 text-sm sm:text-lg md:text-[1.35rem] leading-relaxed max-w-3xl mx-auto tracking-normal">
-                  {lang === 'en' 
-                    ? 'This archive exists because we deserve to know what our representative declared before we elected them.' 
-                    : 'தேர்தலில் நாம் வாக்களிக்கும் முன், நமது பிரதிநிதிகள் சமர்ப்பித்த சுயவிவரங்களை அறியும் உரிமை நமக்கு உள்ளது என்பதால் இந்த தளம் இயங்குகிறது.'}
+                  {lang === 'en'
+                    ? 'The 2026 election is decided. This is the permanent record of what every candidate swore to before the vote — including the ones now representing you.'
+                    : '2026 தேர்தல் முடிந்துவிட்டது. வாக்குப்பதிவுக்கு முன் ஒவ்வொரு வேட்பாளரும் சத்தியப்பிரமாணமாக அளித்த விவரங்களின் நிரந்தரப் பதிவு இது — இப்போது உங்களைப் பிரதிநிதித்துவப்படுத்துபவர்கள் உட்பட.'}
                 </p>
               </div>
 

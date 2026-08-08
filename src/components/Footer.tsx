@@ -78,32 +78,32 @@ export default function Footer({ lang, candidates = [] }: FooterProps) {
         {/* Headline */}
         <div className="max-w-2xl space-y-4 mb-10 sm:mb-14">
           <span className="inline-flex items-center gap-1.5 text-[10px] font-mono font-bold uppercase tracking-widest text-indigo-300 bg-indigo-500/10 border border-indigo-400/20 rounded-full px-3 py-1.5">
-            {lang === 'en' ? 'receipts, not vibes' : 'ஆதாரம் மட்டும்'}
+            {lang === 'en' ? 'post-election record · receipts only' : 'தேர்தலுக்குப் பிந்தைய பதிவு'}
           </span>
           <h2 className="text-3xl sm:text-5xl font-display font-black text-white tracking-tight leading-[1.05]">
             {lang === 'en' ? (
               <>
-                know who you&apos;re
+                the vote is over.
                 <br />
-                voting for.{' '}
+                the record{' '}
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-fuchsia-400 to-amber-300">
-                  actually.
+                  isn&apos;t.
                 </span>
               </>
             ) : (
               <>
-                யாருக்கு வாக்களிக்கிறீர்கள்
+                வாக்குப்பதிவு முடிந்தது.
                 <br />
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-fuchsia-400 to-amber-300">
-                  தெரிஞ்சுக்கோங்க.
+                  பதிவு நிரந்தரம்.
                 </span>
               </>
             )}
           </h2>
           <p className="text-sm text-neutral-400 leading-relaxed max-w-lg">
             {lang === 'en'
-              ? 'Every figure on this site is lifted straight from the candidate’s own ECI Form 26 filing. No spin, no edits, no party money.'
-              : 'இந்த தளத்துல இருக்குற ஒவ்வொரு தகவலும் வேட்பாளரோட ECI படிவம் 26-ல இருந்து நேரடியா. எடிட் இல்ல, கட்சி பணம் இல்ல.'}
+              ? 'Every figure here is lifted straight from the candidate’s own ECI Form 26 filing, sworn before the 2026 vote. No spin, no edits, no party money.'
+              : '2026 தேர்தலுக்கு முன் வேட்பாளர்கள் ECI படிவம் 26-ல் சத்தியப்பிரமாணமாக அளித்த விவரங்கள் இவை. எடிட் இல்லை, கட்சிப் பணம் இல்லை.'}
           </p>
         </div>
 

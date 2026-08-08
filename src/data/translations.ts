@@ -6,7 +6,7 @@
 export const TRANSLATIONS = {
   en: {
     appTitle: 'TN Candidate Affidavit Portal 2026',
-    appSubtitle: 'Bringing full transparency to asset declarations and pending judicial cases for voters.',
+    appSubtitle: 'The public record of what every Tamil Nadu 2026 candidate declared on oath — assets, liabilities and criminal cases, as filed with the Election Commission.',
     searchPlaceholder: 'Search candidate name, constituency, or district...',
     filterParty: 'Filter by Party',
     filterEducation: 'Education Level',
@@ -136,7 +136,7 @@ export const TRANSLATIONS = {
   },
   ta: {
     appTitle: 'தமிழ்நாடு வேட்பாளர் பிரமாணப் பத்திர தளம் 2026',
-    appSubtitle: 'வாக்காளர்களுக்கான சொத்து பிரகடனங்கள் மற்றும் நிலுவையில் உள்ள நீதிமன்ற வழக்குகள் பற்றிய முழுமையான வெளிப்படைத்தன்மை.',
+    appSubtitle: 'தமிழ்நாடு 2026 தேர்தலில் ஒவ்வொரு வேட்பாளரும் சத்தியப்பிரமாணமாக அளித்த சொத்து, கடன் மற்றும் வழக்கு விவரங்களின் பொதுப் பதிவு.',
     searchPlaceholder: 'வேட்பாளர் பெயர், தொகுதி, அல்லது மாவட்டத்தின் பெயரைத் தேடவும்...',
     filterParty: 'கட்சி வாரியாக வடித்தல்',
     filterEducation: 'கல்வித் தகுதி',

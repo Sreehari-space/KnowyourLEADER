@@ -33,6 +33,9 @@ interface Props {
   lang: 'en' | 'ta';
 }
 
+/** Which part of the declaration the reader has chosen to see. */
+type Section = 'all' | 'identity' | 'movable' | 'immovable' | 'liabilities' | 'contracts' | 'tax' | 'cases';
+
 const T = {
   en: {
     title: 'Complete Form 26 Declaration',
@@ -68,9 +71,9 @@ const T = {
     heads: 'heads',
     declared: 'declared',
     items: 'items',
-    showAsFiled: 'Show as filed',
-    hideAsFiled: 'Hide original text',
     yearNotStated: 'Year not stated',
+    filterLabel: 'Show section',
+    filterAll: 'All sections',
     totalsNote: 'The totals the candidate swore to, as filed. Net worth is derived from them.',
     assetsLabel: 'Total declared assets',
     liabilitiesLabel: 'Total declared liabilities',
@@ -114,9 +117,9 @@ const T = {
     heads: 'தலைப்புகள்',
     declared: 'அறிவிக்கப்பட்டது',
     items: 'உருப்படிகள்',
-    showAsFiled: 'தாக்கல் செய்தபடி காட்டு',
-    hideAsFiled: 'மூல உரையை மறை',
     yearNotStated: 'ஆண்டு குறிப்பிடப்படவில்லை',
+    filterLabel: 'பிரிவைத் தேர்வுசெய்க',
+    filterAll: 'அனைத்துப் பிரிவுகளும்',
     totalsNote: 'வேட்பாளர் சத்தியப்பிரமாணமாக அளித்த மொத்த மதிப்புகள். நிகர சொத்து இவற்றிலிருந்து கணக்கிடப்பட்டது.',
     assetsLabel: 'மொத்த சொத்துக்கள்',
     liabilitiesLabel: 'மொத்தக் கடன்கள்',
@@ -313,7 +316,6 @@ const SectionHeading: React.FC<{
 const RelationDeclaration: React.FC<{
   relation: string; raw: string; lang: 'en' | 'ta';
 }> = ({ relation, raw, lang }) => {
-  const [showRaw, setShowRaw] = useState(false);
   const t = T[lang];
   const items = useMemo(() => itemizeDeclaration(raw), [raw]);
   const total = items.reduce((sum, item) => sum + (item.amount || 0), 0);
@@ -369,23 +371,6 @@ const RelationDeclaration: React.FC<{
         </p>
       )}
 
-      {items.length > 0 && (
-        <>
-          <button
-            type="button"
-            onClick={() => setShowRaw(v => !v)}
-            aria-expanded={showRaw}
-            className="text-[10px] font-bold text-slate-400 hover:text-indigo-600 uppercase tracking-widest mt-2 transition-colors"
-          >
-            {showRaw ? t.hideAsFiled : t.showAsFiled}
-          </button>
-          {showRaw && (
-            <p className="text-[11px] text-slate-500 leading-relaxed break-words mt-1.5 bg-slate-50 border border-slate-200 rounded-lg p-2.5 font-mono">
-              {tidy(raw)}
-            </p>
-          )}
-        </>
-      )}
     </div>
   );
 };
@@ -651,6 +636,7 @@ export default function FullAffidavit({ candidateId, lang }: Props) {
   const t = T[lang];
   const [data, setData] = useState<{ affidavit: FullAffidavitData; schema: AffidavitSchema } | null>(null);
   const [state, setState] = useState<'loading' | 'ready' | 'missing'>('loading');
+  const [section, setSection] = useState<Section>('all');
 
   useEffect(() => {
     let cancelled = false;
@@ -710,21 +696,53 @@ export default function FullAffidavit({ candidateId, lang }: Props) {
   const { affidavit: a, schema } = data;
   const cases = a.cases;
 
+  // The declaration runs long. `section` narrows it to one head at a time;
+  // 'all' keeps the full document, which stays the default so nothing is
+  // hidden from a reader who does not touch the control.
+  const sections: Array<{ key: Section; label: string }> = [
+    { key: 'all', label: t.filterAll },
+    ...(identityRows.length > 0 ? [{ key: 'identity' as Section, label: t.identity }] : []),
+    { key: 'movable', label: t.movable },
+    { key: 'immovable', label: t.immovable },
+    { key: 'liabilities', label: t.liabilities },
+    { key: 'contracts', label: t.contracts },
+    { key: 'tax', label: t.tax },
+    { key: 'cases', label: t.cases },
+  ];
+  const shows = (key: Section) => section === 'all' || section === key;
+
   return (
     <div className="pt-4">
       {/* Totals lead: the headline figures first, the heads they came from below. */}
       {a.summary && <DeclaredTotals summary={a.summary} lang={lang} />}
 
-      <div className="mb-6">
-        <h3 className="text-xl md:text-2xl font-display font-black text-slate-900 tracking-tight flex items-center gap-2">
-          <FileText className="w-6 h-6 text-indigo-600" />
-          <span>{t.title}</span>
-        </h3>
-        <p className="text-sm text-slate-500 mt-1.5 leading-relaxed max-w-3xl">{t.subtitle}</p>
+      <div className="mb-6 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-3">
+        <div className="min-w-0">
+          <h3 className="text-xl md:text-2xl font-display font-black text-slate-900 tracking-tight flex items-center gap-2">
+            <FileText className="w-6 h-6 text-indigo-600" />
+            <span>{t.title}</span>
+          </h3>
+          <p className="text-sm text-slate-500 mt-1.5 leading-relaxed max-w-3xl">{t.subtitle}</p>
+        </div>
+
+        <label className="shrink-0 flex flex-col gap-1">
+          <span className="text-[10px] font-bold text-slate-400 uppercase tracking-widest font-mono">
+            {t.filterLabel}
+          </span>
+          <select
+            value={section}
+            onChange={e => setSection(e.target.value as Section)}
+            className="bg-white border border-slate-300 rounded-xl px-3 py-2 pr-8 text-[13px] font-semibold text-slate-800 focus:outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-500/20 cursor-pointer max-w-full sm:max-w-[15rem] truncate"
+          >
+            {sections.map(s => (
+              <option key={s.key} value={s.key}>{s.label}</option>
+            ))}
+          </select>
+        </label>
       </div>
 
       {/* Identity & electoral record */}
-      {identityRows.length > 0 && (
+      {shows('identity') && identityRows.length > 0 && (
         <section className="mb-8">
           <SectionHeading icon={<Users className="w-5 h-5" />} title={t.identity} />
           <div className="bg-white border border-slate-200 rounded-2xl divide-y divide-slate-100">
@@ -740,40 +758,41 @@ export default function FullAffidavit({ candidateId, lang }: Props) {
         </section>
       )}
 
-      <SchemaSection
+      {shows('movable') && <SchemaSection
         icon={<Landmark className="w-5 h-5" />}
         title={t.movable}
         section={a.movable}
         headings={schema.movable}
         lang={lang}
-      />
+      />}
 
-      <SchemaSection
+      {shows('immovable') && <SchemaSection
         icon={<Home className="w-5 h-5" />}
         title={t.immovable}
         section={a.immovable}
         headings={schema.immovable}
         lang={lang}
-      />
+      />}
 
-      <SchemaSection
+      {shows('liabilities') && <SchemaSection
         icon={<Scale className="w-5 h-5" />}
         title={t.liabilities}
         section={a.liabilities}
         headings={schema.liabilities}
         lang={lang}
-      />
+      />}
 
-      <SchemaSection
+      {shows('contracts') && <SchemaSection
         icon={<Briefcase className="w-5 h-5" />}
         title={t.contracts}
         note={t.contractsNote}
         section={a.contracts}
         headings={schema.contracts}
         lang={lang}
-      />
+      />}
 
       {/* Income tax, every relation */}
+      {shows('tax') && (
       <section className="mb-8">
         <SectionHeading icon={<Receipt className="w-5 h-5" />} title={t.tax} note={t.taxNote} />
         {a.tax && a.tax.length > 0 ? (
@@ -816,8 +835,10 @@ export default function FullAffidavit({ candidateId, lang }: Props) {
           <p className="text-sm text-slate-500">{t.noFilings}</p>
         )}
       </section>
+      )}
 
       {/* Criminal cases, complete records */}
+      {shows('cases') && (
       <section className="mb-8">
         <SectionHeading
           icon={<Gavel className="w-5 h-5" />}
@@ -855,6 +876,7 @@ export default function FullAffidavit({ candidateId, lang }: Props) {
           <p className="text-sm text-slate-500">{t.noCases}</p>
         )}
       </section>
+      )}
 
     </div>
   );

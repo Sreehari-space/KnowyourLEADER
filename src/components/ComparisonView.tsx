@@ -303,7 +303,7 @@ export default function ComparisonView({
       ) : (
         <div className="bg-slate-50 border-2 border-dashed border-slate-200 py-12 rounded-3xl text-center space-y-2 text-slate-400">
           <Users className="w-12 h-12 mx-auto stroke-slate-300" />
-          <p className="font-bold">{lang === 'en' ? 'Choose candidates' : 'வேட்பாளர்களைத் தேர்ந்தெடுக்கவும்'}</p>
+          <p className="font-bold">{lang === 'en' ? 'Pick two candidates to compare' : 'ஒப்பிட இரு வேட்பாளர்களைத் தேர்வுசெய்க'}</p>
         </div>
       )}
     </div>
