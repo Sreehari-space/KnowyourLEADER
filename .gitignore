@@ -11,3 +11,8 @@ source/
 *.csv
 verification_report.json
 missing_data.txt
+
+# Output of scripts/findPropertyLinks.cjs. Deliberately untracked: it names
+# individuals and asserts links between them that are leads, not findings.
+# Regenerate it locally with `npm run analyse:property-links`.
+property_links_report.md
