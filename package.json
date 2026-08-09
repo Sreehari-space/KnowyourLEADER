@@ -9,6 +9,7 @@
     "build:affidavits": "node scripts/buildAffidavits.cjs",
     "verify:affidavits": "node scripts/verifyAffidavitCoverage.cjs",
     "analyse:property-links": "node scripts/findPropertyLinks.cjs",
+    "analyse:flags": "node scripts/findDeclarationFlags.cjs",
     "preview": "vite preview",
     "lint": "tsc --noEmit",
     "pipeline": "node --loader ts-node/esm scripts/runPipeline.ts"
