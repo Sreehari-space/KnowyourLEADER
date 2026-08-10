@@ -13,6 +13,7 @@ import { FORMAT_NET_WORTH } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
 import { loadCandidateDetails, mergeDetails } from '../utils/detailLoader';
 import FullAffidavit from './FullAffidavit';
+import PastElectionPanel from './PastElectionPanel';
 import { X, ShieldCheck, ShieldAlert, ArrowRight, Share2, Check, Send, User, Briefcase, GraduationCap, Building } from 'lucide-react';
 
 const ExpandableText = ({ text, clamp = 2, className = '', lang = 'en' }: { text: string, clamp?: number, className?: string, lang?: 'en' | 'ta' | string }) => {
@@ -481,6 +482,9 @@ export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, 
                     swore to, shown as filed. This replaces the curated summary
                     cards, which restated a subset of it less clearly. */}
                 <div className="border-t border-slate-200 pt-6 pb-8">
+                  {/* The same candidate in 2021, when a counterpart could be identified. */}
+                  <PastElectionPanel candidate={candidate} lang={lang} />
+                  
                   <FullAffidavit candidateId={candidate.id} lang={lang} />
                 </div>
 
