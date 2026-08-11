@@ -75,6 +75,19 @@ const Card: React.FC<{
           {now}
         </p>
 
+        {/* These are sworn figures, so the exact rupee is kept alongside the
+            rounded one. Below a lakh the rounded form is already exact and
+            repeating it would just be noise. */}
+        {Math.abs(nowValue) >= 100000 && (
+          <p
+            className={`text-[11px] font-mono mt-1 tabular-nums break-words ${
+              tone === 'net' ? 'text-indigo-200/80' : 'text-slate-400'
+            }`}
+          >
+            {nowValue < 0 ? '-' : ''}₹{Math.abs(nowValue).toLocaleString('en-IN')}
+          </p>
+        )}
+
         {hasPast && (
           <div
             className={`mt-3 pt-3 flex flex-wrap items-baseline gap-x-2 gap-y-1 border-t ${

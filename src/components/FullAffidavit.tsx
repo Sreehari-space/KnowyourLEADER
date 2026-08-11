@@ -58,7 +58,6 @@ const T = {
     pendingCases: 'Pending cases',
     convictedCases: 'Convicted cases',
     noCases: 'No criminal cases declared.',
-    totals: 'Declared Totals',
     declaredNil: 'Declared Nil',
     nilNote: 'The candidate declared nothing under these heads.',
     pan: 'PAN',
@@ -74,14 +73,6 @@ const T = {
     yearNotStated: 'Year not stated',
     filterLabel: 'Show section',
     filterAll: 'All sections',
-    totalsNote: 'The totals the candidate swore to, as filed. Net worth is derived from them.',
-    assetsLabel: 'Total declared assets',
-    liabilitiesLabel: 'Total declared liabilities',
-    netWorthLabel: 'Net worth',
-    netWorthNote: 'Assets minus liabilities',
-    netWorthNegative: 'Declared liabilities exceed declared assets',
-    nilLiabilities: 'None declared',
-    asFiled: 'As filed',
   },
   ta: {
     title: 'முழு படிவம் 26 அறிவிப்பு',
@@ -104,7 +95,6 @@ const T = {
     pendingCases: 'நிலுவையில் உள்ள வழக்குகள்',
     convictedCases: 'தண்டனை பெற்ற வழக்குகள்',
     noCases: 'குற்ற வழக்குகள் எதுவும் அறிவிக்கப்படவில்லை.',
-    totals: 'அறிவிக்கப்பட்ட மொத்தம்',
     declaredNil: 'ஏதுமில்லை என அறிவிப்பு',
     nilNote: 'இந்தத் தலைப்புகளின் கீழ் வேட்பாளர் எதையும் அறிவிக்கவில்லை.',
     pan: 'நிரந்தர கணக்கு எண்',
@@ -120,14 +110,6 @@ const T = {
     yearNotStated: 'ஆண்டு குறிப்பிடப்படவில்லை',
     filterLabel: 'பிரிவைத் தேர்வுசெய்க',
     filterAll: 'அனைத்துப் பிரிவுகளும்',
-    totalsNote: 'வேட்பாளர் சத்தியப்பிரமாணமாக அளித்த மொத்த மதிப்புகள். நிகர சொத்து இவற்றிலிருந்து கணக்கிடப்பட்டது.',
-    assetsLabel: 'மொத்த சொத்துக்கள்',
-    liabilitiesLabel: 'மொத்தக் கடன்கள்',
-    netWorthLabel: 'நிகர சொத்து',
-    netWorthNote: 'சொத்துக்கள் கழித்தல் கடன்கள்',
-    netWorthNegative: 'அறிவிக்கப்பட்ட கடன்கள் சொத்துக்களை விட அதிகம்',
-    nilLiabilities: 'ஏதுமில்லை',
-    asFiled: 'தாக்கல் செய்தபடி',
   },
 };
 
@@ -174,19 +156,6 @@ const formatINR = (n: number) => {
   if (v >= 100000) return `${sign}₹${(v / 100000).toFixed(2)} L`;
   return `${sign}₹${v.toLocaleString('en-IN')}`;
 };
-
-/**
- * Summary totals arrive as "Rs 6,48,85,90,407 ~648 Crore+" — an exact figure
- * followed by a rounded magnitude hint. Take the exact figure; the hint is a
- * restatement. Returns null when the shape is unrecognised, in which case the
- * caller falls back to showing the string as filed.
- */
-function parseDeclaredTotal(value: string): number | null {
-  const match = value.match(/Rs\.?\s*([\d,]+(?:\.\d+)?)/i) || value.match(/([\d,]{4,}(?:\.\d+)?)/);
-  if (!match) return null;
-  const n = parseFloat(match[1].replace(/,/g, ''));
-  return Number.isFinite(n) ? n : null;
-}
 
 /**
  * The ECI export concatenates every line item into one string, each ending with
@@ -522,114 +491,6 @@ const CaseRecord: React.FC<{
   );
 };
 
-/**
- * The declared totals: assets and liabilities as sworn, plus the net worth they
- * imply. This is the headline of the whole document, so it reads as a figure
- * block rather than the label/value row it used to be.
- *
- * Both forms of each number are kept — the rounded one to be read, the exact
- * one because these are sworn figures and precision is the point. Anything the
- * parser cannot recognise is shown verbatim rather than guessed at, and any
- * summary key beyond assets/liabilities is still listed.
- */
-const DeclaredTotals: React.FC<{ summary: Record<string, string>; lang: 'en' | 'ta' }> = ({ summary, lang }) => {
-  const t = T[lang];
-  const entries = Object.entries(summary);
-
-  const assetsEntry = entries.find(([k]) => /asset/i.test(k));
-  const liabilitiesEntry = entries.find(([k]) => /liabilit/i.test(k));
-  const otherEntries = entries.filter(([k]) => !/asset|liabilit/i.test(k));
-
-  const assets = assetsEntry ? parseDeclaredTotal(assetsEntry[1]) : null;
-  // A missing liabilities key means none were declared, which is a real zero.
-  const liabilities = liabilitiesEntry ? parseDeclaredTotal(liabilitiesEntry[1]) : 0;
-  const netWorth = assets !== null && liabilities !== null ? assets - liabilities : null;
-
-  const Figure = ({ label, amount, filed, tone }: {
-    label: string; amount: number | null; filed?: string; tone: 'assets' | 'liabilities';
-  }) => (
-    <div className="bg-white border border-slate-200 rounded-2xl p-4">
-      <span className="text-[10px] font-bold text-slate-400 uppercase tracking-widest font-mono">
-        {label}
-      </span>
-      <p className={`text-2xl md:text-3xl font-black font-mono tracking-tighter mt-1.5 tabular-nums ${
-        tone === 'liabilities' ? 'text-rose-600' : 'text-slate-900'
-      }`}>
-        {amount !== null ? formatINR(amount) : (filed || '—')}
-      </p>
-      {amount !== null && (
-        <p className="text-[11px] font-mono text-slate-400 mt-1 break-words">
-          {filed ? `${t.asFiled}: ${tidy(filed)}` : t.nilLiabilities}
-        </p>
-      )}
-    </div>
-  );
-
-  return (
-    <section className="mb-8">
-      <SectionHeading icon={<FileText className="w-5 h-5" />} title={t.totals} note={t.totalsNote} />
-
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-        <Figure
-          label={t.assetsLabel}
-          amount={assets}
-          filed={assetsEntry?.[1]}
-          tone="assets"
-        />
-        <Figure
-          label={t.liabilitiesLabel}
-          amount={liabilities}
-          filed={liabilitiesEntry?.[1]}
-          tone="liabilities"
-        />
-      </div>
-
-      {netWorth !== null && (
-        <div className={`mt-3 rounded-2xl p-5 md:p-6 text-white relative overflow-hidden ${
-          netWorth < 0 ? 'bg-rose-700' : 'bg-indigo-600'
-        }`}>
-          <div className={`absolute right-0 top-0 h-full w-1/2 bg-gradient-to-l to-transparent pointer-events-none ${
-            netWorth < 0 ? 'from-rose-600' : 'from-indigo-500'
-          }`} />
-          <div className="relative flex flex-wrap items-end justify-between gap-3">
-            <div className="min-w-0">
-              <span className={`text-[10px] font-bold uppercase tracking-widest font-mono ${
-                netWorth < 0 ? 'text-rose-200' : 'text-indigo-200'
-              }`}>
-                {t.netWorthLabel}
-              </span>
-              <p className="text-3xl md:text-4xl font-black font-mono tracking-tighter mt-1 tabular-nums break-words">
-                {formatINR(netWorth)}
-              </p>
-              <p className={`text-[11px] font-mono mt-1 tabular-nums ${
-                netWorth < 0 ? 'text-rose-200/80' : 'text-indigo-200/80'
-              }`}>
-                {netWorth < 0 ? '-' : ''}₹{Math.abs(netWorth).toLocaleString('en-IN')}
-              </p>
-            </div>
-            <span className="text-[10px] font-bold font-mono tracking-widest bg-white/10 border border-white/20 rounded-lg px-3 py-1.5 max-w-full">
-              {netWorth < 0 ? t.netWorthNegative : t.netWorthNote}
-            </span>
-          </div>
-        </div>
-      )}
-
-      {otherEntries.length > 0 && (
-        <div className="mt-3 bg-white border border-slate-200 rounded-2xl divide-y divide-slate-100">
-          {otherEntries.map(([label, value]) => (
-            <div key={label} className="flex flex-wrap items-baseline justify-between gap-2 p-4">
-              <span className="text-[10px] font-bold text-slate-400 uppercase tracking-widest font-mono">
-                {label.replace(/:$/, '')}
-              </span>
-              <span className="text-[13px] font-mono font-bold text-slate-900">{value}</span>
-            </div>
-          ))}
-        </div>
-      )}
-    </section>
-  );
-};
-
 // ─── Component ──────────────────────────────────────────────────────────
 
 export default function FullAffidavit({ candidateId, lang }: Props) {
@@ -713,9 +574,10 @@ export default function FullAffidavit({ candidateId, lang }: Props) {
 
   return (
     <div className="pt-4">
-      {/* Totals lead: the headline figures first, the heads they came from below. */}
-      {a.summary && <DeclaredTotals summary={a.summary} lang={lang} />}
-
+      {/* The headline totals are rendered once, by DeclaredTotalsPanel above
+          this section, so that a candidate who also stood in 2021 gets the
+          two-year comparison instead of a second copy of the same figures.
+          What follows is the heads those totals were summed from. */}
       <div className="mb-6 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-3">
         <div className="min-w-0">
           <h3 className="text-xl md:text-2xl font-display font-black text-slate-900 tracking-tight flex items-center gap-2">
