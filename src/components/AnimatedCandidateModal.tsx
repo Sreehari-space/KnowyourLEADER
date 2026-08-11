@@ -14,7 +14,6 @@ import { TRANSLATIONS } from '../data/translations';
 import { getIpcDetails } from '../data/criminalCodes';
 import { loadCandidateDetails, mergeDetails } from '../utils/detailLoader';
 import FullAffidavit from './FullAffidavit';
-import PastElectionPanel from './PastElectionPanel';
 import { X, ShieldCheck, ShieldAlert, ArrowRight, Share2, Check, AlertTriangle, Send, User, Landmark, Scale, Briefcase, GraduationCap, Building, Map, Loader2 } from 'lucide-react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip as RechartsTooltip, Legend, ResponsiveContainer } from 'recharts';
 
@@ -983,8 +982,6 @@ export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, 
                     swore to, shown as filed. This replaces the curated summary
                     cards, which restated a subset of it less clearly. */}
                 <div className="border-t border-slate-200 pt-6 pb-8">
-                  {/* The same candidate in 2021, when a counterpart could be identified. */}
-                  <PastElectionPanel candidate={candidate} lang={lang} />
                   
                   <FullAffidavit candidateId={candidate.id} lang={lang} />
                 </div>
