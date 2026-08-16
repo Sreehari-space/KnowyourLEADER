@@ -14,15 +14,22 @@
  * revaluation all produce the same arrow. The panel says so.
  */
 
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { TrendingUp, TrendingDown, Minus } from 'lucide-react';
 import { Candidate } from '../types';
 import { FORMAT_CURRENCY, FORMAT_NET_WORTH } from '../data/candidates';
-import { loadPastDeclaration, growth, PastCandidate, ElectionLink } from '../utils/pastElection';
+import { growth, PastCandidate, ElectionLink } from '../utils/pastElection';
 
 interface Props {
   candidate: Candidate;
   lang: 'en' | 'ta';
+  /**
+   * Resolved by the dossier and passed in, rather than fetched here. The full
+   * declaration below this panel needs the same record, and two components
+   * resolving the same link independently meant two passes over the link table
+   * for one open dossier.
+   */
+  past?: { record: PastCandidate; basis: ElectionLink['basis'] } | null;
 }
 
 type Tone = 'assets' | 'debt' | 'net';
@@ -71,7 +78,10 @@ const Card: React.FC<{
           {label}
         </span>
 
-        <p className={`text-2xl sm:text-4xl font-black font-mono tracking-tighter mt-2 tabular-nums break-words ${value}`}>
+        {/* No break-words on a figure. It wraps at the space before the unit
+            ("₹304.0 / Cr") but must never split a number mid-digit, which is
+            what break-words did at 118px. */}
+        <p className={`text-2xl sm:text-4xl font-black font-mono tracking-tighter mt-2 tabular-nums ${value}`}>
           {now}
         </p>
 
@@ -80,7 +90,7 @@ const Card: React.FC<{
             repeating it would just be noise. */}
         {Math.abs(nowValue) >= 100000 && (
           <p
-            className={`text-[11px] font-mono mt-1 tabular-nums break-words ${
+            className={`text-[11px] font-mono mt-1 tabular-nums ${
               tone === 'net' ? 'text-indigo-200/80' : 'text-slate-400'
             }`}
           >
@@ -121,16 +131,8 @@ const Card: React.FC<{
   );
 };
 
-export default function DeclaredTotalsPanel({ candidate, lang }: Props) {
-  const [past, setPast] = useState<{ past: PastCandidate; basis: ElectionLink['basis'] } | null>(null);
-
-  useEffect(() => {
-    let cancelled = false;
-    loadPastDeclaration(candidate.id).then(r => { if (!cancelled) setPast(r); });
-    return () => { cancelled = true; };
-  }, [candidate.id]);
-
-  const p = past?.past;
+export default function DeclaredTotalsPanel({ candidate, lang, past }: Props) {
+  const p = past?.record;
 
   return (
     <section className="space-y-4">

@@ -7,6 +7,7 @@ import React, { useState } from 'react';
 import { Candidate, FontSizeSetting } from '../types';
 import { TRANSLATIONS } from '../data/translations';
 import { FORMAT_CURRENCY } from '../data/candidates';
+import { partyColour } from '../data/parties';
 import { ShieldAlert, Landmark, GraduationCap, Coins, Users, CheckCircle } from 'lucide-react';
 
 interface MetricsDashboardProps {
@@ -71,51 +72,9 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
     .slice(0, Math.min(5, candidates.length));
 
   // Party colors matching TN political spectrum
-  const getPartyStyles = (partyName: string) => {
-    const p = partyName?.toUpperCase() || '';
-    
-    if (p === 'TVK' || p.includes('TAMILAGA VETTRI') || p.includes('VETTRI KAZHAGAM')) {
-      return { bg: 'bg-violet-600', border: 'border-violet-600', text: 'text-violet-600', fill: '#7C3AED' };
-    }
-    if (p === 'DMK' || p.includes('DRAVIDA MUNNETRA KAZHAGAM')) {
-      return { bg: 'bg-red-600', border: 'border-red-600', text: 'text-red-600', fill: '#DC2626' };
-    }
-    if (p === 'AIADMK' || p.includes('ALL INDIA ANNA DRAVIDA')) {
-      return { bg: 'bg-emerald-600', border: 'border-emerald-600', text: 'text-emerald-600', fill: '#059669' };
-    }
-    if (p === 'BJP' || p.includes('BHARATIYA JANATA')) {
-      return { bg: 'bg-amber-600', border: 'border-amber-600', text: 'text-amber-600', fill: '#D97706' };
-    }
-    if (p === 'NTK' || p.includes('NAAM TAMILAR')) {
-      return { bg: 'bg-yellow-500', border: 'border-yellow-500', text: 'text-yellow-600', fill: '#EAB308' };
-    }
-    if (p === 'INC' || p.includes('INDIAN NATIONAL CONGRESS')) {
-      return { bg: 'bg-blue-600', border: 'border-blue-600', text: 'text-blue-600', fill: '#2563EB' };
-    }
-    if (p === 'VCK' || p.includes('VIDUTHALAI CHIRUTHAIGAL')) {
-      return { bg: 'bg-purple-700', border: 'border-purple-700', text: 'text-purple-700', fill: '#7E22CE' };
-    }
-    if (p === 'PMK' || p.includes('PATTALI MAKKAL')) {
-      return { bg: 'bg-yellow-600', border: 'border-yellow-600', text: 'text-yellow-700', fill: '#CA8A04' };
-    }
-    if (p === 'CPI(M)' || p === 'CPIM' || p.includes('COMMUNIST PARTY OF INDIA (MARXIST)')) {
-      return { bg: 'bg-red-700', border: 'border-red-700', text: 'text-red-700', fill: '#B91C1C' };
-    }
-    if (p === 'CPI' || p.includes('COMMUNIST PARTY OF INDIA')) {
-      return { bg: 'bg-red-800', border: 'border-red-800', text: 'text-red-800', fill: '#991B1B' };
-    }
-    if (p === 'DMDK' || p.includes('DESIYA MURPOKKU')) {
-      return { bg: 'bg-cyan-700', border: 'border-cyan-700', text: 'text-cyan-700', fill: '#0E7490' };
-    }
-    if (p.includes('AMMA MAKKAL')) {
-      return { bg: 'bg-teal-700', border: 'border-teal-700', text: 'text-teal-700', fill: '#0D9488' };
-    }
-    if (p === 'IND' || p === 'INDEPENDENT') {
-      return { bg: 'bg-teal-600', border: 'border-teal-600', text: 'text-teal-600', fill: '#0D9488' };
-    }
-    
-    return { bg: 'bg-slate-500', border: 'border-slate-500', text: 'text-slate-500', fill: '#64748B' };
-  };
+  // Bar colour from the registry — see src/data/parties.ts. This was a fifth
+  // copy of the party table and it lacked BSP, IUML and MDMK entirely.
+  const getPartyStyles = (partyName: string) => ({ fill: partyColour(partyName) });
 
   const textClass = (step: number) => {
     if (fontSize === 'xlarge') return `text-2xl font-bold`;
@@ -131,7 +90,8 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
   return (
     <div className="space-y-6 sm:space-y-8 animate-fade-in">
       {/* Dynamic Summary Cards */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-5">
+      {/* Chrome: rounded KPI totals, each restated exactly elsewhere. */}
+      <div data-chrome className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-5">
         {/* KPI 1 */}
         <div className="bg-white border border-slate-200/80 p-5 sm:p-6 rounded-3xl flex items-center space-x-4 shadow-[0_4px_20px_rgba(0,0,0,0.02)] transition-all hover:shadow-md hover:border-slate-300">
           <div className="p-3 bg-slate-50 text-slate-800 rounded-2xl">
@@ -188,7 +148,8 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
       {/* Interactive Charts Matrix Grid */}
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
         {/* Controls Column */}
-        <div className="lg:col-span-3 flex flex-col sm:flex-row lg:flex-col gap-3">
+        {/* Chrome: chart selector labels. */}
+        <div data-chrome className="lg:col-span-3 flex flex-col sm:flex-row lg:flex-col gap-3">
           <button
             onClick={() => setActiveChart('assets')}
             className={`flex-1 text-left px-4 py-3 sm:py-4 rounded-xl border transition-all flex items-center justify-between cursor-pointer ${
@@ -265,17 +226,19 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
                   
                   return (
                     <div key={cand.id} className="group flex flex-col sm:flex-row sm:items-center space-y-1.5 sm:space-y-0 sm:space-x-4">
-                      {/* Name Label */}
-                      <div className="w-full sm:w-48 text-sm font-semibold text-slate-800 truncate">
-                        {idx + 1}. {cand.name} 
+                      {/* Name Label — declared data, so it wraps rather than
+                          clipping. Full party names run long ("Tamilaga Vettri
+                          Kazhagam") and `truncate` was cutting 113px off the
+                          candidate's own name. */}
+                      <div className="w-full sm:w-56 shrink-0 text-sm font-semibold text-slate-800 leading-snug">
+                        {idx + 1}. {cand.name}
                         <span className="ml-1.5 text-xs text-slate-400">({cand.party})</span>
                       </div>
                       
                       {/* SVG representation bar */}
                       <div className="w-full sm:flex-1 bg-slate-50 h-8 rounded-lg relative overflow-hidden flex items-center border border-slate-100/50">
                         <div 
-                          className={`h-full transition-all duration-700 shadow-sm flex items-center px-3 ${styles.bg}`}
-                          style={{ width: `${percent}%` }}
+                          className="h-full transition-all duration-700 shadow-sm flex items-center px-3" style={{ width: `${percent}%`, backgroundColor: styles.fill }}
                         >
                           {/* Inner Bar Label (inside if space permits, or above) */}
                           {percent > 35 && (
@@ -292,7 +255,7 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
                       </div>
 
                       {/* Constituency Tag */}
-                      <div className="hidden md:block w-36 text-right text-xs font-medium text-slate-400 font-mono truncate">
+                      <div data-chrome className="hidden md:block w-36 text-right text-xs font-medium text-slate-400 font-mono truncate">
                         {cand.constituency.split('(')[0]?.trim() || cand.constituency}
                       </div>
                     </div>
@@ -348,8 +311,7 @@ export default function MetricsDashboard({ candidates, lang, fontSize }: Metrics
                       {/* Bar indicator */}
                       <div className="w-full sm:flex-1 bg-slate-50 h-8 rounded-lg relative overflow-hidden flex items-center border border-slate-100/50">
                         <div 
-                          className={`h-full transition-all duration-700 flex items-center px-3 ${data.cases > 0 ? styles.bg : 'bg-slate-200'}`}
-                          style={{ width: `${ratio}%` }}
+                          className="h-full transition-all duration-700 flex items-center px-3" style={{ width: `${ratio}%`, backgroundColor: data.cases > 0 ? styles.fill : '#E2E8F0' }}
                         >
                           {ratio > 30 && (
                             <span className="text-white text-[10px] sm:text-xs font-bold truncate">

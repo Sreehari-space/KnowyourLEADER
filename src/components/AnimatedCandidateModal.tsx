@@ -12,8 +12,11 @@ import { Candidate, FontSizeSetting } from '../types';
 import { FORMAT_NET_WORTH } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
 import { loadCandidateDetails, mergeDetails } from '../utils/detailLoader';
+import { loadPastDeclaration, PastCandidate, ElectionLink } from '../utils/pastElection';
+import { partyColour } from '../data/parties';
 import FullAffidavit from './FullAffidavit';
 import DeclaredTotalsPanel from './DeclaredTotalsPanel';
+import DeclarationFlags from './DeclarationFlags';
 import { X, ShieldCheck, ShieldAlert, ArrowRight, Share2, Check, Send, User, Briefcase, GraduationCap, Building } from 'lucide-react';
 
 const ExpandableText = ({ text, clamp = 2, className = '', lang = 'en' }: { text: string, clamp?: number, className?: string, lang?: 'en' | 'ta' | string }) => {
@@ -131,8 +134,9 @@ export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, 
   const containerRef = useRef<HTMLDivElement>(null);
 
   // --- On-demand detail loading ---
-  // Still needed after the summary cards were removed: the detail chunks are
-  // where `discrepancies` comes from. FullAffidavit fetches its own data.
+  // The detail chunks carry the asset breakdowns the dossier reads. They no
+  // longer carry `discrepancies` — flags come from declaration_flags.json now,
+  // fetched by DeclarationFlags. FullAffidavit likewise fetches its own data.
   const [candidate, setCandidate] = useState(rawCandidate);
   const [detailsLoading, setDetailsLoading] = useState(false);
 
@@ -161,6 +165,27 @@ export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, 
 
     return () => { cancelled = true; };
   }, [rawCandidate]);
+
+  // --- The same person's 2021 record, where one can be identified ---
+  // Resolved once here and handed to both the totals panel and the full
+  // declaration, so the two years are merged into this one dossier rather than
+  // living on a page of their own. 2021 candidates with no 2026 counterpart are
+  // unreachable by design: the link table only points one way.
+  const [past, setPast] = useState<{ record: PastCandidate; basis: ElectionLink['basis'] } | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    setPast(null);
+
+    loadPastDeclaration(rawCandidate.id)
+      .then(result => {
+        if (cancelled || !result) return;
+        setPast({ record: result.past, basis: result.basis });
+      })
+      .catch(() => { /* The 2026 dossier is complete without it. */ });
+
+    return () => { cancelled = true; };
+  }, [rawCandidate.id]);
 
   useGSAP(() => {
     const tl = gsap.timeline();
@@ -269,23 +294,9 @@ export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, 
     return match ? match[1] : '';
   };
 
-  const getPartyBg = (partyName: string) => {
-    const p = partyName?.toUpperCase() || '';
-    if (p === 'TVK' || p.includes('TAMILAGA VETTRI') || p.includes('VETTRI KAZHAGAM')) return 'bg-violet-600';
-    if (p === 'DMK' || p.includes('DRAVIDA MUNNETRA KAZHAGAM')) return 'bg-red-600';
-    if (p === 'AIADMK' || p.includes('ALL INDIA ANNA DRAVIDA')) return 'bg-emerald-600';
-    if (p === 'BJP' || p.includes('BHARATIYA JANATA')) return 'bg-amber-500';
-    if (p === 'NTK' || p.includes('NAAM TAMILAR')) return 'bg-yellow-500';
-    if (p === 'INC' || p.includes('INDIAN NATIONAL CONGRESS')) return 'bg-blue-600';
-    if (p === 'VCK' || p.includes('VIDUTHALAI CHIRUTHAIGAL')) return 'bg-purple-700';
-    if (p === 'PMK' || p.includes('PATTALI MAKKAL')) return 'bg-yellow-600';
-    if (p === 'CPI(M)' || p === 'CPIM' || p.includes('COMMUNIST PARTY OF INDIA (MARXIST)')) return 'bg-red-700';
-    if (p === 'CPI' || p.includes('COMMUNIST PARTY OF INDIA')) return 'bg-red-800';
-    if (p === 'DMDK' || p.includes('DESIYA MURPOKKU')) return 'bg-cyan-700';
-    if (p.includes('AMMA MAKKAL')) return 'bg-teal-700';
-    if (p === 'IND' || p === 'INDEPENDENT') return 'bg-teal-600';
-    return 'bg-neutral-800';
-  };
+  // Party ground colour from the registry — see src/data/parties.ts. This was
+  // a sixth copy of the same substring table, and it disagreed with the others.
+  const partyBgStyle = { backgroundColor: partyColour(candidate.party) };
 
   return (
     <div ref={containerRef} className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm flex items-center justify-center z-50 md:p-6 overflow-hidden print:p-0 print:bg-white" id="cand-modal-container" style={{ opacity: 0 }}>
@@ -296,7 +307,7 @@ export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, 
         {/* Mobile Sticky Header (Hidden on Desktop) */}
         <div className="md:hidden sticky top-0 z-20 bg-neutral-950 text-white p-4 pt-[max(1rem,env(safe-area-inset-top))] flex justify-between items-center shadow-md">
           <div className="flex items-center space-x-3">
-             <div className={`w-10 h-10 rounded-full overflow-hidden flex items-center justify-center text-white font-bold text-lg border border-white/20 ${getPartyBg(candidate.party)}`}>
+             <div className="w-10 h-10 rounded-full overflow-hidden flex items-center justify-center text-white font-bold text-lg border border-white/20" style={partyBgStyle}>
               {candidate.photo ? (
                  <img src={candidate.photo.replace('images/', '/candidates/')} alt={candidate.name} className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
               ) : (
@@ -314,13 +325,16 @@ export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, 
         </div>
 
         {/* ================= LEFT SIDEBAR ================= */}
-        <div className="gsap-stagger-item w-full md:w-[35%] bg-neutral-950 text-white flex flex-col shrink-0 overflow-visible md:overflow-y-auto print:hidden">
+        {/* min-w keeps a floor under the sidebar. At 35% of a tablet-width
+            modal the education and occupation lines were wrapping inside
+            149px, roughly three words a line. */}
+        <div className="gsap-stagger-item w-full md:w-[35%] md:min-w-[19rem] bg-neutral-950 text-white flex flex-col shrink-0 overflow-visible md:overflow-y-auto print:hidden">
           {/* Cover Photo / Header */}
           <div className="p-8 pb-6 flex-1 flex flex-col items-center text-center">
             
             {/* Removed Desktop Close Button from Sidebar */}
 
-            <div className={`w-32 h-32 md:w-48 md:h-48 rounded-full overflow-hidden mb-6 flex items-center justify-center text-white font-display font-medium text-6xl shadow-2xl ring-4 ring-white/10 ${getPartyBg(candidate.party)}`}>
+            <div className="w-32 h-32 md:w-48 md:h-48 rounded-full overflow-hidden mb-6 flex items-center justify-center text-white font-display font-medium text-6xl shadow-2xl ring-4 ring-white/10" style={partyBgStyle}>
               {candidate.photo ? (
                  <img src={candidate.photo.replace('images/', '/candidates/')} alt={candidate.name} className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
               ) : (
@@ -328,10 +342,17 @@ export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, 
               )}
             </div>
             
-            <div className="inline-flex items-center space-x-2 mb-3">
-              <span className={`px-3 py-1 rounded text-xs font-mono font-bold tracking-widest shadow-sm ${getPartyBg(candidate.party)}`}>
+            <div className="inline-flex flex-wrap items-center justify-center gap-2 mb-3">
+              <span className="px-3 py-1 rounded text-xs font-mono font-bold tracking-widest shadow-sm text-white" style={partyBgStyle}>
                 {candidate.party}
               </span>
+              {/* The election this record belongs to, next to the party, so it
+                  is read before anything below it. */}
+              {candidate.election === '2021' && (
+                <span className="px-3 py-1 rounded text-xs font-mono font-bold tracking-widest bg-white/15 text-white border border-white/25">
+                  {lang === 'en' ? '2021 ONLY' : '2021 மட்டும்'}
+                </span>
+              )}
               <span className="text-xs font-mono text-neutral-500 uppercase tracking-widest">ID: {candidate.id.substring(0,6)}</span>
             </div>
 
@@ -397,7 +418,11 @@ export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, 
             <X className="w-5 h-5 text-slate-700" />
           </button>
 
-          <div className="flex-1 overflow-visible md:overflow-y-auto p-4 md:p-8 pt-6 md:pt-20">
+          {/* @container makes this pane the unit that nested layout measures
+              against. Everything inside is at most 65% of the window and then
+              padded, so viewport breakpoints were deciding on a width three
+              times what the content actually had. */}
+          <div className="@container flex-1 overflow-visible md:overflow-y-auto p-4 md:p-8 pt-6 md:pt-20">
             {showReportForm ? (
               /* --- DISCREPANCY FORM --- */
               <div className="max-w-2xl mx-auto space-y-6">
@@ -483,47 +508,29 @@ export default function AnimatedCandidateModal({ candidate: rawCandidate, lang, 
 
                 {/* Headline totals, with the 2021 declaration alongside where
                     the same candidate could be identified. */}
-                <DeclaredTotalsPanel candidate={candidate} lang={lang} />
+                <DeclaredTotalsPanel candidate={candidate} lang={lang} past={past} />
 
                 {/* The complete Form 26 declaration — every head the candidate
                     swore to, shown as filed. This replaces the curated summary
-                    cards, which restated a subset of it less clearly. */}
+                    cards, which restated a subset of it less clearly. Where the
+                    same person filed in 2021, that declaration is merged in
+                    head by head rather than shown as a second document. */}
                 <div className="border-t border-slate-200 pt-6 pb-8">
-                  
-                  <FullAffidavit candidateId={candidate.id} lang={lang} />
+
+                  <FullAffidavit
+                    candidateId={candidate.id}
+                    lang={lang}
+                    past={past}
+                    election={candidate.election ?? '2026'}
+                  />
                 </div>
 
-                {/* Discrepancies (if any) */}
-                {candidate.discrepancies && candidate.discrepancies.length > 0 && (
-                  <div className="pt-4">
-                    <h3 className="text-xl font-display font-black text-rose-600 tracking-tight flex items-center space-x-2 mb-4">
-                      <ShieldAlert className="w-6 h-6" />
-                      <span>{lang === 'en' ? 'Discrepancies Found' : 'கண்டறியப்பட்ட முரண்பாடுகள்'}</span>
-                    </h3>
-                    <div className="space-y-4">
-                      {candidate.discrepancies.map((disc, idx) => (
-                        <div key={idx} className="bg-rose-50 border border-rose-200 rounded-2xl p-5 shadow-sm relative overflow-hidden">
-                          <div className={`absolute left-0 top-0 bottom-0 w-1 ${
-                            disc.severity === 'CRITICAL' ? 'bg-rose-600' :
-                            disc.severity === 'HIGH' ? 'bg-orange-500' : 'bg-amber-400'
-                          }`}></div>
-                          <div className="pl-3">
-                            <div className="flex items-center space-x-2 mb-1">
-                              <span className={`text-[10px] font-bold uppercase tracking-widest px-2 py-0.5 rounded ${
-                                disc.severity === 'CRITICAL' ? 'bg-rose-100 text-rose-700' :
-                                disc.severity === 'HIGH' ? 'bg-orange-100 text-orange-700' : 'bg-amber-100 text-amber-700'
-                              }`}>
-                                {disc.severity}
-                              </span>
-                            </div>
-                            <h4 className="text-sm font-bold text-slate-900 mb-1">{disc.title}</h4>
-                            <p className="text-sm text-slate-700 leading-relaxed">{disc.description}</p>
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                )}
+                {/* Questions raised by the filing.
+                    Replaces a "Discrepancies Found" panel whose severity badges
+                    and offence-naming titles were largely generated by bugs —
+                    see scripts/buildDeclarationFlags.cjs. Renders nothing at
+                    all for the 1,736 candidates with no flag. */}
+                <DeclarationFlags candidateId={candidate.id} lang={lang} />
 
               </div>
             )}

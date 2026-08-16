@@ -39,16 +39,37 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
     }
   }, { scope: containerRef });
 
-  // Map partyId if we need custom names, otherwise just use it
-  const partyKey = partyId?.toUpperCase() || '';
-  
-  // Filter candidates for this party using the utility function
-  const partyCandidates = candidates.filter(c => isPartyMatch(c.party, partyKey));
+  const partyKey = partyId ? decodeURIComponent(partyId) : '';
 
-  // Compute Stats
+  const [year, setYear] = React.useState<'ALL' | '2026' | '2021'>('ALL');
+
+  // Identity is exact, via the party registry — see src/data/parties.ts.
+  const allForParty = candidates.filter(c => isPartyMatch(c.party, partyKey));
+
+  const yearOf = (c: Candidate) => c.election ?? '2026';
+  const count2026 = allForParty.filter(c => yearOf(c) === '2026').length;
+  const count2021 = allForParty.filter(c => yearOf(c) === '2021').length;
+
+  /**
+   * Stats follow the year selection rather than blending the two elections.
+   *
+   * A party page previously received the 2026 list only, so /party/DMK showed
+   * 175 of the 266 DMK candidates on the site — the 91 who stood in 2021 and
+   * not in 2026 were unreachable from here. Adding them naively would have
+   * summed assets across two elections five years apart, which is not a figure
+   * about anything. The selector makes the scope explicit instead.
+   */
+  const partyCandidates = year === 'ALL' ? allForParty : allForParty.filter(c => yearOf(c) === year);
+
   const totalAssets = partyCandidates.reduce((sum, c) => sum + c.netWorth, 0);
   const totalCases = partyCandidates.reduce((sum, c) => sum + c.caseCount, 0);
   const totalWinners = partyCandidates.filter(c => c.isWinner || /\(Winner\)/i.test(c.name)).length;
+
+  const yearOptions: Array<{ key: 'ALL' | '2026' | '2021'; label: string; n: number }> = [
+    { key: 'ALL', label: lang === 'en' ? 'Both' : 'இரண்டும்', n: allForParty.length },
+    { key: '2026', label: '2026', n: count2026 },
+    { key: '2021', label: lang === 'en' ? '2021 only' : '2021 மட்டும்', n: count2021 },
+  ];
 
   const getGlobalFontSizeClass = () => {
     switch (fontSize) {
@@ -63,7 +84,7 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
   const pageDescription = lang === 'en' 
     ? `View ${partyCandidates.length} candidate declarations for ${partyKey}. Total declared assets: ${FORMAT_CURRENCY(totalAssets, lang)}.` 
     : `${partyKey} கட்சியின் வேட்பாளர்கள் மற்றும் சொத்து விவரங்கள்.`;
-
+
   useDocumentMeta({ title: pageTitle, description: pageDescription, canonical: `https://tn-leaders.pages.dev/party/${partyKey}` });
 
   return (
@@ -81,13 +102,41 @@ export default function PartyDetails({ candidates, lang, fontSize }: PartyDetail
       {/* Header Section */}
       <div ref={headerRef} className="bg-white rounded-3xl p-5 sm:p-10 border border-neutral-200/60 shadow-sm mb-6 sm:mb-10" style={{ opacity: 0 }}>
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 sm:gap-6">
-          <div>
-            <h1 className="text-3xl sm:text-5xl md:text-6xl font-black tracking-tight text-neutral-900 mb-2 uppercase">
+          {/* min-w-0 so the title can shrink. Without it a 44-character party
+              name set at 6xl pushed the whole page into a sideways scroll at
+              tablet width — a flex child defaults to min-width:auto and will
+              not go below its content. */}
+          <div className="min-w-0">
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight text-neutral-900 mb-2 uppercase [overflow-wrap:anywhere]">
               {partyKey}
             </h1>
             <p className="text-neutral-500 font-medium text-lg">
               {lang === 'en' ? 'Party Overview & Candidate Declarations' : 'கட்சி கண்ணோட்டம் & வேட்பாளர் பிரமாணப் பத்திரங்கள்'}
             </p>
+
+            {/* Which election the figures below describe. Shown next to them,
+                not buried in a filter panel, because every stat changes with it. */}
+            {count2021 > 0 && (
+              <div className="mt-4 inline-flex flex-wrap items-center gap-1 bg-neutral-100 border border-neutral-200 rounded-xl p-1">
+                {yearOptions.map(opt => (
+                  <button
+                    key={opt.key}
+                    onClick={() => setYear(opt.key)}
+                    aria-pressed={year === opt.key}
+                    className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-colors ${
+                      year === opt.key
+                        ? 'bg-neutral-900 text-white shadow-sm'
+                        : 'text-neutral-600 hover:text-neutral-900'
+                    }`}
+                  >
+                    {opt.label}
+                    <span className={`ml-1.5 font-mono ${year === opt.key ? 'text-neutral-400' : 'text-neutral-400'}`}>
+                      {opt.n}
+                    </span>
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
           
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-8">

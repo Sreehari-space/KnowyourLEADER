@@ -9,6 +9,7 @@ import { useGSAP } from '@gsap/react';
 import { LanguageSetting, Candidate } from '../types';
 import { MapPin, Loader, MousePointerClick, ShieldAlert, ShieldCheck, Landmark, Users, Trophy, X } from 'lucide-react';
 import { FORMAT_CURRENCY } from '../data/candidates';
+import { partyColour, partyShort } from '../data/parties';
 
 interface GeoJSONFeature {
   type: string;
@@ -86,61 +87,13 @@ function getCentroid(coords: number[][], bounds: { minLon: number; maxLon: numbe
   return [sumX / projected.length, sumY / projected.length];
 }
 
-// Party color mapping — supports both abbreviated and full party names
-function getPartyFill(party: string): string {
-  const p = party?.toUpperCase() || '';
-  // TVK / Tamilaga Vettri Kazhagam
-  if (p === 'TVK' || p.includes('TAMILAGA VETTRI') || p.includes('VETTRI KAZHAGAM')) return '#7C3AED';
-  // DMK
-  if (p === 'DMK' || p.includes('DRAVIDA MUNNETRA KAZHAGAM')) return '#DC2626';
-  // AIADMK
-  if (p === 'AIADMK' || p.includes('ALL INDIA ANNA DRAVIDA')) return '#059669';
-  // BJP
-  if (p === 'BJP' || p.includes('BHARATIYA JANATA')) return '#D97706';
-  // INC (Congress)
-  if (p === 'INC' || p.includes('INDIAN NATIONAL CONGRESS')) return '#2563EB';
-  // NTK (Naam Tamilar Katchi)
-  if (p === 'NTK' || p.includes('NAAM TAMILAR')) return '#EAB308';
-  // VCK (Viduthalai Chiruthaigal Katchi)
-  if (p === 'VCK' || p.includes('VIDUTHALAI CHIRUTHAIGAL')) return '#7E22CE';
-  // PMK (Pattali Makkal Katchi)
-  if (p === 'PMK' || p.includes('PATTALI MAKKAL')) return '#CA8A04';
-  // CPI(M)
-  if (p === 'CPI(M)' || p === 'CPIM' || p.includes('COMMUNIST PARTY OF INDIA (MARXIST)')) return '#B91C1C';
-  // CPI
-  if (p === 'CPI' || p.includes('COMMUNIST PARTY OF INDIA')) return '#991B1B';
-  // DMDK
-  if (p === 'DMDK' || p.includes('DESIYA MURPOKKU')) return '#0E7490';
-  // BSP
-  if (p === 'BSP' || p.includes('BAHUJAN SAMAJ')) return '#1D4ED8';
-  // IUML (Indian Union Muslim League)
-  if (p === 'IUML' || p.includes('MUSLIM LEAGUE')) return '#16A34A'; // Green
-  // AMMK (Amma Makkal Munnettra Kazagam)
-  if (p.includes('AMMA MAKKAL')) return '#0D9488';
-  // IND (Independents)
-  if (p === 'IND' || p === 'INDEPENDENT') return '#6B7280';
-  // Fallback
-  return '#94A3B8';
-}
-
-// Get short party display name for legend
-function getPartyShortName(party: string): string {
-  const p = party?.toUpperCase() || '';
-  if (p.includes('TAMILAGA VETTRI') || p.includes('VETTRI KAZHAGAM')) return 'TVK';
-  if (p.includes('DRAVIDA MUNNETRA KAZHAGAM') && !p.includes('DESIYA') && !p.includes('ALL INDIA')) return 'DMK';
-  if (p.includes('ALL INDIA ANNA DRAVIDA')) return 'AIADMK';
-  if (p.includes('BHARATIYA JANATA')) return 'BJP';
-  if (p.includes('INDIAN NATIONAL CONGRESS')) return 'INC';
-  if (p.includes('NAAM TAMILAR')) return 'NTK';
-  if (p.includes('VIDUTHALAI CHIRUTHAIGAL')) return 'VCK';
-  if (p.includes('PATTALI MAKKAL')) return 'PMK';
-  if (p.includes('COMMUNIST PARTY') && p.includes('MARXIST')) return 'CPI(M)';
-  if (p.includes('COMMUNIST PARTY')) return 'CPI';
-  if (p.includes('DESIYA MURPOKKU')) return 'DMDK';
-  if (p.includes('AMMA MAKKAL')) return 'AMMK';
-  if (p.length > 8) return p.substring(0, 7) + '…';
-  return party;
-}
+// Party colour and abbreviation come from the registry — see src/data/parties.ts.
+// These were substring tables that disagreed with the four other copies of the
+// same logic, and with the data: "DRAVIDA MUNNETRA KAZHAGAM" coloured two
+// non-DMK parties red, and the DMK abbreviation rule fired on names the DMK
+// does not use.
+const getPartyFill = partyColour;
+const getPartyShortName = partyShort;
 
 // Normalize constituency name for matching
 function normalizeConstName(name: string): string {
@@ -551,7 +504,9 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
                       selectedDetail.candidates[0].name.charAt(0)
                     )}
                   </div>
-                  <div className="truncate">
+                  {/* Chrome: map hover summary. Tapping through opens the full
+                      dossier, where every field is shown unabridged. */}
+                  <div data-chrome className="truncate">
                     <div className="flex items-center space-x-1.5">
                       <span className="text-[9px] font-mono font-bold text-white px-1.5 py-0.5 rounded" style={{ backgroundColor: getPartyFill(selectedDetail.candidates[0].party) }}>
                         {selectedDetail.candidates[0].party}
@@ -644,7 +599,7 @@ export default function ConstituencyMap({ lang, candidates, onConstituencyClick,
                   </div>
                   <div className="bg-white p-4 text-center">
                     <Trophy className="w-4 h-4 text-amber-500 mx-auto mb-1.5" />
-                    <p className="text-xs font-bold text-neutral-900 leading-tight truncate" title={(selectedDetail as any).result?.winner?.candidate ? `${(selectedDetail as any).result.winner.candidate} (${(selectedDetail as any).result.winner.party})` : (selectedDetail.winner ? `${selectedDetail.winner.name} (${selectedDetail.winner.party})` : '—')}>
+                    <p data-chrome className="text-xs font-bold text-neutral-900 leading-tight truncate" title={(selectedDetail as any).result?.winner?.candidate ? `${(selectedDetail as any).result.winner.candidate} (${(selectedDetail as any).result.winner.party})` : (selectedDetail.winner ? `${selectedDetail.winner.name} (${selectedDetail.winner.party})` : '—')}>
                       {(selectedDetail as any).result?.winner?.candidate ? `${(selectedDetail as any).result.winner.candidate} (${(selectedDetail as any).result.winner.party})` : (selectedDetail.winner ? `${selectedDetail.winner.name} (${selectedDetail.winner.party})` : '—')}
                     </p>
                     <p className="text-[9px] font-mono text-neutral-400 uppercase tracking-widest mt-0.5">

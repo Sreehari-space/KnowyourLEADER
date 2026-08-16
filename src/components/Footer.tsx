@@ -115,7 +115,7 @@ export default function Footer({ lang, candidates = [] }: FooterProps) {
                 key={s.labelEn}
                 className="bg-white/[0.03] border border-white/10 rounded-2xl p-3.5 sm:p-4 hover:border-white/20 transition-colors"
               >
-                <p className="text-xl sm:text-2xl font-black font-mono text-white tracking-tight tabular-nums truncate">
+                <p data-chrome className="text-xl sm:text-2xl font-black font-mono text-white tracking-tight tabular-nums truncate">
                   {s.value}
                 </p>
                 <p className="text-[10px] font-mono font-bold uppercase tracking-widest text-neutral-500 mt-1">

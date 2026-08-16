@@ -94,7 +94,9 @@ function CandidatePicker({
               ? <img src={photoOf(selected)} alt="" className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
               : (selected?.name || '?').charAt(0)}
           </span>
-          <span className="min-w-0 flex-1">
+          {/* Chrome: the picker trigger. Both values are shown in full in the
+              comparison below once a candidate is chosen. */}
+          <span data-chrome className="min-w-0 flex-1">
             <span className="block font-black text-neutral-900 text-sm truncate">
               {selected?.name || (lang === 'en' ? 'Choose a candidate' : 'வேட்பாளரைத் தேர்வுசெய்க')}
             </span>
@@ -135,7 +137,8 @@ function CandidatePicker({
                         ? <img src={photoOf(c)} alt="" loading="lazy" className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
                         : c.name.charAt(0)}
                     </span>
-                    <span className="min-w-0">
+                    {/* Chrome: search result row in the picker dropdown. */}
+                    <span data-chrome className="min-w-0">
                       <span className="block text-[13px] font-bold text-neutral-900 truncate">{c.name}</span>
                       <span className="block text-[11px] text-neutral-500 truncate">{c.party} · {seatOf(c.constituency)}</span>
                     </span>
@@ -173,9 +176,19 @@ function Row({
       <div className="text-[10px] font-mono font-bold text-neutral-400 uppercase tracking-widest mb-2">
         {label}
       </div>
-      <div className="grid grid-cols-2 gap-3 sm:gap-6 items-start">
+      {/* Numeric rows stay two-up at every width — the figures are short and
+          the bars only mean something side by side. Prose rows (education,
+          occupation) stack on a phone: two 156px columns of a declared
+          qualification is three words a line, and a comparison nobody can read
+          is not a comparison. From sm: up they go two-up like the rest. */}
+      <div className={`grid gap-3 sm:gap-6 items-start ${showBar ? 'grid-cols-2' : 'grid-cols-1 sm:grid-cols-2'}`}>
         {[{ v: a, n: numericA }, { v: b, n: numericB }].map((side, i) => (
           <div key={i} className="min-w-0">
+            {!showBar && (
+              <span className="sm:hidden block text-[9px] font-mono font-bold uppercase tracking-widest text-neutral-400 mb-0.5">
+                {i === 0 ? 'A' : 'B'}
+              </span>
+            )}
             <div className="text-[13px] sm:text-sm font-bold text-neutral-900 break-words">{side.v}</div>
             {showBar && (
               <div className="mt-2 h-1.5 rounded-full bg-neutral-100 overflow-hidden">

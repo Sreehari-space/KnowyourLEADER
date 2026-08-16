@@ -38,6 +38,17 @@ export interface ImmovableAssetsDetails {
 
 export interface Candidate {
   id: string;
+  /**
+   * Which election this record is from.
+   *
+   * Defaults to '2026' when absent, because the 2026 index predates the field.
+   * A 2021 entry is a historical record of someone who did not stand in 2026 —
+   * the UI must say so wherever one appears, or a reader will take it for a
+   * current candidate.
+   */
+  election?: '2026' | '2021';
+  /** The ECI/MyNeta page this record was taken from. 2021 records only. */
+  sourceUrl?: string;
   name: string;
   party: string;
   constituency: string;
@@ -81,11 +92,15 @@ export interface Candidate {
   votes?: number;
   votePercent?: number;
   voteMargin?: number;
-  discrepancies?: {
-    severity: string;
-    title: string;
-    description: string;
-  }[];
+  /**
+   * `discrepancies` was removed. It carried severity-tiered accusations —
+   * "Tax/Duty Evasion", "Parking Illicit Funds" — against 1,019 of 1,799 named
+   * people, most of them produced by bugs: the gold checks summed silver,
+   * diamond and platinum weights in with the gold, and the arithmetic check
+   * compared our own parse against the candidate's declared total and blamed
+   * them for the gap. Flags now come from public/data/declaration_flags.json
+   * via src/utils/declarationFlags.ts. See scripts/buildDeclarationFlags.cjs.
+   */
 }
 
 export type FontSizeSetting = 'small' | 'regular' | 'large' | 'xlarge';

@@ -50,6 +50,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
   const [filterParty, setFilterParty] = useState<string>('ALL');
   const [filterEducation, setFilterEducation] = useState<string>('ALL');
   const [filterCriminal, setFilterCriminal] = useState<'ALL' | 'CLEAN' | 'HAS_CASES'>('ALL');
+  const [filterElection, setFilterElection] = useState<'ALL' | '2026' | '2021'>('ALL');
   const [sortBy, setSortBy] = useState<'name' | 'assets_high' | 'assets_low' | 'cases_high' | 'age'>('name');
   const [showFilters, setShowFilters] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
@@ -63,7 +64,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
         { y: 0, opacity: 1, duration: 0.4, stagger: 0.05, ease: 'power2.out', clearProps: 'all' }
       );
     }
-  }, { dependencies: [currentPage, searchQuery, filterParty, filterEducation, filterCriminal, sortBy], scope: containerRef });
+  }, { dependencies: [currentPage, searchQuery, filterParty, filterEducation, filterCriminal, filterElection, sortBy], scope: containerRef });
 
 
 
@@ -90,7 +91,7 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
   // Reset pagination when filters change
   useEffect(() => {
     setCurrentPage(1);
-  }, [searchQuery, filterParty, filterEducation, filterCriminal, sortBy]);
+  }, [searchQuery, filterParty, filterEducation, filterCriminal, filterElection, sortBy]);
 
   // Handlers
   const handleAddCandidateToCompare = (cand: Candidate) => {
@@ -115,12 +116,16 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
 
     const matchParty = filterParty === 'ALL' || cand.party === filterParty;
     const matchEdu = filterEducation === 'ALL' || getEduCategory(cand.education) === filterEducation;
-    const matchCriminal = 
+    const matchCriminal =
       filterCriminal === 'ALL' ||
       (filterCriminal === 'CLEAN' && cand.caseCount === 0) ||
       (filterCriminal === 'HAS_CASES' && cand.caseCount > 0);
 
-    return matchSearch && matchParty && matchEdu && matchCriminal;
+    // Records with no election set are 2026 — the field postdates that index.
+    const matchElection =
+      filterElection === 'ALL' || (cand.election ?? '2026') === filterElection;
+
+    return matchSearch && matchParty && matchEdu && matchCriminal && matchElection;
   });
 
   // Sort pipeline
@@ -137,12 +142,22 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
   const totalPages = Math.ceil(sortedCandidates.length / itemsPerPage);
   const paginatedCandidates = sortedCandidates.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
 
-  const allPartiesList = Array.from(new Set(candidates.map(c => c.party)));
-  const activeFilterCount = [filterParty !== 'ALL', filterEducation !== 'ALL', filterCriminal !== 'ALL'].filter(Boolean).length;
+  const allPartiesList = Array.from(new Set(candidates.map(c => c.party))).sort();
+  const activeFilterCount = [
+    filterParty !== 'ALL',
+    filterEducation !== 'ALL',
+    filterCriminal !== 'ALL',
+    filterElection !== 'ALL',
+  ].filter(Boolean).length;
+
+  const countBy = (year: '2026' | '2021') =>
+    candidates.filter(c => (c.election ?? '2026') === year).length;
+  const count2026 = countBy('2026');
+  const count2021 = countBy('2021');
 
   const pageTitle = lang === 'en' ? 'Affidavit Directory - TN Leaders' : 'பிரமாணப் பத்திரப் பட்டியல் - TN Leaders';
   const pageDescription = lang === 'en' ? 'Explore and filter the complete database of candidate declarations, net worth, and criminal cases.' : 'வேட்பாளர்களின் சொத்துக்கள் மற்றும் கிரிமினல் வழக்குகளின் முழுமையான தரவுத்தளத்தை ஆராயுங்கள்.';
-
+
   useDocumentMeta({ title: pageTitle, description: pageDescription, canonical: 'https://tn-leaders.pages.dev/affidavits' });
 
   return (
@@ -156,10 +171,13 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
               <h1 className="font-serif italic font-normal text-slate-800 text-2xl sm:text-5xl leading-tight tracking-tight">
                 {lang === 'en' ? 'Affidavit Directory' : 'பிரமாணப் பத்திரப் பட்டியல்'}
               </h1>
+              {/* Says what is actually in here. The old copy called this "the
+                  complete database", which was not true of one election and is
+                  certainly not true of two. */}
               <p className="font-sans text-neutral-600 text-sm sm:text-base">
-                {lang === 'en' 
-                  ? 'Search and filter through the complete database of candidate declarations.' 
-                  : 'வேட்பாளர் விவரங்களை தேடவும் வடிகட்டவும்.'}
+                {lang === 'en'
+                  ? `${count2026.toLocaleString('en-IN')} candidates from 2026, and ${count2021.toLocaleString('en-IN')} more who stood in 2021 but not in 2026. Anyone who stood in both appears once, under 2026, with both declarations on their page.`
+                  : `2026-ல் ${count2026.toLocaleString('en-IN')} வேட்பாளர்கள், 2021-ல் மட்டும் போட்டியிட்ட மேலும் ${count2021.toLocaleString('en-IN')} பேர். இரண்டிலும் போட்டியிட்டவர்கள் 2026-ன் கீழ் ஒரு முறை மட்டும், இரு அறிவிப்புகளுடன்.`}
               </p>
             </div>
 
@@ -263,10 +281,34 @@ export default function Affidavits({ candidates, lang, fontSize }: AffidavitsPro
                     </select>
                   </div>
 
+                  {/* Election filter. The directory holds two elections, and a
+                      2021 entry is someone who did not stand in 2026 — a
+                      reader has to be able to separate them. */}
+                  <div className="space-y-1.5">
+                    <label className="text-[10px] font-mono font-bold text-neutral-400 uppercase tracking-widest">
+                      {lang === 'en' ? 'Election' : 'தேர்தல்'}
+                    </label>
+                    <select
+                      value={filterElection}
+                      onChange={(e) => setFilterElection(e.target.value as 'ALL' | '2026' | '2021')}
+                      className="w-full bg-neutral-50 border border-neutral-200 rounded-xl px-3 py-3 min-h-[44px] text-sm sm:text-xs font-semibold text-neutral-700 focus:outline-none focus:border-neutral-400 cursor-pointer transition-all"
+                    >
+                      <option value="ALL">
+                        {lang === 'en' ? `Both elections (${candidates.length})` : `இரண்டும் (${candidates.length})`}
+                      </option>
+                      <option value="2026">
+                        {lang === 'en' ? `2026 candidates (${count2026})` : `2026 வேட்பாளர்கள் (${count2026})`}
+                      </option>
+                      <option value="2021">
+                        {lang === 'en' ? `2021 only (${count2021})` : `2021 மட்டும் (${count2021})`}
+                      </option>
+                    </select>
+                  </div>
+
                   {activeFilterCount > 0 && (
                     <div className="sm:col-span-3 flex justify-end">
                       <button
-                        onClick={() => { setFilterParty('ALL'); setFilterEducation('ALL'); setFilterCriminal('ALL'); }}
+                        onClick={() => { setFilterParty('ALL'); setFilterEducation('ALL'); setFilterCriminal('ALL'); setFilterElection('ALL'); }}
                         className="py-3 px-4 mt-2 bg-neutral-100 rounded-xl text-xs font-bold text-neutral-600 hover:bg-neutral-200 cursor-pointer transition-colors"
                       >
                         {lang === 'en' ? 'Reset all filters' : 'அனைத்தையும் மீட்டமை'}

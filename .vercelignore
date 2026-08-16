@@ -1,0 +1,27 @@
+# Files Vercel does not need to build or serve.
+#
+# The repository is large — 186 MB tracked, most of it candidate photographs
+# that the site genuinely serves. What follows is the part that is neither
+# built from nor served, and only slows the deployment down.
+
+# The source of the old `discrepancies` accusations: 3,992 files, 67.8 MB.
+# Nothing in the build chain reads it — generate_sitemap, splitCandidates and
+# buildAffidavits touch only src/data/all_candidates.json and public/data.
+# Kept in the working tree, kept out of the deployment.
+discrepancy_reports/
+
+# Documentation bundles for agent tooling. Not part of the app.
+gemini-agent-skills/
+gsap-skills/
+.claude/
+
+# Local analysis output and scratch files.
+*.log
+declaration_flags_report.md
+property_links_report.md
+check_excel.js
+test_jewel.cjs
+
+# Build output is produced on Vercel, never uploaded to it.
+dist/
+node_modules/

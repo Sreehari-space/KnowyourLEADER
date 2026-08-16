@@ -8,7 +8,8 @@ import { gsap } from 'gsap';
 import { Candidate, FontSizeSetting } from '../types';
 import { FORMAT_NET_WORTH } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
-import { ShieldCheck, GraduationCap, Landmark, ArrowRight, AlertCircle, Briefcase, MapPin, Scale, Eye, Plus, Trophy } from 'lucide-react';
+import { partyColour, partyShort, partyFlag } from '../data/parties';
+import { ShieldCheck, GraduationCap, Landmark, ArrowRight, AlertCircle, Briefcase, MapPin, Scale, Eye, Plus, Trophy, History } from 'lucide-react';
 
 interface CandidateCardProps {
   key?: React.Key;
@@ -43,189 +44,29 @@ export default function CandidateCard({
     if (ref.current && canHover()) gsap.to(ref.current, { y: 0, scale: 1, duration: 0.4, ease: 'power2.out' });
   };
 
-  // Upgraded Party Styles with richer gradients and softer shadows
-  const getPartyStyles = (partyName: string) => {
-    const p = partyName?.toUpperCase() || '';
-    
-    if (p === 'TVK' || p.includes('TAMILAGA VETTRI') || p.includes('VETTRI KAZHAGAM')) {
-      return { 
-        bg: 'bg-gradient-to-br from-violet-600 via-violet-500 to-purple-600', 
-        badge: 'bg-white/90 text-violet-700 shadow-sm ring-1 ring-violet-100', 
-        text: 'text-violet-600',
-        glow: 'hover:shadow-[0_8px_30px_rgba(124,58,237,0.2)]'
-      };
-    }
-    if (p === 'DMK' || p.includes('DRAVIDA MUNNETRA KAZHAGAM')) {
-      return { 
-        bg: 'bg-gradient-to-br from-red-600 via-red-500 to-rose-600', 
-        badge: 'bg-white/90 text-red-700 shadow-sm ring-1 ring-red-100', 
-        text: 'text-red-600',
-        glow: 'hover:shadow-[0_8px_30px_rgba(220,38,38,0.2)]'
-      };
-    }
-    if (p === 'AIADMK' || p.includes('ALL INDIA ANNA DRAVIDA')) {
-      return { 
-        bg: 'bg-gradient-to-br from-emerald-600 via-emerald-500 to-teal-600', 
-        badge: 'bg-white/90 text-emerald-700 shadow-sm ring-1 ring-emerald-100', 
-        text: 'text-emerald-600',
-        glow: 'hover:shadow-[0_8px_30px_rgba(5,150,105,0.2)]'
-      };
-    }
-    if (p === 'BJP' || p.includes('BHARATIYA JANATA')) {
-      return { 
-        bg: 'bg-gradient-to-br from-orange-500 via-amber-500 to-yellow-500', 
-        badge: 'bg-white/90 text-amber-700 shadow-sm ring-1 ring-amber-100', 
-        text: 'text-amber-600',
-        glow: 'hover:shadow-[0_8px_30px_rgba(245,158,11,0.2)]'
-      };
-    }
-    if (p === 'NTK' || p.includes('NAAM TAMILAR')) {
-      return { 
-        bg: 'bg-gradient-to-br from-yellow-500 via-yellow-400 to-amber-500', 
-        badge: 'bg-white/90 text-yellow-800 shadow-sm ring-1 ring-yellow-200', 
-        text: 'text-yellow-600',
-        glow: 'hover:shadow-[0_8px_30px_rgba(234,179,8,0.2)]'
-      };
-    }
-    if (p === 'INC' || p.includes('INDIAN NATIONAL CONGRESS')) {
-      return { 
-        bg: 'bg-gradient-to-br from-blue-600 via-blue-500 to-indigo-600', 
-        badge: 'bg-white/90 text-blue-700 shadow-sm ring-1 ring-blue-100', 
-        text: 'text-blue-600',
-        glow: 'hover:shadow-[0_8px_30px_rgba(37,99,235,0.2)]'
-      };
-    }
-    if (p === 'VCK' || p.includes('VIDUTHALAI CHIRUTHAIGAL')) {
-      return { 
-        bg: 'bg-gradient-to-br from-purple-700 via-purple-600 to-fuchsia-700', 
-        badge: 'bg-white/90 text-purple-800 shadow-sm ring-1 ring-purple-200', 
-        text: 'text-purple-700',
-        glow: 'hover:shadow-[0_8px_30px_rgba(126,34,206,0.2)]'
-      };
-    }
-    if (p === 'PMK' || p.includes('PATTALI MAKKAL')) {
-      return { 
-        bg: 'bg-gradient-to-br from-yellow-600 via-amber-600 to-yellow-700', 
-        badge: 'bg-white/90 text-yellow-800 shadow-sm ring-1 ring-yellow-200', 
-        text: 'text-yellow-700',
-        glow: 'hover:shadow-[0_8px_30px_rgba(202,138,4,0.2)]'
-      };
-    }
-    if (p === 'CPI(M)' || p === 'CPIM' || p.includes('COMMUNIST PARTY OF INDIA (MARXIST)')) {
-      return { 
-        bg: 'bg-gradient-to-br from-red-700 via-red-600 to-rose-700', 
-        badge: 'bg-white/90 text-red-800 shadow-sm ring-1 ring-red-200', 
-        text: 'text-red-700',
-        glow: 'hover:shadow-[0_8px_30px_rgba(185,28,28,0.2)]'
-      };
-    }
-    if (p === 'CPI' || p.includes('COMMUNIST PARTY OF INDIA')) {
-      return { 
-        bg: 'bg-gradient-to-br from-red-800 via-red-700 to-rose-800', 
-        badge: 'bg-white/90 text-red-900 shadow-sm ring-1 ring-red-200', 
-        text: 'text-red-800',
-        glow: 'hover:shadow-[0_8px_30px_rgba(153,27,27,0.2)]'
-      };
-    }
-    if (p === 'DMDK' || p.includes('DESIYA MURPOKKU')) {
-      return { 
-        bg: 'bg-gradient-to-br from-cyan-700 via-cyan-600 to-sky-700', 
-        badge: 'bg-white/90 text-cyan-800 shadow-sm ring-1 ring-cyan-200', 
-        text: 'text-cyan-700',
-        glow: 'hover:shadow-[0_8px_30px_rgba(14,116,144,0.2)]'
-      };
-    }
-    if (p.includes('AMMA MAKKAL')) {
-      return { 
-        bg: 'bg-gradient-to-br from-teal-700 via-teal-600 to-cyan-700', 
-        badge: 'bg-white/90 text-teal-800 shadow-sm ring-1 ring-teal-200', 
-        text: 'text-teal-700',
-        glow: 'hover:shadow-[0_8px_30px_rgba(15,118,110,0.2)]'
-      };
-    }
-    if (p === 'IND' || p === 'INDEPENDENT') {
-      return { 
-        bg: 'bg-gradient-to-br from-teal-600 via-teal-500 to-cyan-600', 
-        badge: 'bg-white/90 text-teal-700 shadow-sm ring-1 ring-teal-100', 
-        text: 'text-teal-600',
-        glow: 'hover:shadow-[0_8px_30px_rgba(13,148,136,0.2)]'
-      };
-    }
-    
-    return { 
-      bg: 'bg-gradient-to-br from-slate-600 via-slate-500 to-gray-600', 
-      badge: 'bg-white/90 text-slate-700 shadow-sm ring-1 ring-slate-200', 
-      text: 'text-slate-600',
-      glow: 'hover:shadow-[0_8px_30px_rgba(100,116,139,0.2)]'
-    };
-  };
+  /**
+   * Party presentation, derived from the one registry entry.
+   *
+   * This was a 115-line table of substring rules, plus a second colour table
+   * below it that was never called, plus an abbreviation table and a flag
+   * table — four copies in this file alone, and they disagreed with the map:
+   * BSP and IUML had colours there and fell through to grey here.
+   *
+   * The gradient is built from the registry hex so a party cannot be one
+   * colour on the card and another on the map.
+   */
+  const partyName = candidate.party;
+  const colour = partyColour(partyName);
 
-  const getPartyColor = (partyName: string): string => {
-    const p = partyName?.toUpperCase() || '';
-    if (p === 'TVK' || p.includes('TAMILAGA VETTRI') || p.includes('VETTRI KAZHAGAM')) return '#7C3AED';
-    if (p === 'DMK' || p.includes('DRAVIDA MUNNETRA KAZHAGAM')) return '#DC2626';
-    if (p === 'AIADMK' || p.includes('ALL INDIA ANNA DRAVIDA')) return '#059669';
-    if (p === 'BJP' || p.includes('BHARATIYA JANATA')) return '#D97706';
-    if (p === 'INC' || p.includes('INDIAN NATIONAL CONGRESS')) return '#2563EB';
-    if (p === 'NTK' || p.includes('NAAM TAMILAR')) return '#EAB308';
-    if (p === 'VCK' || p.includes('VIDUTHALAI CHIRUTHAIGAL')) return '#7E22CE';
-    if (p === 'PMK' || p.includes('PATTALI MAKKAL')) return '#CA8A04';
-    if (p === 'CPI(M)' || p === 'CPIM' || p.includes('COMMUNIST PARTY OF INDIA (MARXIST)')) return '#B91C1C';
-    if (p === 'CPI' || p.includes('COMMUNIST PARTY OF INDIA')) return '#991B1B';
-    if (p === 'DMDK' || p.includes('DESIYA MURPOKKU')) return '#0E7490';
-    if (p === 'IND' || p === 'INDEPENDENT') return '#6B7280';
-    return '#94A3B8';
-  };
-
-  // The badge is a badge: full party names like "TAMILAGA VETTRI KAZHAGAM"
-  // wrap to three lines on a narrow card and shout louder than the candidate's
-  // name. Abbreviate, and keep the full name in the tooltip.
-  const getPartyShortName = (partyName: string): string => {
-    const p = partyName?.toUpperCase() || '';
-    if (p.includes('TAMILAGA VETTRI') || p.includes('VETTRI KAZHAGAM')) return 'TVK';
-    if (p.includes('ALL INDIA ANNA DRAVIDA')) return 'AIADMK';
-    if (p.includes('DESIYA MURPOKKU')) return 'DMDK';
-    if (p.includes('MARUMALARCHI DRAVIDA')) return 'MDMK';
-    if (p.includes('DRAVIDA MUNNETRA KAZHAGAM')) return 'DMK';
-    if (p.includes('BHARATIYA JANATA')) return 'BJP';
-    if (p.includes('INDIAN NATIONAL CONGRESS')) return 'INC';
-    if (p.includes('NAAM TAMILAR')) return 'NTK';
-    if (p.includes('VIDUTHALAI CHIRUTHAIGAL')) return 'VCK';
-    if (p.includes('PATTALI MAKKAL')) return 'PMK';
-    if (p.includes('COMMUNIST PARTY') && p.includes('MARXIST')) return 'CPI(M)';
-    if (p.includes('COMMUNIST PARTY')) return 'CPI';
-    if (p.includes('AMMA MAKKAL')) return 'AMMK';
-    if (p.includes('BAHUJAN SAMAJ')) return 'BSP';
-    if (p.includes('MUSLIM LEAGUE')) return 'IUML';
-    if (p.includes('SOCIAL DEMOCRATIC')) return 'SDPI';
-    if (p === 'INDEPENDENT') return 'IND';
-    if (p.length > 10) return `${p.slice(0, 9)}…`;
-    return partyName;
-  };
-
-  const getPartyFlagUrl = (partyName: string) => {
-    const p = partyName?.toUpperCase() || '';
-    if (p === 'IND' || p === 'INDEPENDENT') return null;
-    
-    if (p === 'TVK' || p.includes('TAMILAGA VETTRI') || p.includes('VETTRI KAZHAGAM')) return '/flags/Tamilaga_Vettri_Kazhagam_(TVK)_Flag.png';
-    if (p === 'DMK' || p.includes('DRAVIDA MUNNETRA KAZHAGAM')) return '/flags/DMK_Flag.svg';
-    if (p === 'AIADMK' || p.includes('ALL INDIA ANNA DRAVIDA')) return '/flags/AIADMK_Flag.svg';
-    if (p === 'BJP' || p.includes('BHARATIYA JANATA')) return '/flags/BJP_Flag.svg';
-    if (p === 'INC' || p.includes('INDIAN NATIONAL CONGRESS')) return '/flags/Indian_National_Congress_Flag.svg';
-    if (p === 'VCK' || p.includes('VIDUTHALAI CHIRUTHAIGAL')) return '/flags/Viduthalai_Chiruthaigal_Katchi_banner.png';
-    if (p === 'PMK' || p.includes('PATTALI MAKKAL')) return '/flags/PMK.svg';
-    if (p === 'CPI(M)' || p === 'CPIM' || p.includes('COMMUNIST PARTY OF INDIA (MARXIST)')) return '/flags/CPI-M-flag.svg';
-    if (p === 'CPI' || p.includes('COMMUNIST PARTY OF INDIA')) return '/flags/CPI-banner.svg';
-    if (p === 'DMDK' || p.includes('DESIYA MURPOKKU')) return '/flags/Flag_DMDK.png';
-    if (p === 'MDMK' || p.includes('MARUMALARCHI DRAVIDA')) return '/flags/MDMK.svg';
-    if (p === 'BSP' || p.includes('BAHUJAN SAMAJ')) return '/flags/BSP_Flag.png';
-    if (p.includes('IJK') || p.includes('INDHIYA JANANAYAGA KATCHI')) return '/flags/IJK_Party_Flag.jpg';
-    if (p.includes('MANITHANEYA')) return '/flags/Manithaneya_Jananayaga_Katchi_flag.jpg';
-    if (p.includes('PUTHIYA TAMILAGAM')) return '/flags/Puthiya_Tamilagam_Party_Flag.jpg';
-    if (p.includes('SDPI') || p.includes('SOCIAL DEMOCRATIC')) return '/flags/SDPI_Flag.jpg';
-    if (p.includes('MUSLIM LEAGUE')) return '/flags/Flag_of_the_Indian_Union_Muslim_League.svg';
-    return null;
-  };
+  const getPartyStyles = (_partyName: string) => ({
+    bg: '',
+    bgStyle: { backgroundImage: `linear-gradient(135deg, ${colour} 0%, ${colour}cc 55%, ${colour}99 100%)` },
+    badge: 'bg-white/90 shadow-sm ring-1 ring-black/5',
+    badgeStyle: { color: colour },
+    text: '',
+    textStyle: { color: colour },
+    glow: '',
+  });
 
   const partyStyle = getPartyStyles(candidate.party);
 
@@ -239,6 +80,11 @@ export default function CandidateCard({
 
   const isActualWinner = candidate.isWinner || /\(Winner\)/i.test(candidate.name);
 
+  // A 2021 entry is someone who did not stand in 2026. Without a mark on the
+  // card a reader takes every result for a current candidate, so the badge is
+  // not decoration — it is the difference between a record and a claim.
+  const isPast = candidate.election === '2021';
+
   return (
     <div className="h-full w-full">
       {/* ================= UNIFIED RESPONSIVE LAYOUT ================= */}
@@ -251,11 +97,11 @@ export default function CandidateCard({
       >
         
         {/* Premium Top Banner with Glass & Gradients */}
-        <div className={`h-24 sm:h-28 w-full relative overflow-hidden ${partyStyle.bg}`}>
-          {getPartyFlagUrl(candidate.party) ? (
-            <div 
-              className="absolute inset-0 z-0 bg-no-repeat bg-center bg-cover transition-transform duration-700 group-hover:scale-110" 
-              style={{ backgroundImage: `url('${getPartyFlagUrl(candidate.party)}')`, opacity: 0.85 }} 
+        <div className="h-24 sm:h-28 w-full relative overflow-hidden" style={partyStyle.bgStyle}>
+          {partyFlag(partyName) ? (
+            <div
+              className="absolute inset-0 z-0 bg-no-repeat bg-center bg-cover transition-transform duration-700 group-hover:scale-110"
+              style={{ backgroundImage: `url('${partyFlag(partyName)}')`, opacity: 0.85 }}
             />
           ) : (
             <>
@@ -277,7 +123,10 @@ export default function CandidateCard({
 
         {/* Avatar & Floating Badges */}
         <div className="px-4 sm:px-6 flex justify-between items-end gap-3 -mt-10 sm:-mt-12 relative z-10">
-          <div className={`w-20 h-20 sm:w-24 sm:h-24 shrink-0 rounded-2xl overflow-hidden border-[4px] border-white bg-white shadow-xl flex items-center justify-center text-2xl sm:text-3xl font-bold ${partyStyle.text} transform transition-transform duration-500 group-hover:scale-105 group-hover:-rotate-2 ring-1 ring-black/5`}>
+          <div
+            className="w-20 h-20 sm:w-24 sm:h-24 shrink-0 rounded-2xl overflow-hidden border-[4px] border-white bg-white shadow-xl flex items-center justify-center text-2xl sm:text-3xl font-bold transform transition-transform duration-500 group-hover:scale-105 group-hover:-rotate-2 ring-1 ring-black/5"
+            style={partyStyle.textStyle}
+          >
             {candidate.photo ? (
               <img src={candidate.photo.replace('images/', '/candidates/')} alt={candidate.name.replace(/\s*\(Winner\)/i, '').trim()} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
             ) : (
@@ -289,13 +138,24 @@ export default function CandidateCard({
             <div
               title={candidate.party}
               className={`px-3 py-1 rounded-lg text-[11px] font-black tracking-wider uppercase whitespace-nowrap backdrop-blur-md ${partyStyle.badge}`}
+              style={partyStyle.badgeStyle}
             >
-              {getPartyShortName(candidate.party)}
+              {partyShort(partyName)}
             </div>
+            {isPast && (
+              <div className="px-2.5 py-1 bg-slate-800 text-white font-black text-[9px] tracking-widest uppercase rounded-lg shadow-md flex items-center space-x-1 whitespace-nowrap">
+                <History className="w-3 h-3" />
+                <span>{lang === 'en' ? '2021 only' : '2021 மட்டும்'}</span>
+              </div>
+            )}
             {isActualWinner && (
               <div className="px-2.5 py-1 bg-gradient-to-r from-amber-400 to-yellow-500 text-yellow-950 font-black text-[9px] tracking-widest uppercase rounded-lg shadow-md flex items-center space-x-1 border border-yellow-300 whitespace-nowrap">
                 <Trophy className="w-3 h-3" />
-                <span>{lang === 'en' ? 'Winner' : 'வெற்றியாளர்'}</span>
+                <span>
+                  {isPast
+                    ? (lang === 'en' ? 'Won 2021' : '2021 வெற்றி')
+                    : (lang === 'en' ? 'Winner' : 'வெற்றியாளர்')}
+                </span>
               </div>
             )}
           </div>
@@ -304,7 +164,10 @@ export default function CandidateCard({
         <div className="px-4 sm:px-6 pt-4 sm:pt-5 pb-5 sm:pb-6 flex-1 flex flex-col relative z-20 bg-gradient-to-b from-white to-neutral-50/50">
           {/* Candidate Identity */}
           <div className="mb-4 sm:mb-5">
-            <div className="flex items-center space-x-1.5 mb-1.5 text-neutral-400">
+            {/* Chrome: the constituency also appears in full in the dossier,
+                so clipping the label here loses nothing. Marked so the layout
+                audit allows it — see scripts/auditLayout.mjs. */}
+            <div data-chrome className="flex items-center space-x-1.5 mb-1.5 text-neutral-400">
               <MapPin className="w-3.5 h-3.5" />
               <span className="text-[11px] font-mono font-bold tracking-widest uppercase truncate max-w-full block">
                 {constituencyClean}
@@ -319,10 +182,17 @@ export default function CandidateCard({
               <span className="shrink-0 whitespace-nowrap text-[11px] sm:text-xs font-bold text-neutral-500 bg-neutral-100 px-2 py-0.5 rounded-md">
                 {candidate.age} {t.years}
               </span>
+              {/* Declared data. `truncate` here hid up to 667px of a
+                  candidate's stated occupation behind an ellipsis with no way
+                  to read it — on a site whose purpose is disclosure. Clamped
+                  to two lines instead, which shows most of it and never
+                  silently drops the rest. */}
               {candidate.selfProfession && (
-                <div className="flex items-center space-x-1 text-[11px] sm:text-xs font-medium text-neutral-500 min-w-0">
-                  <Briefcase className="w-3 h-3 shrink-0" />
-                  <span className="truncate">{candidate.selfProfession}</span>
+                <div className="flex items-start space-x-1 text-[11px] sm:text-xs font-medium text-neutral-500 min-w-0">
+                  <Briefcase className="w-3 h-3 shrink-0 mt-0.5" />
+                  <span className="line-clamp-2" title={candidate.selfProfession}>
+                    {candidate.selfProfession}
+                  </span>
                 </div>
               )}
             </div>
@@ -341,8 +211,12 @@ export default function CandidateCard({
                 </div>
                 <span className="text-[9px] sm:text-[10px] font-bold text-neutral-400 uppercase tracking-wider leading-tight">{t.netWorth}</span>
               </div>
+              {/* No truncate on the figure. A negative net worth carries a
+                  minus sign and the longer "Lakh" unit, which pushed it past
+                  the box and clipped the last digit — a declared figure shown
+                  wrong is worse than one that wraps. */}
               <p
-                className={`mt-auto text-sm sm:text-base font-black font-mono truncate relative z-10 ${
+                className={`mt-auto text-sm sm:text-base font-black font-mono relative z-10 tabular-nums ${
                   candidate.netWorthPositive === false ? 'text-rose-700' : 'text-neutral-800'
                 }`}
                 title={FORMAT_NET_WORTH(candidate)}
@@ -379,7 +253,10 @@ export default function CandidateCard({
               <div className="bg-indigo-50 p-1.5 rounded-lg text-indigo-600 shrink-0">
                 <GraduationCap className="w-3.5 h-3.5" />
               </div>
-              <span className="text-[11px] sm:text-xs font-bold text-neutral-700 truncate flex-1" title={candidate.education.split('Category: ')[1] || candidate.education}>
+              {/* Declared data. This was the worst offender on the directory:
+                  1,343px of one candidate's education — two degrees, two
+                  universities, two years — replaced by an ellipsis. */}
+              <span className="text-[11px] sm:text-xs font-bold text-neutral-700 line-clamp-2 flex-1" title={candidate.education.split('Category: ')[1] || candidate.education}>
                 {candidate.education.split('Category: ')[1] || candidate.education}
               </span>
             </div>

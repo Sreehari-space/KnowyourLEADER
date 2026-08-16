@@ -12,6 +12,8 @@ import Disclaimer from './components/Disclaimer';
 import ScrollToTop from './components/ScrollToTop';
 import { Loader2 } from 'lucide-react';
 import { preloadAllChunks } from './utils/detailLoader';
+import { withoutIndependents } from './utils/independents';
+import { toDirectoryCandidates } from './utils/pastElection';
 
 const Home = React.lazy(() => import('./pages/Home'));
 const Affidavits = React.lazy(() => import('./pages/Affidavits'));
@@ -24,7 +26,21 @@ export default function App() {
   // Global State
   const [lang, setLang] = useState<LanguageSetting>('en');
   const [fontSize, setFontSize] = useState<FontSizeSetting>('regular');
+  /**
+   * Two lists, deliberately.
+   *
+   * `candidates` is the 2026 field and nothing else. It feeds the constituency
+   * map, the dashboard and the homepage ticker — all of which describe one
+   * election, and all of which would produce meaningless figures if two
+   * elections were poured into them. "3,319 candidates" is not a fact about
+   * any election that was ever held.
+   *
+   * `directory` is 2026 plus the 1,520 people who stood in 2021 and not in
+   * 2026. It feeds the places where a reader is looking someone up rather than
+   * reading a total: the affidavit directory and the comparison view.
+   */
   const [candidates, setCandidates] = useState<Candidate[]>([]);
+  const [directory, setDirectory] = useState<Candidate[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
   const [disclaimerAccepted, setDisclaimerAccepted] = useState<boolean>(false);
 
@@ -73,8 +89,26 @@ export default function App() {
         }
       }
 
-      setCandidates(initialCandidates);
+      // Party candidates only. Applied after the local cache is merged in, so a
+      // locally-added independent is filtered on the same rule as the shipped
+      // data rather than slipping past it.
+      const current = withoutIndependents(initialCandidates).map(c => ({
+        ...c,
+        election: c.election ?? ('2026' as const),
+      }));
+
+      setCandidates(current);
+      setDirectory(current);
       setLoading(false);
+
+      // The 2021 field loads after, and never blocks. If it fails the site is
+      // still the 2026 record in full; the directory simply does not gain the
+      // historical entries.
+      toDirectoryCandidates()
+        .then(past => {
+          if (past.length) setDirectory([...current, ...past]);
+        })
+        .catch(err => console.warn('[DataLoader] 2021 directory unavailable:', err));
     }
     loadData();
   }, []);
@@ -130,32 +164,32 @@ export default function App() {
                 } 
               />
               <Route 
-                path="/affidavits" 
+                path="/affidavits"
                 element={
-                  <Affidavits 
-                    candidates={candidates} 
-                    lang={lang} 
-                    fontSize={fontSize} 
+                  <Affidavits
+                    candidates={directory}
+                    lang={lang}
+                    fontSize={fontSize}
                   />
-                } 
+                }
               />
               <Route 
                 path="/dashboard" 
-                element={<Dashboard candidates={candidates} lang={lang} fontSize={fontSize} />} 
+                element={<Dashboard candidates={directory} lang={lang} fontSize={fontSize} />}
               />
               <Route 
                 path="/compare" 
-                element={<Compare candidates={candidates} lang={lang} fontSize={fontSize} />} 
+                element={<Compare candidates={directory} lang={lang} fontSize={fontSize} />}
               />
               <Route 
-                path="/party/:partyId" 
+                path="/party/:partyId"
                 element={
-                  <PartyDetails 
-                    candidates={candidates} 
-                    lang={lang} 
-                    fontSize={fontSize} 
+                  <PartyDetails
+                    candidates={directory}
+                    lang={lang}
+                    fontSize={fontSize}
                   />
-                } 
+                }
               />
               <Route 
                 path="/mla-watch" 
