@@ -21,13 +21,15 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import {
   Loader2, FileText, Users, Landmark, Home, Scale, Receipt, Briefcase,
-  ChevronDown, AlertCircle, Gavel,
+  ChevronDown, AlertCircle, Gavel, MapPin,
 } from 'lucide-react';
 import {
   loadFullAffidavit, FullAffidavit as FullAffidavitData, AffidavitSchema,
   AffidavitSection, AffidavitCase,
 } from '../utils/affidavitLoader';
 import { loadPastAffidavit, PastCandidate, ElectionLink } from '../utils/pastElection';
+import { tidy, formatINR, itemizeDeclaration, DeclaredItem } from '../utils/declarationItems';
+import LandAssetMap from './LandAssetMap';
 
 interface Props {
   candidateId: string;
@@ -63,6 +65,8 @@ const T = {
     incomeSource: 'Sources of income',
     movable: 'Movable Assets',
     immovable: 'Immovable Assets',
+    viewMap: 'View map',
+    hideMap: 'Hide map',
     liabilities: 'Liabilities & Dues',
     contracts: 'Contracts with Government & Companies',
     contractsNote: 'Contracts declared under Form 26 by the candidate, spouse, dependants, HUF, partnership firms and private companies.',
@@ -123,6 +127,8 @@ const T = {
     incomeSource: 'வருமான ஆதாரங்கள்',
     movable: 'அசையும் சொத்துக்கள்',
     immovable: 'அசையா சொத்துக்கள்',
+    viewMap: 'வரைபடம் காண்க',
+    hideMap: 'வரைபடத்தை மறை',
     liabilities: 'கடன்கள் மற்றும் நிலுவைகள்',
     contracts: 'அரசு மற்றும் நிறுவன ஒப்பந்தங்கள்',
     contractsNote: 'வேட்பாளர், மனைவி/கணவர், சார்ந்தோர், கூட்டுக் குடும்பம், கூட்டாண்மை நிறுவனங்கள் மற்றும் தனியார் நிறுவனங்கள் மூலம் அறிவிக்கப்பட்ட ஒப்பந்தங்கள்.',
@@ -225,143 +231,29 @@ function orderRelations(relations: Record<string, string>) {
   });
 }
 
-function tidy(value: string) {
-  return value.replace(/\s+/g, ' ').trim();
-}
-
-/**
- * Sign is handled separately from magnitude: 173 candidates declare liabilities
- * greater than assets, and a raw negative fell through the Cr/L branches to an
- * unabbreviated "₹-16,54,70,630".
- */
-const formatINR = (n: number) => {
-  const sign = n < 0 ? '-' : '';
-  const v = Math.abs(n);
-  if (v >= 10000000) return `${sign}₹${(v / 10000000).toFixed(2)} Cr`;
-  if (v >= 100000) return `${sign}₹${(v / 100000).toFixed(2)} L`;
-  return `${sign}₹${v.toLocaleString('en-IN')}`;
-};
-
-/**
- * The ECI export concatenates every line item into one string, each ending with
- * its value and a rounded magnitude hint:
- *
- *   "Axis Bank Avinashi Branch 52,829 52 Thou+ BOB Nanjappa Road 24,93,713 24 Lacs+ …"
- *
- * That boundary is the only reliable separator, and it holds for ~98% of
- * declared values. Anything that does not match is left intact rather than
- * guessed at.
- */
-const ITEM_BOUNDARY = /(?:([\d][\d,.]*)\s+)?([\d][\d,.]*)\s*(Hund|Thou|Lacs?|Lakhs?|Crores?|Cr)\+/gi;
-
-const MAGNITUDE: Record<string, number> = {
-  hund: 100, thou: 1000, lac: 100000, lacs: 100000,
-  lakh: 100000, lakhs: 100000, crore: 10000000, crores: 10000000, cr: 10000000,
-};
-
-/** Labelled sub-fields the ECI embeds in property declarations. */
-const PROPERTY_FIELDS: Array<[string, RegExp]> = [
-  ['Total area', /Total Area\s+([^]*?)(?=Built Up Area|Whether Inherited|Purchase Date|Purchase Cost|Development Cost|$)/i],
-  ['Built-up area', /Built Up Area\s+([^]*?)(?=Whether Inherited|Purchase Date|Purchase Cost|Development Cost|$)/i],
-  ['Inherited', /Whether Inherited\s+([YN])\b/i],
-  ['Purchase date', /Purchase Date\s+([\d-]+)/i],
-  ['Purchase cost', /Purchase Cost\s+([\d.,]+)/i],
-  ['Development cost', /Development Cost\s+([\d.,]+)/i],
-];
-
-export interface DeclaredItem {
-  description: string;
-  amount: number | null;
-  amountText: string | null;
-  attributes: Array<{ label: string; value: string }>;
-}
-
-function parseAmount(exact?: string, rounded?: string, magnitude?: string): number | null {
-  if (exact) {
-    const n = parseFloat(exact.replace(/,/g, ''));
-    if (Number.isFinite(n)) return n;
-  }
-  if (rounded && magnitude) {
-    const n = parseFloat(rounded.replace(/,/g, ''));
-    const mult = MAGNITUDE[magnitude.toLowerCase()];
-    if (Number.isFinite(n) && mult) return n * mult;
-  }
-  return null;
-}
-
-function extractAttributes(text: string): { description: string; attributes: DeclaredItem['attributes'] } {
-  const attributes: DeclaredItem['attributes'] = [];
-  let description = text;
-
-  for (const [label, pattern] of PROPERTY_FIELDS) {
-    const match = description.match(pattern);
-    if (!match) continue;
-    const value = (match[1] || '').trim();
-    if (value && !/^0*(\.0+)?$/.test(value)) {
-      let display = value;
-      if (label === 'Inherited') {
-        display = value.toUpperCase() === 'Y' ? 'Yes' : 'No';
-      } else if (label.endsWith('cost')) {
-        const n = parseFloat(value.replace(/,/g, ''));
-        if (Number.isFinite(n)) display = formatINR(n);
-      }
-      attributes.push({ label, value: display });
-    }
-    description = description.replace(match[0], ' ');
-  }
-
-  return { description: tidy(description), attributes };
-}
-
-export function itemizeDeclaration(raw: string): DeclaredItem[] {
-  const source = tidy(raw);
-  if (!source) return [];
-
-  const items: DeclaredItem[] = [];
-  let cursor = 0;
-
-  ITEM_BOUNDARY.lastIndex = 0;
-  for (const match of source.matchAll(ITEM_BOUNDARY)) {
-    const index = match.index ?? 0;
-    const head = source.slice(cursor, index);
-    const { description, attributes } = extractAttributes(head);
-    items.push({
-      description,
-      amount: parseAmount(match[1], match[2], match[3]),
-      amountText: match[0].trim(),
-      attributes,
-    });
-    cursor = index + match[0].length;
-  }
-
-  const tail = source.slice(cursor).trim();
-  if (tail) {
-    const { description, attributes } = extractAttributes(tail);
-    if (description || attributes.length) {
-      items.push({ description, amount: null, amountText: null, attributes });
-    }
-  }
-
-  // A single unsplittable blob is not worth dressing up as a list.
-  if (items.length === 1 && items[0].amount === null && !items[0].attributes.length) return [];
-  return items;
-}
 
 // ─── Building blocks ────────────────────────────────────────────────────
 
 const SectionHeading: React.FC<{
   icon: React.ReactNode; title: string; count?: string; note?: string;
-}> = ({ icon, title, count, note }) => (
+  /** A control belonging to this section, shown beside its title. */
+  action?: React.ReactNode;
+}> = ({ icon, title, count, note, action }) => (
   <div className="mb-4">
-    <h4 className="text-base md:text-lg font-display font-black text-slate-900 tracking-tight flex items-center gap-2">
-      <span className="text-indigo-600">{icon}</span>
-      <span>{title}</span>
-      {count && (
-        <span className="text-[10px] font-mono font-bold text-indigo-700 bg-indigo-50 border border-indigo-100 px-2 py-0.5 rounded-full">
-          {count}
-        </span>
-      )}
-    </h4>
+    {/* flex-wrap, not a breakpoint: the action drops to its own line when the
+        title needs the width, whatever the window is doing. */}
+    <div className="flex items-center justify-between gap-x-3 gap-y-2 flex-wrap">
+      <h4 className="text-base md:text-lg font-display font-black text-slate-900 tracking-tight flex items-center gap-2 min-w-0">
+        <span className="text-indigo-600">{icon}</span>
+        <span>{title}</span>
+        {count && (
+          <span className="text-[10px] font-mono font-bold text-indigo-700 bg-indigo-50 border border-indigo-100 px-2 py-0.5 rounded-full shrink-0">
+            {count}
+          </span>
+        )}
+      </h4>
+      {action}
+    </div>
     {note && <p className="text-xs text-slate-500 mt-1 leading-relaxed">{note}</p>}
   </div>
 );
@@ -730,7 +622,11 @@ const SchemaSection: React.FC<{
   section: AffidavitSection | undefined;
   pastSection?: AffidavitSection;
   headings: string[]; lang: 'en' | 'ta';
-}> = ({ icon, title, note, section, pastSection, headings, lang }) => {
+  /** A control for this section, rendered beside its title. */
+  action?: React.ReactNode;
+  /** Anything the section shows above its heads — the land map, for one. */
+  children?: React.ReactNode;
+}> = ({ icon, title, note, section, pastSection, headings, lang, action, children }) => {
   const t = T[lang];
   const showYears = Boolean(pastSection);
 
@@ -760,7 +656,9 @@ const SchemaSection: React.FC<{
         title={title}
         note={note}
         count={`${declared.length}/${headings.length} ${t.declared}`}
+        action={action}
       />
+      {children}
       {/* Columns rather than a grid. In a grid every row is as tall as its
           tallest card, so a two-line head sitting beside a thirty-line one left
           a column of dead space below it — the gaps that made this section look
@@ -910,6 +808,9 @@ export default function FullAffidavit({ candidateId, lang, past, election = '202
   const [pastData, setPastData] = useState<{ affidavit: FullAffidavitData } | null>(null);
   const [state, setState] = useState<'loading' | 'ready' | 'missing'>('loading');
   const [section, setSection] = useState<Section>('all');
+  // The map is opt-in: it costs a fetch and a tall block, and a reader who came
+  // for the text should not pay for either.
+  const [showMap, setShowMap] = useState(false);
 
   useEffect(() => {
     let cancelled = false;
@@ -1043,6 +944,19 @@ export default function FullAffidavit({ candidateId, lang, past, election = '202
     { key: 'cases', label: t.cases },
   ];
   const shows = (key: Section) => section === 'all' || section === key;
+
+  /**
+   * Whether to offer the map at all.
+   *
+   * Gated on there being a declaration to plot, in either year — not on how
+   * many. A candidate who declared one property has one location, and that
+   * location is the substance of the declaration.
+   */
+  const hasImmovable = [a.immovable, p?.immovable].some(
+    part => part && Object.values(part).some(
+      relations => relations && Object.values(relations).some(raw => String(raw || '').trim().length > 0)
+    )
+  );
 
   return (
     <div className="pt-4">
@@ -1183,7 +1097,27 @@ export default function FullAffidavit({ candidateId, lang, past, election = '202
         pastSection={p?.immovable}
         headings={schema.immovable}
         lang={lang}
-      />}
+        action={hasImmovable ? (
+          <button
+            type="button"
+            onClick={() => setShowMap(open => !open)}
+            aria-expanded={showMap}
+            className="shrink-0 inline-flex items-center gap-1.5 bg-white border border-slate-300 rounded-xl px-3 py-1.5 text-[12px] font-semibold text-slate-800 hover:border-indigo-500 hover:text-indigo-700 focus:outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-500/20 transition-colors"
+          >
+            <MapPin className="w-3.5 h-3.5 text-indigo-600" />
+            <span>{showMap ? t.hideMap : t.viewMap}</span>
+          </button>
+        ) : undefined}
+      >
+        {showMap && (
+          <LandAssetMap
+            section={a.immovable}
+            pastSection={p?.immovable}
+            headings={schema.immovable}
+            lang={lang}
+          />
+        )}
+      </SchemaSection>}
 
       {shows('liabilities') && <SchemaSection
         icon={<Scale className="w-5 h-5" />}
