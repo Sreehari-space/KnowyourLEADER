@@ -3,8 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useRef } from 'react';
-import { gsap } from 'gsap';
+import React from 'react';
 import { Candidate, FontSizeSetting } from '../types';
 import { FORMAT_NET_WORTH } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
@@ -30,19 +29,16 @@ export default function CandidateCard({
   isComparing
 }: CandidateCardProps) {
   const t = TRANSLATIONS[lang];
-  const desktopCardRef = useRef<HTMLDivElement>(null);
-
-  // Touch browsers synthesise mouseenter on tap, which left the card lifted and
-  // scaled with no matching mouseleave. Only run the lift on real pointers.
-  const canHover = () =>
-    typeof window !== 'undefined' && window.matchMedia('(hover: hover)').matches;
-
-  const handleMouseEnter = (ref: React.RefObject<HTMLDivElement>) => {
-    if (ref.current && canHover()) gsap.to(ref.current, { y: -8, scale: 1.02, duration: 0.4, ease: 'back.out(2)' });
-  };
-  const handleMouseLeave = (ref: React.RefObject<HTMLDivElement>) => {
-    if (ref.current && canHover()) gsap.to(ref.current, { y: 0, scale: 1, duration: 0.4, ease: 'power2.out' });
-  };
+  /**
+   * The card presses rather than floats.
+   *
+   * The old lift was a GSAP tween (y:-8, scale:1.02), which fights a hard
+   * offset shadow — the card would rise while its shadow stayed put. Hover
+   * shifts the card up-left and lengthens the shadow; pressing collapses both,
+   * so the shadow is the interaction rather than decoration on top of it.
+   * Doing it in CSS also drops the mouseenter/mouseleave pair that touch
+   * browsers used to fire without a matching leave, leaving cards stuck lifted.
+   */
 
   /**
    * Party presentation, derived from the one registry entry.
@@ -88,19 +84,21 @@ export default function CandidateCard({
   return (
     <div className="h-full w-full">
       {/* ================= UNIFIED RESPONSIVE LAYOUT ================= */}
-      <div 
-        ref={desktopCardRef}
-        className={`flex group relative bg-white rounded-3xl overflow-hidden border ${isActualWinner ? 'border-amber-400 ring-2 ring-amber-400/50 shadow-[0_4px_20px_rgba(251,191,36,0.3)]' : 'border-neutral-100 shadow-[0_4px_20px_rgba(0,0,0,0.04)]'} flex-col h-full cursor-pointer ${partyStyle.glow}`}
+      <div
+        data-candidate-card
+        className={`flex group relative bg-white rounded-[1.75rem] overflow-hidden border-2 border-neutral-900 flex-col h-full cursor-pointer transition-all duration-150 ${
+          isActualWinner
+            ? 'shadow-[5px_5px_0_0_#f59e0b] hover:shadow-[8px_8px_0_0_#f59e0b]'
+            : 'shadow-[5px_5px_0_0_#171717] hover:shadow-[8px_8px_0_0_#171717]'
+        } hover:-translate-x-[3px] hover:-translate-y-[3px] active:translate-x-0 active:translate-y-0 active:shadow-[2px_2px_0_0_#171717]`}
         onClick={() => onOpenDetails(candidate)}
-        onMouseEnter={() => handleMouseEnter(desktopCardRef)}
-        onMouseLeave={() => handleMouseLeave(desktopCardRef)}
       >
         
         {/* Party banner.
             64px, not 96/112. It carries the party's flag and nothing else, and
             at the old height it was the single largest block on a card whose
             job is to show six facts. */}
-        <div className="h-16 w-full relative overflow-hidden" style={partyStyle.bgStyle}>
+        <div className="h-16 w-full relative overflow-hidden border-b-2 border-neutral-900" style={partyStyle.bgStyle}>
           {partyFlag(partyName) ? (
             <div
               className="absolute inset-0 z-0 bg-no-repeat bg-center bg-cover transition-transform duration-700 group-hover:scale-105"
@@ -124,7 +122,7 @@ export default function CandidateCard({
             cost the same height whatever a candidate carries. */}
         <div className="px-4 flex justify-between items-end gap-2 -mt-7 relative z-10">
           <div
-            className="w-14 h-14 shrink-0 rounded-xl overflow-hidden border-[3px] border-white bg-white shadow-lg flex items-center justify-center text-xl font-bold transform transition-transform duration-500 group-hover:scale-105 ring-1 ring-black/5"
+            className="w-14 h-14 shrink-0 rounded-2xl overflow-hidden border-2 border-neutral-900 bg-white shadow-[3px_3px_0_0_#171717] flex items-center justify-center text-xl font-black transform transition-transform duration-300 group-hover:-rotate-3"
             style={partyStyle.textStyle}
           >
             {candidate.photo ? (
@@ -136,13 +134,13 @@ export default function CandidateCard({
 
           <div className="flex items-center gap-1.5 mb-1 min-w-0">
             {isPast && (
-              <span className="px-2 py-1 bg-slate-800 text-white font-black text-[9px] tracking-widest uppercase rounded-md shadow-sm flex items-center gap-1 whitespace-nowrap">
+              <span className="px-2 py-0.5 bg-neutral-900 text-white font-black text-[9px] tracking-widest uppercase rounded-full border-2 border-neutral-900 shadow-[2px_2px_0_0_#171717] flex items-center gap-1 whitespace-nowrap">
                 <History className="w-3 h-3" />
                 {lang === 'en' ? '2021' : '2021'}
               </span>
             )}
             {isActualWinner && (
-              <span className="px-2 py-1 bg-gradient-to-r from-amber-400 to-yellow-500 text-yellow-950 font-black text-[9px] tracking-widest uppercase rounded-md shadow-sm flex items-center gap-1 border border-yellow-300 whitespace-nowrap">
+              <span className="px-2 py-0.5 bg-amber-300 text-neutral-900 font-black text-[9px] tracking-widest uppercase rounded-full border-2 border-neutral-900 shadow-[2px_2px_0_0_#171717] flex items-center gap-1 whitespace-nowrap">
                 <Trophy className="w-3 h-3" />
                 {isPast
                   ? (lang === 'en' ? 'Won' : 'வெற்றி')
@@ -155,7 +153,7 @@ export default function CandidateCard({
             <span
               data-chrome
               title={candidate.party}
-              className={`px-2 py-1 rounded-md text-[10px] font-black tracking-wider uppercase whitespace-nowrap ${partyStyle.badge}`}
+              className="px-2 py-0.5 rounded-full text-[10px] font-black tracking-wider uppercase whitespace-nowrap bg-white border-2 border-neutral-900 shadow-[2px_2px_0_0_#171717]"
               style={partyStyle.badgeStyle}
             >
               {partyShort(partyName)}
@@ -176,14 +174,14 @@ export default function CandidateCard({
                 {constituencyClean}
               </span>
             </div>
-            <h3 className={`${nameSize()} font-display font-black text-neutral-900 tracking-tight mt-0.5 line-clamp-2`}>
+            <h3 className={`${nameSize()} font-display font-black text-neutral-900 tracking-tighter mt-1 line-clamp-2 uppercase`}>
               {candidate.name.replace(/\s*\(Winner\)/i, '').trim()}
             </h3>
             {/* items-start, not items-center: the profession clamps to two
                 lines, and centring left the age pill floating against the gap
                 between them instead of sitting on the first line. */}
             <div className="flex items-start gap-2 mt-1.5 min-w-0">
-              <span className="shrink-0 whitespace-nowrap text-[10px] font-bold text-neutral-500 bg-neutral-100 px-1.5 py-0.5 rounded">
+              <span className="shrink-0 whitespace-nowrap text-[10px] font-black text-neutral-900 bg-lime-200 border-2 border-neutral-900 px-2 py-0.5 rounded-full">
                 {candidate.age} {t.years}
               </span>
               {/* Declared data. `truncate` here hid up to 667px of a
@@ -208,10 +206,10 @@ export default function CandidateCard({
               gradient blob. That is a lot of chrome around six words. One
               panel with dividers gives the same grouping for a third of the
               height, and the figures now share a baseline. */}
-          <div className="mt-auto rounded-xl border border-neutral-200 bg-neutral-50/60 overflow-hidden">
-            <div className="grid grid-cols-2 divide-x divide-neutral-200">
-              <div className="p-2.5 min-w-0">
-                <div className="flex items-center gap-1 text-neutral-400">
+          <div className="mt-auto rounded-2xl border-2 border-neutral-900 overflow-hidden">
+            <div className="grid grid-cols-2">
+              <div className="p-2.5 min-w-0 bg-emerald-50 border-r-2 border-neutral-900">
+                <div className="flex items-center gap-1 text-neutral-500">
                   <Landmark className="w-3 h-3 shrink-0 text-emerald-600" />
                   <span className="text-[9px] font-bold uppercase tracking-wider truncate">{t.netWorth}</span>
                 </div>
@@ -229,8 +227,8 @@ export default function CandidateCard({
                 </p>
               </div>
 
-              <div className="p-2.5 min-w-0">
-                <div className="flex items-center gap-1 text-neutral-400">
+              <div className={`p-2.5 min-w-0 ${candidate.caseCount > 0 ? 'bg-rose-50' : 'bg-teal-50'}`}>
+                <div className="flex items-center gap-1 text-neutral-500">
                   {candidate.caseCount > 0 ? (
                     <AlertCircle className="w-3 h-3 shrink-0 text-rose-600" />
                   ) : (
@@ -247,7 +245,7 @@ export default function CandidateCard({
               </div>
             </div>
 
-            <div className="flex items-start gap-2 p-2.5 border-t border-neutral-200 min-w-0">
+            <div className="flex items-start gap-2 p-2.5 border-t-2 border-neutral-900 bg-white min-w-0">
               <GraduationCap className="w-3 h-3 shrink-0 text-indigo-600 mt-0.5" />
               {/* Declared data. This was the worst offender on the directory:
                   1,343px of one candidate's education — two degrees, two
@@ -261,10 +259,8 @@ export default function CandidateCard({
           <div className="grid grid-cols-2 gap-2">
             <button
               onClick={(e) => { e.stopPropagation(); onAddToCompare(candidate); }}
-              className={`py-2 rounded-lg text-[11px] font-bold transition-all duration-300 ${
-                isComparing
-                  ? 'bg-neutral-900 text-white ring-2 ring-neutral-900 ring-offset-1'
-                  : 'bg-white border border-neutral-200 text-neutral-600 hover:bg-neutral-50 hover:text-neutral-900 hover:border-neutral-300 active:scale-95'
+              className={`py-2 rounded-full text-[11px] font-black uppercase tracking-wide border-2 border-neutral-900 transition-all duration-150 shadow-[2px_2px_0_0_#171717] active:shadow-none active:translate-x-[2px] active:translate-y-[2px] ${
+                isComparing ? 'bg-neutral-900 text-white' : 'bg-white text-neutral-900 hover:bg-lime-200'
               }`}
             >
               {isComparing ? (lang === 'en' ? 'Selected' : 'தேர்ந்தெடுக்கப்பட்டது') : (lang === 'en' ? 'Compare' : 'ஒப்பிடுக')}
@@ -272,7 +268,7 @@ export default function CandidateCard({
 
             <button
               onClick={(e) => { e.stopPropagation(); onOpenDetails(candidate); }}
-              className="py-2 rounded-lg text-[11px] font-black transition-all duration-300 bg-neutral-900 text-white hover:bg-neutral-800 flex items-center justify-center gap-1.5 group/btn active:scale-95"
+              className="py-2 rounded-full text-[11px] font-black uppercase tracking-wide border-2 border-neutral-900 bg-indigo-600 text-white hover:bg-indigo-500 shadow-[2px_2px_0_0_#171717] active:shadow-none active:translate-x-[2px] active:translate-y-[2px] transition-all duration-150 flex items-center justify-center gap-1.5 group/btn"
             >
               <span>{lang === 'en' ? 'View Profile' : 'விவரங்கள்'}</span>
               <ArrowRight className="w-3.5 h-3.5 transition-transform duration-300 group-hover/btn:translate-x-1" />
