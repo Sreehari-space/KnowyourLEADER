@@ -47,30 +47,19 @@ const GEOJSON = path.join(ROOT, 'public', 'tn_ac_2021_constituencies.geojson');
 const DATA_DIR = path.join(ROOT, 'public', 'data');
 const OUT = path.join(DATA_DIR, 'property_map.json');
 
-/** Width of the projected map in SVG units; height follows the real aspect. */
-const MAP_WIDTH = 1000;
-
 /**
- * Douglas–Peucker tolerance in degrees. At 0.01 the 234 rings drop from 21,929
- * points to 7,397 — a third of the vertices — with no visible change at the
- * size this map is ever drawn. Raising it starts eating coastline.
+ * Douglas–Peucker tolerance in degrees. ~0.003° is roughly 330 m: it keeps 90%
+ * of the source vertices (19,669 of 21,929), which holds up when a boundary is
+ * drawn over street tiles at close zoom. The 0.01 used while this was a
+ * state-scale SVG dropped two thirds of them and visibly cut corners once you
+ * could zoom in; 0.005 still loses a third.
  */
-const SIMPLIFY_EPSILON = 0.01;
+const SIMPLIFY_EPSILON = 0.003;
 
 /** Tamil Nadu's real extent, used as an assertion rather than as data. */
 const TN_BBOX = { minLon: 76.0, maxLon: 80.6, minLat: 7.9, maxLat: 13.8 };
 
 // ─── Geometry ───────────────────────────────────────────────────────────
-
-/**
- * Web Mercator's y term, returned in the same units as x — degrees.
- *
- * The bare expression is in radians while longitude stays in degrees, and
- * mixing the two silently flattens the map: the first run of this script
- * produced a viewBox of "0 0 1000 24" for a state taller than it is wide. The
- * 180/PI factor is what keeps the aspect ratio true.
- */
-const mercatorY = (lat) => (180 / Math.PI) * Math.log(Math.tan(Math.PI / 4 + (lat * Math.PI) / 180 / 2));
 
 /** Perpendicular distance from a point to the segment a→b. */
 function pointToSegment(p, a, b) {
@@ -195,29 +184,6 @@ const OUTSIDE_TN = [
 function buildGeography() {
   const geo = JSON.parse(fs.readFileSync(GEOJSON, 'utf8'));
 
-  // Bounds first: everything else is expressed relative to them.
-  let minLon = Infinity, maxLon = -Infinity, minLat = Infinity, maxLat = -Infinity;
-  for (const feature of geo.features) {
-    for (const polygon of feature.geometry.coordinates) {
-      for (const ring of polygon) {
-        for (const [lon, lat] of ring) {
-          if (lon < minLon) minLon = lon;
-          if (lon > maxLon) maxLon = lon;
-          if (lat < minLat) minLat = lat;
-          if (lat > maxLat) maxLat = lat;
-        }
-      }
-    }
-  }
-
-  const minY = mercatorY(minLat);
-  const maxY = mercatorY(maxLat);
-  const scale = MAP_WIDTH / (maxLon - minLon);
-  const height = (maxY - minY) * scale;
-
-  const projectX = (lon) => (lon - minLon) * scale;
-  const projectY = (lat) => (maxY - mercatorY(lat)) * scale;
-
   const acs = [];
   const places = Object.create(null);
   const districtCentroids = new Map();
@@ -226,47 +192,45 @@ function buildGeography() {
     const name = normaliseName(feature.properties.AC_NAME);
     const district = normaliseName(feature.properties.DIST_NAME);
 
-    // Every ring is drawn — islands and enclaves are part of the shape — but
-    // the centroid comes from the largest, which is the mainland body.
-    const subpaths = [];
+    // Every ring is kept — islands and enclaves are part of the shape — but the
+    // centroid comes from the largest, which is the mainland body.
+    //
+    // Rings are emitted as [lat, lon] because that is the order Leaflet takes,
+    // and doing the swap here means the browser never has to walk the geometry
+    // to flip it. GeoJSON is [lon, lat]; getting this backwards puts Tamil Nadu
+    // in Somalia, so it is done once, in one place.
+    const rings = [];
     let largest = [];
     for (const polygon of feature.geometry.coordinates) {
       for (const ring of polygon) {
         const simplified = simplify(ring, SIMPLIFY_EPSILON);
         if (simplified.length < 4) continue;
-        const d = simplified
-          .map(([lon, lat], i) => `${i ? 'L' : 'M'}${projectX(lon).toFixed(1)} ${projectY(lat).toFixed(1)}`)
-          .join(' ');
-        subpaths.push(`${d}Z`);
+        rings.push(simplified.map(([lon, lat]) => [round(lat), round(lon)]));
         if (ring.length > largest.length) largest = ring;
       }
     }
-    if (!subpaths.length) continue;
+    if (!rings.length) continue;
 
     const [lon, lat] = ringCentroid(largest);
-    if (lon < TN_BBOX.minLon || lon > TN_BBOX.maxLon || lat < TN_BBOX.minLat || lat > TN_BBOX.maxLat) {
-      throw new Error(`${name} centroid ${lon.toFixed(3)},${lat.toFixed(3)} falls outside Tamil Nadu — check the geometry`);
-    }
+    assertInsideTn(name, lon, lat);
 
-    const cx = Number(projectX(lon).toFixed(1));
-    const cy = Number(projectY(lat).toFixed(1));
-
-    acs.push({ name, district, d: subpaths.join(' '), cx, cy });
+    acs.push({ name, district, rings, lat: round(lat), lon: round(lon) });
 
     // A constituency name wins over a district of the same name: it is the
     // smaller, more specific area, so it is the better answer when a
     // declaration names it.
-    places[name] = { cx, cy, tier: 'ac', district, label: titleCase(name) };
+    places[name] = { lat: round(lat), lon: round(lon), tier: 'ac', district, label: titleCase(name) };
 
     if (!districtCentroids.has(district)) districtCentroids.set(district, []);
-    districtCentroids.get(district).push([cx, cy]);
+    districtCentroids.get(district).push([lon, lat]);
   }
 
   for (const [district, points] of districtCentroids) {
     if (places[district]) continue;
-    const cx = Number((points.reduce((s, p) => s + p[0], 0) / points.length).toFixed(1));
-    const cy = Number((points.reduce((s, p) => s + p[1], 0) / points.length).toFixed(1));
-    places[district] = { cx, cy, tier: 'district', district, label: titleCase(district) };
+    const lon = points.reduce((sum, p) => sum + p[0], 0) / points.length;
+    const lat = points.reduce((sum, p) => sum + p[1], 0) / points.length;
+    assertInsideTn(district, lon, lat);
+    places[district] = { lat: round(lat), lon: round(lon), tier: 'district', district, label: titleCase(district) };
   }
 
   const aliases = Object.create(null);
@@ -281,13 +245,25 @@ function buildGeography() {
     .sort((a, b) => b.length - a.length || a.localeCompare(b));
 
   return {
-    viewBox: `0 0 ${MAP_WIDTH} ${Math.ceil(height)}`,
     acs,
     places,
     aliases,
     matchOrder,
     outsideTn: OUTSIDE_TN.slice().sort((a, b) => b.length - a.length),
   };
+}
+
+/** Four decimals is about 11 m — far finer than an approximate area needs, and
+    enough that rounding never moves a boundary visibly. */
+const round = (n) => Number(n.toFixed(4));
+
+/** The one geometry check: a centroid outside Tamil Nadu means the projection
+    or the source changed under us, and the build should stop rather than ship
+    markers in the sea. */
+function assertInsideTn(name, lon, lat) {
+  if (lon < TN_BBOX.minLon || lon > TN_BBOX.maxLon || lat < TN_BBOX.minLat || lat > TN_BBOX.maxLat) {
+    throw new Error(`${name} centroid ${lon.toFixed(3)},${lat.toFixed(3)} falls outside Tamil Nadu — check the geometry`);
+  }
 }
 
 // ─── Coverage report ────────────────────────────────────────────────────
@@ -354,8 +330,7 @@ function main() {
   // same bytes.
   const payload = {
     source: 'public/tn_ac_2021_constituencies.geojson',
-    note: 'Marker positions are constituency or district centroids, not surveyed plot locations.',
-    viewBox: geography.viewBox,
+    note: 'Areas are the constituency or district named in the declaration, not surveyed plots.',
     acs: geography.acs,
     places: geography.places,
     aliases: geography.aliases,
@@ -370,7 +345,6 @@ function main() {
   const kb = (fs.statSync(OUT).size / 1024).toFixed(0);
   console.log(`constituencies   ${geography.acs.length}`);
   console.log(`places indexed   ${Object.keys(geography.places).length} (+${Object.keys(geography.aliases).length} name variants)`);
-  console.log(`viewBox          ${geography.viewBox}`);
 
   for (const [year, s] of Object.entries(stats)) {
     const pct = (n) => `${((n / s.records) * 100).toFixed(1)}%`.padStart(6);

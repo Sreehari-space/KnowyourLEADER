@@ -2,47 +2,79 @@
  * @license
  * SPDX-License-Identifier: Apache-2.0
  *
- * LandAssetMap — where a candidate's declared immovable property sits.
+ * LandAssetMap — where a candidate's declared immovable property sits, on a
+ * real, zoomable map.
  *
  * Form 26 records a property as a line of text: a village, a taluk, a survey
  * number, an area, a purchase date, a value. This reads those lines back and
- * puts each one on a map of Tamil Nadu, so a reader can see at a glance whether
- * a candidate's declared land sits in one taluk or is spread across ten
- * districts — something no amount of scrolling through the text cards shows.
+ * puts each one on OpenStreetMap, so a reader can see whether a candidate's
+ * declared land sits in one taluk or is spread across ten districts, and can
+ * zoom in far enough to recognise the place.
  *
- * What the markers mean, and what they do not
- * -------------------------------------------
- * A marker sits at the centre of the constituency or district named in the
- * declaration. It is not the plot. Survey-number geometry lives in the state's
- * land records and is not public data, so drawing a boundary here would be
- * inventing one. That limit is stated on screen rather than left for the reader
- * to discover, and every property that could not be located is listed in full
- * instead of quietly dropped — hiding a declaration is the one thing this site
- * must never do.
+ * Areas, not pins — and why
+ * -------------------------
+ * The declarations resolve only as far as a constituency or a district. On a
+ * zoomable map a pin would be a lie: at close zoom it would sit on somebody's
+ * roof and read as "this is their house". So the located thing is drawn as the
+ * whole shaded constituency or district — real boundary geometry — and the
+ * mark at its centre is a label for that area, not a position. Zoom in and the
+ * shading spreads across a whole taluk, which is exactly as precise as the
+ * data really is. Survey-number geometry lives in the state's land records and
+ * is not public, so a plot boundary is never drawn.
  *
- * Geography comes from public/data/property_map.json, built by
+ * Every property that could not be located is listed in full rather than
+ * dropped — hiding a declaration is the one thing this site must never do.
+ *
+ * Geometry comes from public/data/property_map.json, built by
  * scripts/buildPropertyMap.cjs out of the 234 constituency polygons the
- * repository already ships. It is fetched only when a reader opens the map.
+ * repository already ships. Tiles and the map data are fetched only when a
+ * reader opens the map.
  */
 
 import React, { useEffect, useMemo, useRef, useState } from 'react';
-import { MapPin, Loader2, AlertCircle, ChevronDown } from 'lucide-react';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
+import { MapPin, Loader2, AlertCircle, ChevronDown, Maximize2 } from 'lucide-react';
 import { AffidavitSection } from '../utils/affidavitLoader';
 import { itemizeDeclaration, formatINR } from '../utils/declarationItems';
+
+// ─── Base map ───────────────────────────────────────────────────────────
+
+/**
+ * The tile source, in one place.
+ *
+ * OpenStreetMap's own servers carry a usage policy — attribution is required,
+ * and heavy or app-distributed use is meant to ask first. Keeping the template
+ * and its attribution together in one constant means moving to a keyed
+ * provider later is this object and nothing else.
+ */
+const BASEMAP = {
+  url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  maxZoom: 19,
+};
 
 // ─── The generated geography ────────────────────────────────────────────
 
 interface Place {
-  cx: number;
-  cy: number;
+  lat: number;
+  lon: number;
   tier: 'ac' | 'district';
   district: string;
   label: string;
 }
 
+interface Constituency {
+  name: string;
+  district: string;
+  /** Closed rings as [lat, lon] — the order Leaflet takes. */
+  rings: Array<Array<[number, number]>>;
+  lat: number;
+  lon: number;
+}
+
 interface PropertyMapData {
-  viewBox: string;
-  acs: Array<{ name: string; district: string; d: string; cx: number; cy: number }>;
+  acs: Constituency[];
   places: Record<string, Place>;
   aliases: Record<string, string>;
   matchOrder: string[];
@@ -99,9 +131,9 @@ function resolvePlace(location: string, data: PropertyMapData): string | null {
  *
  * Three is not an aesthetic choice. A validated categorical palette clears the
  * colour-blind separation floors for three slots when any pair can appear
- * together — as they do on a map, where every mark neighbours every other — and
- * fails at four. The head a property was actually declared under is never lost:
- * it is named on every list row beneath the map.
+ * together — as they do on a map, where every mark neighbours every other —
+ * and fails at four. The head a property was actually declared under is never
+ * lost: it is named on every list row beneath the map.
  */
 type GroupKey = 'land' | 'building' | 'other';
 
@@ -119,11 +151,6 @@ const GROUPS: Record<GroupKey, {
 
 const GROUP_ORDER: GroupKey[] = ['land', 'building', 'other'];
 
-/** A single-hue sequential ramp, light to dark, for district totals. It stays
-    at the pale end of indigo so the markers on top remain the figure. */
-const DISTRICT_RAMP = ['#eef2ff', '#e0e7ff', '#c7d2fe', '#a5b4fc', '#818cf8'];
-const DISTRICT_EMPTY = '#f8fafc';
-
 const RELATION_LABELS: Record<string, { en: string; ta: string }> = {
   self: { en: 'Self', ta: 'தாமே' },
   spouse: { en: 'Spouse', ta: 'வாழ்க்கைத் துணை' },
@@ -139,7 +166,7 @@ const T = {
     loading: 'Loading map',
     failed: 'The map could not be loaded. The declarations below are unaffected.',
     caption:
-      'Approximate. Each marker sits at the centre of the constituency or district named in the declaration — not on the surveyed plot. Survey-number boundaries are not public data.',
+      'Approximate. The shaded area is the whole constituency or district named in the declaration — the property is somewhere inside it, not at the marker. Survey-number boundaries are not public data, so no plot is drawn.',
     mapped: 'mapped',
     properties: 'properties',
     property: 'property',
@@ -150,21 +177,23 @@ const T = {
     noPlace: 'no matching place name',
     nothingPlaced:
       'None of the declared properties name a place this map can locate. Every one of them is listed below.',
-    selectHint: 'Select a marker to list what was declared there.',
+    selectHint: 'Select an area to zoom to it and list what was declared there.',
     allProperties: 'All mapped properties',
     area: 'Area',
     past: '2021',
     pastNote: 'Hollow marks are from the 2021 declaration.',
     district: 'district',
     constituency: 'constituency',
-    plottedAt: 'plotted at',
+    shadedArea: 'shaded area',
+    resetView: 'Show all',
+    scrollHint: 'Click the map to zoom with the wheel',
   },
   ta: {
     title: 'அறிவிக்கப்பட்ட சொத்து எங்கே',
     loading: 'வரைபடம் ஏற்றப்படுகிறது',
     failed: 'வரைபடத்தை ஏற்ற முடியவில்லை. கீழே உள்ள அறிவிப்புகள் பாதிக்கப்படவில்லை.',
     caption:
-      'தோராயமானது. ஒவ்வொரு குறியும் அறிவிப்பில் குறிப்பிடப்பட்ட தொகுதி அல்லது மாவட்டத்தின் மையத்தில் உள்ளது — அளக்கப்பட்ட நிலத்தில் அல்ல. புல எண் எல்லைகள் பொதுத் தரவு அல்ல.',
+      'தோராயமானது. நிழலிடப்பட்ட பகுதி அறிவிப்பில் குறிப்பிடப்பட்ட முழுத் தொகுதி அல்லது மாவட்டம் — சொத்து அதற்குள் எங்கோ உள்ளது, குறியில் அல்ல. புல எண் எல்லைகள் பொதுத் தரவு அல்ல, எனவே நிலம் வரையப்படவில்லை.',
     mapped: 'வரைபடத்தில்',
     properties: 'சொத்துகள்',
     property: 'சொத்து',
@@ -175,14 +204,16 @@ const T = {
     noPlace: 'பொருந்தும் இடப்பெயர் இல்லை',
     nothingPlaced:
       'அறிவிக்கப்பட்ட சொத்துகளில் எதிலும் இந்த வரைபடம் கண்டறியக்கூடிய இடப்பெயர் இல்லை. அனைத்தும் கீழே பட்டியலிடப்பட்டுள்ளன.',
-    selectHint: 'அங்கு அறிவிக்கப்பட்டதைப் பார்க்க ஒரு குறியைத் தேர்ந்தெடுக்கவும்.',
+    selectHint: 'ஒரு பகுதியைத் தேர்ந்தெடுத்தால் அங்கே பெரிதாக்கி, அறிவிக்கப்பட்டதைக் காட்டும்.',
     allProperties: 'வரைபடத்தில் உள்ள அனைத்துச் சொத்துகளும்',
     area: 'பரப்பளவு',
     past: '2021',
     pastNote: 'உள்ளீடற்ற குறிகள் 2021 அறிவிப்பிலிருந்து.',
     district: 'மாவட்டம்',
     constituency: 'தொகுதி',
-    plottedAt: 'இடம்',
+    shadedArea: 'நிழலிட்ட பகுதி',
+    resetView: 'அனைத்தையும் காட்டு',
+    scrollHint: 'சக்கரத்தால் பெரிதாக்க வரைபடத்தை சொடுக்கவும்',
   },
 };
 
@@ -237,100 +268,51 @@ function readSection(
   return out;
 }
 
-// ─── Marks ──────────────────────────────────────────────────────────────
-
-/**
- * Marker radius in viewBox units.
- *
- * Area is proportional to declared value — hence a square-root radius. A radius
- * proportional to value makes a large holding look several times more dominant
- * than it is. The floor keeps a modest property big enough to hit with a
- * finger; the ceiling stops one enormous holding covering a district.
- */
-function markerRadius(value: number, largest: number): number {
-  if (!largest || value <= 0) return 17;
-  return 17 + Math.sqrt(value / largest) * 20;
+interface MapArea {
+  key: string;
+  place: Place;
+  items: PropertyRecord[];
+  value: number;
+  past: boolean;
+  group: GroupKey;
+  rings: Array<Array<[number, number]>>;
 }
 
-/** How far a mark may be nudged off its true point, in viewBox units — about
-    2% of the state's width, so a mark never drifts out of its own region. */
-const MAX_NUDGE = 26;
-
 /**
- * Separate marks that would otherwise pile up.
+ * A mark drawn in HTML rather than as a Leaflet image marker.
  *
- * Two places a few kilometres apart — Anna Nagar and Sholinganallur, say —
- * project to points closer together than the marks drawn on them, and the
- * result is one unreadable blob where the smaller mark looks broken rather than
- * merely behind. This pushes overlapping pairs apart by the smallest amount
- * that separates them, then clamps the total displacement: a mark that has been
- * moved is drawn with a leader line back to the point it belongs to, so the
- * adjustment is visible rather than a quiet lie about where something is.
+ * divIcon sidesteps the classic bundler trap where Leaflet's default icon
+ * resolves its PNGs relative to the CSS and silently 404s, and it lets each
+ * category keep its own shape — identity never rests on colour alone.
  */
-function relax<T extends { x: number; y: number; trueX: number; trueY: number; r: number }>(marks: T[]): T[] {
-  const PADDING = 3;
-  for (let pass = 0; pass < 60; pass++) {
-    let moved = false;
-    for (let i = 0; i < marks.length; i++) {
-      for (let j = i + 1; j < marks.length; j++) {
-        const a = marks[i];
-        const b = marks[j];
-        const dx = b.x - a.x;
-        const dy = b.y - a.y;
-        const wanted = a.r + b.r + PADDING;
-        const distance = Math.hypot(dx, dy) || 0.01;
-        if (distance >= wanted) continue;
+function markIcon(area: MapArea, active: boolean): L.DivIcon {
+  const { colour, shape } = GROUPS[area.group];
+  const count = area.items.length;
+  const size = count > 99 ? 40 : count > 1 ? 34 : 26;
+  const radius = shape === 'circle' ? '9999px' : '3px';
+  const rotate = shape === 'diamond' ? 'rotate(45deg)' : 'none';
 
-        const push = (wanted - distance) / 2;
-        // Coincident points have no axis to separate along; give them one.
-        const ux = distance < 0.05 ? Math.cos(i * 2.4) : dx / distance;
-        const uy = distance < 0.05 ? Math.sin(i * 2.4) : dy / distance;
-        a.x -= ux * push;
-        a.y -= uy * push;
-        b.x += ux * push;
-        b.y += uy * push;
-        moved = true;
-      }
-    }
-    if (!moved) break;
-  }
-
-  for (const mark of marks) {
-    const dx = mark.x - mark.trueX;
-    const dy = mark.y - mark.trueY;
-    const drift = Math.hypot(dx, dy);
-    if (drift > MAX_NUDGE) {
-      mark.x = mark.trueX + (dx / drift) * MAX_NUDGE;
-      mark.y = mark.trueY + (dy / drift) * MAX_NUDGE;
-    }
-  }
-  return marks;
+  return L.divIcon({
+    className: '',
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
+    html: `
+      <div style="
+        width:${size}px;height:${size}px;
+        background:${area.past ? '#ffffff' : colour};
+        border:${area.past ? `2px dashed ${colour}` : `2px solid #ffffff`};
+        outline:${active ? `3px solid ${colour}` : 'none'};
+        border-radius:${radius};transform:${rotate};
+        box-shadow:0 1px 4px rgba(15,23,42,.4);
+        display:flex;align-items:center;justify-content:center;">
+        <span style="
+          transform:${shape === 'diamond' ? 'rotate(-45deg)' : 'none'};
+          color:${area.past ? colour : '#ffffff'};
+          font:700 ${count > 99 ? 12 : 13}px system-ui,sans-serif;
+          font-variant-numeric:tabular-nums;">${count > 1 ? count : ''}</span>
+      </div>`,
+  });
 }
-
-const Marker: React.FC<{
-  shape: 'circle' | 'square' | 'diamond';
-  cx: number; cy: number; r: number;
-  colour: string; past: boolean; active: boolean;
-}> = ({ shape, cx, cy, r, colour, past, active }) => {
-  // A 2px surface ring keeps overlapping marks legible where holdings cluster.
-  const common = {
-    fill: past ? '#ffffff' : colour,
-    stroke: past ? colour : '#ffffff',
-    strokeWidth: active ? 6 : 2,
-    strokeDasharray: past ? '7 5' : undefined,
-    style: { pointerEvents: 'none' as const },
-  };
-
-  if (shape === 'square') {
-    const side = r * 1.72;
-    return <rect x={cx - side / 2} y={cy - side / 2} width={side} height={side} rx={r * 0.28} {...common} />;
-  }
-  if (shape === 'diamond') {
-    const d = r * 1.28;
-    return <polygon points={`${cx},${cy - d} ${cx + d},${cy} ${cx},${cy + d} ${cx - d},${cy}`} {...common} />;
-  }
-  return <circle cx={cx} cy={cy} r={r} {...common} />;
-};
 
 // ─── Component ──────────────────────────────────────────────────────────
 
@@ -346,8 +328,12 @@ const LandAssetMap: React.FC<Props> = ({ section, pastSection, headings, lang })
   const [data, setData] = useState<PropertyMapData | null>(null);
   const [state, setState] = useState<'loading' | 'ready' | 'failed'>('loading');
   const [selected, setSelected] = useState<string | null>(null);
-  const [hovered, setHovered] = useState<string | null>(null);
   const [showUnlocated, setShowUnlocated] = useState(false);
+  const [wheelEnabled, setWheelEnabled] = useState(false);
+
+  const holder = useRef<HTMLDivElement | null>(null);
+  const map = useRef<L.Map | null>(null);
+  const layers = useRef<L.LayerGroup | null>(null);
   const alive = useRef(true);
 
   useEffect(() => {
@@ -373,15 +359,13 @@ const LandAssetMap: React.FC<Props> = ({ section, pastSection, headings, lang })
   }, [data, section, pastSection, headings]);
 
   /**
-   * Properties collapse to one marker per place, so a candidate with forty
-   * holdings in one taluk gets one legible mark carrying a count, rather than
-   * forty identical marks stacked on a single point.
+   * Properties collapse to one area per place, so a candidate with 118
+   * holdings around Coimbatore gets one shaded district carrying a count,
+   * rather than 118 marks on a single point.
    */
-  const markers = useMemo(() => {
+  const areas = useMemo<MapArea[]>(() => {
     if (!data) return [];
-    const byPlace = new Map<string, {
-      place: Place; key: string; items: PropertyRecord[]; value: number; past: boolean;
-    }>();
+    const byPlace = new Map<string, MapArea>();
 
     for (const record of records) {
       if (!record.placeKey || record.placeKey === OUTSIDE_TN) continue;
@@ -389,7 +373,15 @@ const LandAssetMap: React.FC<Props> = ({ section, pastSection, headings, lang })
       if (!place) continue;
       let entry = byPlace.get(record.placeKey);
       if (!entry) {
-        entry = { place, key: record.placeKey, items: [], value: 0, past: true };
+        // A constituency shades its own polygon; a district shades every
+        // constituency inside it, which is the same outline drawn in parts.
+        const rings = place.tier === 'ac'
+          ? (data.acs.find(ac => ac.name === record.placeKey)?.rings ?? [])
+          : data.acs.filter(ac => ac.district === place.district).flatMap(ac => ac.rings);
+        entry = {
+          key: record.placeKey, place, items: [], value: 0, past: true,
+          group: 'land', rings,
+        };
         byPlace.set(record.placeKey, entry);
       }
       entry.items.push(record);
@@ -397,48 +389,18 @@ const LandAssetMap: React.FC<Props> = ({ section, pastSection, headings, lang })
       if (!record.past) entry.past = false;
     }
 
-    const largest = Math.max(...[...byPlace.values()].map(entry => entry.value), 0);
+    for (const entry of byPlace.values()) {
+      // The area takes the colour of whichever group holds most there; the
+      // list beneath spells out the rest.
+      const weight = new Map<GroupKey, number>();
+      for (const item of entry.items) {
+        weight.set(item.group, (weight.get(item.group) || 0) + (item.value || 0) + 1);
+      }
+      entry.group = [...weight.entries()].sort((a, b) => b[1] - a[1])[0][0];
+    }
 
-    const marks = [...byPlace.values()]
-      .map(entry => {
-        // The mark takes the shape of whichever group holds the most there;
-        // the list beneath spells out the rest.
-        const weight = new Map<GroupKey, number>();
-        for (const item of entry.items) {
-          weight.set(item.group, (weight.get(item.group) || 0) + (item.value || 0) + 1);
-        }
-        const group = [...weight.entries()].sort((a, b) => b[1] - a[1])[0][0];
-        return {
-          ...entry,
-          group,
-          r: markerRadius(entry.value, largest),
-          x: entry.place.cx, y: entry.place.cy,
-          trueX: entry.place.cx, trueY: entry.place.cy,
-        };
-      })
-      // Biggest first in document order, so the smallest paint last and stay
-      // reachable where marks overlap.
-      .sort((a, b) => b.r - a.r);
-
-    return relax(marks);
+    return [...byPlace.values()].sort((a, b) => b.value - a.value);
   }, [records, data]);
-
-  /** District totals drive the choropleth beneath the markers. */
-  const districtFill = useMemo(() => {
-    const totals = new Map<string, number>();
-    for (const marker of markers) {
-      totals.set(marker.place.district, (totals.get(marker.place.district) || 0) + marker.value);
-    }
-    const largest = Math.max(...totals.values(), 0);
-    const fill = new Map<string, string>();
-    for (const [district, total] of totals) {
-      const step = largest > 0
-        ? Math.min(DISTRICT_RAMP.length - 1, Math.floor((total / largest) * DISTRICT_RAMP.length))
-        : 0;
-      fill.set(district, DISTRICT_RAMP[step]);
-    }
-    return fill;
-  }, [markers]);
 
   const unlocated = useMemo(
     () => records.filter(record => !record.placeKey || record.placeKey === OUTSIDE_TN),
@@ -454,12 +416,106 @@ const LandAssetMap: React.FC<Props> = ({ section, pastSection, headings, lang })
   }, [records]);
 
   const placedCount = records.length - unlocated.length;
-  const hasPast = useMemo(() => markers.some(marker => marker.past), [markers]);
-  const active = selected || hovered;
-  const activeMarker = markers.find(marker => marker.key === active) || null;
-  const listed = activeMarker
-    ? activeMarker.items
+  const hasPast = useMemo(() => areas.some(area => area.past), [areas]);
+  const activeArea = areas.find(area => area.key === selected) || null;
+  const listed = activeArea
+    ? activeArea.items
     : records.filter(record => record.placeKey && record.placeKey !== OUTSIDE_TN);
+
+  /** Every shaded area, for the default view. */
+  const allBounds = useMemo(() => {
+    const points = areas.flatMap(area => area.rings.flat());
+    return points.length ? L.latLngBounds(points as L.LatLngExpression[]) : null;
+  }, [areas]);
+
+  // ── The map itself ────────────────────────────────────────────────────
+
+  useEffect(() => {
+    if (state !== 'ready' || !holder.current || map.current || !areas.length) return;
+
+    const instance = L.map(holder.current, {
+      // The dossier is a scrolling pane. A map that grabs the wheel traps the
+      // reader, so the wheel is off until they click into the map.
+      scrollWheelZoom: false,
+      zoomControl: true,
+      attributionControl: true,
+    });
+
+    L.tileLayer(BASEMAP.url, {
+      attribution: BASEMAP.attribution,
+      maxZoom: BASEMAP.maxZoom,
+    }).addTo(instance);
+
+    layers.current = L.layerGroup().addTo(instance);
+    map.current = instance;
+
+    instance.on('click', () => {
+      instance.scrollWheelZoom.enable();
+      setWheelEnabled(true);
+    });
+    instance.on('mouseout', () => {
+      instance.scrollWheelZoom.disable();
+      setWheelEnabled(false);
+    });
+
+    // The pane is inside a modal that animates open; Leaflet measures a
+    // container that has not settled unless told to look again.
+    const settle = window.setTimeout(() => instance.invalidateSize(), 250);
+
+    return () => {
+      window.clearTimeout(settle);
+      instance.remove();
+      map.current = null;
+      layers.current = null;
+    };
+  }, [state, areas.length]);
+
+  /** Draw the areas, and redraw when the selection changes. */
+  useEffect(() => {
+    const instance = map.current;
+    const group = layers.current;
+    if (!instance || !group) return;
+
+    group.clearLayers();
+
+    for (const area of areas) {
+      const { colour } = GROUPS[area.group];
+      const active = area.key === selected;
+
+      if (area.rings.length) {
+        L.polygon(area.rings as L.LatLngExpression[][], {
+          color: colour,
+          weight: active ? 2.5 : 1.5,
+          opacity: active ? 0.95 : 0.7,
+          fillColor: colour,
+          fillOpacity: active ? 0.22 : 0.12,
+          interactive: true,
+        })
+          .on('click', () => setSelected(current => (current === area.key ? null : area.key)))
+          .addTo(group);
+      }
+
+      const count = area.items.length;
+      L.marker([area.place.lat, area.place.lon], {
+        icon: markIcon(area, active),
+        keyboard: true,
+        title: `${area.place.label} — ${count} ${count === 1 ? t.property : t.properties}, ${formatINR(area.value)}`,
+        alt: area.place.label,
+      })
+        .on('click', () => setSelected(current => (current === area.key ? null : area.key)))
+        .addTo(group);
+    }
+  }, [areas, selected, t]);
+
+  /** Frame the selection, or everything when there is none. */
+  useEffect(() => {
+    const instance = map.current;
+    if (!instance) return;
+    const bounds = activeArea && activeArea.rings.length
+      ? L.latLngBounds(activeArea.rings.flat() as L.LatLngExpression[])
+      : allBounds;
+    if (bounds) instance.fitBounds(bounds, { padding: [24, 24], maxZoom: 12, animate: true });
+  }, [activeArea, allBounds]);
 
   if (state === 'loading') {
     return (
@@ -491,99 +547,23 @@ const LandAssetMap: React.FC<Props> = ({ section, pastSection, headings, lang })
         </span>
       </div>
 
-      {markers.length === 0 ? (
+      {areas.length === 0 ? (
         <p className="text-[13px] text-slate-600 leading-relaxed">{t.nothingPlaced}</p>
       ) : (
-        /* auto-fit, not a viewport breakpoint: this pane is a fraction of the
-           window, so the map and its list sit side by side only once this box
-           can actually hold two 16rem columns. */
-        <div className="grid gap-4 items-start [grid-template-columns:repeat(auto-fit,minmax(16rem,1fr))]">
+        /* The map takes the full width of the pane rather than sharing a row
+           with the list. Split side by side it came out 317px wide, which is
+           too cramped to pan and zoom in; the list reads perfectly well
+           beneath it. */
+        <div>
           <div className="min-w-0">
-            <svg
-              viewBox={data.viewBox}
-              className="w-full h-auto max-h-[26rem] block"
-              // group, not img: an image role makes the markers inside it
-              // presentational, and they are the interactive part.
-              role="group"
-              aria-label={`${placedCount} declared properties across ${districtFill.size} districts of Tamil Nadu`}
-            >
-              {data.acs.map(ac => (
-                <path
-                  key={ac.name}
-                  d={ac.d}
-                  fill={districtFill.get(ac.district) || DISTRICT_EMPTY}
-                  stroke="#cbd5e1"
-                  strokeWidth={1}
-                  vectorEffect="non-scaling-stroke"
-                />
-              ))}
+            <div
+              ref={holder}
+              className="h-[26rem] w-full rounded-xl border border-slate-200 overflow-hidden bg-slate-100 z-0"
+            />
 
-              {markers.map(marker => {
-                const group = GROUPS[marker.group];
-                const count = marker.items.length;
-                return (
-                  <g
-                    key={marker.key}
-                    role="button"
-                    tabIndex={0}
-                    aria-label={`${marker.place.label} — ${count} ${count === 1 ? t.property : t.properties}, ${formatINR(marker.value)}`}
-                    className="cursor-pointer"
-                    onMouseEnter={() => setHovered(marker.key)}
-                    onMouseLeave={() => setHovered(null)}
-                    onFocus={() => setHovered(marker.key)}
-                    onBlur={() => setHovered(null)}
-                    onClick={() => setSelected(current => (current === marker.key ? null : marker.key))}
-                    onKeyDown={event => {
-                      if (event.key === 'Enter' || event.key === ' ') {
-                        event.preventDefault();
-                        setSelected(current => (current === marker.key ? null : marker.key));
-                      }
-                    }}
-                  >
-                    {/* Where a mark had to be nudged clear of its neighbours, a
-                        leader line keeps the point it belongs to visible. */}
-                    {Math.hypot(marker.x - marker.trueX, marker.y - marker.trueY) > 4 && (
-                      <line
-                        x1={marker.trueX} y1={marker.trueY} x2={marker.x} y2={marker.y}
-                        stroke={group.colour} strokeWidth={2} strokeOpacity={0.55}
-                      />
-                    )}
-                    {/* A generous invisible hit area: the drawn mark may be
-                        small, but the target should not be. */}
-                    <circle cx={marker.x} cy={marker.y} r={Math.max(marker.r, 26)} fill="transparent" />
-                    <Marker
-                      shape={group.shape}
-                      cx={marker.x}
-                      cy={marker.y}
-                      r={marker.r}
-                      colour={group.colour}
-                      past={marker.past}
-                      active={active === marker.key}
-                    />
-                    {count > 1 && (
-                      <text
-                        x={marker.x}
-                        y={marker.y + marker.r * 0.34}
-                        textAnchor="middle"
-                        // Three digits will not fit at the width one does.
-                        fontSize={marker.r * (count >= 100 ? 0.58 : count >= 10 ? 0.78 : 0.95)}
-                        fontWeight="700"
-                        fill={marker.past ? group.colour : '#ffffff'}
-                        style={{ pointerEvents: 'none' }}
-                      >
-                        {count}
-                      </text>
-                    )}
-                  </g>
-                );
-              })}
-            </svg>
-
-            {/* Identity never rests on colour alone: each group carries its own
-                shape, and its count is written out. */}
-            <ul className="flex flex-wrap gap-x-3 gap-y-1.5 mt-3">
+            <div className="flex flex-wrap items-center gap-x-3 gap-y-1.5 mt-2">
               {GROUP_ORDER.filter(key => groupCounts[key] > 0).map(key => (
-                <li key={key} className="flex items-center gap-1.5 text-[11px] text-slate-600">
+                <span key={key} className="flex items-center gap-1.5 text-[11px] text-slate-600">
                   <span
                     className="inline-block w-2.5 h-2.5 shrink-0"
                     style={{
@@ -594,25 +574,40 @@ const LandAssetMap: React.FC<Props> = ({ section, pastSection, headings, lang })
                   />
                   <span>{GROUPS[key][lang]}</span>
                   <span className="font-mono font-semibold text-slate-500 tabular-nums">{groupCounts[key]}</span>
-                </li>
+                </span>
               ))}
-              {hasPast && <li className="text-[11px] text-slate-500">{t.pastNote}</li>}
-            </ul>
+              {hasPast && <span className="text-[11px] text-slate-500">{t.pastNote}</span>}
+              {!wheelEnabled && (
+                <span className="text-[11px] text-slate-400">{t.scrollHint}</span>
+              )}
+              {activeArea && (
+                <button
+                  type="button"
+                  onClick={() => setSelected(null)}
+                  className="ml-auto inline-flex items-center gap-1 text-[11px] font-bold text-indigo-600 hover:text-indigo-800 transition-colors"
+                >
+                  <Maximize2 className="w-3 h-3" />
+                  {t.resetView}
+                </button>
+              )}
+            </div>
           </div>
 
-          <div className="min-w-0">
+          <div className="min-w-0 mt-4 pt-3 border-t border-slate-100">
             <div className="flex items-baseline justify-between gap-2 mb-2">
               <span className="text-[10px] font-bold text-indigo-600 uppercase tracking-widest font-mono">
-                {activeMarker ? activeMarker.place.label : t.allProperties}
+                {activeArea ? activeArea.place.label : t.allProperties}
               </span>
-              {activeMarker && (
+              {activeArea && (
                 <span className="text-[10px] font-mono text-slate-400 shrink-0">
-                  {t.plottedAt} {activeMarker.place.tier === 'ac' ? t.constituency : t.district}
+                  {t.shadedArea}: {activeArea.place.tier === 'ac' ? t.constituency : t.district}
                 </span>
               )}
             </div>
 
-            <ol className="space-y-2 max-h-[24rem] overflow-y-auto pr-1">
+            {/* Now the list has the full width, auto-fit keeps each row at a
+                readable measure instead of one very long line. */}
+            <ol className="grid gap-x-5 items-start [grid-template-columns:repeat(auto-fit,minmax(18rem,1fr))] max-h-[22rem] overflow-y-auto pr-1">
               {listed.map((record, index) => (
                 <li
                   key={`${record.head}-${record.relation}-${index}`}
@@ -650,7 +645,7 @@ const LandAssetMap: React.FC<Props> = ({ section, pastSection, headings, lang })
               ))}
             </ol>
 
-            {!activeMarker && markers.length > 1 && (
+            {!activeArea && areas.length > 1 && (
               <p className="text-[11px] text-slate-400 mt-2">{t.selectHint}</p>
             )}
           </div>

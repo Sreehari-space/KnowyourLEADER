@@ -29,7 +29,10 @@ import {
 } from '../utils/affidavitLoader';
 import { loadPastAffidavit, PastCandidate, ElectionLink } from '../utils/pastElection';
 import { tidy, formatINR, itemizeDeclaration, DeclaredItem } from '../utils/declarationItems';
-import LandAssetMap from './LandAssetMap';
+// Lazily loaded: the map pulls in Leaflet and its CSS, roughly 44 KB gzipped,
+// and most readers never open it. Bundled eagerly it rode along in the
+// dossier chunk whether or not anyone pressed the button.
+const LandAssetMap = React.lazy(() => import('./LandAssetMap'));
 
 interface Props {
   candidateId: string;
@@ -1110,12 +1113,21 @@ export default function FullAffidavit({ candidateId, lang, past, election = '202
         ) : undefined}
       >
         {showMap && (
-          <LandAssetMap
-            section={a.immovable}
-            pastSection={p?.immovable}
-            headings={schema.immovable}
-            lang={lang}
-          />
+          <React.Suspense
+            fallback={
+              <div className="flex items-center justify-center gap-3 py-10 bg-slate-50 border border-slate-200 rounded-2xl mb-6">
+                <Loader2 className="w-4 h-4 text-indigo-500 animate-spin" />
+                <span className="text-[13px] font-semibold text-slate-500">{t.loading}</span>
+              </div>
+            }
+          >
+            <LandAssetMap
+              section={a.immovable}
+              pastSection={p?.immovable}
+              headings={schema.immovable}
+              lang={lang}
+            />
+          </React.Suspense>
         )}
       </SchemaSection>}
 
