@@ -1,14 +1,35 @@
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
+ *
+ * CandidateCard — one candidate's sworn Form 26 declaration, as a filed record.
+ *
+ * The card is laid out as a document rather than a profile: a record line, an
+ * identity block, then the declaration itself set as a small ruled table. That
+ * is what this card is, and it is why the type does the work here while the
+ * decoration stays out of the way.
+ *
+ * The party is a spine, not a banner
+ * ----------------------------------
+ * A 64px flag banner was the tallest thing on a card carrying six facts, and it
+ * told a reader nothing they could use. The party is now a 4px stripe down the
+ * left edge, taken from the same registry colour the map uses — which costs no
+ * height and colour-codes a whole directory page at a glance.
+ *
+ * Assets and liabilities, not just net worth
+ * -------------------------------------------
+ * 1,242 of 1,799 candidates (69%) declare liabilities, at a median of 22% of
+ * their assets. Showing net worth alone made ₹100 Cr owing ₹95 Cr look exactly
+ * like ₹100 Cr owing nothing. The bar shows the two against each other, so the
+ * shape of a declaration is visible and not only its total.
  */
 
 import React from 'react';
 import { Candidate, FontSizeSetting } from '../types';
 import { FORMAT_NET_WORTH } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
-import { partyColour, partyShort, partyFlag } from '../data/parties';
-import { ShieldCheck, GraduationCap, Landmark, ArrowRight, AlertCircle, Briefcase, MapPin, Trophy, History } from 'lucide-react';
+import { partyColour, partyShort } from '../data/parties';
+import { ShieldCheck, GraduationCap, ArrowRight, AlertCircle, Trophy, History } from 'lucide-react';
 
 interface CandidateCardProps {
   key?: React.Key;
@@ -20,258 +41,266 @@ interface CandidateCardProps {
   isComparing: boolean;
 }
 
+/** The card's own ground, reused as the divider inside the bar. */
+const PAPER = '#FCFBF8';
+/** Ink for declared assets, rose for what is owed against them. */
+const ASSET_INK = '#292524';
+const LIABILITY_INK = '#e11d48';
+
 export default function CandidateCard({
   candidate,
   lang,
   fontSize,
   onOpenDetails,
   onAddToCompare,
-  isComparing
+  isComparing,
 }: CandidateCardProps) {
   const t = TRANSLATIONS[lang];
-  /**
-   * The card presses rather than floats.
-   *
-   * The old lift was a GSAP tween (y:-8, scale:1.02), which fights a hard
-   * offset shadow — the card would rise while its shadow stayed put. Hover
-   * shifts the card up-left and lengthens the shadow; pressing collapses both,
-   * so the shadow is the interaction rather than decoration on top of it.
-   * Doing it in CSS also drops the mouseenter/mouseleave pair that touch
-   * browsers used to fire without a matching leave, leaving cards stuck lifted.
-   */
 
   /**
-   * Party presentation, derived from the one registry entry.
+   * Party colour, from the one registry entry — the same hex the map fills
+   * with, so a party cannot be one colour here and another there.
    *
-   * This was a 115-line table of substring rules, plus a second colour table
-   * below it that was never called, plus an abbreviation table and a flag
-   * table — four copies in this file alone, and they disagreed with the map:
-   * BSP and IUML had colours there and fell through to grey here.
-   *
-   * The gradient is built from the registry hex so a party cannot be one
-   * colour on the card and another on the map.
+   * It is used for the spine only. Registry colours run from near-black to
+   * amber, and amber text on this ground sits near 3:1, so the party never
+   * carries text: the badge is ink and the colour stays a graphic.
    */
-  const partyName = candidate.party;
-  const colour = partyColour(partyName);
-
-  const getPartyStyles = (_partyName: string) => ({
-    bg: '',
-    bgStyle: { backgroundImage: `linear-gradient(135deg, ${colour} 0%, ${colour}cc 55%, ${colour}99 100%)` },
-    badge: 'bg-white/90 shadow-sm ring-1 ring-black/5',
-    badgeStyle: { color: colour },
-    text: '',
-    textStyle: { color: colour },
-    glow: '',
-  });
-
-  const partyStyle = getPartyStyles(candidate.party);
+  const colour = partyColour(candidate.party);
 
   const nameSize = () => {
     if (fontSize === 'xlarge') return 'text-2xl leading-tight';
     if (fontSize === 'large') return 'text-xl leading-tight';
-    return 'text-xl sm:text-2xl leading-snug';
+    return 'text-lg @sm:text-xl leading-tight';
   };
 
+  const cleanName = candidate.name.replace(/\s*\(Winner\)/i, '').trim();
   const constituencyClean = candidate.constituency.split('(')[0]?.trim() || candidate.constituency;
+  const education = candidate.education.split('Category: ')[1] || candidate.education;
 
   const isActualWinner = candidate.isWinner || /\(Winner\)/i.test(candidate.name);
 
   // A 2021 entry is someone who did not stand in 2026. Without a mark on the
-  // card a reader takes every result for a current candidate, so the badge is
-  // not decoration — it is the difference between a record and a claim.
+  // card a reader takes every result for a current candidate, so this is not
+  // decoration — it is the difference between a record and a claim.
   const isPast = candidate.election === '2021';
+
+  /**
+   * The two segments, as shares of what they add up to.
+   *
+   * Normalised against the pair's total and never against assets: liabilities
+   * routinely exceed assets — one candidate declares ₹10,000 of assets against
+   * ₹9.68 lakh of debt, a ratio of 9,678% — and a bar scaled to assets would
+   * run out of its track. Candidates who declare nothing at all give a total of
+   * zero, so the shares stay at zero and the track renders empty.
+   */
+  const assets = Math.max(0, candidate.assets || 0);
+  const liabilities = Math.max(0, candidate.liabilities || 0);
+  const declaredTotal = assets + liabilities;
+  const assetShare = declaredTotal > 0 ? (assets / declaredTotal) * 100 : 0;
+  const liabilityShare = declaredTotal > 0 ? 100 - assetShare : 0;
+  // The 2px divider is only a divider when there is something on both sides of
+  // it; against a single full segment it would read as a notch cut out of it.
+  const showsBothSegments = assets > 0 && liabilities > 0;
+
+  const hasCases = candidate.caseCount > 0;
 
   return (
     <div className="h-full w-full">
-      {/* ================= UNIFIED RESPONSIVE LAYOUT ================= */}
       <div
         data-candidate-card
-        className={`flex group relative bg-white rounded-[1.75rem] overflow-hidden border-2 border-neutral-900 flex-col h-full cursor-pointer transition-all duration-150 ${
-          isActualWinner
-            ? 'shadow-[5px_5px_0_0_#f59e0b] hover:shadow-[8px_8px_0_0_#f59e0b]'
-            : 'shadow-[5px_5px_0_0_#171717] hover:shadow-[8px_8px_0_0_#171717]'
-        } hover:-translate-x-[3px] hover:-translate-y-[3px] active:translate-x-0 active:translate-y-0 active:shadow-[2px_2px_0_0_#171717]`}
+        className="@container group relative flex h-full cursor-pointer flex-col overflow-hidden rounded-2xl border border-neutral-200 bg-[#FCFBF8] shadow-[0_1px_2px_rgba(15,23,42,0.04)] transition-all duration-300 hover:-translate-y-0.5 hover:border-neutral-300 hover:shadow-[0_10px_30px_rgba(15,23,42,0.09)]"
         onClick={() => onOpenDetails(candidate)}
       >
-        
-        {/* Party banner.
-            64px, not 96/112. It carries the party's flag and nothing else, and
-            at the old height it was the single largest block on a card whose
-            job is to show six facts. */}
-        <div className="h-16 w-full relative overflow-hidden border-b-2 border-neutral-900" style={partyStyle.bgStyle}>
-          {partyFlag(partyName) ? (
-            <div
-              className="absolute inset-0 z-0 bg-no-repeat bg-center bg-cover transition-transform duration-700 group-hover:scale-105"
-              style={{ backgroundImage: `url('${partyFlag(partyName)}')`, opacity: 0.85 }}
-            />
-          ) : (
-            <>
-              <div className="absolute inset-0 bg-black/10 backdrop-blur-[2px]"></div>
-              <div className="absolute -right-4 -top-8 opacity-20 transform rotate-12 scale-125 text-white mix-blend-overlay transition-transform duration-700 group-hover:rotate-45">
-                <svg width="140" height="140" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M12 2L2 22h20L12 2zm0 4.5l6.5 13h-13L12 6.5z"/>
-                </svg>
-              </div>
-            </>
-          )}
-        </div>
+        {/* The party, as a spine. */}
+        <span aria-hidden className="absolute inset-y-0 left-0 w-1" style={{ background: colour }} />
 
-        {/* Avatar and status badges share one baseline.
-            The badges used to stack vertically, so a winner who also stood in
-            2021 pushed the card 28px taller than one who did not. In a row they
-            cost the same height whatever a candidate carries. */}
-        <div className="px-4 flex justify-between items-end gap-2 -mt-7 relative z-10">
-          <div
-            className="w-14 h-14 shrink-0 rounded-2xl overflow-hidden border-2 border-neutral-900 bg-white shadow-[3px_3px_0_0_#171717] flex items-center justify-center text-xl font-black transform transition-transform duration-300 group-hover:-rotate-3"
-            style={partyStyle.textStyle}
-          >
-            {candidate.photo ? (
-              <img src={candidate.photo.replace('images/', '/candidates/')} alt={candidate.name.replace(/\s*\(Winner\)/i, '').trim()} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
-            ) : (
-              candidate.name.replace(/\s*\(Winner\)/i, '').trim().charAt(0)
-            )}
-          </div>
-
-          <div className="flex items-center gap-1.5 mb-1 min-w-0">
-            {isPast && (
-              <span className="px-2 py-0.5 bg-neutral-900 text-white font-black text-[9px] tracking-widest uppercase rounded-full border-2 border-neutral-900 shadow-[2px_2px_0_0_#171717] flex items-center gap-1 whitespace-nowrap">
-                <History className="w-3 h-3" />
-                {lang === 'en' ? '2021' : '2021'}
-              </span>
-            )}
-            {isActualWinner && (
-              <span className="px-2 py-0.5 bg-amber-300 text-neutral-900 font-black text-[9px] tracking-widest uppercase rounded-full border-2 border-neutral-900 shadow-[2px_2px_0_0_#171717] flex items-center gap-1 whitespace-nowrap">
-                <Trophy className="w-3 h-3" />
-                {isPast
-                  ? (lang === 'en' ? 'Won' : 'வெற்றி')
-                  : (lang === 'en' ? 'Winner' : 'வெற்றி')}
-              </span>
-            )}
-            {/* Chrome: partyShort abbreviates, and shortens an unregistered
-                party to nine characters plus an ellipsis. The full name is on
-                the title and in the dossier, so nothing is lost here. */}
+        <div className="flex flex-1 flex-col gap-3 py-4 pl-5 pr-4">
+          {/* ── Record line ─────────────────────────────────────────── */}
+          {/* Chrome: constituency and party both appear in full in the
+              dossier, so clipping the label here loses nothing. Marked so the
+              layout audit allows it — see scripts/auditLayout.mjs. */}
+          <div className="flex items-center justify-between gap-2">
+            <span
+              data-chrome
+              className="truncate font-mono text-[10px] uppercase tracking-[0.14em] text-neutral-500"
+            >
+              {constituencyClean}
+            </span>
             <span
               data-chrome
               title={candidate.party}
-              className="px-2 py-0.5 rounded-full text-[10px] font-black tracking-wider uppercase whitespace-nowrap bg-white border-2 border-neutral-900 shadow-[2px_2px_0_0_#171717]"
-              style={partyStyle.badgeStyle}
+              className="shrink-0 font-mono text-[10px] font-bold uppercase tracking-[0.1em] text-neutral-700"
             >
-              {partyShort(partyName)}
+              {partyShort(candidate.party)}
             </span>
           </div>
-        </div>
 
-        {/* One 12px rhythm throughout. The old card mixed mb-4/mb-5, mt-2.5/mt-3
-            and mt-4/mt-5, so nothing lined up against anything else. */}
-        <div className="px-4 pt-3 pb-4 flex-1 flex flex-col gap-3 relative z-20 bg-white">
-          <div>
-            {/* Chrome: the constituency also appears in full in the dossier,
-                so clipping the label here loses nothing. Marked so the layout
-                audit allows it — see scripts/auditLayout.mjs. */}
-            <div data-chrome className="flex items-center gap-1.5 text-neutral-400">
-              <MapPin className="w-3 h-3 shrink-0" />
-              <span className="text-[10px] font-mono font-bold tracking-widest uppercase truncate">
-                {constituencyClean}
-              </span>
+          {/* ── Identity ────────────────────────────────────────────── */}
+          <div className="flex items-start gap-3">
+            <div className="h-[52px] w-[52px] shrink-0 overflow-hidden rounded-lg bg-white ring-1 ring-neutral-200">
+              {candidate.photo ? (
+                <img
+                  src={candidate.photo.replace('images/', '/candidates/')}
+                  alt={cleanName}
+                  className="h-full w-full object-cover"
+                  onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
+                />
+              ) : (
+                <span
+                  className="flex h-full w-full items-center justify-center font-display text-xl font-bold"
+                  style={{ color: colour }}
+                >
+                  {cleanName.charAt(0)}
+                </span>
+              )}
             </div>
-            <h3 className={`${nameSize()} font-display font-black text-neutral-900 tracking-tighter mt-1 line-clamp-2 uppercase`}>
-              {candidate.name.replace(/\s*\(Winner\)/i, '').trim()}
-            </h3>
-            {/* items-start, not items-center: the profession clamps to two
-                lines, and centring left the age pill floating against the gap
-                between them instead of sitting on the first line. */}
-            <div className="flex items-start gap-2 mt-1.5 min-w-0">
-              <span className="shrink-0 whitespace-nowrap text-[10px] font-black text-neutral-900 bg-lime-200 border-2 border-neutral-900 px-2 py-0.5 rounded-full">
-                {candidate.age} {t.years}
-              </span>
+
+            <div className="min-w-0 flex-1">
+              <h3 className={`${nameSize()} font-display font-bold tracking-tight text-neutral-900 line-clamp-2`}>
+                {cleanName}
+              </h3>
               {/* Declared data. `truncate` here hid up to 667px of a
                   candidate's stated occupation behind an ellipsis with no way
                   to read it — on a site whose purpose is disclosure. Clamped
                   to two lines instead, which shows most of it and never
                   silently drops the rest. */}
-              {candidate.selfProfession && (
-                <span className="flex items-start gap-1 text-[11px] font-medium text-neutral-500 min-w-0">
-                  <Briefcase className="w-3 h-3 shrink-0 mt-0.5" />
-                  <span className="line-clamp-2" title={candidate.selfProfession}>
-                    {candidate.selfProfession}
-                  </span>
-                </span>
-              )}
+              <p
+                className="mt-0.5 text-[11px] leading-snug text-neutral-500 line-clamp-2"
+                title={candidate.selfProfession || undefined}
+              >
+                <span className="tabular-nums">{candidate.age}</span> {t.years}
+                {candidate.selfProfession ? ` · ${candidate.selfProfession}` : ''}
+              </p>
             </div>
+
+            {(isActualWinner || isPast) && (
+              <div className="flex shrink-0 flex-col items-end gap-1">
+                {isActualWinner && (
+                  <span className="flex items-center gap-1 rounded bg-amber-100 px-1.5 py-0.5 font-mono text-[9px] font-bold uppercase tracking-wider text-amber-900">
+                    <Trophy className="h-2.5 w-2.5" />
+                    {isPast ? (lang === 'en' ? 'Won' : 'வெற்றி') : (lang === 'en' ? 'Winner' : 'வெற்றி')}
+                  </span>
+                )}
+                {isPast && (
+                  <span className="flex items-center gap-1 rounded bg-neutral-200 px-1.5 py-0.5 font-mono text-[9px] font-bold uppercase tracking-wider text-neutral-700">
+                    <History className="h-2.5 w-2.5" />
+                    2021
+                  </span>
+                )}
+              </div>
+            )}
           </div>
 
-          {/* The three declared facts in one panel.
-              These were three separate bordered cards, each with its own
-              padding, its own icon chip and — on two of them — a decorative
-              gradient blob. That is a lot of chrome around six words. One
-              panel with dividers gives the same grouping for a third of the
-              height, and the figures now share a baseline. */}
-          <div className="mt-auto rounded-2xl border-2 border-neutral-900 overflow-hidden">
-            <div className="grid grid-cols-2">
-              <div className="p-2.5 min-w-0 bg-emerald-50 border-r-2 border-neutral-900">
-                <div className="flex items-center gap-1 text-neutral-500">
-                  <Landmark className="w-3 h-3 shrink-0 text-emerald-600" />
-                  <span className="text-[9px] font-bold uppercase tracking-wider truncate">{t.netWorth}</span>
-                </div>
-                {/* No truncate on the figure. A negative net worth carries a
-                    minus sign and the longer "Lakh" unit, which pushed it past
-                    the box and clipped the last digit — a declared figure shown
-                    wrong is worse than one that wraps. */}
-                <p
-                  className={`mt-0.5 text-sm font-black font-mono tabular-nums ${
-                    candidate.netWorthPositive === false ? 'text-rose-700' : 'text-neutral-800'
-                  }`}
-                  title={FORMAT_NET_WORTH(candidate)}
-                >
-                  {FORMAT_NET_WORTH(candidate)}
-                </p>
-              </div>
-
-              <div className={`p-2.5 min-w-0 ${candidate.caseCount > 0 ? 'bg-rose-50' : 'bg-teal-50'}`}>
-                <div className="flex items-center gap-1 text-neutral-500">
-                  {candidate.caseCount > 0 ? (
-                    <AlertCircle className="w-3 h-3 shrink-0 text-rose-600" />
-                  ) : (
-                    <ShieldCheck className="w-3 h-3 shrink-0 text-teal-600" />
-                  )}
-                  <span className="text-[9px] font-bold uppercase tracking-wider truncate">{t.criminalCases}</span>
-                </div>
-                <p className={`mt-0.5 text-sm font-black font-mono tabular-nums ${candidate.caseCount > 0 ? 'text-rose-700' : 'text-teal-700'}`}>
-                  {/* caseCount is the total declared in the affidavit; the
-                      pending/convicted split is only known for a small subset,
-                      so this must not be labelled "Pending". */}
-                  {candidate.caseCount > 0 ? `${candidate.caseCount} ${lang === 'en' ? 'Declared' : 'அறிவிக்கப்பட்டது'}` : (lang === 'en' ? 'Clean Record' : 'சுத்தம்')}
-                </p>
-              </div>
+          {/* ── The declaration ─────────────────────────────────────── */}
+          <div className="mt-auto border-t border-neutral-200 pt-3">
+            <div className="flex items-baseline justify-between gap-3">
+              <span className="font-mono text-[9px] uppercase tracking-[0.14em] text-neutral-500">
+                {t.assets}
+              </span>
+              {/* No truncate and no break-words on a figure: break-words split
+                  "₹304.0 Cr" mid-number at 118px, and a declared figure shown
+                  wrong is worse than one that wraps. */}
+              <span className="shrink-0 font-mono text-[13px] font-semibold tabular-nums text-neutral-900">
+                {candidate.assetsFormatted}
+              </span>
             </div>
 
-            <div className="flex items-start gap-2 p-2.5 border-t-2 border-neutral-900 bg-white min-w-0">
-              <GraduationCap className="w-3 h-3 shrink-0 text-indigo-600 mt-0.5" />
-              {/* Declared data. This was the worst offender on the directory:
-                  1,343px of one candidate's education — two degrees, two
-                  universities, two years — replaced by an ellipsis. */}
-              <span className="text-[11px] font-semibold text-neutral-700 line-clamp-2 min-w-0" title={candidate.education.split('Category: ')[1] || candidate.education}>
-                {candidate.education.split('Category: ')[1] || candidate.education}
+            <div className="mt-1 flex items-baseline justify-between gap-3">
+              <span className="font-mono text-[9px] uppercase tracking-[0.14em] text-neutral-500">
+                {t.liabilities}
+              </span>
+              <span className="shrink-0 font-mono text-[13px] font-semibold tabular-nums text-neutral-600">
+                {candidate.liabilitiesFormatted}
+              </span>
+            </div>
+
+            {/* Both figures are named directly above, so the bar never has to
+                carry identity by colour alone. */}
+            <div
+              role="img"
+              aria-label={`${t.assets} ${candidate.assetsFormatted}, ${t.liabilities} ${candidate.liabilitiesFormatted}`}
+              className="mt-2 flex h-1.5 w-full overflow-hidden rounded-full bg-neutral-200"
+            >
+              <span className="h-full" style={{ width: `${assetShare}%`, background: ASSET_INK }} />
+              {showsBothSegments && (
+                <span className="h-full w-0.5 shrink-0" style={{ background: PAPER }} />
+              )}
+              <span className="h-full" style={{ width: `${liabilityShare}%`, background: LIABILITY_INK }} />
+            </div>
+
+            <div className="mt-2.5 flex items-baseline justify-between gap-3">
+              <span className="font-mono text-[9px] uppercase tracking-[0.14em] text-neutral-500">
+                {t.netWorth}
+              </span>
+              {/* FORMAT_NET_WORTH, never netWorthFormatted: the sign is carried
+                  separately, and 174 candidates who declared more debt than
+                  assets rendered as though they were solvent without it. */}
+              <span
+                className={`shrink-0 font-display text-lg font-bold tabular-nums ${
+                  candidate.netWorthPositive === false ? 'text-rose-700' : 'text-neutral-900'
+                }`}
+              >
+                {FORMAT_NET_WORTH(candidate)}
               </span>
             </div>
           </div>
 
-          <div className="grid grid-cols-2 gap-2">
-            <button
-              onClick={(e) => { e.stopPropagation(); onAddToCompare(candidate); }}
-              className={`py-2 rounded-full text-[11px] font-black uppercase tracking-wide border-2 border-neutral-900 transition-all duration-150 shadow-[2px_2px_0_0_#171717] active:shadow-none active:translate-x-[2px] active:translate-y-[2px] ${
-                isComparing ? 'bg-neutral-900 text-white' : 'bg-white text-neutral-900 hover:bg-lime-200'
+          {/* ── Declared cases ──────────────────────────────────────── */}
+          <div className="flex items-center gap-1.5 border-t border-neutral-200 pt-2.5">
+            {hasCases ? (
+              <AlertCircle className="h-3.5 w-3.5 shrink-0 text-rose-600" />
+            ) : (
+              <ShieldCheck className="h-3.5 w-3.5 shrink-0 text-teal-700" />
+            )}
+            <span className="font-mono text-[9px] uppercase tracking-[0.14em] text-neutral-500">
+              {t.criminalCases}
+            </span>
+            {/* caseCount is the total declared in the affidavit; the
+                pending/convicted split is only known for a small subset, so
+                this must not be labelled "Pending". */}
+            <span
+              className={`ml-auto shrink-0 font-mono text-[12px] font-bold tabular-nums ${
+                hasCases ? 'text-rose-700' : 'text-teal-700'
               }`}
             >
-              {isComparing ? (lang === 'en' ? 'Selected' : 'தேர்ந்தெடுக்கப்பட்டது') : (lang === 'en' ? 'Compare' : 'ஒப்பிடுக')}
+              {hasCases
+                ? `${candidate.caseCount} ${lang === 'en' ? 'declared' : 'அறிவிக்கப்பட்டது'}`
+                : (lang === 'en' ? 'None declared' : 'எதுவும் இல்லை')}
+            </span>
+          </div>
+
+          {/* ── Education ───────────────────────────────────────────── */}
+          <div className="flex items-start gap-2 border-t border-neutral-200 pt-2.5">
+            <GraduationCap className="mt-0.5 h-3.5 w-3.5 shrink-0 text-neutral-400" />
+            {/* Declared data. This was the worst offender on the directory:
+                1,343px of one candidate's education — two degrees, two
+                universities, two years — replaced by an ellipsis. */}
+            <span className="min-w-0 text-[11px] leading-snug text-neutral-700 line-clamp-2" title={education}>
+              {education}
+            </span>
+          </div>
+
+          {/* ── Actions ─────────────────────────────────────────────── */}
+          <div className="flex items-center justify-between gap-3 border-t border-neutral-200 pt-3">
+            <button
+              type="button"
+              onClick={(e) => { e.stopPropagation(); onAddToCompare(candidate); }}
+              className={`font-mono text-[10px] font-bold uppercase tracking-[0.14em] transition-colors ${
+                isComparing ? 'text-indigo-700' : 'text-neutral-500 hover:text-neutral-900'
+              }`}
+            >
+              {isComparing
+                ? (lang === 'en' ? 'Selected' : 'தேர்ந்தெடுக்கப்பட்டது')
+                : (lang === 'en' ? 'Compare' : 'ஒப்பிடுக')}
             </button>
 
             <button
+              type="button"
               onClick={(e) => { e.stopPropagation(); onOpenDetails(candidate); }}
-              className="py-2 rounded-full text-[11px] font-black uppercase tracking-wide border-2 border-neutral-900 bg-indigo-600 text-white hover:bg-indigo-500 shadow-[2px_2px_0_0_#171717] active:shadow-none active:translate-x-[2px] active:translate-y-[2px] transition-all duration-150 flex items-center justify-center gap-1.5 group/btn"
+              className="group/btn flex items-center gap-1.5 font-mono text-[10px] font-bold uppercase tracking-[0.14em] text-indigo-700 transition-colors hover:text-indigo-900"
             >
-              <span>{lang === 'en' ? 'View Profile' : 'விவரங்கள்'}</span>
-              <ArrowRight className="w-3.5 h-3.5 transition-transform duration-300 group-hover/btn:translate-x-1" />
+              {lang === 'en' ? 'View record' : 'விவரங்கள்'}
+              <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover/btn:translate-x-1" />
             </button>
           </div>
         </div>
