@@ -53,6 +53,8 @@ export interface Party {
 }
 
 /** Case, punctuation and spacing are not identity. Word order is. */
+import { PARTY_ABBREV } from './partyAbbrev';
+
 export const normaliseParty = (name: string): string =>
   (name || '').toLowerCase().replace(/[^a-z0-9]/g, '');
 
@@ -145,10 +147,27 @@ export const isPartyMatch = (candidateParty: string, searchKey: string): boolean
 /** Map fill and avatar ground. Neutral for unregistered parties. */
 export const partyColour = (name: string): string => resolveParty(name)?.colour ?? NEUTRAL;
 
-/** Badge abbreviation. Long names are elided rather than wrapped. */
+/**
+ * Badge abbreviation.
+ *
+ * A registered party's own code wins. Failing that, the generated table gives
+ * the other 84 parties a real short form: this used to cut the name mid-word
+ * at nine characters, so 676 candidates wore badges reading "Tamizhaga…",
+ * "Aanaithin…", "Thakkam K…". Codes in the table are unique across the whole
+ * set and none can equal a registered party's, so no two parties share a
+ * badge — see scripts/buildPartyAbbrev.cjs.
+ *
+ * The elision stays as the last resort, for a party string that reaches the UI
+ * without being in either (a new filing between data builds, say). Better a
+ * clipped name than a blank badge.
+ */
 export const partyShort = (name: string): string => {
   const entry = resolveParty(name);
   if (entry) return entry.short;
+
+  const generated = PARTY_ABBREV[normaliseParty(name)];
+  if (generated) return generated;
+
   const raw = (name || '').trim();
   return raw.length > 10 ? `${raw.slice(0, 9)}…` : raw;
 };

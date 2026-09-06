@@ -8,9 +8,10 @@
   },
   "scripts": {
     "dev": "vite --port=3001 --host=0.0.0.0",
-    "build": "node scripts/generate_sitemap.js && node scripts/splitCandidates.cjs && node scripts/buildAffidavits.cjs && node scripts/buildPropertyMap.cjs && vite build",
+    "build": "node scripts/generate_sitemap.js && node scripts/splitCandidates.cjs && node scripts/buildAffidavits.cjs && node scripts/buildPropertyMap.cjs && node scripts/buildPartyAbbrev.cjs && vite build",
     "build:affidavits": "node scripts/buildAffidavits.cjs",
     "build:propertymap": "node scripts/buildPropertyMap.cjs",
+    "build:partyabbrev": "node scripts/buildPartyAbbrev.cjs",
     "verify:affidavits": "node scripts/verifyAffidavitCoverage.cjs",
     "analyse:property-links": "node scripts/findPropertyLinks.cjs",
     "analyse:flags": "node scripts/findDeclarationFlags.cjs",
