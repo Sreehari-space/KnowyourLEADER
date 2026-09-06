@@ -2,33 +2,42 @@
  * @license
  * SPDX-License-Identifier: Apache-2.0
  *
- * CandidateCard — one candidate's sworn Form 26 declaration, as a filed record.
+ * CandidateCard — the poster and the record, on one card.
  *
- * The card is laid out as a document rather than a profile: a record line, an
- * identity block, then the declaration itself set as a small ruled table. That
- * is what this card is, and it is why the type does the work here while the
- * decoration stays out of the way.
+ * The card is two surfaces, and the split is the point. The top is the claim:
+ * the candidate's face and name printed on their party's flag, the way a
+ * campaign poster works. The bottom is the record: what they swore to on their
+ * Form 26 affidavit, set as a quiet ruled table on paper. Holding those two
+ * against each other is what this whole site is for, so the card is built out
+ * of that rather than out of a card library.
  *
- * The party is a spine, not a banner
- * ----------------------------------
- * A 64px flag banner was the tallest thing on a card carrying six facts, and it
- * told a reader nothing they could use. The party is now a 4px stripe down the
- * left edge, taken from the same registry colour the map uses — which costs no
- * height and colour-codes a whole directory page at a glance.
+ * The flag is a slot, not a dependency
+ * ------------------------------------
+ * Only 13 of 104 parties have flag artwork — 861 of 1,799 candidates, 47.9% —
+ * and the largest party on the ballot (NTK, 234 candidates) is not one of them.
+ * A design that leans on the flag would be a hole on half the directory, so the
+ * slot has a designed fallback: the party's colour carrying its short code as a
+ * ghosted wordmark. Same shape, same weight, equally deliberate.
+ *
+ * Legibility does not depend on the artwork
+ * -----------------------------------------
+ * Party colours run from near-black to amber and flag artwork is arbitrary, so
+ * the scrim carries the contrast rather than the image: at 0.78 alpha over even
+ * pure white the ground is no lighter than #404040, which holds white text at
+ * about 10:1. The text is safe whatever flag lands behind it.
  *
  * Assets and liabilities, not just net worth
  * -------------------------------------------
  * 1,242 of 1,799 candidates (69%) declare liabilities, at a median of 22% of
- * their assets. Showing net worth alone made ₹100 Cr owing ₹95 Cr look exactly
- * like ₹100 Cr owing nothing. The bar shows the two against each other, so the
- * shape of a declaration is visible and not only its total.
+ * their assets. Net worth alone made ₹100 Cr owing ₹95 Cr look exactly like
+ * ₹100 Cr owing nothing, so the two are stated and drawn against each other.
  */
 
 import React from 'react';
 import { Candidate, FontSizeSetting } from '../types';
 import { FORMAT_NET_WORTH } from '../data/candidates';
 import { TRANSLATIONS } from '../data/translations';
-import { partyColour, partyShort } from '../data/parties';
+import { partyColour, partyShort, partyFlag } from '../data/parties';
 import { ShieldCheck, GraduationCap, ArrowRight, AlertCircle, Trophy, History } from 'lucide-react';
 
 interface CandidateCardProps {
@@ -47,6 +56,18 @@ const PAPER = '#FCFBF8';
 const ASSET_INK = '#292524';
 const LIABILITY_INK = '#e11d48';
 
+/**
+ * The caption bar under the flag.
+ *
+ * A gradient across the whole poster muted the artwork badly — the flag is the
+ * thing a reader recognises, so it is left alone and the name gets a solid band
+ * instead, the way a poster carries its title block. The band is 0.90 alpha:
+ * over even pure white it lands no lighter than #2b2926, which holds white text
+ * at about 13:1, so legibility never depends on which flag is behind it. The
+ * short fade above it stops the band from reading as a hard-cut sticker.
+ */
+const CAPTION = 'linear-gradient(to top, rgba(12,10,9,0.94) 0%, rgba(12,10,9,0.90) 72%, rgba(12,10,9,0) 100%)';
+
 export default function CandidateCard({
   candidate,
   lang,
@@ -57,15 +78,11 @@ export default function CandidateCard({
 }: CandidateCardProps) {
   const t = TRANSLATIONS[lang];
 
-  /**
-   * Party colour, from the one registry entry — the same hex the map fills
-   * with, so a party cannot be one colour here and another there.
-   *
-   * It is used for the spine only. Registry colours run from near-black to
-   * amber, and amber text on this ground sits near 3:1, so the party never
-   * carries text: the badge is ink and the colour stays a graphic.
-   */
+  // Colour and flag both come from the one registry entry, so a party cannot
+  // be one colour here and another on the map.
   const colour = partyColour(candidate.party);
+  const flag = partyFlag(candidate.party);
+  const short = partyShort(candidate.party);
 
   const nameSize = () => {
     if (fontSize === 'xlarge') return 'text-2xl leading-tight';
@@ -90,8 +107,8 @@ export default function CandidateCard({
    * Normalised against the pair's total and never against assets: liabilities
    * routinely exceed assets — one candidate declares ₹10,000 of assets against
    * ₹9.68 lakh of debt, a ratio of 9,678% — and a bar scaled to assets would
-   * run out of its track. Candidates who declare nothing at all give a total of
-   * zero, so the shares stay at zero and the track renders empty.
+   * run out of its track. Candidates who declare nothing give a total of zero,
+   * so the shares stay at zero and the track renders empty.
    */
   const assets = Math.max(0, candidate.assets || 0);
   const liabilities = Math.max(0, candidate.liabilities || 0);
@@ -108,36 +125,53 @@ export default function CandidateCard({
     <div className="h-full w-full">
       <div
         data-candidate-card
-        className="@container group relative flex h-full cursor-pointer flex-col overflow-hidden rounded-2xl border border-neutral-200 bg-[#FCFBF8] shadow-[0_1px_2px_rgba(15,23,42,0.04)] transition-all duration-300 hover:-translate-y-0.5 hover:border-neutral-300 hover:shadow-[0_10px_30px_rgba(15,23,42,0.09)]"
+        className="@container group relative flex h-full cursor-pointer flex-col overflow-hidden rounded-2xl border border-neutral-200 bg-[#FCFBF8] shadow-[0_1px_2px_rgba(15,23,42,0.04)] transition-all duration-300 hover:-translate-y-0.5 hover:border-neutral-300 hover:shadow-[0_12px_32px_rgba(15,23,42,0.12)]"
         onClick={() => onOpenDetails(candidate)}
       >
-        {/* The party, as a spine. */}
-        <span aria-hidden className="absolute inset-y-0 left-0 w-1" style={{ background: colour }} />
-
-        <div className="flex flex-1 flex-col gap-3 py-4 pl-5 pr-4">
-          {/* ── Record line ─────────────────────────────────────────── */}
-          {/* Chrome: constituency and party both appear in full in the
-              dossier, so clipping the label here loses nothing. Marked so the
-              layout audit allows it — see scripts/auditLayout.mjs. */}
-          <div className="flex items-center justify-between gap-2">
+        {/* ══ The poster ══════════════════════════════════════════════ */}
+        <div className="relative h-[132px] shrink-0 overflow-hidden" style={{ background: colour }}>
+          {flag ? (
+            // Decorative: the party is named in text just below, so the
+            // artwork carries no information a screen reader would miss.
+            <img
+              src={flag}
+              alt=""
+              aria-hidden
+              className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+            />
+          ) : (
+            // The 52% with no flag get the party's own short code, big and
+            // ghosted, on its colour — a designed slot rather than a gap.
             <span
-              data-chrome
-              className="truncate font-mono text-[10px] uppercase tracking-[0.14em] text-neutral-500"
+              aria-hidden
+              className="absolute inset-0 flex items-start justify-end p-3 font-display text-[52px] font-black leading-none tracking-tighter text-white/25"
             >
-              {constituencyClean}
+              {short}
             </span>
-            <span
-              data-chrome
-              title={candidate.party}
-              className="shrink-0 font-mono text-[10px] font-bold uppercase tracking-[0.1em] text-neutral-700"
-            >
-              {partyShort(candidate.party)}
-            </span>
-          </div>
+          )}
 
-          {/* ── Identity ────────────────────────────────────────────── */}
-          <div className="flex items-start gap-3">
-            <div className="h-[52px] w-[52px] shrink-0 overflow-hidden rounded-lg bg-white ring-1 ring-neutral-200">
+          {/* Only the caption band is darkened; the flag above it is untouched. */}
+          <span aria-hidden className="absolute inset-x-0 bottom-0 h-[74px]" style={{ background: CAPTION }} />
+
+          {(isActualWinner || isPast) && (
+            <div className="absolute right-3 top-3 flex flex-col items-end gap-1">
+              {isActualWinner && (
+                <span className="flex items-center gap-1 rounded bg-amber-300 px-1.5 py-0.5 font-mono text-[9px] font-bold uppercase tracking-wider text-amber-950">
+                  <Trophy className="h-2.5 w-2.5" />
+                  {isPast ? (lang === 'en' ? 'Won' : 'வெற்றி') : (lang === 'en' ? 'Winner' : 'வெற்றி')}
+                </span>
+              )}
+              {isPast && (
+                <span className="flex items-center gap-1 rounded bg-white/90 px-1.5 py-0.5 font-mono text-[9px] font-bold uppercase tracking-wider text-neutral-900">
+                  <History className="h-2.5 w-2.5" />
+                  2021
+                </span>
+              )}
+            </div>
+          )}
+
+          <div className="absolute inset-x-0 bottom-0 flex items-end gap-3 p-3">
+            <div className="h-14 w-14 shrink-0 overflow-hidden rounded-xl bg-white ring-2 ring-white/90">
               {candidate.photo ? (
                 <img
                   src={candidate.photo.replace('images/', '/candidates/')}
@@ -147,7 +181,7 @@ export default function CandidateCard({
                 />
               ) : (
                 <span
-                  className="flex h-full w-full items-center justify-center font-display text-xl font-bold"
+                  className="flex h-full w-full items-center justify-center font-display text-xl font-black"
                   style={{ color: colour }}
                 >
                   {cleanName.charAt(0)}
@@ -155,44 +189,37 @@ export default function CandidateCard({
               )}
             </div>
 
-            <div className="min-w-0 flex-1">
-              <h3 className={`${nameSize()} font-display font-bold tracking-tight text-neutral-900 line-clamp-2`}>
+            <div className="min-w-0 flex-1 pb-0.5">
+              <h3 className={`${nameSize()} font-display font-bold tracking-tight text-white line-clamp-2`}>
                 {cleanName}
               </h3>
-              {/* Declared data. `truncate` here hid up to 667px of a
-                  candidate's stated occupation behind an ellipsis with no way
-                  to read it — on a site whose purpose is disclosure. Clamped
-                  to two lines instead, which shows most of it and never
-                  silently drops the rest. */}
-              <p
-                className="mt-0.5 text-[11px] leading-snug text-neutral-500 line-clamp-2"
-                title={candidate.selfProfession || undefined}
-              >
-                <span className="tabular-nums">{candidate.age}</span> {t.years}
-                {candidate.selfProfession ? ` · ${candidate.selfProfession}` : ''}
+              {/* Chrome: constituency and party both appear in full in the
+                  dossier, so clipping here loses nothing. Marked so the layout
+                  audit allows it — see scripts/auditLayout.mjs. */}
+              <p data-chrome className="mt-0.5 truncate font-mono text-[10px] uppercase tracking-[0.12em] text-white/75">
+                <span title={candidate.party}>{short}</span>
+                <span className="px-1 text-white/40">·</span>
+                {constituencyClean}
               </p>
             </div>
-
-            {(isActualWinner || isPast) && (
-              <div className="flex shrink-0 flex-col items-end gap-1">
-                {isActualWinner && (
-                  <span className="flex items-center gap-1 rounded bg-amber-100 px-1.5 py-0.5 font-mono text-[9px] font-bold uppercase tracking-wider text-amber-900">
-                    <Trophy className="h-2.5 w-2.5" />
-                    {isPast ? (lang === 'en' ? 'Won' : 'வெற்றி') : (lang === 'en' ? 'Winner' : 'வெற்றி')}
-                  </span>
-                )}
-                {isPast && (
-                  <span className="flex items-center gap-1 rounded bg-neutral-200 px-1.5 py-0.5 font-mono text-[9px] font-bold uppercase tracking-wider text-neutral-700">
-                    <History className="h-2.5 w-2.5" />
-                    2021
-                  </span>
-                )}
-              </div>
-            )}
           </div>
+        </div>
 
-          {/* ── The declaration ─────────────────────────────────────── */}
-          <div className="mt-auto border-t border-neutral-200 pt-3">
+        {/* ══ The record ══════════════════════════════════════════════ */}
+        <div className="flex flex-1 flex-col gap-2.5 px-4 py-3.5">
+          {/* Declared data. `truncate` here hid up to 667px of a candidate's
+              stated occupation behind an ellipsis with no way to read it — on a
+              site whose purpose is disclosure. Clamped to two lines instead,
+              which shows most of it and never silently drops the rest. */}
+          <p
+            className="text-[11px] leading-snug text-neutral-500 line-clamp-2"
+            title={candidate.selfProfession || undefined}
+          >
+            <span className="tabular-nums">{candidate.age}</span> {t.years}
+            {candidate.selfProfession ? ` · ${candidate.selfProfession}` : ''}
+          </p>
+
+          <div className="border-t border-neutral-200 pt-2.5">
             <div className="flex items-baseline justify-between gap-3">
               <span className="font-mono text-[9px] uppercase tracking-[0.14em] text-neutral-500">
                 {t.assets}
@@ -228,7 +255,7 @@ export default function CandidateCard({
               <span className="h-full" style={{ width: `${liabilityShare}%`, background: LIABILITY_INK }} />
             </div>
 
-            <div className="mt-2.5 flex items-baseline justify-between gap-3">
+            <div className="mt-2 flex items-baseline justify-between gap-3">
               <span className="font-mono text-[9px] uppercase tracking-[0.14em] text-neutral-500">
                 {t.netWorth}
               </span>
@@ -245,7 +272,6 @@ export default function CandidateCard({
             </div>
           </div>
 
-          {/* ── Declared cases ──────────────────────────────────────── */}
           <div className="flex items-center gap-1.5 border-t border-neutral-200 pt-2.5">
             {hasCases ? (
               <AlertCircle className="h-3.5 w-3.5 shrink-0 text-rose-600" />
@@ -269,7 +295,6 @@ export default function CandidateCard({
             </span>
           </div>
 
-          {/* ── Education ───────────────────────────────────────────── */}
           <div className="flex items-start gap-2 border-t border-neutral-200 pt-2.5">
             <GraduationCap className="mt-0.5 h-3.5 w-3.5 shrink-0 text-neutral-400" />
             {/* Declared data. This was the worst offender on the directory:
@@ -280,8 +305,7 @@ export default function CandidateCard({
             </span>
           </div>
 
-          {/* ── Actions ─────────────────────────────────────────────── */}
-          <div className="flex items-center justify-between gap-3 border-t border-neutral-200 pt-3">
+          <div className="mt-auto flex items-center justify-between gap-3 border-t border-neutral-200 pt-3">
             <button
               type="button"
               onClick={(e) => { e.stopPropagation(); onAddToCompare(candidate); }}
